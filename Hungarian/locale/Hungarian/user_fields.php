@@ -61,6 +61,7 @@ $locale['u114'] = "Rang";
 $locale['u115'] = "Nyelv";
 $locale['u116'] = "Nincs Csoportnak Tagja.";
 // User name and email
+$locale['u119'] = "A felhasználónév tartalmazza.";
 $locale['u120'] = "A felhasználónév nem engedélyezett karaktereket tartalmaz.";
 $locale['u121'] = "A megadott felhasználónév már foglalt.";
 $locale['u122'] = "Meg kell adnod a kívánt felhasználóneved.";
@@ -102,17 +103,16 @@ $locale['u149'] = "A jelenlegi jelszavad nem lett megadva vagy érvénytelen.";
 $locale['u149a'] = "A jelenlegi admin jelszavad nem lett megadva vagy érvénytelen.";
 $locale['u149b'] = "A megadott belépési jelszó hibás vagy nincs megadva.<br />\nA megfelelő belépési jelszó nélkül nem tudod módosítani az admin jelszavad.";
 // Email actiation
-$locale['u150'] = "A regisztráció már majdnem kész.<br />Hamarosan kapsz egy aktiváló e-mailt a felhasználóneveddel, jelszavaddal és egy linkkel, amin aktiválhatod hozzáférésed.";
+$locale['u150'] = "A regisztráció már majdnem kész.<br />\nHamarosan kapsz egy aktiváló e-mailt a felhasználóneveddel, jelszavaddal és egy linkkel, amin aktiválhatod hozzáférésed.";
 $locale['u151'] = "Üdvözlünk - [SITENAME]";
-$locale['u152'] = "Szia USER_NAME,\r\n
-Üdvözlünk oldalunkon - SITENAME.\r\n
-Az alábbi adatokkal regisztráltál:\r\n
-Felhasználónév: USER_NAME\r\n
-Jelszó: USER_PASSWORD\r\n
-Az alábbi linken aktiválhatod hozzáférésed:\r\n\r\n
-ACTIVATION_LINK\r\n
-Üdvözlettel,
+$locale['u152'] = "Szia USER_NAME,<br />\n
+Üdvözlünk oldalunkon - SITENAME.<br />\nAz alábbi adatokkal regisztráltál:<br />\n
+Felhasználónév: USER_NAME<br />\n
+Jelszó: USER_PASSWORD<br />\n
+Az alábbi linken aktiválhatod hozzáférésed:<br />\nACTIVATION_LINK<br />\n
+Üdvözlettel,<br />\n
 SITENAME";
+
 $locale['u153'] = "Nem sikerült elküldeni az ellenőrző levelet.";
 $locale['u154'] = "Kérjük [LINK]jelezd[/LINK] a problémát az oldal adminisztrátorának.";
 $locale['u155'] = "Hozzáférés aktiválása";
@@ -136,7 +136,6 @@ $locale['u174'] = "Másik felhasználó létrehozása.";
 // Avatar upload
 $locale['u180'] = "Nem sikerült feltölteni az avatar-t.";
 
-
 $locale['u184'] = "Max méret: %s / %ux%u pixel";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Kép feltöltéséhez kattints a 'Tallózás' gombra";
@@ -146,18 +145,20 @@ $locale['u190'] = "Ellenőrzőkód";
 $locale['u191'] = "Add meg az ellenőrzőkódot";
 $locale['u192'] = "Szabályzat";
 $locale['u193'] = "Elolvastam és elfogadom a [LINK]szabályzatot[/LINK].";
+$locale['u193a'] = "Módosítva";
+$locale['u193b'] = "Elfogadom";
 $locale['u194'] = "A megadott ellenőrzőkód hibás.";
 $locale['u195'] = "Kérjük add meg az ellenőrzőkódot.";
 // E-mail Change Confirmation
 $locale['u200'] = "Egy ellenőrző levelet küldtünk az új e-mail címedre (%s).";
 $locale['u201'] = "E-mail címed lecseréléséhez kattints az e-mailben található linkre.";
 $locale['u202'] = "E-mail cím ellenőrzése - [SITENAME]";
-$locale['u203'] = "Szia [USER_NAME],\r\n
-Valaki ezt az e-mail címet adta meg oldalunkon a profiljában.
-Ha valóban te szeretnéd lecserélni az e-mail címedet erre, kérjük kattints az alábbi linkre:\r\n
-[EMAIL_VERIFY_LINK]\r\n
-Megjegyzés: a link használata előtt jelentkezz be!\r\n
-Üdvözlettel,\r\n
-[SITEUSERNAME]\r\n
+$locale['u203'] = "Szia [USER_NAME],<br />\n
+Valaki ezt az e-mail címet adta meg oldalunkon a profiljában.<br />\n
+Ha valóban te szeretnéd lecserélni az e-mail címedet erre, kérjük kattints az alábbi linkre:<br />\n
+[EMAIL_VERIFY_LINK]<br />\n
+Megjegyzés: a link használata előtt jelentkezz be!<br />\n
+Üdvözlettel,<br />\n
+[SITEUSERNAME]<br />\n
 [SITENAME]";
 $locale['u210'] = "Felhasználói Hírnév";
