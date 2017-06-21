@@ -160,6 +160,17 @@ $locale['forum_133'] = "Min. body na hlasovanie:";
 $locale['forum_134'] = "Min. body na hlasovanie:";
 $locale['forum_135'] = "Bod(y)";
 $locale['forum_136'] = "Užívateľský bod fóra";
+$locale['forum_137'] = "Všeobecné nastavenia fóra";
+$locale['forum_138'] = "Nastavenia príspevkov fóra";
+$locale['forum_139'] = "Nastavenia užívateľských polí fóra";
+$locale['forum_140'] = "Všeobecné nastavenia zobrazenia";
+$locale['forum_141'] = "Notifikácie";
+$locale['forum_142'] = "Prílohy súborov a obrázkov príspevku";
+$locale['forum_143'] = "Konfigurácia správania príspevku";
+
+$locale['forum_150'] = "<strong>Povoliť užívateľské polia v podrobných príspevkoch.</strong> Užívateľské polia sú vlastné používateľské informácie, ktoré je možné spravovať v [LINK]administrácii užívateľských polí[/LINK]";
+$locale['forum_151'] = "V tejto kategórii nie sú definované užívateľské polia.";
+$locale['forum_152'] = "Neexistujú žiadne kategórie užívateľských polí.";
 $locale['forum_admin_000'] = "Správa fóra";
 $locale['forum_admin_001'] = "Hodnosti fóra";
 $locale['forum_admin_002'] = "Tagy fóra";
