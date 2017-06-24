@@ -1,43 +1,43 @@
 <?php
 // Section Titles
-$locale['400'] = "Permalink engedélyezése";
-$locale['401'] = "Permalink kikapcsolása";
-$locale['401a'] = "Permalink Beállítások";
+$locale['PL_400'] = "Permalink engedélyezése";
+$locale['PL_401'] = "Permalink kikapcsolása";
+$locale['PL_401a'] = "Permalink Beállítások";
 
 // Common
-$locale['402'] = "Név újraírása";
-$locale['403'] = "Leírás";
-$locale['404'] = "Beállítások";
-$locale['404a'] = "Bekapcsol";
-$locale['404b'] = "Kikapcsol";
-$locale['404c'] = "Javít";
-$locale['404d'] = "Telepítsd újra";
+$locale['PL_402'] = "Név újraírása";
+$locale['PL_403'] = "Leírás";
+$locale['PL_404'] = "Beállítások";
+$locale['PL_404a'] = "Bekapcsol";
+$locale['PL_404b'] = "Kikapcsol";
+$locale['PL_404c'] = "Javít";
+$locale['PL_404d'] = "Telepítsd újra";
 
 // Editing Permalinks
-$locale['405'] = "%s permalinkjének javítása";
-$locale['406'] = "Tag-ek";
-$locale['407'] = "Leírás";
-$locale['408'] = "Típusok";
-$locale['409'] = "Minta szerkesztése";
-$locale['410'] = "Permalink típus %u:";
-$locale['411'] = "Hiba";
-$locale['412'] = "Ellenőrizd a beállításokat a Permalink %s-nél!";
-$locale['413'] = "Mentés";
-$locale['414'] = "FIGYELEM: Permalink &amp; Átmeneti változók törölve lesznek!<br />\nBiztosan kikapcsolod a permalinket?";
-$locale['415'] = "Permalink Szabályok, azokat az URL-eket megváltoztatja, melyek tartalmaznak kérdőjelet és egyenlőségjelet, így engedi testre szabni az URL telepítését az oldalon.<br />\n
+$locale['PL_405'] = "%s permalinkjének javítása";
+$locale['PL_406'] = "Tag-ek";
+$locale['PL_407'] = "Leírás";
+$locale['PL_408'] = "Típusok";
+$locale['PL_409'] = "Minta szerkesztése";
+$locale['PL_410'] = "Permalink típus %u:";
+$locale['PL_411'] = "Hiba";
+$locale['PL_412'] = "Ellenőrizd a beállításokat a Permalink %s-nél!";
+$locale['PL_413'] = "Mentés";
+$locale['PL_414'] = "FIGYELEM: Permalink &amp; Átmeneti változók törölve lesznek!<br />\nBiztosan kikapcsolod a permalinket?";
+$locale['PL_415'] = "Permalink Szabályok, azokat az URL-eket megváltoztatja, melyek tartalmaznak kérdőjelet és egyenlőségjelet, így engedi testre szabni az URL telepítését az oldalon.<br />\n
 Bekapcsolhatod a Permalinkeket a Beállítások fülön a Permalinkek bekapcsolása opcióval. Aktiválás után még jobban testreszabhatod a szabályokat, melyek befolyásolják a Permalinkeket.";
 
 // Admin Messages
-$locale['420'] = "Hiba történt.";
-$locale['421'] = "Permalink Sikeresen frissítve.";
-$locale['422'] = "Nincs Permalink minta ehhez %s.";
-$locale['423'] = "Nem találom a Permalinket.";
-$locale['424'] = "%s Permalink sikeresen aktiválva.";
-$locale['425'] = "%s Permalink már engedélyezve van.";
-$locale['426'] = "%s Permalink sikeresen kikapcsolva.";
+$locale['PL_420'] = "Hiba történt.";
+$locale['PL_421'] = "Permalink Sikeresen frissítve.";
+$locale['PL_422'] = "Nincs Permalink minta ehhez %s.";
+$locale['PL_423'] = "Nem találom a Permalinket.";
+$locale['PL_424'] = "%s Permalink sikeresen aktiválva.";
+$locale['PL_425'] = "%s Permalink már engedélyezve van.";
+$locale['PL_426'] = "%s Permalink sikeresen kikapcsolva.";
 
 // Other
-$locale['427'] = "Nincs permalink csomag engedélyezve.";
-$locale['428'] = "Permalink";
+$locale['PL_427'] = "Nincs permalink csomag engedélyezve.";
+$locale['PL_428'] = "Permalink";
 $locale['seo_htc_warning'] = "Figyelem, ezen beállítások módosítása felülírja a `.htaccess` tartalmat és az ez előtti módosítások elvesznek.";
 //$locale['rewrite_disabled'] = "Úgy tűnik `mod_rewrite` nem engedélyezett a tárhelyeden. SEF URL-ek engedélyezése tönkre teheti az oldalt. Kérjük vedd fel a kapcsolatot a szolgáltatóddal a `mod_rewrite` engedélyezéséhez.";
