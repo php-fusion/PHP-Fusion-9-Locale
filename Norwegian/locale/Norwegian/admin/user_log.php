@@ -1,0 +1,21 @@
+<?php
+$locale['100'] = "Bruker Logg";
+$locale['101'] = "Id";
+$locale['102'] = "Dato";
+$locale['103'] = "Bruker Navn";
+$locale['104'] = "Bruker Felt";
+$locale['105'] = "Gammel Verdi";
+$locale['106'] = "Ny Verdi";
+$locale['107'] = "Sorter etter:";
+$locale['108'] = "Bruker Navn / Bruker ID:";
+$locale['109'] = "Utfør";
+$locale['110'] = "Slett data eldre enn";
+$locale['111'] = "Dager";
+$locale['112'] = "Det er ingen logg tilgjengelig nå.";
+$locale['113'] = "Valgt Bruker Navn:";
+$locale['114'] = "Angre";
+$locale['115'] = "Bruker Felt:";
+$locale['116'] = "Slett";
+$locale['117'] = "Valgmuligheter";
+$locale['118'] = "Alle data eldre enn %d dager er slettet.";
+$locale['119'] = "Bruker Loggoppføringer er slettet";
