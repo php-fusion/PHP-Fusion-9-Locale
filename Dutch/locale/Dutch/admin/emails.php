@@ -45,6 +45,3 @@ $locale['MAIL_041'] = "Ontvanger van de mail";
 $locale['MAIL_042'] = "URL naar forum thread, wordt alleen gebruikt in notificatie van nieuwe forum posts.";
 $locale['MAIL_043'] = "Invoegen Afbeelding";
 $locale['MAIL_044'] = "Onderwerp kan niet leeg worden gelaten!";
- = "bericht kan niet leeg worden gelaten!";
- = "Afzender naam kan niet leeg worden gelaten!";
- = "Afzender email kan niet leeg worden gelaten!";

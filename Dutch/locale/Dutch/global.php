@@ -21,7 +21,7 @@ $locale['region'] = "NL";
 $locale['xml_lang'] = "nl";
 $locale['short_lang_name'] = "nl";
 $locale['tinymce'] = "nl";
-$locale['select2'] = "nl";
+$locale['select2'] =  "nl";
 $locale['phpmailer'] = "nl";
 $locale['datepicker'] = "nl-nl";
 $locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
@@ -195,7 +195,7 @@ $locale['global_108'] = "Wachtwoord kwijt";
 $locale['global_109'] = "Aanmelden";
 // Member User Menu
 $locale['global_120'] = "Profiel Wijzigen";
-$locale['global_121'] = "Privé Berichten";
+$locale['global_121'] = "Priv&eacute; Berichten";
 $locale['global_122'] = "Ledenlijst";
 $locale['global_123'] = "Beheerder Paneel";
 $locale['global_124'] = "Uitloggen";
@@ -215,7 +215,7 @@ $locale['UM064'] = "Inloggen";
 $locale['UM065'] = "Nog geen lid? [LINK]Klik hier[/LINK] om aan te melden.";
 $locale['UM066'] = "Wachtwoord vergeten?\n[LINK]Vraag een nieuwe[/LINK].";
 $locale['UM080'] = "Profiel aanpassen";
-$locale['UM081'] = "Privé Berichten";
+$locale['UM081'] = "Priv&eacute; Berichten";
 $locale['UM082'] = "Leden lijst";
 $locale['UM083'] = "Beheerder Paneel";
 $locale['UM084'] = "Uitloggen";
@@ -514,4 +514,5 @@ $locale['fmt_week'] = "week|weken";
 $locale['fmt_year'] = "jaar|jaren";
 $locale['fmt_points'] = "punt|punten";
 $locale['fmt_admin'] = "beheerder|beheerders";
-
+// include Defender locales
+include __DIR__."/defender.php";
