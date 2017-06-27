@@ -129,6 +129,7 @@ $locale['setup_1221'] = "Dit MySQL-brugernavn";
 $locale['setup_1222'] = "...og dit MySQL-kodeord";
 $locale['setup_1223'] = "Sørg for at kodeordet er unikt for at sikre databasen";
 $locale['setup_1224'] = "Cookiens fornavn";
+$locale['setup_1225'] = "f.eks. localhost";
 $locale['setup_1307'] = "Kontroller at din config.php har de korrekte rettigheder.";
 $locale['setup_1310'] = "Kunne ikke komme i kontakt med din MySQL-database.";
 $locale['setup_1311'] = "Den angivne MySQL-database eksisterer ikke.";
