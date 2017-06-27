@@ -109,6 +109,7 @@ $locale['setup_1221'] = "A MYSQL Felhasználóneved";
 $locale['setup_1222'] = "...és a MYSQL Jelszavad.";
 $locale['setup_1223'] = "Legyen ez nagyon egyedi, hogy az adatbázis hozzáférés biztonságos legyen.";
 $locale['setup_1224'] = "Cookie azonosító előtag";
+$locale['setup_1225'] = "pl. localhost";
 $locale['setup_1307'] = "Ellenőrizd, hogy a config.php írható-e.";
 $locale['setup_1310'] = "Nem sikerült kapcsolatot létesíteni MySQL adatbázissal.";
 $locale['setup_1311'] = "A megadott MySQL adatbázis nem létezik.";

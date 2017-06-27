@@ -23,6 +23,7 @@ $locale['forum_0015'] = "Fórum Áttekintés";
 $locale['forum_0016'] = "Tevékenység";
 $locale['forum_0017'] = "Emberek";
 $locale['forum_0018'] = "Személy";
+$locale['forum_0019'] = "Nincsenek alfórumok";
 
 $locale['forum_0020'] = "Utolsó Tevékenység";
 $locale['forum_0021'] = "Módosítva %s írta %s";
@@ -133,6 +134,7 @@ $locale['forum_0272'] = "Szűrés címkék szerint";
 $locale['forum_0273'] = "Népszerű témák ezen a héten";
 $locale['forum_0274'] = "Nem Található Cimke.";
 $locale['forum_0275'] = "Nem Található Téma";
+$locale['forum_0276'] = "Cimke nem található";
 
 $locale['forum_0300'] = "Új Téma Mozgatása";
 $locale['forum_0301'] = "Új fórum kijelölése";
