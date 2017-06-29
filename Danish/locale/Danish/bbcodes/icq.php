@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/bbcodes/icq.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,4 +17,4 @@
 +--------------------------------------------------------*/
 $locale['bb_icq'] = "ICQ";
 $locale['bb_icq_description'] = "ICQ Status Meddelelse";
-$locale['bb_icq_usage'] = "ICQ communicator bruger ID";
+$locale['bb_icq_usage'] = "ICQ communicator bruger UIN";

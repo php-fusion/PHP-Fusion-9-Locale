@@ -40,6 +40,7 @@ $locale['forum_0015'] = "Forum overblik";
 $locale['forum_0016'] = "Aktivitet";
 $locale['forum_0017'] = "Folk";
 $locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "Der er ingen underforums tilgængelige";
 
 $locale['forum_0050'] = "Se diskussion";
 $locale['forum_0051'] = "Emne";
@@ -141,6 +142,7 @@ $locale['forum_0272'] = "Filtrer efter tags";
 $locale['forum_0273'] = "Populære tråde denne uge";
 $locale['forum_0274'] = "Der er ingen trådetags";
 $locale['forum_0275'] = "Ingen tråde fundet";
+$locale['forum_0276'] = "Der er ikke oprettet tags";
 
 $locale['forum_0300'] = "Flyt til en ny tråd";
 $locale['forum_0301'] = "Vælg en ny debat";
