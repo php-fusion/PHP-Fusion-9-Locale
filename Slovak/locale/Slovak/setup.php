@@ -125,6 +125,7 @@ $locale['setup_1221'] = "Vaše MYSQL meno";
 $locale['setup_1222'] = "...a vaše MYSQL heslo";
 $locale['setup_1223'] = "Urobte to jedinečné pre zabezpečenie vašej databázy";
 $locale['setup_1224'] = "Predpona súborov cookie";
+$locale['setup_1225'] = "napr. localhost";
 $locale['setup_1307'] = "Uistite sa, že config.php je zapisovateľný.";
 $locale['setup_1310'] = "Nedá sa pripojiť k databáze.";
 $locale['setup_1311'] = "Zadaná databáza neexistuje.";

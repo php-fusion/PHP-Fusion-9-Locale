@@ -39,6 +39,7 @@ $locale['forum_0015'] = "Prehľad fóra";
 $locale['forum_0016'] = "Aktivita";
 $locale['forum_0017'] = "Ľudia";
 $locale['forum_0018'] = "Osoba";
+$locale['forum_0019'] = "Neexistujú žiadne subfóra";
 
 $locale['forum_0020'] = "Posledná aktivita";
 $locale['forum_0021'] = "dňa %s od %s";
@@ -148,6 +149,7 @@ $locale['forum_0272'] = "Filtrovať podľa tagov";
 $locale['forum_0273'] = "Populárne vlákna tento týždeň";
 $locale['forum_0274'] = "Neexistujú žiadne tagy vlákien";
 $locale['forum_0275'] = "Neboli nájdené žiadne vlákna";
+$locale['forum_0276'] = "Neexistujú žiadne tagy";
 
 $locale['forum_0300'] = "Presunúť na nové vlákno";
 $locale['forum_0301'] = "Vyberte nové fórum";
