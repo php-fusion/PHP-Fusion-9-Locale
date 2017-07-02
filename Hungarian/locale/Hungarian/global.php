@@ -143,7 +143,7 @@ $locale['global_058'] = "Eltávolítás";
 $locale['global_059'] = "Jelenleg egy témát sem követsz nyomon.";
 $locale['global_060'] = "Megszünteted a téma követését?";
 // Blog, News & Articles
-$locale['global_070'] = " ";
+$locale['global_070'] = "Beküldte ";
 $locale['global_070b'] = "%s összes hozzászólásának megtekintése";
 $locale['global_071'] = " - ";
 $locale['global_071b'] = "Szerző";
