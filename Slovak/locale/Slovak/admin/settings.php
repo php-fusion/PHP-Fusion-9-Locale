@@ -34,7 +34,7 @@ $locale['407'] = "Privítacia správa:";
 $locale['408'] = "Nechajte prázdne ak nie je vyžadované";
 $locale['409'] = "Popis stránky:";
 $locale['410'] = "Kľúčové slová:";
-$locale['411'] = "Slová oddeľuj čiarkou";
+$locale['411'] = "Každé slovo oddeľte čiarkou";
 $locale['412'] = "Päta stránky:";
 $locale['413'] = "Otváracia stránka:";
 $locale['414'] = "";
@@ -43,7 +43,7 @@ $locale['416'] = "Dva stĺpce";
 $locale['417'] = "Jazyk stránky:";
 $locale['418'] = "Vzhľad stránky:";
 $locale['418a'] = "Vzhľad administrácie:";
-$locale['419'] = "Defaultné vyhľadávanie:";
+$locale['419'] = "Predvolené vyhľadávanie:";
 $locale['419a'] = "Celá stránka";
 $locale['420'] = "Vypnúť ľavé panely:";
 $locale['421'] = "Vypnúť horné panely:";
@@ -96,8 +96,8 @@ $locale['466'] = "Predvolené pre nových užívateľov";
 
 // Registration Settings
 $locale['550'] = "Registrácia";
-$locale['551'] = "Povoliť registrácie?";
-$locale['552'] = "Použiť overenie pomocou emailu?";
+$locale['551'] = "Povoliť registračný systém?";
+$locale['552'] = "Použiť overenie pomocou e-mailu?";
 $locale['553'] = "Zobrazovať validačný kód?";
 $locale['557'] = "Nových užívateľov aktivovať administrátorom?";
 $locale['558'] = "Povoliť licenčné podmienky?";
@@ -107,9 +107,9 @@ $locale['559'] = "Licenčné podmienky";
 $locale['601'] = "Veľkosť náhľadu:";
 $locale['602'] = "Veľkosť fotky:";
 $locale['603'] = "Maximálna veľkosť fotky:";
-$locale['604'] = "Šírka x Výška";
+$locale['604'] = "Šírka x výška";
 $locale['605'] = "Maximálna veľkosť súboru (v bytoch):";
-$locale['606'] = "Metóda kompresie náhľadov:";
+$locale['606'] = "Metóda kompresie náhľadov";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 
@@ -119,14 +119,14 @@ $locale['651'] = "Filter jazyka:";
 $locale['652'] = "Zadajte jedno slovo na riadok.";
 $locale['653'] = "Nechajte prázdne ak nie je vyžadované.";
 $locale['654'] = "Filtrované slová nahradiť:";
-$locale['655'] = "Povoliť anonymom posielať príspevky?";
+$locale['655'] = "Umožniť hosťom uverejňovať príspevky?";
 $locale['656'] = "Povoliť avatar v komentároch?";
 $locale['656a'] = "Povoliť Jquery komentáre?";
-$locale['656b'] = "Prosím, pre najlepšie zobrazenie nastavte na vysoký počet komentárov na stránku, ak zapnete Jquery";
+$locale['656b'] = "Ak zapnete Jquery, prosím, pre najlepšie zobrazenie nastavte na vysoký počet komentárov na stránku";
 
 $locale['657'] = "Mód údržby:";
 $locale['658'] = "Správa údržby:";
-$locale['659'] = "Aktivovať filter jazyka?";
+$locale['659'] = "Povoliť filtrovanie zlých slov?";
 $locale['660'] = "Doba pre zahltenie (v sekundách):";
 $locale['661'] = "Nechajte prázdne pre okamžité nahratie/stiahnutie zálohy.";
 $locale['662'] = "TinyMCE Editor";
@@ -137,7 +137,7 @@ $locale['666'] = "SMTP meno";
 $locale['667'] = "SMTP heslo";
 $locale['668'] = "Povoliť užívateľom meniť vzhľad";
 $locale['668ML'] = "Tabuľky s viacjazyčným obsahom";
-$locale['669ML'] = "Vyberte tabuľky, ktoré budú obsahovať viacjazyčné dátaa";
+$locale['669ML'] = "Vyberte tabuľky, ktoré budú obsahovať viacjazyčné dáta";
 $locale['670ML'] = "Články";
 $locale['671ML'] = "Vlastné stránky";
 $locale['672ML'] = "Downloady";
@@ -150,7 +150,7 @@ $locale['678ML'] = "Shoutbox";
 $locale['679ML'] = "Odkazy";
 $locale['680ML'] = "Odkazy stránky";
 $locale['681ML'] = "Panely";
-$locale['682ML'] = "Jazykové nastavenia";
+$locale['682ML'] = "Nastavenie jazyka";
 $locale['683ML'] = "Povoliť viacjazyčný systém";
 $locale['684ML'] = "Povolené jazyky";
 $locale['685ML'] = "Výber povolených jazykov.<br/>\rVEZMITE PROSÍM NA VEDOMIE: Odstránením jazyka odstránite zo systému aj všetky prispôsobené odkazy na stránky, kategórie a akýkoľvek iný viacjazyčný obsah pre daný jazyk.";
@@ -160,14 +160,14 @@ $locale['669c'] = "Novinky na stránku";
 $locale['670'] = "Malo by to byť nepárne číslo";
 $locale['671'] = "Povoliť komentáre?";
 $locale['672'] = "Povoliť hodnotenia?";
-$locale['673'] = "Skryť profil pre verejnosť:";
+$locale['673'] = "Skryť užívateľské profily pre verejnosť:";
 $locale['674'] = "SMTP Port";
 $locale['675'] = "Úroveň údržby:";
-$locale['676'] = "Administrátor";
-$locale['677'] = "Hlavný administrátor";
+$locale['676'] = "Administrátori";
+$locale['677'] = "Hlavný administrátori";
 $locale['678'] = "Majiteľ stránky";
 $locale['679'] = "Povoliť počítadlo návštev?";
-$locale['680'] = "Automatický Ban zahltenia:";
+$locale['680'] = "Automatický ban zahltenia:";
 $locale['681'] = "Údržba";
 $locale['682'] = "Nastavenia zahltenia";
 $locale['683'] = "Nastavenia bezpečnosti";
@@ -175,14 +175,14 @@ $locale['684'] = "Zoradenie komentárov";
 $locale['685'] = "Zostupne";
 $locale['686'] = "Vzostupne";
 $locale['687'] = "Zakázané slová";
-$locale['688'] = "Zobraziť čas (v pätičke)?";
+$locale['688'] = "Zobraziť čas renderovania";
 $locale['689'] = "Áno (pre všetkých)";
 $locale['690'] = "Áno (len administrátorom)";
 $locale['691'] = "Povoliť užívateľom zmeniť užívateľské meno";
 $locale['692'] = "Nastavenia overovacieho modulu (CAPTCHA)";
 $locale['693'] = "Overovací modul (CAPTCHA)";
 $locale['694'] = "Povoliť spustenie PHP";
-$locale['695'] = "VAROVANIE! Umožnenie spustenia PHP otvorí systém zraniteľnostiam SQL.";
+$locale['695'] = "VAROVANIE! Umožnenie spustenia PHP otvorí systém SQL zraniteľnostiam.";
 $locale['696'] = "Prosím vložte váš verejný a súkromný reCAPTCHA kľúč!";
 
 $locale['913'] = "Komentárov na stránku";
@@ -195,7 +195,7 @@ $locale['698'] = "SMTP autentifikácia?";
 $locale['699'] = "Metóda prihlasovania";
 $locale['699b'] = "Oba";
 $locale['699e'] = "E-mail";
-$locale['699f'] = "Skontrolujte nahrané súbory pre MIME type?";
+$locale['699f'] = "Skontrolujte nahrané súbory pre MIME typ?";
 
 // Private Message Settings
 $locale['700'] = "Súkromné správy";
@@ -230,8 +230,8 @@ $locale['854'] = "Uložiť bannery";
 $locale['855'] = "Náhľad";
 
 // Settings Error
-$locale['900'] = "Nastavenie aktualizované";
-$locale['901'] = "Chyba pri aktualizácii databázi: Nastavenie nie je aktualizované!";
+$locale['900'] = "Nastavenia boli úspešne aktualizované";
+$locale['901'] = "Chyba pri aktualizácii databázi: Nastavenia neboli aktualizované!";
 $locale['902'] = "Doména nemôže byť prázdna!";
 
 // User Management
@@ -251,11 +251,7 @@ $locale['1013'] = "Zmazanie užívateľov";
 $locale['1014'] = "Povoliť prihlásenie z rôznych zariadení súčasne?";
 $locale['1014a'] = "Zakázaním zlepšíte bezpečnosť";
 
-$locale['1020'] = [
-    1       => 'Byty (bajty)',
-    1000    => 'KB (Kilobajty)',
-    1000000 => 'MB (Megabajty)'
-];
+$locale['1020'] = [1 => 'Byty (bajty)', 1000 => 'KB (Kilobajty)', 1000000 => 'MB (Megabajty)'];
 
 // Social integration
 $locale['1030'] = "Vytvoriť OpenGraph meta značky pre sociálne siete";

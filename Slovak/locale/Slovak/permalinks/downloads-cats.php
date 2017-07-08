@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_downloads_cat_title'] = "Kategórie downloadov";
-$locale['pl_downloads_cat_desc'] = "Povolenie permalinkov pre kategórie downloadov.";
+$locale['pl_downloads_cat_desc'] = "Povolenie trvalých odkazov pre kategórie downloadov.";

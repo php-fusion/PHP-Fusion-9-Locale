@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_photo_title'] = "Foto";
-$locale['pl_photo_desc'] = "Povolenie permalinkov pre fotky.";
+$locale['pl_photo_desc'] = "Povolenie trvalých odkazov pre fotky.";

@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Titles
-$locale['ERROR_400'] = "Záznam o chybách";
+$locale['ERROR_400'] = "Záznam chýb";
 $locale['ERROR_401'] = "Pozrite sa do súboru";
 // Errors table
 $locale['ERROR_410'] = "Chyba";
@@ -27,13 +27,13 @@ $locale['ERROR_414'] = "Stav";
 $locale['ERROR_415'] = "Riadok:";
 $locale['ERROR_416'] = "Úroveň:";
 $locale['ERROR_417'] = "IP:";
-$locale['ERROR_418'] = "Žiadna chyba v zázname.";
+$locale['ERROR_418'] = "Žiadne chyby v zázname.";
 $locale['ERROR_419'] = "Súbor";
 $locale['ERROR_420'] = "Podrobnosti";
 $locale['ERROR_421'] = "Zdrojový kód";
 $locale['ERROR_422'] = "Späť hore";
 // Delete form
-$locale['ERROR_440'] = "Zmazať všetky záznamy so stavom";
+$locale['ERROR_440'] = "Vymazať všetky záznamy so stavom";
 // Status form
 $locale['ERROR_450'] = "Nové";
 $locale['ERROR_451'] = "Vyriešené";

@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['100'] = "Migračný nástroj";
-$locale['101'] = "Pre migráciu musíte vybrať dvoch rôznych používateľov";
+$locale['101'] = "Pre migráciu musíte vybrať dvoch rôznych užívateľov";
 $locale['102'] = "Fórum sledované vlákna";
 $locale['103'] = "Fórum vlákna";
 $locale['104'] = "Forum vlákna - posledný užívateľ";

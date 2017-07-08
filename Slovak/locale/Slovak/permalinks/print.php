@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_print_title'] = "Tlač";
-$locale['pl_print_desc'] = "Povolenie permalinkov pre tlač.";
+$locale['pl_print_desc'] = "Povolenie trvalých odkazov pre tlač.";

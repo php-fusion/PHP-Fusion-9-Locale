@@ -18,4 +18,4 @@
 $locale['uf_gender'] = "Pohlavie";
 $locale['uf_gender_desc'] = "Užívateľ môže špecifikovať pohlavie";
 $locale['uf_gender_error'] = "Pohlavie je nesprávne alebo nie je špecifikované.";
-$locale['uf_gender_sz'] = array("Nešpecifikované", "Žena", "Muž", "Tajné");
+$locale['uf_gender_sz'] = ["Nešpecifikované", "Žena", "Muž", "Tajné"];

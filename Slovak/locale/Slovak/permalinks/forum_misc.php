@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_post_title'] = "Príspevky fóra";
-$locale['pl_post_desc'] = "Povolenie permalinkov pre príspevky fóra.";
+$locale['pl_post_desc'] = "Povolenie trvalých odkazov pre príspevky fóra.";
