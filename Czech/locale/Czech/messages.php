@@ -137,5 +137,5 @@ $locale['632'] = "Ne";
 
 $locale['700'] = "Vaše uživatelská schránka je již plná! Zkuste ji smazat nebo ji upgradovat na stav 102 nebo 103";
 $locale['701'] = "ID odesílatele neexistuje v databázi DB. Sekvence zrušena.";
-$locale['702'] = "Příjemce ID uživatele je neplatný";
-$locale['703'] = "Pozor zahltíte schránku zprávami! Odesílání tím zastavíte!";
+$locale['702'] = "Identifikátor příjemce zprávy je neplatný";
+$locale['703'] = "Přetečení, send_pm zastaveno";

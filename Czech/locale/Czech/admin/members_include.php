@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/members_include.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 10.04.2017
+| Filename: locale/Czech/admin/members_include.php
+| Author: Kvido, phpfusion.cz, 10.04.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,27 +16,27 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['susp00'] = "Členové";
-$locale['susp01'] = "Zakázáno";
-$locale['susp02'] = "Neaktivní";
+$locale['susp01'] = "Zabanovaný";
+$locale['susp02'] = "Neaktivovaní";
 $locale['susp03'] = "Pozastaveno";
-$locale['susp04'] = "Zabezpečení zakázáno";
-$locale['susp05'] = "Zrušeno";
+$locale['susp04'] = "Zabezpečení BAN";
+$locale['susp05'] = "Zrušení";
 $locale['susp06'] = "Anonymní";
-$locale['susp07'] = "Deaktivováno";
+$locale['susp07'] = "Deaktivování";
 $locale['susp08'] = "Neaktivní";
 $locale['susp10'] = "Obnovit";
 $locale['susp11'] = "Ban";
-$locale['susp12'] = "Deaktivujte";
+$locale['susp12'] = "Deaktivovat";
 $locale['susp13'] = "Pozastavit";
-$locale['susp14'] = "Zákaz zabezpečení";
-$locale['susp15'] = "Zrušení";
-$locale['susp16'] = "Anonymní";
-$locale['susp17'] = "Deaktivujte";
+$locale['susp14'] = "Zabezpečení ban";
+$locale['susp15'] = "Zrušit";
+$locale['susp16'] = "Utajit";
+$locale['susp17'] = "Deaktivovat";
 $locale['susp18'] = "Inactivate";
 $locale['susp_sys'] = "Systémová akce";
-$locale['susp100'] = "Záznamy v protokolu uživatele pro %s";
-$locale['susp100b'] = "%s záznamy protokolu pro %s";
-$locale['susp101'] = "Všechny záznamy protokolu pro užuvatele %s";
+$locale['susp100'] = "Záznam o uživatelích pro %s";
+$locale['susp100b'] = "%s záznamy %s";
+$locale['susp101'] = "Všechny záznamy o uživatelích pro uživatele %s";
 $locale['susp102'] = "Předchozí [STRONG]%s[/STRONG] historie pro uživatele %s";
 $locale['susp103'] = "ID";
 $locale['susp104'] = "Datum";
@@ -46,9 +45,9 @@ $locale['susp106'] = "Administrátor";
 $locale['susp107'] = "Žádný daný důvod!";
 $locale['susp108'] = "IP";
 $locale['susp109'] = "Systémová akce";
-$locale['susp110'] = "Tento uživatel nemá žádné zaznamenané akce v protokolu.";
+$locale['susp110'] = "Tento uživatel nemá žádné záznamy v logu.";
 $locale['susp111'] = "Aktivováno";
 $locale['susp112'] = "IP: ";
 $locale['susp113'] = "Zrušeno";
-$locale['susp114'] = "Zápis o zastavení";
+$locale['susp114'] = "Záznam o zastavení";
 $locale['susp115'] = "Členové";

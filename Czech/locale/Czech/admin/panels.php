@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/panels.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 10.04.2017
+| Filename: locale/Czech/admin/panels.php
+| Author: Kvido, phpfusion.cz, 10.04.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -100,10 +99,10 @@ $locale['487'] = "Vrátit se na administrátorský index";
 $locale['488'] = "Panely objednávky byly aktualizovány.";
 $locale['489'] = "Panely byly smazány.";
 //Vizuální panel
-$locale['600'] = "Panelové rozhraní pro správu";
+$locale['600'] = "Rozhraní pro správu panelů";
 $locale['602'] = "Nepoužité panely";
 $locale['603'] = "Použité panely";
-$locale['604'] = "Panelů";
+$locale['604'] = "panel|panely|panelů";
 $locale['605'] = "Panel";
 $locale['606'] = "Obsah webu";
 $locale['607'] = "Soubor";

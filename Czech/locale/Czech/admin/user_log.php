@@ -1,5 +1,5 @@
 <?php
-$locale['UL_001'] = "Uživatelský protokol";
+$locale['UL_001'] = "Záznam o uživatelích";
 $locale['UL_002'] = "Datum";
 $locale['UL_003'] = "Uživatelské jméno";
 $locale['UL_004'] = "Uživatelské pole";

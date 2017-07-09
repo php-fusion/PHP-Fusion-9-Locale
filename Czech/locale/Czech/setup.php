@@ -273,14 +273,14 @@ $locale['setup_3513'] = "Software";
 $locale['setup_3514'] = "Vzhledy";
 $locale['setup_3515'] = "Windows";
 // Fáze 6 - Ukázky hodnocení Fóra
-$locale['setup_3600'] = "Super Admin";
-$locale['setup_3601'] = "Admin";
+$locale['setup_3600'] = "Hlavní administrátor";
+$locale['setup_3601'] = "Administrátor";
 $locale['setup_3602'] = "Moderátor";
 $locale['setup_3603'] = "Nováček";
-$locale['setup_3604'] = "Mladý člen";
+$locale['setup_3604'] = "Rozkoukaný";
 $locale['setup_3605'] = "Člen";
-$locale['setup_3606'] = "Senior člen";
-$locale['setup_3607'] = "Člen veteránů";
+$locale['setup_3606'] = "Diskutující";
+$locale['setup_3607'] = "Stařešina";
 $locale['setup_3608'] = "Fusioneer";
 // Fáze 6 - Vzorky smajlíků
 $locale['setup_3620'] = "Usměj se";

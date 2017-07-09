@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: root/locale/Czech/admin/image_uploads.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/image_uploads.php
+| Author: Kvido, phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Smazat obrázek
-$locale['400'] = "Delete Image";
+$locale['400'] = "Smazat obrázek";
 $locale['401'] = "Obrázek byl smazán";
 $locale['402'] = "Vrátit se do správce obrázků";
 $locale['403'] = "Vrátit se na administrátorský index";
@@ -29,9 +28,9 @@ $locale['423'] = "Obrázky článku";
 $locale['424'] = "Obrázky novinek";
 $locale['425'] = "Max. velikost souboru %s / Povolené typy souborů: .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
 $locale['426'] = "Obrázek byl nahrán";
-$locale['427'] = "Novinky kategorie obrázků";
+$locale['427'] = "Obrázky kategorií novinek";
 $locale['428'] = "Obrázky blogu";
-$locale['429'] = "Blog kategorie obrázky";
+$locale['429'] = "Obrázky kategorií blogů";
 // Zobrazit obrázek
 $locale['440'] = "Zobrazit obrázek";
 $locale['441'] = "Neznámý formát souboru, nemůže zobrazit obraz.";

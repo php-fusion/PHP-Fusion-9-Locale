@@ -5,8 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: file/locale/Czech.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 14.05.2017
+| Author: Kvido, phpfusion.cz, 14.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,7 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['f0100'] = "Titul";
-$locale['f0101'] = "Soubor obsahuje";
 $locale['f0102'] = "Cesta souboru ze kořenového adresáře";
 $locale['f0103'] = "Uložení souboru";
 $locale['f0104'] = "Uložit a zavřít soubor";

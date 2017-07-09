@@ -5,7 +5,6 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: root/locale/Czech/global.php
-| Author: Frederick MC Chan (Chan)
 | Translate Czech: Kvido, phpfusion.cz, 20.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -17,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 /**
- * English Locale
+ * Czech Locale
  *
  * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
  * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
@@ -25,17 +24,17 @@
  * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
  * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
- * @package locale/English
+ * @package locale/Czech
  */
-setlocale(LC_TIME, "cs_CZ.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_ALL, "cs_CZ.utf8", "cs_CZ", "czech"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "CZ";
 $locale['xml_lang'] = "cs";
 $locale['short_lang_name'] = "cs";
 $locale['tinymce'] = "cs";
 $locale['select2'] = "cs";
-$locale['phpmailer'] = "cs";
-$locale['datepicker'] = "en-gb";/*Ponechat kvůli přechodu na Czech*/
+$locale['phpmailer'] = "cz";
+$locale['datepicker'] = "cs";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
 $locale['password_strength'] = "cs";
@@ -57,6 +56,7 @@ $locale['minute_a'] = "minut";
 $locale['second'] = "sekunda";
 $locale['second_a'] = "sekund";
 $locale['just_now'] = "právě teď";
+$locale['now'] = 'teď';
 $locale['ago'] = "před";
 // Region
 $locale['street1'] = "Ulice 1";
@@ -86,7 +86,7 @@ $locale['doc_date_expire'] = "Datum expirace";
 $locale['user0'] = "Veřejnost";
 $locale['user1'] = "Člen";
 $locale['user2'] = "Administrátor";
-$locale['user3'] = "Super administrátor";
+$locale['user3'] = "Hlavní administrátor";
 $locale['user_na'] = "N/A";
 $locale['user_guest'] = "Host";
 $locale['user_anonymous'] = "Anonymní uživatel";
@@ -158,7 +158,7 @@ $locale['global_058'] = "Zastavte sledování";
 $locale['global_059'] = "Nezaznamenáváte žádné vlákna.";
 $locale['global_060'] = "Zastavit sledování tohoto vlákna?";
 // Blog, News & Articles
-$locale['global_070'] = "Vložil/a ";
+$locale['global_070'] = "Přidal/a ";
 $locale['global_070b'] = "Zobrazit všechny příspěvky od %s";
 $locale['global_071'] = "na ";
 $locale['global_071b'] = "Autor";
@@ -441,16 +441,16 @@ $locale['she'] = "Ona";
 $locale['it'] = "To";
 
 //Tabulky
-$locale['order'] = "Order";
-$locale['sort'] = "Sort";
+$locale['order'] = "Pořadí";
+$locale['sort'] = "Seřadit";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
-$locale['rights'] = "Rights";
+$locale['title'] = "Nadpis";
+$locale['rights'] = "Práva";
 $locale['info'] = "Info";
-$locale['image'] = "Image";
+$locale['image'] = "Obrázek";
 
 // Formuláře
-$locale['choose'] = "Vyberte prosím jeden...";
+$locale['choose'] = "Vyberte prosím jedno...";
 $locale['no_opts'] = "Žádný výběr";
 $locale['root'] = "Žádná kategorie";
 $locale['choose-user'] = "Vyberte prosím uživatele ...";
@@ -465,7 +465,7 @@ $locale['sticky'] = "Sticky";
 $locale['unsticky'] = "Unsticky";
 $locale['draft'] = "Návrh";
 $locale['settings'] = "Nastavení";
-$locale['posted'] = "vyslán";
+$locale['posted'] = "publikované";
 $locale['profile'] = "Profil";
 $locale['edit'] = "Upravit";
 $locale['qedit'] = "Rychlé úpravy";
@@ -501,39 +501,39 @@ $locale['online'] = "On-line";
 $locale['offline'] = "Offline";
 
 // Slova pro formátování na jednotlivé a množné formy. Počet formulářů závisí na jazyku
-$locale['fmt_submission'] = "Podání|Podání";
-$locale['fmt_article'] = "článek|článků";
-$locale['fmt_blog'] = "blog|blogů";
-$locale['fmt_comment'] = "komentáře|komentářů";
-$locale['fmt_vote'] = "vote|votes";
-$locale['fmt_rating'] = "rating|ratings";
-$locale['fmt_day'] = "den|dnů";
-$locale['fmt_download'] = "download|downloads";
-$locale['fmt_follower'] = "follower|followers";
-$locale['fmt_forum'] = "forum|forums";
-$locale['fmt_guest'] = "host|hostů";
-$locale['fmt_hour'] = "hodina|hodin";
-$locale['fmt_item'] = "item|items";
-$locale['fmt_member'] = "member|members";
-$locale['fmt_message'] = "zpráva|zpráv";
-$locale['fmt_minute'] = "minuta|minut";
-$locale['fmt_month'] = "měsíc|měsíců";
-$locale['fmt_news'] = "news|news";
-$locale['fmt_photo'] = "photo|photos";
-$locale['fmt_post'] = "post|posts";
-$locale['fmt_question'] = "question|questions";
-$locale['fmt_read'] = "read|reads";
-$locale['fmt_second'] = "second|seconds";
-$locale['fmt_shouts'] = "shout|shouts";
-$locale['fmt_thread'] = "vlákno|vláken";
-$locale['fmt_user'] = "user|users";
-$locale['fmt_views'] = "view|views";
-$locale['fmt_weblink'] = "odkaz|odkazů";
-$locale['fmt_week'] = "week|weeks";
-$locale['fmt_year'] = "rok|roků";
-$locale['fmt_points'] = "point|points";
-$locale['fmt_admin'] = "admin|adminů";
-$locale['fmt_group'] = "group|groups";
-$locale['fmt_category'] = "kategorie|kategorií";
+$locale['fmt_submission'] = "podání|podání|podání";
+$locale['fmt_article'] = "článek|články|článků";
+$locale['fmt_blog'] = "blog|blogy|blogů";
+$locale['fmt_comment'] = "komentář|komentáře|komentářů";
+$locale['fmt_vote'] = "hlas|hlasy|hlasů";
+$locale['fmt_rating'] = "hodnocení|hodnocení|hodnocení";
+$locale['fmt_day'] = "den|dny|dní";
+$locale['fmt_download'] = "stažení|stažení|stažení";
+$locale['fmt_follower'] = "sledovatel|sledovatelé|sledovatelů";
+$locale['fmt_forum'] = "fórum|fóra|fór";
+$locale['fmt_guest'] = "host|hosté|hostů";
+$locale['fmt_hour'] = "hodina|hodiny|hodin";
+$locale['fmt_item'] = "položka|položky|položek";
+$locale['fmt_member'] = "člen|členové|členů";
+$locale['fmt_message'] = "správa|zprávy|zpráv";
+$locale['fmt_minute'] = "minuta|minuty|minut";
+$locale['fmt_month'] = "měsíc|měsíce|měsíců";
+$locale['fmt_news'] = "novinka|novinky|novinek";
+$locale['fmt_photo'] = "fotka|fotky|fotek";
+$locale['fmt_post'] = "příspěvek|příspěvky|příspěvků";
+$locale['fmt_question'] = "otázka|otázky|otázek";
+$locale['fmt_read'] = "přečtení|přečtení|přečtení";
+$locale['fmt_second'] = "sekunda|sekundy|sekund";
+$locale['fmt_shouts'] = "výkřik|výkřiky|výkřiků";
+$locale['fmt_thread'] = "téma|témata|témat";
+$locale['fmt_user'] = "uživatel|uživatelé|uživatelů";
+$locale['fmt_views'] = "zobrazení|zobrazení|zobrazení";
+$locale['fmt_weblink'] = "odkaz|odkazy|odkazů";
+$locale['fmt_week'] = "týden|týdny|týdnů";
+$locale['fmt_year'] = "rok|roky|let";
+$locale['fmt_points'] = "bod|body|bodů";
+$locale['fmt_admin'] = "admin|admini|adminů";
+$locale['fmt_group'] = "skupina|skupiny|skupin";
+$locale['fmt_category'] = "kategorie|kategorie|kategorií";
 // include Defender locales
 include __DIR__."/defender.php";

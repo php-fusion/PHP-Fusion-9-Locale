@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Slider/locale/English.php
-| Author: Frederick MC Chan (Chan)
-| Filename: widgets/slider/locale/Czech.php, 27.05.2017
+| Filename: slider/locale/Czech.php
+| Author: Kvido, phpfusion.cz, 27.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or

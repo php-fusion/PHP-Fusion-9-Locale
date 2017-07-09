@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/migrate.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 10.04.2017
+| Filename: locale/Czech/admin/migrate.php
+| Author: Kvido, phpfusion.cz, 10.04.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -16,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['100'] = "Nástroj migrace uživatelů";
+$locale['100'] = "Migrační nástroj";
 $locale['101'] = "Musíte vybrat dva různé uživatele pro migraci";
 $locale['102'] = "Fórum sledované vlákna";
 $locale['103'] = "Fórum vlákna";

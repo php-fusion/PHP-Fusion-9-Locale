@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: root/locale/Czech/admin/db_backup.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename:locale/Czech/admin/db_backup.php
+| Author: Kvido, phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Database Restore
-$locale['400'] = "Obnovení databáze";
+$locale['400'] = "Obnova databáze";
 $locale['401'] = "Chyba";
 $locale['402'] = "Neplatný formát souboru zálohy";
 $locale['403'] = "Zavřít";
@@ -30,7 +29,7 @@ $locale['413'] = "Datum zálohování:";
 $locale['414'] = "Název databáze:";
 $locale['415'] = "Předpona základní tabulky:";
 $locale['416'] = "Tabulky:";
-$locale['417'] = "Pohled";
+$locale['417'] = "Zobrazit";
 $locale['418'] = "Zrušení";
 $locale['419'] = "Tabulky";
 // Database Restore
@@ -43,7 +42,7 @@ $locale['435'] = "Vybrat:";
 $locale['436'] = "všechno";
 $locale['437'] = "nic";
 $locale['438'] = "Obnovit";
-$locale['439'] = "Zrušení";
+$locale['439'] = "Zrušit";
 $locale['440'] = "Podporované typy souborů:";
 // Database Backup
 $locale['450'] = "Zálohování databáze";

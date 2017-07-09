@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +---------------------------------------------------------+
-| Filename: root/locale/Czech/admin/baners.php
-| Author: Frederic Chan 
-| Translate czech: Kvido phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/baners.php
+| Author: Kvido phpfusion.cz, 26.05.2017
 +---------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or

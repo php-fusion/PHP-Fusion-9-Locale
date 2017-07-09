@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Comments/locale/Czech.php
-| Author: Frederick MC Chan (Chan)
-|Translate Czech: Kvido, phpfusion.cz, 14.05.2017
+| Filename: comments/locale/Czech.php
+| Author: Kvido, phpfusion.cz, 14.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -18,5 +17,5 @@
 +--------------------------------------------------------*/
 $locale['CMW_0100'] = "Komentáře widget";
 $locale['CMW_0101'] = "Jádro komentářů - Plugin";
-$locale['CMW_0102'] = "Vytvořeny komentáře";
-$locale['CMW_0104'] = "Nelze vytvořit komentáře";
+$locale['CMW_0102'] = "Komentáře vytvořené";
+$locale['CMW_0104'] = "Nepodařilo se vytvořit komentáře";
