@@ -168,7 +168,7 @@ $locale['forum_141'] = "Notifikácie";
 $locale['forum_142'] = "Prílohy súborov a obrázkov príspevku";
 $locale['forum_143'] = "Konfigurácia správania príspevku";
 
-$locale['forum_150'] = "<strong>Povoliť užívateľské polia v podrobných príspevkoch.</strong> Užívateľské polia sú vlastné používateľské informácie, ktoré je možné spravovať v [LINK]administrácii užívateľských polí[/LINK]";
+$locale['forum_150'] = "<strong>Povoliť užívateľské polia v podrobných príspevkoch.</strong> Užívateľské polia sú vlastné užívateľské informácie, ktoré je možné spravovať v [LINK]administrácii užívateľských polí[/LINK]";
 $locale['forum_151'] = "V tejto kategórii nie sú definované užívateľské polia.";
 $locale['forum_152'] = "Neexistujú žiadne kategórie užívateľských polí.";
 $locale['forum_admin_000'] = "Správa fóra";
