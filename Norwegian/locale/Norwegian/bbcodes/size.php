@@ -1,3 +1,3 @@
 <?php
-$locale['bb_size_description'] = "Definerer størrelsen på valgt tekst";
-$locale['bb_size_usage'] = "Tekst som skal defineres";
+$locale['bb_size_description'] = "Definerer størrelsen på den utvalgte tekst";
+$locale['bb_size_usage'] = "Teksten som skal defineres";

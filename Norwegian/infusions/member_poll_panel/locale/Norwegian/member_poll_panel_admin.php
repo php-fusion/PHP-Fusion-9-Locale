@@ -26,4 +26,4 @@ $locale['438'] = "Lagre Avstemning";
 $locale['439'] = "Udefinert";
 $locale['439a'] = "Vennligst skriv inn en avstemnings tittel";
 $locale['439b'] = "Du må skrive inn minst et avstemnings alternativ";
-$locale['439c'] = "Avstemninger";
+

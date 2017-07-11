@@ -1,5 +1,4 @@
-
 <?php
-$locale['pl_profiles_title'] = "Bruker Profil";
-$locale['pl_profiles_desc'] = "Aktiver Permalenker for lenker til Medlemmers profil.";
+$locale['pl_profiles_title'] = "Bruker profil";
+$locale['pl_profiles_desc'] = "Aktiver permalenker for lenker i bruker profilen på denne side.";
 

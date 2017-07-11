@@ -1,19 +1,14 @@
 <?php
 /*
 *Norwegian Locale
-*Produced by Preben Keim Email: preben.keim@paulen.no
-* @locale charset      ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region       ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale select2      refer to path includes/dynamics/select2/select2_locale_{value}.js
- * @locale tinymce      refer to path includes/jscripts/tinymce/langs/{value}.js
- * @package locale/Norwegian
+*Produced by Preben Keim Email: preben.keim@paulen.no Web: http://www.paulen.no
 */
-setlocale(LC_TIME, "no_NO.UTF-8"); // Linux Server (Windows may differ)
+// Locale Settings
+setlocale(LC_ALL, "no_NO.UTF-8"); 
 $locale['charset'] = "utf-8";
-$locale['region'] = "NO";
+$locale['region'] = "NO"; //Norway
 $locale['xml_lang'] = "no";
 $locale['tinymce'] = "no";
-$locale['select2'] = "no";
 $locale['phpmailer'] = "no";
 $locale['datepicker'] = "no";
 // Full & Short Months
@@ -62,7 +57,7 @@ $locale['doc_date_expire'] = "Utløpsdato";
 $locale['user0'] = "Besøkende";
 $locale['user1'] = "Medlem";
 $locale['user2'] = "Administrator";
-$locale['user3'] = "Superadministrator";
+$locale['user3'] = "Super Administrator";
 $locale['user_na'] = "N/A";
 $locale['user_guest'] = "Gjest";
 $locale['user_anonymous'] = "Annonym Bruker";
@@ -82,7 +77,6 @@ $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Navigasjon";
 $locale['global_002'] = "Ingen lenker spesifisert\n";
-$locale['global_003'] = "Ingenting å forhåndsvise";
 // Users Online
 $locale['global_010'] = "Brukere online";
 $locale['global_011'] = "Gjester online";
@@ -96,13 +90,9 @@ $locale['global_020'] = "Forumtråder";
 $locale['global_021'] = "Siste Tråder";
 $locale['global_022'] = "Mest aktive Tråder";
 $locale['global_023'] = "Ingen tråder startet";
-$locale['global_024'] = "Diskusjons Deltakere";
-$locale['global_027'] = "Ubesvarte Tråder";
-$locale['global_028'] = "Uløste Spørsmål";
 // Comments Side panel
 $locale['global_025'] = "Siste kommentarer";
 $locale['global_026'] = "Det er ikke skrevet kommentarer";
-$locale['global_027'] = "Kommentarer er oppdatert";
 // Articles Side panel
 $locale['global_030'] = "Siste artikler";
 $locale['global_031'] = "Ingen tilgjengelige artikler";
@@ -133,16 +123,15 @@ $locale['global_057'] = "Valg";
 $locale['global_058'] = "Stopp";
 $locale['global_059'] = "Du følger ingen tråder.";
 $locale['global_060'] = "Stopp følging av tråden?";
-// Blog, News & Articles
+//  News & Articles
 $locale['global_070'] = "Skrevet av ";
-$locale['global_071b'] = "Se alle innlegg fra %s";
 $locale['global_071'] = "den";
-$locale['global_071b'] = "Forfatter";
+$locale['global_071b'] = "Se alle innlegg fra %s";
 $locale['global_072'] = "Forsett å Lese";
 $locale['global_073'] = " Kommentarer";
 $locale['global_073b'] = "Kommentar";
-$locale['global_074'] = "Leser";
-$locale['global_074b'] = "Les";
+$locale['global_074'] = "Fremvisninger";
+$locale['global_074b'] = "Fremvisninger";
 $locale['global_075'] = "Skriv ut";
 $locale['print'] = "Skriv ut";
 $locale['global_076'] = "Rediger";
@@ -151,8 +140,8 @@ $locale['global_078'] = "Det er ikke skrevet noen nyheter enda";
 $locale['global_079'] = "I ";
 $locale['global_080'] = "Ukategoriserte";
 $locale['global_081'] = "Nyheters startside";
-$locale['global_082'] = "Nyheter";
-$locale['global_083'] = "Siste Oppdaterte";
+$locale['global_082'] = "Nyhetssenter";
+$locale['global_083'] = "Sis Oppdaterte";
 $locale['global_084'] = "Nyhets Kategori";
 $locale['global_085'] = "Alle Andre Kategorier";
 $locale['global_086'] = "Siste Nytt";
@@ -170,28 +159,26 @@ $locale['global_093'] = " av ";
 $locale['global_094'] = " ut av ";
 // Guest User Menu
 $locale['global_100'] = "Logg inn";
-$locale['global_101'] = "Logg inn ID";
-$locale['global_101a'] = "Skriv inn bruker navn";
-$locale['global_101b'] = "Skriv inn E-post adresse";
-$locale['global_101c'] = "Skriv inn E-post eller Bruker Navn";
+$locale['global_101'] = "Brukernavn";
+$locale['global_101a'] = "Skriv inn ditt bruker navn";
 $locale['global_102'] = "Passord";
 $locale['global_103'] = "Husk Meg";
 $locale['global_104'] = "Logg Inn";
-$locale['global_105'] = "Ikke medlem ennå? [LINK]Klikk her[/LINK] for registrering.";
-$locale['global_106'] = "[LINK]Glemt passordet?[/LINK]";
+$locale['global_105'] = "Er du ennnu ikke registrert bruker?<br /><a href='".BASEDIR."register.php' class='side'>Klikk her</a> for å registrere deg.";
+$locale['global_106'] = "Har du glemt passordet ditt?<br />Be om et nytt <a href='".BASEDIR."lostpassword.php' class='side'>ved å klikke her</a>.";
 $locale['global_107'] = "Registrering";
 $locale['global_108'] = "Glemt passord";
 // Member User Menu
 $locale['global_120'] = "Rediger Profilen Din";
 $locale['global_121'] = "Private Meldinger";
 $locale['global_122'] = "Medlemsliste";
-$locale['global_123'] = "AdminPanel";
+$locale['global_123'] = "Administrasjon";
 $locale['global_124'] = "Logg Ut";
 $locale['global_125'] = "Du har %u ";
-$locale['global_126'] = "melding";
-$locale['global_127'] = "meldinger";
-$locale['global_128'] = "innlegg";
-$locale['global_129'] = "flere innlegg";
+$locale['global_126'] = "ny melding";
+$locale['global_127'] = "nye meldinger";
+$locale['global_128'] = "brukerforslag";
+$locale['global_129'] = "brukerforslag";
 // User Menu
 $locale['UM060'] = "Logg Inn";
 $locale['UM061'] = "Brukernavn";
@@ -200,27 +187,27 @@ $locale['UM061b'] = "Brukernavn eller E-post";
 $locale['UM062'] = "Passord";
 $locale['UM063'] = "Husk MEG";
 $locale['UM064'] = "Logg Inn";
-$locale['UM065'] = "Ikke medlem ennå? [LINK]Klikk her[/LINK] for å registrere.";
-$locale['UM066'] = "Glemt passord?\n[LINK]Be om en ny[/LINK].";
+$locale['UM065'] = "Er du ennu ikke registrert bruker?<br /><a href='".BASEDIR."register.php' class='side'>Klikk her</a> for å registrere deg.";
+$locale['UM066'] = "Har du glemt passordet ditt?<br />Be om å få et nytt ved å klikke <a href='".BASEDIR."lostpassword.php' class='side'>her</a>.";
 $locale['UM080'] = "Rediger Profil";
 $locale['UM081'] = "Privat Melding";
 $locale['UM082'] = "Medlems Liste";
-$locale['UM083'] = "Admin Panel";
+$locale['UM083'] = "Administrasjon";
 $locale['UM084'] = "Logg Ut";
-$locale['UM085'] = "Du har %u new ";
+$locale['UM085'] = "Du har %u ny(e) ";
 $locale['UM086'] = "melding";
 $locale['UM087'] = "meldinger";
 $locale['UM088'] = "Fulgte tråder";
 // Submit (news, link, article)
-$locale['UM089'] = "Legg Til...";
-$locale['UM090'] = "Legg Til Nyheter";
-$locale['UM091'] = "Legg Til Link";
-$locale['UM092'] = "Legg Til Artikkel";
-$locale['UM093'] = "Legg Til Foto";
-$locale['UM094'] = "Legg Til Nedlasting";
-$locale['UM095'] = "Legg Til Blogg";
+$locale['UM089'] = "Foreslå...";
+$locale['UM090'] = "Foreslå Nyheter";
+$locale['UM091'] = "Foreslå Link";
+$locale['UM092'] = "Foreslå Artikkel";
+$locale['UM093'] = "Foreslå Foto";
+$locale['UM094'] = "Foreslå Nedlasting";
+$locale['UM095'] = "Foreslå Blogg";
 // User Panel
-$locale['UM096'] = "Vekommen: ";
+$locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Personlig meny";
 $locale['UM101'] = "Bytt Språk";
 // Gauges
@@ -240,14 +227,14 @@ $locale['global_173'] = "Spørringer";
 $locale['global_174'] = "Minne brukt";
 $locale['global_175'] = "Gjennomsnitt: %s sekunder";
 // Admin Navigation
-$locale['global_180'] = "Admin Hjem";
-$locale['global_181'] = "Gå tilbake til nettstedet";
+$locale['global_180'] = "Administrasjon";
+$locale['global_181'] = "Gå tilbake til siden";
 $locale['global_182'] = "Admin Passord ikke skrevet inn eller er feil.";
 // Miscellaneous
 $locale['global_190'] = "Vedlikeholdsmodus Er Aktivert";
 $locale['global_191'] = "Din IP-adresse er for tiden svartelistet.";
-$locale['global_192'] = "Innloggingen din er utløpt. Vennligst logg inn igjen for å fortsette ";
-$locale['global_193'] = "Kunne ikke satt dokument cookie. Sørg for at du har cookies aktivert for å kunne logge inn på riktig måte. ";
+$locale['global_192'] = "Logger ut som ";
+$locale['global_193'] = "Logger inn som. ";
 $locale['global_194'] = "Denne kontoen er for tiden suspendert. ";
 $locale['global_195'] = "Denne kontoen er ikke aktivert.";
 $locale['global_196'] = "Ugyldig brukernavn eller passord.";
@@ -257,27 +244,22 @@ $locale['global_199'] = "ADVARSEL: admin passord er ikke angitt, klikk [LINK]Red
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Søk";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = $locale['global_200']."Søk";
+$locale['global_203'] = $locale['global_200']."FAQ";
+$locale['global_204'] = $locale['global_200']."Forum";
 //Themes
 $locale['global_210'] = "Hopp til innhold";
 $locale['global_300'] = "tema ikke funnet";
-$locale['global_301'] = "Vi beklager, men denne siden kan ikke vises. Av en eller annen grunn finnes det ikke noe tema for siden.
- Hvis du er administrator for siden bruk din FTP klient og last opp et tema laget for PHP-Fusion 9 til mappen Themes.
- Etter opplasting sjekk Tema Innstillinger for å se om det valgte temaet ble riktig lastet opp til temaer katalogen.
- Hvis så er tilfelle - sjekk at opplastet tema har samme navn (inkludert store og små bokstaver; viktig på UNIX baserte servere)
- som valgt på sidens Hovedinnstillinger.\n\n Hvis du er en vanlig bruker av siden, vennligst kontakt sidens administrator via [SITE_EMAIL] E-post og fortell om problemet.";
+$locale['global_301'] = "Vi beklager, men denne siden kan ikke vises. Av en eller annen grunn finnes det ikke noe tema for siden. Hvis du er administrator for siden bruk din FTP klient og last opp et tema laget for PHP-Fusion 9 til mappen Themes. Etter opplasting sjekk Tema Innstillinger for å se om det valgte temaet ble riktig lastet opp til temaer katalogen. Hvis så er tilfelle - sjekk at opplastet tema har samme navn (inkludert store og små bokstaver; viktig på UNIX baserte servere) som valgt på sidens Hovedinnstillinger.\n\n Hvis du er en vanlig bruker av siden, vennligst kontakt sidens administrator via [SITE_EMAIL] E-post og fortell om problemet.";
 $locale['global_302'] = "Det tema, som du har valgt under Hoved Innstillingene eksisterer ikke eller er ufullstendig!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Usj! Hvor er JavaScript?\nDin nettleser har ikke JavaScript aktivert eller støtter ikke JavaScript.
- Vennligst aktiver JavaScript i din nettleser for å vise nettsiden ordentlig, eller oppgrader til en nettleser som støtter JavaScript.";
+$locale['global_303'] = "Usj! Hvor er JavaScript?\nDin nettleser har ikke JavaScript aktivert eller støtter ikke JavaScript. Vennligst aktiver JavaScript i din nettleser for å vise nettsiden ordentlig, eller oppgrader til en nettleser som støtter JavaScript.";
 // User Management
 $locale['global_400'] = "suspendert";
 $locale['global_401'] = "utestengt";
 $locale['global_402'] = "deaktivert";
-$locale['global_403'] = "konto avsluttet";
-$locale['global_404'] = "konto anonymisert";
+$locale['global_403'] = "brukerkonto avsluttet";
+$locale['global_404'] = "brukerkonto anonymisert";
 $locale['global_405'] = "anonym bruker";
 $locale['global_406'] = "Kontoen har blitt utestengt av følgende årsak:";
 $locale['global_407'] = "Kontoen har blitt suspendert inntil ";
@@ -286,33 +268,25 @@ $locale['global_409'] = "Kontoen har blitt utestengt av sikkerhetsgrunner.";
 $locale['global_410'] = "Grunnen til dette er: ";
 $locale['global_411'] = "Kontoen har blitt kanselert.";
 $locale['global_412'] = "Denne konto har blitt anonymisert, sannsynligvis på grunn av inaktivitet.";
-// Flood control
 $locale['global_440'] = "Automatisk utestengelse av Flood Kontroll";
-$locale['global_441'] = "Din konto på [SITENAME] har blitt utestengt";
+$locale['global_441'] = "Din konto på  ".fusion_get_settings('sitename')." har blitt utestengt";
 $locale['global_442'] = "Hei [USER_NAME],\n
-Din konto på [SITENAME] ble tatt i å legge til for mange elementer i systemet i løpet av veldig kort tid fra IP [USER_IP], og har derfor blitt utestengt. Dette er gjort for å forhindre bots fra å sende inn søppelmeldinger i rask rekkefølge.\n
-Vennligst kontakt sidens administrator på [SITE_EMAIL] for å få kontoen gjenopprettet eller rapporter hvis det ikke var du som forårsaket utestengelsen.\n\n
-Hilsen,\n[SITEUSERNAME]";
-// Authenticate Class
+Din konto på  ".fusion_get_settings('sitename')." ble tatt i å legge til for mange elementer i systemet i løpet av veldig kort tid fra IP [USER_IP], og har derfor blitt utestengt. Dette er gjort for å forhindre bots fra å sende inn søppelmeldinger i rask rekkefølge.\n
+Vennligst kontakt sidens administrator på ".fusion_get_settings('siteemail')." for å få kontoen gjenopprettet eller rapporter hvis det ikke var du som forårsaket utestengelsen.\n\n
+Hilsen,\n".fusion_get_settings('siteusername');
 $locale['global_450'] = "Suspendering automatisk opphevet av systemet";
-$locale['global_451'] = "Suspendering opphevet på [SITENAME]";
+$locale['global_451'] = "Suspendering opphevet på ".fusion_get_settings('sitename');
 $locale['global_452'] = "Hei USER_NAME,\n
-Suspenderingen av kontoen din på [SITEURL] har blitt opphevet. Her er innloggingsdetaljene:\n
+Suspenderingen av kontoen din på ".fusion_get_settings('siteurl')." har blitt opphevet. Her er innloggingsdetaljene:\n
 Brukernavn: USER_NAME\nPassord: Er skjult av sikkerhetsgrunner\n
 Hvis du har glemt passordet, kan du tilbakestille det via følgende lenke: LOST_PASSWORD\n\n
-Hilsen,\n[SITEUSERNAME]";
-$locale['global_453'] = "Hei USER_NAME,\nSuspenderingen av kontoen din på [SITEURL] har blitt opphevet.\n\n
-Hilsen,\n[SITEUSERNAME]";
-$locale['global_454'] = "Konto reaktivert på [SITENAME]";
+Hilsen,\n".fusion_get_settings('siteusername');
+$locale['global_453'] = "Hei USER_NAME,\nSuspenderingen av kontoen din på ".fusion_get_settings('siteurl')." har blitt opphevet.\n\n
+Hilsen,\n".fusion_get_settings('siteusername');
+$locale['global_454'] = "Konto reaktivert på ".fusion_get_settings('sitename');
 $locale['global_455'] = "Hei USER_NAME,\n
-Sist du logget inn ble kontoen din reaktivert på [SITEURL] og kontoen er ikke lengre merket som inaktiv.\n\n
-Hilsen,\n[SITEUSERNAME]";
-$locale['global_456'] = "Nytt passord varsel for [SITENAME]";
-$locale['global_457'] = "Hei USER_NAME,
-\n\nEt nytt passord er blitt laget for din konto på [SITENAME]. Vennligst finn det nye logg inn detaljene vedlagt:\n\n
-Brukernavn: USER_NAME\nPassord: [PASSWORD]\n\nHilsen,\n[SITEUSERNAME]";
-$locale['global_458'] = "Nytt passord er satt for USER_NAME";
-$locale['global_459'] = "Nytt passord er satt for USER_NAME, og e-post ble ikke sendt. Vennligst sørg for å fortelle brukeren av de nye detaljene.";
+Sist du logget inn ble kontoen din reaktivert på ".fusion_get_settings('siteurl')." og kontoen er ikke lengre merket som inaktiv.\n\n
+Hilsen,\n".fusion_get_settings('siteusername');
 // Function parsebytesize()
 $locale['global_460'] = "Tom";
 $locale['global_461'] = "Bytes";
@@ -325,8 +299,6 @@ $locale['global_500'] = "Du blir nå omdirigert til %s, vennligst vent. Hvis du 
 // Captcha Locales
 $locale['global_600'] = "Sikkerhetskode";
 $locale['recaptcha'] = "no";
-// Site links
-$locale['global_700'] = "Vis Mer";
 //Miscellaneous
 $locale['global_900'] = "Ikke mulig å konvertere HEX til DEC";
 //Language Selection
@@ -348,30 +320,28 @@ $locale['error'] = "Feil!";
 $locale['success'] = "Suksess!";
 $locale['enable'] = "Aktiver";
 $locale['disable'] = "Deaktiver";
-$locale['can'] = "kan";
-$locale['cannot'] = "kan ikke";
 $locale['no'] = "nei;
 $locale['yes'] = "ja";
 $locale['off'] = "av";
+$locale['can'] = 'kan';
+$locale['cannot'] = 'kan ikke';
 $locale['on'] = "på";
 $locale['or'] = "eller";
 $locale['by'] = "av";
 $locale['in'] = "i";
 $locale['of'] = "av";
 $locale['and'] = "og";
-$locale['na'] = "Ingen innformasjon tilgjengelig";
+$locale['na'] = "Ikke tilgjengelig";
 $locale['joined'] = "Registrert siden: ";
 // Navigation
 $locale['next'] = "Neste";
 $locale['previous'] = "Forige";
 $locale['back'] = "Tilbake";
-$locale['forward'] = "Vidersend";
-$locale['go'] = "Gå";
+$locale['forward'] = "Forover";
+$locale['go'] = "Gjør det";
 $locale['cancel'] = "Kanseler";
 $locale['move_up'] = "Flytt opp";
 $locale['move_down'] = "Flytt ned";
-$locale['load_more'] = "Last inn flere artikkeler";
-$locale['load_end'] = "Last fra Begynnelsen";
 // Actions
 $locale['add'] = "Legg til";
 $locale['save'] = "Lagre";
@@ -379,27 +349,16 @@ $locale['save_changes'] = "Lagre endringene";
 $locale['confirm'] = "Bekreft";
 $locale['update'] = "Oppdater";
 $locale['updated'] = "Oppdatert";
-$locale['remove'] = "Flytt";
+$locale['remove'] = "Fjern";
 $locale['delete'] = "Slett";
 $locale['search'] = "Søk";
 $locale['help'] = "Hjelp";
-$locale['register'] = "Registrere";
+$locale['register'] = "Opprett ny bruker";
 $locale['ban'] = "Forby";
 $locale['reactivate'] = "Reaktiver";
 $locale['user'] = "Bruker";
 $locale['promote'] = "Reklamere";
 $locale['show'] = "Vis";
-
-// Persons & Identifiers
-$locale['you'] = "Du";
-$locale['me'] = "Meg";
-$locale['they'] = "De";
-$locale['we'] = "Vi";
-$locale['us'] = "Oss";
-$locale['he'] = "Hann";
-$locale['she'] = "Hun";
-$locale['it'] = "Er";
-
 //Tables
 $locale['status'] = "Status";
 $locale['order'] = "Rekkefølge";
@@ -412,11 +371,11 @@ $locale['image'] = "Bilde";
 // Forms
 $locale['choose'] = "Vennligst Velg En...";
 $locale['no_opts'] = "Ingen Valg";
-$locale['root'] = "Som Parent";
+$locale['root'] = "Som forældre";
 $locale['choose-user'] = "Vennligst Velg en Bruker...";
 $locale['choose-location'] = "Vennligst Velg en Plassering";
-$locale['parent'] = "Lag som Ny Parent..";
-$locale['order'] = "Artikkel Bestilling";
+$locale['parent'] = "Lag en ny overkategori..";
+$locale['order'] = "Rekkefølge";
 $locale['status'] = "Status";
 $locale['note'] = "Lag et notat av denne artikkelen";
 $locale['publish'] = "Publisert";
@@ -438,8 +397,6 @@ $locale['browse'] = "Søk ...";
 $locale['close'] = "Steng";
 $locale['nopreview'] = "Det er ingenting og forhåndsvise";
 $locale['mark_as'] = "Merk som";
-$locale['preview'] = "Forhåndsvisning";
-$locale['custom'] = "Tilpasset";
 // Alignment
 $locale['left'] = "Venstre";
 $locale['center'] = "Senter";
@@ -485,4 +442,3 @@ $locale['fmt_weblink'] = "weblik|weblinks";
 $locale['fmt_week'] = "uke|uker";
 $locale['fmt_year'] = "år|år";
 // include Defender locales
-include __DIR__."/defender.php";

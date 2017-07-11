@@ -1,4 +1,4 @@
 <?php
-$locale['bb_center_description'] = "Midtstiller tekst";
-$locale['bb_center_usage'] = "Midtstill tekst";
+$locale['bb_center_description'] = "Midtstiller teksten";
+$locale['bb_center_usage'] = "Teksten som skal midtstilles";
 

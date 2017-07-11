@@ -1,4 +1,4 @@
 <?php
-$locale['pl_cp_title'] = "Tilpassede Sider";
-$locale['pl_cp_desc'] = "Aktiver Permalenker for Tilpassede Sider.";
+$locale['pl_cp_title'] = "Brukeropprettede sider";
+$locale['pl_cp_desc'] = "Aktiver permalenker for brukeropprettede sider.";
 

@@ -1,3 +1,3 @@
 <?php
-$locale['pl_homepage_title'] = "Hjemmeside";
-$locale['pl_homepage_desc'] = "Aktiver Permalenker for Hjemmesidens lenke på denne siden.";
+$locale['pl_homepage_title'] = "Hjemmesiden";
+$locale['pl_homepage_desc'] = "Aktiver permalenker for hjemmesidens lenke på denne siden.";

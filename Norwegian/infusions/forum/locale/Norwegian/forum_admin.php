@@ -80,32 +80,6 @@ $locale['forum_072'] = "Tråd Slettet: ";
 $locale['forum_080'] = "Tråd pr. Side: ";
 $locale['forum_081'] = "Innlegg pr. Side: ";
 
-$locale['forum_090'] ='Form Mood brukes til mikro administrere forum interaktivitet mellom brukere';
-$locale['forum_091'] ='Legg til Mood';
-$locale['forum_092'] ='Rediger Mood';
-$locale['forum_093'] ='Nåværende Moods';
-$locale['forum_094'] ='Mood Navn Språk';
-$locale['forum_095'] ='Mood Beskrivelse Språk';
-$locale['forum_096'] = 'Som';
-$locale['forum_097'] = 'Liker';
-$locale['forum_098'] = 'Enkelt ord forkortelse for å beskrive mood (f.eks Liker)';
-$locale['forum_099'] = 'Mood Knapp Ikon';
-$locale['forum_100'] = 'Mood Knapp Status';
-$locale['forum_101'] = 'Skjule og ikke bruk denne Mood';
-$locale['forum_102'] = 'Denne Mood er aktiv';
-$locale['forum_103'] = 'Mood Varsel Nivå';
-$locale['forum_104'] = 'Mood Knapps Synlighet';
-$locale['forum_105'] = 'Lagre Mood';
-$locale['forum_106'] = 'Update Mood';
-$locale['forum_107'] = 'Mood Navn';
-$locale['forum_108'] = 'Mood Beskrivelse';
-$locale['forum_109'] = 'Mood Ikon';
-$locale['forum_110'] = 'Mood Varsel';
-$locale['forum_111'] = 'Mood Synlighet';
-$locale['forum_112'] = 'Handlinger';
-$locale['forum_113'] = '%s %s dette innlegg';
-$locale['forum_114'] = 'Det er ingen forum mood tilgjengelig';
-$locale['forum_115'] = 'Mood Teller';
 
 /* Permissions */
 $locale['forum_desc_000'] = 'Innlegg Tillatelser';
@@ -147,16 +121,11 @@ $locale['forum_notice_9'] = 'Forum detaljer oppdatert.';
 $locale['forum_notice_10'] = 'Forum tillatelser oppdaterte.';
 $locale['forum_notice_11'] = "Forum beskjæring ferdig.";
 $locale['forum_notice_13'] = 'Forum ID %d har blitt sortert og er nå i orden %d';
-$locale['forum_notice_14'] = 'Forum Mood slettet';
-$locale['forum_notice_15'] = 'Forum Mood opprettet';
-$locale['forum_notice_16'] = 'Forum Mood oppdatert';
 $locale['forum_notice_na'] = 'Ugyldig forum handling';
 
 $locale['forum_admin_000'] = 'Forum Ledelse';
 $locale['forum_admin_001'] = 'Forum Rangsjering';
 $locale['forum_admin_002'] = 'Forum Tags';
-$locale['forum_admin_003'] = 'Forum Innstillinger';
-$locale['forum_admin_004'] = 'Forum Mood';
 
 /* Etc */
 $locale['delete_notice'] = 'Slett Forum? Merk: Denne handlingen er ikke reverserbar.';

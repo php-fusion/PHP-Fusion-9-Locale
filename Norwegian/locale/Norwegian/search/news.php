@@ -1,9 +1,9 @@
 <?php
 $locale['n400'] = "Nyheter";
-$locale['n401'] = "Nyhets element";
-$locale['n402'] = "Nyhets elementer";
+$locale['n401'] = "Nyhet";
+$locale['n402'] = "Nyheter";
 $locale['n403'] = "funnet i";
-$locale['n404'] = "nyhets emne";
-$locale['n405'] = "nyhets tekst";
-$locale['n406'] = "utvidet nyhets tekst";
+$locale['n404'] = "nyhets overskrift";
+$locale['n405'] = "nyhets inntroduksjon";
+$locale['n406'] = "Nyhets tekst";
 

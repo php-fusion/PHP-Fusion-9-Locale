@@ -1,4 +1,4 @@
 <?php
-$locale['pl_submit_title'] = "Innleveringer";
-$locale['pl_submit_desc'] = "Aktiver Permalenker for Innleverings Lenker på denne siden.";
+$locale['pl_submit_title'] = "Bruker forslag";
+$locale['pl_submit_desc'] = "Aktiver permalenker for alle forslags lenker på denne siden.";
 

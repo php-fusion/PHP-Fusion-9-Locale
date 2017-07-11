@@ -183,6 +183,5 @@ $locale['615'] = "Albums beskrivelse farge";
 $locale['616'] = "Bildes tittel farge";
 $locale['617'] = "Skal vannmerke lagres?";
 $locale['618'] = "Reduserer belastningen på serveren, men bruker mere plass";
-$locale['619'] = "Slett eksisterende vannmerker";
+$locale['619'] = "Slett vannmerker";
 $locale['620'] = "Slett eksisterende vannmerker?";
-$locale['621'] = "Last opp Bilde";

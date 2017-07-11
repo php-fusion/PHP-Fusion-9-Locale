@@ -1,4 +1,4 @@
 <?php
 $locale['pl_articles_title'] = "Artikler";
-$locale['pl_articles_desc'] = "Slå permalenker for artikler på denne siden.";
+$locale['pl_articles_desc'] = "Aktiver permalenker for artikler på denne siden.";
 

@@ -1,9 +1,8 @@
 <?php
 // Contact Form
-$locale['400'] = "Kontakt meg";
-$locale['401'] = "Det er flere måter du kan kontakte meg, du kan sende en e-post direkte til 
-".hide_email($settings['siteemail']).". Hvis du er medlem kan du sende en
-<a href='messages.php?msg_send=1'>Privat melding</a>.
+$locale['400'] = "Kontakt siden";
+$locale['401'] = "Det er flere måter du kan kontakte siden på, du kan sende en e-post direkte til adressen ".hide_email($settings['siteemail']).". 
+Hvis du er medlem på siden kan du sende administrator en privat melding.<a href='messages.php?msg_send=1'>Privat melding</a>.
 Alternativt kan du bruke dette skjemaet som sender meldingen din som e-post til meg.";
 $locale['402'] = "Navn:";
 $locale['403'] = "E-postadresse:";

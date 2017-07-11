@@ -4,6 +4,7 @@ $locale['SB_desc'] = "Meldingsboks Panel";
 $locale['SB_admin1'] = "Meldingsboks Admin";
 
 // Shoutbox
+$locale['SB_title'] = "Replikboks";
 $locale['SB_name'] = "Navn:";
 $locale['SB_message'] = "Melding:";
 $locale['SB_shout'] = "Melding";
@@ -13,8 +14,7 @@ $locale['SB_no_msgs'] = "Ingen meldinger er skrevet.";
 $locale['SB_delete'] = "Slett";
 $locale['SB_validation_code'] = "Sikkerhetskode:";
 $locale['SB_enter_validation_code'] = "Skriv inn Sikkerhetskode:";
-$locale['SB_edit_shout'] = "Rediger melding";
-
+$locale['SB_edit_shout'] = "Rediger replikk";
 // Shoutbox messages
 $locale['SB_shout_updated'] = "Meldingen er oppdatert";
 $locale['SB_shout_deleted'] = "Meldingen er slettet";

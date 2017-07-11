@@ -1,7 +1,7 @@
 <?php
 // New locale for Quantum Fields
 $locale['fields_0100'] = 'Denne siden legger feltet direkte inn i tabellen: %s';
-$locale['fields_0101'] = "Denne siden legger felt direkte inn i tabellen: %s, og kombinerer seg med DB_USERS via kolonne %s";
+$locale['fields_0101'] = "Denne siden legger felt direkte inn i tabellen: <strong>%s</strong>, og kombinerer seg med DB_USERS via kolonne <strong>%s</strong>";
 $locale['fields_0102'] = "Det er ikke lagt til felt i ";
 $locale['fields_0103'] = "Ingen side er opprettet. Vennligst legg til side ved å lage en side som en kategori.";
 $locale['fields_0104'] = "Feltnavn eksisterte i %s og det lykktes ikke å endre navnet på kolonnen. Velg et annet navn.";
@@ -14,15 +14,6 @@ $locale['fields_0110'] = "Tabellen eksisterer allerede. Velg et annet tabellnavn
 $locale['fields_0111'] = "Brukerfeltets side kan utvides til å lese andre databaser på visning.";
 $locale['fields_0112'] = "Hvilken tabell brukes først og fremst av denne siden?";
 $locale['fields_0113'] = "Hvilken kolonne i det primære er din bruker ID kolonne?";
-$locale['field_0200'] = "Felt kategorien har blitt slettet";
-$locale['field_0201'] = "Feltet har blitt slettet";
-$locale['field_0202'] = "Felt handling kanselert";
-$locale['field_0203'] = "Feltet har blitt oppdatert";
-$locale['field_0204'] = "Felt har blitt lagt til";
-$locale['field_0205'] = "Modul ikke funnet";
-$locale['field_0206'] = "Kategori ikke funnet";
-$locale['field_0207'] = "Kategori har blitt oppdatert";
-$locale['field_0208'] = "Kategori har blitt lagt til";
 
 $locale['fields_0300'] = "Felter";
 $locale['fields_0301'] = "Moduler";

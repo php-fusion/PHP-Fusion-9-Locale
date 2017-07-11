@@ -139,4 +139,3 @@ $locale['935'] = "Bredde x Høyde";
 $locale['936'] = "Maksimal filstørrelse for skjermbilde (bytes):";
 $locale['937'] = "Maksimal størrelse for skjermbilde:";
 $locale['938'] = "Aktiver skjermbilde?";
-$locale['939'] = "Nedlastings elementer pr. side";

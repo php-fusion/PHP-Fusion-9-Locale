@@ -4,7 +4,6 @@ $locale['400'] = "Database Gjenoppretting";
 $locale['401'] = "Feil";
 $locale['402'] = "Sikkerhetskopiens filformat er feil";
 $locale['403'] = "Lukk";
-$locale['404'] = "Database Gjenoppretting Ferdig";
 // Backup File Information
 $locale['410'] = "Informasjon om Sikkerhetskopi";
 $locale['411'] = "Gjenopprett Fil Informasjonen";
@@ -40,6 +39,7 @@ $locale['457'] = "Database Tabeller";
 $locale['458'] = "kjerne";
 $locale['459'] = "Start Kopiering";
 $locale['460'] = "Admin Passord:";
+$locale['460b'] = "Du må oppgi ditt administratorpassord";
 $locale['461'] = "Påkrevd Informasjon";
 // Backup List
 $locale['480'] = "Gjenopprett Sikkerhetskopi";

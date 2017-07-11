@@ -1,4 +1,5 @@
 <?php
+// Infusion titles & description
 $locale['apw_title'] = "Tilbakestilling av Administrator Passord";
 $locale['apw_desc'] = "Endre Administrator Logg inn/admin passord";
 $locale['apw_admin1'] = "Tilbakestill Administrator";
@@ -15,6 +16,7 @@ Admin Passord: [NEW_ADMIN_PASS]\n\nGrunnen til denne tilbakestillingen er: [RESE
 $locale['409'] = "Hei [USER_NAME], Ditt logg inn og admin passord er blitt tilbakestilt på [SITEURL]:\n\n
 Logg inn Passord: [NEW_PASS]\nAdmin Passord: [NEW_ADMIN_PASS]\n\nGrunnen til denne tilbakestillingen er: [RESET_MESSAGE]\n
 Venlig hilsen, \n[ADMIN]";
+
 
 $locale['410'] = "Tilbakestillings Resultat";
 $locale['411'] = "Merknad: Admin Passord ikke angitt eller feil.";

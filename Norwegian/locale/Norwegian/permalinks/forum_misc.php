@@ -1,4 +1,4 @@
 <?php
-$locale['pl_post_title'] = "Forum Innlegg";
-$locale['pl_post_desc'] = "Aktiver Permalenker for Foru Innlegg Lenker.";
+$locale['pl_post_title'] = "Forum innlegg";
+$locale['pl_post_desc'] = "Aktiver Permalenker for innlegg i forum.";
 

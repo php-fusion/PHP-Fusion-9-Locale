@@ -1,6 +1,6 @@
 <?php
-$locale['m400'] = "Medlemmer";
-$locale['m401'] = "Medlem";
-$locale['m402'] = "Medlemmer";
-$locale['m403'] = "Profiler er kun synlige for medlemmer!";
+$locale['m400'] = "Brukere";
+$locale['m401'] = "Bruker";
+$locale['m402'] = "Brukere";
+$locale['m403'] = "Profilen er kun synlig for registrerte brukere!";
 

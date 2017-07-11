@@ -1,4 +1,4 @@
 <?php
 $locale['pl_photo_title'] = "Bilder";
-$locale['pl_photo_desc'] = "Aktiver Permalenker for  Bilders lenker på denne siden.";
+$locale['pl_photo_desc'] = "Aktiver permalenker for  bilder i fotoalbums på denne siden.";
 

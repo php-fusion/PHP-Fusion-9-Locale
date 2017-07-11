@@ -1,4 +1,4 @@
 <?php
-$locale['bb_hide'] = "Melding for admins";
-$locale['bb_hide_description'] = "Melding synlig kun for admins";
-$locale['bb_hide_usage'] = "Tekst synlig kun for admins";
+$locale['bb_hide'] = "Melding til administratorer";
+$locale['bb_hide_description'] = "Meldingen er kun synlig for administratorer";
+$locale['bb_hide_usage'] = "Kun synelig for administratoerer";

@@ -1,12 +1,12 @@
 <?php
-// Smiley titles
+// Edit/Save/Delete Smiley Messages
 $locale['400'] = "Nåværende Smilefjes";
 $locale['401'] = "Legg til Smilefjes";
 $locale['402'] = "Endre Smilefjes";
 // Smiley messages
-$locale['410'] = "Smilefjes lagt til";
-$locale['411'] = "Smilefjes oppdatert";
-$locale['412'] = "Smilefjes slettet";
+$locale['410'] = "Smilefjes er lagt til";
+$locale['411'] = "Smilefjes er oppdatert";
+$locale['412'] = "Smilefjes er slettet";
 $locale['413'] = "Kunne ikke oppdatere smilefjes";
 $locale['414'] = "Kunne ikke legge til smilefjes";
 $locale['415'] = "Smilefjeskoden brukes allerede.";
@@ -21,7 +21,7 @@ $locale['424'] = "Forhåndsvising av Smilefjes:";
 $locale['430'] = "Kode";
 $locale['431'] = "Bilde";
 $locale['432'] = "Tekst";
-$locale['433'] = "Valg";
+$locale['433'] = "Valgmuligheter";
 $locale['434'] = "Endre";
 $locale['435'] = "Slett";
 $locale['436'] = "Ingen smilefjes lagt til.";

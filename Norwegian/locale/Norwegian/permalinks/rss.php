@@ -1,4 +1,4 @@
 <?php
-$locale['pl_rss_title'] = "RSS Feeds";
-$locale['pl_rss_desc'] = "Aktiver Permalenker for lenker til RSS feeds.";
+$locale['pl_rss_title'] = "RSS feeds";
+$locale['pl_rss_desc'] = "Aktiver permalenker for  RSS feeds på denne siden.";
 

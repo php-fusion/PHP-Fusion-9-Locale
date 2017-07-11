@@ -1,12 +1,14 @@
 <?php
 $locale['r100'] = "Vurderinger";
-$locale['r101'] = "Ingen Vurderinger er foretatt enda.";
-$locale['r102'] = "Fjern Vurdering";
-$locale['r103'] = "Publiser Vurdering";
-$locale['r104'] = "Du kan bare stemme om du er medlem.\n\nVennligst [RATING_ACTION] å stemme.";
-$locale['r105'] = "Du vurderte dette som %s den %s";
-$locale['r106'] = "Vennligst velg Din Vurdering";
-$locale['r107'] = "Velg Vurdering:";
+$locale['r101'] = "Teksten er ikke vurdert.";
+$locale['r102'] = "Fjern vurdering";
+$locale['r103'] = "Lagre vurdering";
+$locale['r104'] = "Du må være registrert bruker for å kunne stemme<br /><br />
+Du må <a href='".BASEDIR."login.php'> logge inn </a>".($settings['enable_registration'] ? " eller 
+<a href='".BASEDIR."register.php'>registrere deg som bruker</a>" : "")." for å kunne vurdere.";
+$locale['r105'] = "Du vurderte denne teksten som %s den %s";
+$locale['r106'] = "Velg en vurdering";
+$locale['r107'] = "Velg her:";
 $locale['r108'] = "Ingen Stemmer";
 $locale['r109'] = "Stemme";
 $locale['r110'] = "Stemmer";

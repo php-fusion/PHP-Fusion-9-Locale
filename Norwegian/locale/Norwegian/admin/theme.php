@@ -35,6 +35,9 @@ $locale['theme_1031'] = "Dette tema støtter ikke miniprogrammer for tema";
 $locale['theme_1032'] = "Det er miniprogrammer i temaet som ikke er innstalert. Ønsker du å innstalere de?";
 $locale['theme_1033'] = "ADVARSEL: Alle data vil bli mistet om du avinnstalerer. Ønsker du  å forsette";
 $locale['theme_1034'] = "Legg til Nye Forhåndsinnstillinger";
+$locale['theme_1035'] = "Ingen beskrivelse er tilgjengelig for dette tema.";
+$locale['theme_1036'] = "Les meg";
+$locale['theme_1037'] = "Velg Tema Pakke";
 
 $locale['theme_2001'] = "Standard Fonter";
 $locale['theme_2002'] = "Tema Komponenter";
@@ -113,7 +116,6 @@ $locale['theme_4013'] = "Lenke Farge";
 $locale['theme_4014'] = "Tekst Stil";
 $locale['theme_4015'] = "Horisontal Tekst Stil";
 $locale['theme_4016'] = "Lenke Stil";
-$locale['theme_4016'] = "Horisontal Tekst Stil";
 
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "Fet";
@@ -143,3 +145,4 @@ $locale['theme_error_005'] = "Filen kunne ikke verifiseres. Vennligst pakk ut zi
 $locale['theme_error_006'] = "Din server støtter ikke ZipArkiv. Vennligst pakk ut zip filen og gjør en manuell FTP opplasting";
 $locale['theme_error_007'] = "Tema kan ikke gjenopprettes på grunn av følgende grunner(s): - Variabler ble ikke satt eller formen har feil";
 $locale['theme_error_008'] = "Kompilator feil. Tema ble ikke lastet opp.";
+$locale['theme_error_009'] = "Filen theme.php ble ikke funnet.";

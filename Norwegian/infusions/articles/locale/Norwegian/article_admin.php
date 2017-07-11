@@ -8,41 +8,6 @@ $locale['articles_0003'] = "Rediger Artikkel";
 $locale['articles_0020'] = "Artikkel Kategorier";
 $locale['articles_0021'] = "Legg til Artikkel Kategori";
 $locale['articles_0022'] = "Rediger Artikkel Kategori";
-$locale['articles_0023'] = "Alle Artikkel Oppføringer";
-$locale['articles_0024'] = "Foreløpig vises %d av %d totale artikkeloppføringer";
-$locale['articles_0025'] = "Filtrer etter:";
-$locale['articles_0026'] = "Filter viser artikler av";
-$locale['articles_0027'] = "Artikkel Kategori Redigeringsprogram";
-// Article Settings
-$locale['articles_0030'] = "Artikkel Innstillinger";
-$locale['articles_0031'] = "Konfigurasjonsinnstillingene for Artikkel System";
-$locale['articles_0032'] = "Artikler elementer pr. side";
-$locale['articles_0033'] = "Tillat artikkel innlegg?";
-$locale['articles_0034'] = "Krever utvidet artikler?";
-// Article Submissions
-$locale['articles_0040'] = "Artikkel Innlegg";
-$locale['articles_0041'] = "Innlegget klart for Omtale";
-$locale['articles_0042'] = "Det er for tiden ingen artikkel innlegg";
-$locale['articles_0043'] = "Beklager, for tiden aksepterer vi ikke noen artikkeler på denne siden.";
-$locale['articles_0043a'] = "Artikkel innlegg er deaktivert. Det er ingen kategori for det aktuelle språket.";
-$locale['articles_0044'] = "Det er for tiden %s som venter på din vurdering.";
-$locale['articles_0045'] = "Forhåndsvis Artikkel";
-$locale['articles_0046'] = "Innleggets Forfatter";
-$locale['articles_0047'] = "Innleggets Tid";
-$locale['articles_0048'] = "Innleggets Id";
-$locale['articles_0049'] = "Artikkel Innlegget har blitt slettet";
-$locale['articles_0050'] = "Artikkel Innlegget har blitt publisert";
-$locale['articles_0051'] = "Artikkel Innlegget er lagret som et utkast";
-$locale['articles_0052'] = "Artikkelen over ble lagt til av ";
-$locale['articles_0053'] = "Lagt inn av ";
-
-$locale['articles_0060'] = "Legg til Artikkel";
-$locale['articles_0061'] = "Takk for at du la inn din Artikkelen";
-$locale['articles_0062'] = "Legg til et annen Artikkel element";
-$locale['articles_0063'] = "Bruk følgende skjema for å legge til Artikkel. Ditt innlegg vil bli revidert av en 
-Administrator. [SITENAME] forbeholder seg retten til å endre eller redigere alle innlegg. Artikkelen
-bør være aktuelt for innholdet på dette nettstedet. Uegnede innlegg vil bli slettet.";
-$locale['articles_0064'] = "Retuner til [SITENAME]";
 // Article messages
 $locale['articles_0100'] = "Artikkel er lagt til";
 $locale['articles_0101'] = "Artikkel er oppdatert";
@@ -58,8 +23,7 @@ $locale['articles_0200'] = "Emne:";
 $locale['articles_0201'] = "Kategori:";
 $locale['articles_0202'] = "Introduksjon:";
 $locale['articles_0203'] = "Artikkel:";
-$locale['articles_0204'] = "Søkeord";
-$locale['articles_0204a'] = "Klikk enter etter hvert søkeord";
+$locale['articles_0204'] = "Søkeord (du skal trykke ENTER for hvert nytt søkeord";
 $locale['articles_0205'] = "Lagre som Utkast";
 $locale['articles_0206'] = "Automatisk Linjeskift";
 $locale['articles_0207'] = "Aktiver kommentarer";
@@ -69,8 +33,6 @@ $locale['articles_0210'] = "[UTKAST]";
 $locale['articles_0211'] = "Synlighet";
 $locale['articles_0240'] = "Forhåndsvis Artikkel";
 $locale['articles_0241'] = "Lagre Artikkel";
-$locale['articles_0242'] = "Publiser Artikkel";
-$locale['articles_0243'] = "Slett Artikkel";
 // Popup Error/Warning Messages
 $locale['articles_0250'] = "Vennligst oppgi et emne";
 $locale['articles_0251'] = "Slett denne Artikkel?";
@@ -97,7 +59,6 @@ $locale['articles_0341'] = "Valgmuligheter";
 $locale['edit'] = "Rediger";
 $locale['delete'] = "Slett";
 $locale['articles_0342'] = "Ingen Artikkel Kategori definert";
-$locale['articles_0343'] = "Ingen Artikkel definert";
 // Delete Article category
 $locale['articles_0350'] = "Slett artikkel kategori?";
 // Error Messages

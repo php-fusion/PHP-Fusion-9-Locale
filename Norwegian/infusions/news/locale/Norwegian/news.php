@@ -14,4 +14,4 @@ $locale['news_0012'] = "Mest Kommenterte Nyhet";
 $locale['news_0013'] = "Topp Avstemt Nyhet";
 $locale['news_0014'] = "Miniatyr visning";
 $locale['news_0015'] = "Listevisning";
-$locale['news_0016'] = "Ingen Kategorier er definert.";
+

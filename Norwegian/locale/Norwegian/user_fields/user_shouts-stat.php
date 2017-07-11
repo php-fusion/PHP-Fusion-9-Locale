@@ -1,3 +1,3 @@
 <?php
-$locale['uf_shouts-stat'] = "Replikk Innlegg";
-$locale['uf_shouts-stat_desc'] = "Viser antall replikk innlegg.";
+$locale['uf_shouts-stat'] = "Replikker";
+$locale['uf_shouts-stat_desc'] = "Viser antall replikker.";

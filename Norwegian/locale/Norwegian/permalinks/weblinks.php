@@ -1,4 +1,4 @@
 <?php
-$locale['pl_weblinks_title'] = "Nett Lenker";
-$locale['pl_weblinks_desc'] = "Aktiver Permalenker for Nett Lenker på denne siden.";
+$locale['pl_weblinks_title'] = "Lenker";
+$locale['pl_weblinks_desc'] = "Aktiver permalenker for Lenker på denne siden.";
 

@@ -1,4 +1,4 @@
 <?php
-$locale['pl_cpnav_title'] = "Tilpassede Siders Navigasjon";
-$locale['pl_cpnav_desc'] = "Aktiver Permalenker for Tilpassede Siders Navigasjon på denne siden.";
+$locale['pl_cpnav_title'] = "Navigasjon for brukeropprettede sider";
+$locale['pl_cpnav_desc'] = "Aktiver permalenker for brukeropprettede siders navigasjon på denne siden.";
 

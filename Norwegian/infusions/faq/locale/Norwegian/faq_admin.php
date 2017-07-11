@@ -1,39 +1,41 @@
 <?php
-$locale['faq_0100'] = "FAQs";
-$locale['faq_0101'] = "Nåværende FAQs";
-$locale['faq_0102'] = "FAQ Kategori";
-$locale['faq_0102b'] = "Legg til FAQ";
-$locale['faq_0102c'] = "Rediger FAQ";
-$locale['faq_0102d'] = "Rediger FAQ Kategori";
-$locale['faq_0103'] = "Kategori Navn";
-$locale['faq_0104'] = "Smørsmål Teller";
-$locale['faq_0105'] = "Kategori Id";
-$locale['faq_0106'] = "Alternativer";
-$locale['faq_0107'] = "Rediger";
-$locale['faq_0108'] = "Slett";
-$locale['faq_0109'] = "Slette denne FAQ Kategorien?";
-$locale['faq_0110'] = "Spørsmål:";
-$locale['faq_0111'] = "Svar:";
-$locale['faq_0112'] = "Slette dette spørsmålet?";
-$locale['faq_0113'] = "Det er ikke noen Ofte Stilte Spørsmål definert";
-$locale['faq_0114'] = "Oppføring %d av totalt %d FAQs oppføringer";
-$locale['faq_0115'] = "Oppføring %d av totalt %d Kategorier";
-$locale['faq_0116'] = "Det er ikke noe FAQ Kategori definert";
-// Faq Category form
-$locale['faq_0200'] = "Kategori Navn";
-$locale['faq_0201'] = "Skriv inn kategori navn";
-$locale['faq_0202'] = "Kategori Beskrivelse";
-$locale['faq_0203'] = "Lagre Kategori";
-$locale['faq_0204'] = "FAQ Kategori lagret";
-$locale['faq_0205'] = "FAQ Kategori oppdatert";
-$locale['faq_0206'] = "FAQ Kategori slettet";
-$locale['faq_0207'] = "FAQ Kategori kan ikke slette fordi det er %d spørsmål i denne Kategorien";
-// Faq Form
-$locale['faq_0300'] = "Kategori";
-$locale['faq_0301'] = "Spørsmål";
-$locale['faq_0302'] = "Svar";
-$locale['faq_0303'] = "Lagre FAQ";
-$locale['faq_0304'] = "FAQ er ikke tilgjengelig akkurat nå fordi det er ingen FAQ Kategori definert. Vennligst klikk [LINK]her[/LINK] for å legge til FAQ kategori";
-$locale['faq_0305'] = "FAQ lagt til";
-$locale['faq_0306'] = "FAQ oppdatert";
-$locale['faq_0307'] = "FAQ slettet";
+// Delete FAQ Category
+$locale['400'] = "Legg til en FAQ-kategori";
+$locale['401'] = "Rediger FAQ-kategori";
+// FAQ Category messages
+$locale['410'] = "Kategorien er lagt til";
+$locale['411'] = "Kategorien er oppdatert";
+$locale['412'] = "Kategorien kunne ikke slettes";
+$locale['413'] = "Det er tilknyttet spørsmål og svar til denne kategori";
+$locale['414'] = "Kategorien er slettet";
+// FAQ Category form
+// Add/Edit FAQ Category/Forum Titles
+$locale['420'] = "Kategoriens navn";
+$locale['421'] = "Beskrivelse";
+$locale['422'] = "Lagre kategori";
+// FAQ titles
+$locale['500'] = "Legg til FAQ";
+$locale['501'] = "Rediger FAQ";
+$locale['502'] = "Aktuelle spørsmål og svar";
+// FAQ messages
+$locale['510'] = "Denne FAQ er lagt til";
+$locale['511'] = "Denne FAQ er oppdateret";
+$locale['512'] = "Denne FAQ er slettet";
+// FAQ Form
+$locale['520'] = "Kategori";
+$locale['521'] = "Spørsmål";
+$locale['522'] = "Svar";
+$locale['523'] = "Lagre FAQ";
+// Current FAQs
+$locale['540'] = "Kategori / Spørsmål";
+$locale['541'] = "Valgmuligheter";
+$locale['542'] = "Rediger";
+$locale['543'] = "Slett";
+$locale['544'] = "Det er ikke lagt til FAQs.";
+$locale['545'] = "Ingen kategorier er definert.";
+$locale['546'] = "Skal denne kategori slettes?";
+$locale['547'] = "Skal denne FAQ slettes?";
+// Error Messages
+$locale['460'] = "Vennligst oppgi et kategorinavn.";
+$locale['461'] = "Denne kategorien eksisterer allerede.";
+$locale['462'] = "Det må oppgis et spørsmål og et svar.";
