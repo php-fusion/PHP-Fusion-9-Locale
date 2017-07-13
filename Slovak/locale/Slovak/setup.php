@@ -64,7 +64,7 @@ $locale['setup_0125'] = "Prebieha odinštalovanie. Prosím čakajte...";
 $locale['setup_0130'] = "Xdebug nastavenia";
 $locale['setup_0131'] = "xdebug.max_nesting_level je nastavený na";
 $locale['setup_0132'] = "Nastavte {%code%} v konfigurácii PHP ako niektoré stránky v PHP-Fusion nebudú fungovať, ak je toto nastavenie príliš nízke.";
-$locale['setup_0134'] = "Všetky požadované súbory prešli kontrolou zapisovateľnosti";
+$locale['setup_0134'] = "Všetky požadované súbory prešli kontrolou zapísateľnosti";
 $locale['setup_0135'] = "Ak chcete pokračovať v inštalácii, mali by byť zapisovateľné nasledujúce súbory a priečinky. Ak chcete pokračovať, atribúty súborov na 755 alebo 777";
 $locale['setup_0136'] = "Nezapisovateľné (zlyhalo)";
 $locale['setup_0137'] = "Zapisovateľné (prešlo)";
@@ -99,7 +99,7 @@ $locale['setup_1020'] = "Súbor .htaccess bol vytvorený / aktualizovaný";
 // Step 2
 $locale['setup_1090'] = "Súbory";
 $locale['setup_1091'] = "Stav";
-$locale['setup_1092'] = "Konfigurácia databázy a ovládačov";
+$locale['setup_1092'] = "Konfigurácia databázy a ovládača";
 $locale['setup_1106'] = "Diagnostika požiadaviek servera a súborov";
 // Step 3 - Access criteria
 $locale['setup_1200'] = "Nastavenia databázy a cesty servera";
