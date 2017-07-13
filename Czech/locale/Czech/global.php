@@ -280,7 +280,7 @@ $locale['global_194'] = "Tento účet je momentálně pozastaven.";
 $locale['global_195'] = "Tento účet nebyl aktivován.";
 $locale['global_196'] = "Neplatné uživatelské jméno či heslo.";
 $locale['global_197'] = "Prosím, počkejte, než vás převezmeme ...\n\n[ [LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK] ]";
-$locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR DETEKTOVÁN, PROSÍM VYMAZEJTE SOUBOR INSTALL.PHP";
+$locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR DETEKOVÁN, PROSÍM VYMAZEJTE SOUBOR INSTALL.PHP";
 $locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, klepněte na tlačítko OK [LINK]Upravit profil[/LINK] nastavit.";
 //Tituly
 $locale['global_200'] = " - ";

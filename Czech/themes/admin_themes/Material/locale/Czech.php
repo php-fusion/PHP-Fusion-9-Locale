@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: /themes/admin_themes_Material/locale/Czech.php
+| Filename: /themes/admin_themes/Material/locale/Czech.php
 | Author: RobiNN
 | Translate: Kvido, phpfusion.cz, 27.05.2017
 +--------------------------------------------------------+
@@ -17,7 +17,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['material_001'] = 'Vyhledávání (více než 2 znaky)';
-$locale['material_002'] = 'Nastavení témat';
+$locale['material_002'] = 'Nastavení témata';
 $locale['material_003'] = 'Skrýt postranní panel';
 $locale['material_004'] = 'Malý postranní panel';
 $locale['material_005'] = 'Pevné menu';
@@ -28,10 +28,10 @@ $locale['material_009'] = 'Zprávy';
 $locale['material_010'] = 'Číst';
 $locale['material_011'] = 'Nová zpráva';
 $locale['material_012'] = 'Neexistují žádné zprávy';
-$locale['material_013'] = 'Vložil';
+$locale['material_013'] = 'Vytvořil';
 // Zprávy o výsledku
-$locale['material_100'] = 'Selhání ověření systému';
-$locale['material_101'] = 'Neúspěšné bezpečnostní opatření systému';
-$locale['material_102'] = 'Stránky se nezdařily';
-$locale['material_103'] = 'Hledaný řetězec je příliš krátký';
+$locale['material_100'] = 'Selhal systém validace';
+$locale['material_101'] = 'Selhal bezpečnostní systém opatření';
+$locale['material_102'] = 'Stránky se nepodařilo načíst';
+$locale['material_103'] = 'Hledaný výraz je příliš krátký';
 $locale['material_104'] = 'Nebyly nalezeny žádné výsledky';
