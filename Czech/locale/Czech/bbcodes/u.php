@@ -1,4 +1,4 @@
 <?php
-$locale['bb_u_description'] = "Zobrazí text podtrženým písmem";
-$locale['bb_u_usage'] = "Text je podtržený";
-?>
+$locale['bb_u_description'] = "Podtrhne vybraný text";
+$locale['bb_u_usage'] = "Podtržení textu";
+

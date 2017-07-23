@@ -58,7 +58,10 @@ $locale['u111'] = "%u vartotojai";
 $locale['u112'] = "%u vartotojai";
 $locale['u113'] = "Vartotojo vardas";
 $locale['u114'] = "Vartotojo tipas";
+$locale['u115'] = "Kalba";
+$locale['u116'] = "Šioje grupėje nėra narių.";
 // User name and email
+$locale['u119'] = "Vartotojo varde yra.";
 $locale['u120'] = "Neleistini simboliai vartotojo varde.";
 $locale['u121'] = "Toks vartotojo vardas jau užimtas.";
 $locale['u122'] = "Vartotojo vardas negali būti paliktas tuščias.";
@@ -156,3 +159,5 @@ Pastaba: Jūs turite būti prisijungęs.\n
 Linkėjimai,
 [SITEUSERNAME]\n\r
 [SITENAME]";
+
+$locale['u210'] = "Vartotojo reputacija";

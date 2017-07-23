@@ -1,4 +1,7 @@
 <?php
+/**
+ * @Translated by ALTUN Web Site(https://alapelit.com)
+ */
 $locale['WLS_0001'] = "Web Bağlantıları";
 $locale['WLS_0002'] = "Web Bağlantısı Ekle";
 $locale['WLS_0003'] = "Web Bağlantısını Düzenle";
@@ -57,6 +60,7 @@ $locale['WLS_0202'] = "Gönderen";
 $locale['WLS_0203'] = "Tarih";
 $locale['WLS_0204'] = "Seçenekler";
 $locale['WLS_0205'] = "Gönderi İncelemesi";
+$locale['WLS_0206'] = "Tümünü Seç";
 $locale['WLS_0252'] = "Web Bağlantısının Adı.";
 $locale['WLS_0253'] = "Web Bağlantısı URL'si";
 $locale['WLS_0254'] = "Açıklama";
@@ -79,7 +83,7 @@ $locale['WLS_0911'] = "Gönderi için teşekkürler.";
 $locale['WLS_0912'] = "Başka Web Bağlantısı Gönder";
 $locale['WLS_0913'] = "[SITENAME] sayfasına geri dön";
 $locale['WLS_0920'] = "Web Bağlantısı göndermek için aşağıdaki formu kullanın. Gönderiniz bir yönetici tarafından incelenecektir.
-[SITENAME], herhangi bir sunuyu değiştirme veya düzenleme hakkını saklı tutar. Web Bağlantısı, bu sitenin içeriğine uygulanabilir olmalıdır.
+[SITENAME], herhangi bir sunuyu değiştirme veya düzenleme hakkını saklı tutar. Web Bağlantısı, bu sitenin içeriğine uygun olmalıdır.
 Uygun olmayan gönderimler silinir.";
 $locale['WLS_0922'] = "Üzgünüz, şu anda bu sitedeki herhangi bir Web Link sunumunu kabul etmiyoruz.";
 $locale['WLS_0923'] = "Bir Web Bağlantısı gönderemezsiniz çünkü kategoriler tanımlanmamıştır.";

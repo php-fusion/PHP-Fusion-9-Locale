@@ -1,6 +1,7 @@
 <?php
-$locale['400'] = "Nemáte oprávnění k prohlížení této stránky.";
-$locale['401'] = "Vnitřní chyba. Kontaktujte administrátora";
-$locale['402'] = "Obsah stránky není možné zobrazit.";
-$locale['403'] = "Vrátit se zpět";
-?>
+$locale['page_400'] = "Přístup odepřen!\nNemáte oprávnění tuto stránku prohlížet.";
+$locale['page_401'] = "Interní chyba";
+$locale['page_402'] = "Nelze načíst obsah stránky.";
+$locale['page_403'] = "Vraťte se zpět";
+$locale['page_404'] = "Widget chybí. Obnovte nebo odeberte obsah.";
+$locale['page_405'] = "Nelze zobrazit obsah widgetu";

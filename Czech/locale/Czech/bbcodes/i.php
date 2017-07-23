@@ -1,4 +1,4 @@
 <?php
-$locale['bb_i_description'] = "Zobrazí písmo kurzívou";
-$locale['bb_i_usage'] = "Text napsaný kurzívou";
-?>
+$locale['bb_i_description'] = "Vytvoří vybraný text kurzívou";
+$locale['bb_i_usage'] = "Text kurzívou";
+

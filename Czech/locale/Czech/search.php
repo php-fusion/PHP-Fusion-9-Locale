@@ -1,48 +1,47 @@
 <?php
-$locale['400'] = "Vyhledávání na ".$settings['sitename'];
-$locale['401'] = "Vyhledávání:";
-$locale['402'] = "Hledat";
-$locale['403'] = "nalézt jakékoliv z těchto slov";
-$locale['404'] = "výsledek musí obsahovat všechna slova";
+$locale['400'] = "Vyhledávání [SITENAME]";
+$locale['401'] = "Klíčová slova pro vyhledávání";
+$locale['402'] = "Vyhledávání";
+$locale['403'] = "Vyhledejte jakékoli z těchto slov";
+$locale['404'] = "výsledek musí obsahovat všechna tato slova";
 $locale['405'] = "Kde:";
 $locale['406'] = "Možnosti:";
 $locale['407'] = "Celá stránka";
-$locale['408'] = "Výsledky hledání";
+$locale['408'] = "Výsledky vyhledávání";
 //addition date
-$locale['420'] = "Hledat:";
+$locale['420'] = "Vyhledávání:";
 $locale['421'] = "všechno";
-$locale['422'] = "1 den";
-$locale['423'] = "1 týden";
-$locale['424'] = "2 týdny";
-$locale['425'] = "1 měsíc";
-$locale['426'] = "3 měsíce";
-$locale['427'] = "6 měsíců";
+$locale['422'] = "poslední den";
+$locale['423'] = "minulý týden";
+$locale['424'] = "posledních dvou týdnech";
+$locale['425'] = "minulý měsíc";
+$locale['426'] = "poslední tři měsíce";
+$locale['427'] = "posledních šest měsíců";
 //where
-$locale['430'] = "v názvech a obsahu";
-$locale['431'] = "jen v obsahu";
-$locale['432'] = "jen v názvech";
+$locale['430'] = "titul a zprávu";
+$locale['431'] = "pouze zprávu";
+$locale['432'] = "pouze titul";
 //sort by
-$locale['440'] = "Řadit podle:";
-$locale['441'] = "data";
-$locale['442'] = "názvu";
-$locale['443'] = "autora";
+$locale['440'] = "Seřazeno podle:";
+$locale['441'] = "datum přidání";
+$locale['442'] = "titul";
+$locale['443'] = "autor";
 //
 $locale['450'] = "sestupně";
 $locale['451'] = "vzestupně";
 //characters in results
-$locale['460'] = "Ukaž prvních:";
-$locale['461'] = "znaků ve výsledku";
+$locale['460'] = "Show:";
+$locale['461'] = "znaky ve výsledku";
 $locale['462'] = "celý text";
 //No results
-$locale['500'] = "Žádné výsledky k zobrazení.";
-$locale['501'] = "Text musí obsahovat minimálně 3 písmena.";
-$locale['502'] = "Hledané řetězce, které mají méně jak 3 znaky (%s) budou ignorovány.";
+$locale['500'] = "Nebyly nalezeny žádné výsledky.";
+$locale['501'] = "Hledaný text musí mít délku alespoň 3 znaků.";
+$locale['502'] = "Vyhledá řetězce s méně než třemi znaky (%s) jsou ignorovány při hledání.";
 //Global search
-$locale['510'] = "výsledků bylo nalezeno na celé stránce";
+$locale['510'] = "dhody v globálním vyhledávání stránek";
 //
-$locale['520'] = "článků";
-$locale['521'] = "články";
-$locale['522'] = "bylo nalezeno podle zadaných kritérií";
+$locale['520'] = "match";
+$locale['521'] = "matches";
+$locale['522'] = "nalezena odpovídající kritéria vyhledávání";
 //more than 100 results
-$locale['530'] = "Prosím buďte přesnější ve vašem dotazu. Vaše dotaty obsahují %s výsledků. Zobrazí se jen 100 výsledků";
-?>
+$locale['530'] = "Zeptejte se prosím konkrétněji. Váš dotaz se vrátí %s výsledky. Zobrazujeme pouze 100 nejlepších výsledků";

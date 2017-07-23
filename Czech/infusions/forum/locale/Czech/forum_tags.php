@@ -1,0 +1,20 @@
+<?php
+$locale['forum_tag_0100'] = "Tagy fóra";
+$locale['forum_tag_0101'] = "Značky slouží k uspořádání vašich podprocesů a pomáhají vám při organizaci vašich diskusních témat.";
+$locale['forum_tag_0102'] = "Aktuální značka fóra";
+$locale['forum_tag_0103'] = "Vytvořit značku";
+$locale['forum_tag_0104'] = "Upravit značku";
+$locale['forum_tag_0105'] = "Tag vytvořen";
+$locale['forum_tag_0106'] = "Značka byla aktualizována";
+$locale['forum_tag_0107'] = "Značka byla smazána";
+$locale['forum_tag_0110'] = "Informace o webu";
+$locale['forum_tag_0111'] = "Diskuse týkající se správy této webové stránky";
+$locale['forum_tag_0200'] = "Název značky";
+$locale['forum_tag_0201'] = "Popis značky";
+$locale['forum_tag_0202'] = "Barva značky";
+$locale['forum_tag_0203'] = "Jazyk značky";
+$locale['forum_tag_0204'] = "Stav značky";
+$locale['forum_tag_0205'] = "Tato značka je aktivní";
+$locale['forum_tag_0206'] = "Tato značka je neaktivní";
+$locale['forum_tag_0207'] = "Vytvořit značku";
+$locale['forum_tag_0208'] = "Aktualizovat značku";

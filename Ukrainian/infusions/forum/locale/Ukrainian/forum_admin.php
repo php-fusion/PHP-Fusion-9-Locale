@@ -184,4 +184,4 @@ $locale['forum_opts_002'] = "Розділ";
 $locale['forum_opts_003'] = "Посилання";
 $locale['forum_opts_004'] = "Підтримка та запитання";
 $locale['forum_points'] = "Призначення";
-$locale['forum_root'] = "Початок форуму";
+$locale['forum_root'] = "Налаштування";

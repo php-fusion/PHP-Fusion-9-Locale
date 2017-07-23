@@ -48,9 +48,12 @@ $locale['SL_0050'] = "Link neve";
 $locale['SL_0051'] = "Hozzáférés";
 $locale['SL_0052'] = "Sorrend";
 $locale['SL_0053'] = "Lehetőségek";
+
 $locale['SL_0060'] = "Szerkeszt";
 $locale['SL_0061'] = "Töröl";
 $locale['SL_0062'] = "Nincs létrehozva Navigációs link.";
+$locale['SL_0063'] = "Használjon BBKódot a Link nevében?";
+
 $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Új ablak?";
 $locale['SL_0072'] = "Megjelenítés";

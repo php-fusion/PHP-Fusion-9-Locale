@@ -18,6 +18,7 @@ $locale['datepicker'] = "uk_UA";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
 $locale['password_strength'] = "uk";
+$locale['date_day'] = "%d %b";
 
 // Full & Short Months
 $locale['months'] = "&nbsp;|Січень|Лютий|Березень|Квітень|Травень|Червень|Липень|Серпень|Вересень|Жовтень|Листопад|Грудень";
@@ -38,6 +39,7 @@ $locale['minute_a'] = "хвилин(и)";
 $locale['second'] = "секунда";
 $locale['second_a'] = "секунд(и)";
 $locale['just_now'] = "щойно";
+$locale['now'] = "зараз";
 $locale['ago'] = "тому";
 
 // Geo

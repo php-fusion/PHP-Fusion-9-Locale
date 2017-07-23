@@ -1,6 +1,6 @@
 <?php
-$locale['pl_forums_title'] = "Forums";
-$locale['pl_forums_desc'] = "Enable Permalinks for the Forum Misc Links.";
-$locale['pl_tags_001'] = "Forum ID for a specific Forum.";
-$locale['pl_tags_002'] = "Title of a specific Forum.";
+$locale['pl_forums_title'] = "Fórum";
+$locale['pl_forums_desc'] = "Povolení permalinks pro fórum na webu.";
+$locale['pl_tags_001'] = "ID fóra pro konkrétní fórum.";
+$locale['pl_tags_002'] = "Název konkrétního fóra.";
 

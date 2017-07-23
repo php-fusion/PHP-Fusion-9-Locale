@@ -1,4 +1,4 @@
 <?php
-$locale['bb_big_description'] = "Zobrazí text VELKÝM písmem";
-$locale['bb_big_usage'] = "Velké písmo";
-?>
+$locale['bb_big_description'] = "Zobrazit text jako velký";
+$locale['bb_big_usage'] = "Text velký";
+

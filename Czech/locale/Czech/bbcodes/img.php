@@ -1,4 +1,4 @@
 <?php
-$locale['bb_img_description'] = "Zobrazí obrázek z dané URL";
-$locale['bb_img_usage'] = "URL obrázku";
-?>
+$locale['bb_img_description'] = "Zobrazuje obrázek z dané adresy URL";
+$locale['bb_img_usage'] = "Adresa URL obrázku";
+

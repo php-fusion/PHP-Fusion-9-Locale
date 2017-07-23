@@ -1,10 +1,9 @@
 <?php
 // Contact Form
-$locale['400'] = "Kontaktujte nás";
-$locale['401'] = "Je více způsobů, jak nás můžete kontaktovat. E-mailem na  
-".hide_email($settings['siteemail']).". Pokud jste registrovaní členové, můžete nám zaslat
-<a href='messages.php?msg_send=1'>soukromou zprávu</a>. 
-Popřípadě můžete použít tento formulář, který nám zašle vaší zprávu na email.";
+$locale['400'] = "Kontakt";
+$locale['401'] = "Existuje několik způsobů, jak nás můžete kontaktovat. Můžete odeslat e-mail přímo na adresu
+[SITE_EMAIL]. Pokud jste členem, můžete poslat [PM_LINK].
+Případně můžete vyplnit formulář na této stránce, který odešle vaši zprávu na náš e-mail.";
 $locale['402'] = "Jméno:";
 $locale['403'] = "E-mailová adresa:";
 $locale['404'] = "Předmět:";
@@ -21,7 +20,6 @@ $locale['424'] = "Musíte vložit správný validační kód";
 $locale['425'] = "Vnitřní chyba: Zpráva nebyla odeslána.";
 // Message Sent
 $locale['440'] = "Vaše zpráva byla odeslána ";
-$locale['441'] = "Děkujeme";
-$locale['442'] = "Vaše zpráva nemohla být odeslána, a to z těchto důvodů:";
-$locale['443'] = "Zkuste to prosím ještě jednou.";
-?>
+$locale['441'] = "Ďekujeme";
+$locale['442'] = "Vaše zpráva nemohla být odeslána a to z těchto důvodů:";
+$locale['443'] = "Zkuste to ještě jednou.";

@@ -390,7 +390,7 @@ $locale['na'] = 'Nėra';
 $locale['joined'] = "Užsiregistravo: ";
 // Navigation
 $locale['next'] = 'Kitas';
-$locale['pevious'] = 'Ankstesnis';
+$locale['previous'] = 'Ankstesnis';
 $locale['back'] = 'Atgal';
 $locale['forward'] = 'Pirmyn';
 $locale['go'] = 'Eiti';

@@ -11,6 +11,7 @@ $locale['SMLY_410'] = "Šypsenėlė pridėta";
 $locale['SMLY_411'] = "Šypsenėlė atnaujinta";
 $locale['SMLY_412'] = "Šypsenėlė ištrinta";
 $locale['SMLY_413'] = "Negalima atnaujinti šypsenėlės";
+
 $locale['SMLY_414'] = "Šypsenėlės tekstas jau naudojamas";
 $locale['SMLY_415'] = "Šypsenėlės kodas jau naudojamas.";
 $locale['SMLY_416'] = "Jūs tikrai norite ištrinti šią šypsenėlę?";
@@ -24,10 +25,10 @@ $locale['SMLY_423'] = "Išsaugoti šypsenėlę";
 $locale['SMLY_424'] = "Šypsenėlės peržiūra:";
 // Current Smileys
 $locale['SMLY_430'] = "Kodas";
-$locale['SMLY_431'] = "paveiksliukas";
+$locale['SMLY_431'] = "Paveiksliukas";
 $locale['SMLY_432'] = "Tekstas";
-$locale['SMLY_433'] = "nustatymai";
-$locale['SMLY_435'] = "Ištrinti";
+$locale['SMLY_433'] = "Nustatymai";
+$locale['SMLY_435'] = "Neaktyvus";
 $locale['SMLY_436'] = "Nėra pridėtų šypsenėlių.";
 // Error Message
 $locale['SMLY_437'] = "Prašom įvesti šypsenėlės kodą";

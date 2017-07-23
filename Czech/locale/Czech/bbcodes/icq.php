@@ -1,5 +1,5 @@
 <?php
 $locale['bb_icq'] = "ICQ";
-$locale['bb_icq_description'] = "ZobrazÌ ICQ Status";
-$locale['bb_icq_usage'] = "Uûivatelovo ICQ ID";
-?>
+$locale['bb_icq_description'] = "Zobrazen√≠ stavu ICQ";
+$locale['bb_icq_usage'] = "ID u≈æivatele komunik√°toru ICQ";
+

@@ -73,6 +73,7 @@ $locale['WLS_0202'] = "Forslagsstiller";
 $locale['WLS_0203'] = "Dato";
 $locale['WLS_0204'] = "Valgmuligheder";
 $locale['WLS_0205'] = "Gennemse forslag";
+$locale['WLS_0206'] = "Vælg alle";
 $locale['WLS_0252'] = "Et navn for linket.";
 $locale['WLS_0253'] = "Linkadresse";
 $locale['WLS_0254'] = "Beskrivelse";

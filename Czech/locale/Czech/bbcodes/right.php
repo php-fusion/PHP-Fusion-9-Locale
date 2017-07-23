@@ -1,4 +1,4 @@
 <?php
-$locale['bb_right_description'] = "Zarovná text vpravo";
-$locale['bb_right_usage'] = "Text zarovnaný do prava";
-?>
+$locale['bb_right_description'] = "Zarovná vybraný text doprava";
+$locale['bb_right_usage'] = "Text pro zarovnání vpravo";
+

@@ -1,6 +1,6 @@
 <?php
-$locale['uf_web'] = "Web:";
-$locale['uf_web_desc'] = "Zobrazí webovou adresu uživatele";
-$locale['uf_web_001'] = "Navštívit";
-$locale['uf_web_error'] = "Web nelze vynechat.";
-?>
+$locale['uf_web'] = "Website";
+$locale['uf_web_desc'] = "URL website";
+$locale['uf_web_error'] = "Website can not be left empty.";
+$locale['uf_web_001'] = "Visit";
+

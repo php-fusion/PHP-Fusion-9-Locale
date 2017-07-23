@@ -1,4 +1,4 @@
 <?php
-$locale['pl_articles_title'] = "Articles";
-$locale['pl_articles_desc'] = "Enable Permalinks for the Articles on the site.";
+$locale['pl_articles_title'] = "Články";
+$locale['pl_articles_desc'] = "Povolení permalinks pro články na webu.";
 

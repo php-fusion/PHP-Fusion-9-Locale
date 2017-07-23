@@ -162,7 +162,6 @@ $locale['setup_3005'] = "Juodasis sąrašas";
 $locale['setup_3006'] = "Komentarai";
 $locale['setup_3007'] = "Pridėtiniai puslapiai";
 $locale['setup_3008'] = "Atsarginė DB kopija";
-
 $locale['setup_3010'] = "Siuntiniai";
 $locale['setup_3011'] = "D.U.K.";
 $locale['setup_3012'] = "Forumai";
@@ -170,7 +169,6 @@ $locale['setup_3013'] = "Nuotraukos";
 $locale['setup_3014'] = "Įskiepiai";
 $locale['setup_3015'] = "Įskiepių panelės";
 $locale['setup_3016'] = "Nariai";
-
 $locale['setup_3018'] = "Naujienos";
 $locale['setup_3019'] = "Panelės";
 $locale['setup_3020'] = "Nuotraukų albumai";
@@ -178,24 +176,20 @@ $locale['setup_3021'] = "PHP info";
 $locale['setup_3022'] = "Apklausa";
 $locale['setup_3023'] = "Tinklapio nuorodos";
 $locale['setup_3024'] = "Šypsenėlės";
-
 $locale['setup_3026'] = "Atnaujinti";
 $locale['setup_3027'] = "Narių grupės";
-$locale['setup_3028'] = "Nuorodų kategorijos";
-
+$locale['setup_3029'] = "Nuorodos";
 $locale['setup_3030'] = "Pagrindiniai";
 $locale['setup_3031'] = "Laikas ir data";
-
 $locale['setup_3033'] = "Registracija";
-
 $locale['setup_3035'] = "Įvairūs";
 $locale['setup_3036'] = "Asmeninės žinutės";
 $locale['setup_3037'] = "Vartotojo laukeliai";
 $locale['setup_3038'] = "Forumo rangai";
 $locale['setup_3039'] = "Vartotojo laukelių kategorijos";
-
+$locale['setup_3041'] = "Narių valdymas";
 $locale['setup_3043'] = "Įrašų puslapyje";
-
+$locale['setup_3044'] = "Saugumas";
 $locale['setup_3047'] = "Administratoriaus slaptažodžio atstatymas";
 $locale['setup_3048'] = "Klaidų žurnalas";
 $locale['setup_3049'] = "Vartotojų žurnalas";
@@ -227,12 +221,10 @@ $locale['setup_3213'] = "Tinklaraščiai";
 
 // Step 6 - Navigation Links
 $locale['setup_3300'] = "Namai";
-$locale['setup_3301'] = "Straipsniai";
-
+$locale['setup_3302'] = "Siuntiniai";
 $locale['setup_3303'] = "DUK";
 $locale['setup_3304'] = "Forumas";
 $locale['setup_3305'] = "Kontaktai";
-
 $locale['setup_3307'] = "Nuorodos";
 $locale['setup_3308'] = "Foto galerija";
 $locale['setup_3309'] = "Paieška";

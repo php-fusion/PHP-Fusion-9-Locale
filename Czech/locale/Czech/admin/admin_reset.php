@@ -1,48 +1,51 @@
 <?php
-// Infusion titles & description
-$locale['apw_title'] = "Restart hesel administrátorů";
-$locale['apw_desc'] = "Mění přihlašovací/administrační hesla administrátorů";
-$locale['apw_admin1'] = "Restart Administrátora";
-
-$locale['400'] = "Administrátoři k restartu:";
-$locale['401'] = "Všichni Administrátoři";
-$locale['402'] = "Pouze Hlavní Administrátoři";
-$locale['403'] = "Pouze Administrátoři";
-$locale['404'] = "Důvod restartu:";
-$locale['405'] = "Restartovat obě - administrační a přihlasovací - Hesla.";
-$locale['406'] = "Restartovat Hesla";
-$locale['407'] = "Heslo restartováno v ";
-$locale['408'] = "Vítejte [USER_NAME],
-
-Vaše administrační heslo na ".$settings['siteurl']." bylo restartováno:
-
-Administrační heslo: [NEW_ADMIN_PASS]
-
-Důvodem pro restartování hesla je: [RESET_MESSAGE]
-
-S pozdravem,
-[ADMIN]";
-$locale['409'] = "Vítejte [USER_NAME],
-
-Vaše přihlašovací a administrační heslo na ".$settings['siteurl']." bylo restartováno:
-
-Přihlašovací heslo: [NEW_PASS]
-Administrační heslo: [NEW_ADMIN_PASS]
-
-Důvodem pro restart je: [RESET_MESSAGE]
-
-S pozdravem,
-[ADMIN]";
-$locale['410'] = "Výsledky restartu";
-$locale['411'] = "<strong>Poznámka:</strong> Administrační heslo nebylo zadáno nebo je chybné.";
-$locale['412'] = "Administrační heslo:";
-$locale['415'] = "Záznam Restartů";
-$locale['416'] = "Záznam ID";
-$locale['417'] = "Datum restartu";
-$locale['418'] = "Odpovědný";
-$locale['419'] = "Restartovaný uživatel";
-$locale['420'] = "Úspěšně";
-$locale['421'] = "Důvod";
-$locale['422'] = "z";
-$locale['423'] = "Důvod neuveden.";
-?>
+/*-------------------------------------------------------+
+| PHP-Fusion Content Management System
+| Copyright (C) PHP-Fusion Inc
+| https://www.php-fusion.co.uk/
++----------------------------------------------------------------------+
+| Filename: locale/Czech/admin/admin_reset.php
+| Author: Kvido phpfusion.cz, 26.05.2017
++----------------------------------------------------------------------+
+| This program is released as free software under the
+| Affero GPL license. You can redistribute it and/or
+| modify it under the terms of this license which you
+| can read by viewing the included agpl.txt or online
+| at www.gnu.org/licenses/agpl.html. Removal of this
+| copyright header is strictly prohibited without
+| written permission from the original author(s).
++--------------------------------------------------------*/
+$locale['apw_title'] = "Reset hesla administrátora";
+$locale['apw_desc'] = "Změní přihlašovací / administrátorská hesla správce";
+$locale['apw_admin1'] = "Administrátor obnoven";
+$locale['apw_400'] = "Administrátor(i) na obnovení:";
+$locale['apw_401'] = "Všechny administrátory";
+$locale['apw_402'] = "Pouze super administrátoři";
+$locale['apw_403'] = "Pouze administrátoři";
+$locale['apw_404'] = "Odůvodnění resetování:";
+$locale['apw_405'] = "Obnovit přihlašovací i administrátorská hesla?";
+$locale['apw_406'] = "Obnovit hesla";
+$locale['apw_407'] = "Reset hesla na ";
+$locale['apw_408'] = "Ahoj [USER_NAME],\n\nVaše heslo administrátora bylo resetováno na [SITEURL]:\n\n
+Nové administrátorské heslo: [NEW_ADMIN_PASS]\n\nDůvod resetování: [RESET_MESSAGE]\n\nS pozdravem,\n[ADMIN]";
+$locale['apw_409'] = "Ahoj [USER_NAME],\nVaše přihlašovací a administrátorská hesla byla obnovena na [SITEURL]:\n\n
+Nové přihlašovací heslo: [NEW_PASS]\nNové administrátorské heslo: [NEW_ADMIN_PASS]\n\nDůvod resetování: [RESET_MESSAGE]\n
+S pozdravem,\n[ADMIN]";
+$locale['apw_410'] = "Resetovat výsledky";
+$locale['apw_411'] = "Aktualizovat heslo administrátora.";
+$locale['apw_412'] = "Heslo administrátora:";
+$locale['apw_415'] = "Záznam obnovení";
+$locale['apw_416'] = "ID záznamu";
+$locale['apw_417'] = "Obnovit čas";
+$locale['apw_418'] = "Odpovědný";
+$locale['apw_419'] = "Resetovat";
+$locale['apw_420'] = "Úspěšně";
+$locale['apw_421'] = "Důvod";
+$locale['apw_422'] = "z";
+$locale['apw_423'] = "Bez udání důvodu.";
+$locale['apw_424'] = "Obnovení administrátorů:";
+$locale['apw_425'] = "Administrátoři selhali:";
+$locale['apw_426'] = "Žádné heslo nebylo změněno.";
+$locale['apw_427'] = "Možnosti";
+$locale['apw_428'] = "Opravdu chcete odstranit tento záznam?";
+$locale['apw_429'] = "Záznam byl smazán";

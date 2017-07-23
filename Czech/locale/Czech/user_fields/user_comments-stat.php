@@ -1,4 +1,4 @@
-﻿<?php
-$locale['uf_comments-stat'] = "Komentářů";
-$locale['uf_comments-stat_desc'] = "Zobrazí počet přidaných komentářů.";
-?>
+<?php
+$locale['uf_comments-stat'] = "Comments Posted";
+$locale['uf_comments-stat_desc'] = "Displays number of comments posted.";
+

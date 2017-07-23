@@ -1,20 +1,24 @@
 <?php
+/**
+ * @Translated by ALTUN Web Site(https://alapelit.com)
+ */
 $locale['blog_1000'] = "Blog";
-$locale['blog_1001'] = "Blog Home";
-$locale['blog_1003'] = "Blog Category";
-$locale['blog_1004'] = "Blog Archive";
-$locale['blog_1005'] = "Blog Author";
-$locale['blog_1006'] = "Read more";
-$locale['blog_2001'] = "Most Recent Blogs";
-$locale['blog_2002'] = "Most Commented Blog";
-$locale['blog_2003'] = "Highest Rating Blog";
-$locale['blog_3000'] = "No Blogs has been posted yet";
-$locale['blog_3001'] = "No Category";
-$locale['blog_3002'] = "No Post";
-$locale['blog_3003'] = "No Author";
-$locale['testimonial_rank'] = "I am the %s of this website";
-$locale['testimonial_location'] = "and I currently live in %s";
-$locale['testimonial_join'] = "I joined this website on %s";
-$locale['testimonial_web'] = "I also run another website at %s";
-$locale['testimonial_contact'] = "If you need to contact me, you can reach me at %s";
-$locale['testimonial_email'] = "You can also reach me at my e-mail address at %s";
+$locale['blog_1001'] = "Blog Ana Sayfa";
+$locale['blog_1003'] = "Blog Kategorisi";
+$locale['blog_1004'] = "Blog Arşivi";
+$locale['blog_1005'] = "Blog Yazarları";
+$locale['blog_1006'] = "Daha fazla oku";
+$locale['blog_2001'] = "En Son Bloglar";
+$locale['blog_2002'] = "En Çok Yorumlanan Blog";
+$locale['blog_2003'] = "En Yüksek Derecelendirilen Blog";
+$locale['blog_3000'] = "Henüz blog gönderilmemiş";
+$locale['blog_3001'] = "Kategori Yok";
+$locale['blog_3002'] = "Gönderi Yok";
+$locale['blog_3003'] = "Yazar yok";
+$locale['testimonial_rank'] = "Ben bu web sitesinde %s rütbesindeyim";
+$locale['testimonial_location'] = "ve şuan %s içinde yaşıyorum";
+$locale['testimonial_join'] = "Bu web sitesine %s tarihinde katıldım";
+$locale['testimonial_web'] = "%s adresinde başka bir web sitesini de çalıştırıyorum";
+$locale['testimonial_contact'] = "Eğer benimle iletişime geçmeniz gerekiyorsa, bana %s sayfasından ulaşabilirsiniz";
+$locale['testimonial_email'] = "Ayrıca bana %s e-posta adresimden ulaşabilirsiniz";
+$locale['blog_archive'] = "%b %Y";

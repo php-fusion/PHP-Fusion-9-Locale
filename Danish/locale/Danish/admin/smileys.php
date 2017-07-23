@@ -31,7 +31,7 @@ $locale['SMLY_413'] = "Inaktive smileys";
 $locale['SMLY_414'] = "Den valgte smileytekst anvendes allerede.";
 $locale['SMLY_415'] = "Smileykoden anvendes allerede.";
 $locale['SMLY_416'] = "Vil du virkelig slette denne smiley?";
-$locale['SMLY_417'] = "Vil du virkelig gøre denne smiley inaktiv?";
+$locale['SMLY_417'] = "Vil du virkelig deaktivere denne smiley?";
 $locale['SMLY_418'] = "Der opstod en fejl i forbindelse med upload af smiley";
 // Smiley form
 $locale['SMLY_420'] = "Smiley kode";

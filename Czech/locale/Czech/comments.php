@@ -1,12 +1,16 @@
 <?php
 $locale['c100'] = "Komentáře";
-$locale['c101'] = "Zatím nikdo nekomentoval. Buďte první kdo vloží svůj komentář.";
-$locale['c102'] = "Přidat komentář";
-$locale['c103'] = "Aktualizovat";
-$locale['c104'] = "Jméno:";
-$locale['c105'] = "Pro přidání komentáře musíte být přihlášený.";
-$locale['c106'] = "Administrace komentářů";
-$locale['c107'] = "Vypnout smajlíky v komentářích";
+$locale['c101'] = "Žádné komentáře byly zveřejněny.";
+$locale['c102'] = "Odeslat komentář";
+$locale['c103'] = "Aktualizovat komentář";
+$locale['c104'] = "Název:";
+$locale['c105'] = "Přihlaste se, abyste mohli zveřejnit komentář.";
+$locale['c106'] = "Správa komentářů";
+$locale['c107'] = " Deaktivujte smajlíky v tomto komentáři";
 $locale['c108'] = "Upravit";
 $locale['c109'] = "Vymazat";
-?>
+$locale['c110'] = "Smazat tento komentář?";
+$locale['c111'] = "Zanechat komentář";
+$locale['c112'] = "Odpověď";
+$locale['c113'] = "Titul";
+$locale['c114'] = "Komentáře byly aktualizovány";

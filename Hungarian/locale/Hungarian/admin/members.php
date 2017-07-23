@@ -29,7 +29,7 @@ $locale['ME_426'] = "Időzóna";
 // Action Form
 $locale['ME_430'] = "Hiba: A kiválasztott műveletet a Felhasználón nem lehetett végrehajtani";
 $locale['ME_431'] = "A következő felhasználó %s:";
-$locale['ME_432'] = "%s volt %s";
+$locale['ME_432'] = "%s %s";
 $locale['ME_433'] = "Kérlek add meg az Indoklást";
 $locale['ME_434'] = "Indoklás";
 $locale['ME_435'] = "Időtartam";
@@ -37,8 +37,8 @@ $locale['ME_436'] = "Nap";
 $locale['ME_437'] = "Felhasználó Módosítása";
 
 $locale['ME_450'] = "Felhasználó Hozzáadása";
-$locale['ME_451'] = "%s Profil";
-$locale['ME_452'] = "%s Profil Szerkesztése";
+$locale['ME_451'] = "%s Profilja";
+$locale['ME_452'] = "%s Profiljának Szerkesztése";
 $locale['ME_453'] = "%s Tag Törlése";
 $locale['ME_454'] = "Figyelem!";
 $locale['ME_455'] = "<h2>Figyelem!</h2>\n

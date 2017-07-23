@@ -1,6 +1,6 @@
 <?php
-$locale['pl_news_title'] = "News";
-$locale['pl_news_desc'] = "Enable Permalinks for the News on the site.";
-$locale['pl_tags_001'] = "ID of the News Item.";
-$locale['pl_tags_002'] = "Title or Subject of the News Item.";
+$locale['pl_news_title'] = "Novinky";
+$locale['pl_news_desc'] = "Povolení permalinks pro novinky na webu.";
+$locale['pl_tags_001'] = "ID novinky.";
+$locale['pl_tags_002'] = "Název nebo předmět novinky.";
 

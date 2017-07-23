@@ -1,6 +1,6 @@
 <?php
 $locale['validate'] = "Prašome peržiūrėti ir patikrinti laukelį.";
-$locale['error_request'] = 'Vykdtant užklausą įvyko klaida'; // to be moved
+$locale['error_request'] = 'Vykdant užklausą įvyko klaida'; // to be moved
 $locale['regex_error'] = 'Prašome patikrinti %s laukelį'; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Prašome įvesti teisingą vartotojo vardą";

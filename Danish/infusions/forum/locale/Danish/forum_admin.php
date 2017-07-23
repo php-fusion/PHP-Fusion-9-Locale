@@ -160,6 +160,17 @@ $locale['forum_133'] = "Minimalt antal points for opstemning";
 $locale['forum_134'] = "Minimalt antal points for nedstemning";
 $locale['forum_135'] = "Point(s)";
 $locale['forum_136'] = "Brugerpoints i debatten";
+$locale['forum_137'] = "Generelle debatforum indstilllinger";
+$locale['forum_138'] = "Debatforumindlæg indstillinger";
+$locale['forum_139'] = "Debatforum brugerfelter indstillinger";
+$locale['forum_140'] = "Generelle visnings indstillinger";
+$locale['forum_141'] = "Underrettelser";
+$locale['forum_142'] = "Indlægs fil & billed vedhæftelser";
+$locale['forum_143'] = "Indlægs 'opførsels' indstillinger";
+
+$locale['forum_150'] = "<strong>Aktiver brugerfelter i udvidede debatindlæg.</strong>  Brugerfelter er brugerinformatiobn der kan tilpasses i [LINK]brugerfelts administration[/LINK]";
+$locale['forum_151'] = "Der er ikke oprettet brugerfelter i denne kategori.";
+$locale['forum_152'] = "Der er ingen brugerfelts kategori.";
 $locale['forum_admin_000'] = "Debatadministration";
 $locale['forum_admin_001'] = "Debatrangering";
 $locale['forum_admin_002'] = "Debattags";

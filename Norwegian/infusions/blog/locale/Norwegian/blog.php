@@ -1,0 +1,20 @@
+<?php
+$locale['blog_1000'] = "Blogg";
+$locale['blog_1001'] = "Blogg Startside";
+$locale['blog_1003'] = "Blogg Kategori";
+$locale['blog_1004'] = "Blogg Arkiv";
+$locale['blog_1005'] = "Blogg Forfatter";
+$locale['blog_1006'] = "Les mer";
+$locale['blog_2001'] = "Nyeste Blogger";
+$locale['blog_2002'] = "Mest Kommenterte Blogg";
+$locale['blog_2003'] = "Høyeste Vurderte Blogg";
+$locale['blog_3000'] = "Ingen Blogger er skrevet ennå";
+$locale['blog_3001'] = "Ingen Kategori";
+$locale['blog_3002'] = "Ingen Innlegg";
+$locale['blog_3003'] = "Ingen Forfatter";
+$locale['testimonial_rank'] = "Jeg er %s på denne nettsiden";
+$locale['testimonial_location'] = "og jeg bor for tiden i %s";
+$locale['testimonial_join'] = "Jeg ble medlem på denne nettsiden den %s";
+$locale['testimonial_web'] = "Jeg driver også en annen nettside på %s";
+$locale['testimonial_contact'] = "Hvis du trenger å kontakte meg, kan du nå meg på %s";
+$locale['testimonial_email'] = "Du kan også nå meg via min e-post adresse som er %s";

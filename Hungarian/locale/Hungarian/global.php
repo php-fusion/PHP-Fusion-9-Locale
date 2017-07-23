@@ -22,6 +22,7 @@ $locale['datepicker'] = "hu";
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";
 $locale['password_strength'] = "hu";
+$locale['date_day'] = "%b %d";
 // Full & Short Months
 $locale['months'] = "&nbsp|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
 $locale['shortmonths'] = "&nbsp|jan|febr|márc|ápr|máj|jún|júl|aug|szept|okt|nov|dec";
@@ -40,6 +41,7 @@ $locale['minute_a'] = "perc";
 $locale['second'] = "másodperc";
 $locale['second_a'] = "másodperc";
 $locale['just_now'] = "épp most";
+$locale['now'] = "most";
 $locale['ago'] = "";
 // Geo
 $locale['street1'] = "Lakcím 1";
@@ -104,7 +106,7 @@ $locale['global_020'] = "Fórumtémák";
 $locale['global_021'] = "Legújabb témák";
 $locale['global_022'] = "Legnépszerűbb témák";
 $locale['global_023'] = "Nincs elérhető fórumtéma";
-$locale['global_024'] = "Társalgások, melyekben részt vettél";
+$locale['global_024'] = "Hozzászólásaid";
 $locale['global_027'] = "Megválaszolatlan témák";
 $locale['global_028'] = "Megoldatlan kérdések";
 // Comments Side panel
@@ -128,7 +130,7 @@ $locale['global_045'] = "Megnyitva";
 $locale['global_046'] = "Válaszok";
 $locale['global_047'] = "Utolsó üzenet";
 $locale['global_048'] = "Fórum";
-$locale['global_049'] = "Dátum";
+$locale['global_049'] = "Beküldve";
 $locale['global_050'] = "Szerző";
 $locale['global_051'] = "Szavazás";
 $locale['global_052'] = "Áthelyezve";
@@ -141,7 +143,7 @@ $locale['global_058'] = "Eltávolítás";
 $locale['global_059'] = "Jelenleg egy témát sem követsz nyomon.";
 $locale['global_060'] = "Megszünteted a téma követését?";
 // Blog, News & Articles
-$locale['global_070'] = " ";
+$locale['global_070'] = "Beküldte ";
 $locale['global_070b'] = "%s összes hozzászólásának megtekintése";
 $locale['global_071'] = " - ";
 $locale['global_071b'] = "Szerző";
@@ -461,9 +463,9 @@ $locale['preview'] = "Előnézet";
 $locale['custom'] = "Mód";
 $locale['submit'] = "Beküldés";
 // Alignment
-$locale['left'] = "Balra";
-$locale['center'] = "Középre";
-$locale['right'] = "Jobbra";
+$locale['left'] = "Ball";
+$locale['center'] = "Közép";
+$locale['right'] = "Jobb";
 // Comments and ratings
 $locale['comments'] = "Hozzászólás";
 $locale['ratings'] = "Értékelés";

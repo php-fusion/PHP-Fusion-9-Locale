@@ -64,9 +64,13 @@ $locale['SL_0050'] = "Linkets overskrift";
 $locale['SL_0051'] = "Kan ses af";
 $locale['SL_0052'] = "Rækkefølge";
 $locale['SL_0053'] = "Valgmuligheder";
+
 $locale['SL_0060'] = "Rediger";
 $locale['SL_0061'] = "Slet";
 $locale['SL_0062'] = "Der er ikke oprettet interne links.";
+$locale['SL_0063'] = "Benyt BB-kode i linknavn?";
+
+
 $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Nyt vindue";
 $locale['SL_0072'] = "Menu";

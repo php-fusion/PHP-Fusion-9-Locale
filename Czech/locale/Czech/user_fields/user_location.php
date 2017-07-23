@@ -1,5 +1,5 @@
 <?php
-$locale['uf_location'] = "Bydliště:";
-$locale['uf_location_desc'] = "Kraj, město a nebo vesnice";
-$locale['uf_location_error'] = "Bydliště nelze vynechat.";
-?>
+$locale['uf_location'] = "Location";
+$locale['uf_location_desc'] = "Country, city or town";
+$locale['uf_location_error'] = "Location can not be left empty.";
+

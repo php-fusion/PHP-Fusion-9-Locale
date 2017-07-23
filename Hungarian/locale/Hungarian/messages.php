@@ -38,7 +38,6 @@ $locale['432'] = "Bezár";
 $locale['433'] = "Válasz";
 $locale['434'] = "Küldés mindenkinek";
 $locale['435'] = "Mégsem";
-//$locale['436'] = "Válasz előnézete";
 $locale['437'] = "Elküldés";
 //$locale['438'] = "Üzenet előnézete";
 $locale['439'] = "Válasz";

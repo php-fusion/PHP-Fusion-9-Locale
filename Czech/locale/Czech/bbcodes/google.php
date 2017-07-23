@@ -1,4 +1,4 @@
 <?php
-$locale['bb_google_description'] = "Google vyhladávání";
-$locale['bb_google_usage'] = "Text pro vyhladávání v Google";
-?>
+$locale['bb_google_description'] = "Vyhledávač Google";
+$locale['bb_google_usage'] = "Text pro vyhledávání v síti Google";
+

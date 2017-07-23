@@ -1,18 +1,14 @@
 <?php
 // Error messages
-$locale['500'] = "Nastala chyba";
-$locale['501'] = "Znovuaktivaèní odkaz ji není funkèní.<br /><br />
-Kontaktujte administrátora webu na <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> pokud chcete zaslat ádost o ruèní aktivaci úètu administrátorem.";
-$locale['502'] = "znovuaktivaèní odkaz, na kterı jste klikl/a je nefunkèní!<br /><br />
-Kontaktujte administrátora webu na <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> pokud chcete zaslat ádost o ruèní aktivaci úètu administrátorem.";
-$locale['503'] = "Kliknutím na znovuaktivaèní odkaz nemusí dojít ke znovuaktivování úètu.<br />
-Moná ji byl Váš úèet znovu aktivován, v tom pøípadì se <a href='".$settings['siteurl']."login.php'>pøihlašte zde</a>.<br /><br />
-Pokud se momentálnì nemùete pøihlásit, kontaktujte administrátora webu na <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> pokud chcete aby byl znovu Váš úèet ruènì aktivován administrátorem.";
+$locale['500'] = "Vyskytla se chyba";
+$locale['501'] = "Odkaz na opÄ›tovnÃ© aktivaci, na kterÃ½ jste klikli, jiÅ¾ nenÃ­ platnÃ½.<br /><br />Kontaktujte sprÃ¡vce webu na adrese [SITEEMAIL] Pokud chcete poÅ¾Ã¡dat o ruÄnÃ­ opÄ›tovnÃ© aktivaci.";
+$locale['502'] = "Odkaz na opÄ›tovnÃ© aktivaci, na kterÃ½ jste klikli, je neplatnÃ½!<br /><br />Kontaktujte sprÃ¡vce webu na adrese [SITEEMAIL] Pokud chcete poÅ¾Ã¡dat o ruÄnÃ­ opÄ›tovnÃ© aktivaci.";
+$locale['503'] = "ReaktivaÄnÃ­ odkaz, kterÃ½ jste sledovali, nemohl znovu aktivovat vÃ¡Å¡ ÃºÄet.<br />
+Snad vÃ¡Å¡ ÃºÄet jiÅ¾ byl aktivovÃ¡n a v takovÃ©m pÅ™Ã­padÄ› byste mÄ›l bÃ½t schopen [LINK]pÅ™ihlaste se zde[/LINK].<br /><br />
+Pokud se nemÅ¯Å¾ete pÅ™ihlÃ¡sit, obraÅ¥te se na sprÃ¡vce webu na adrese [SITEEMAIL] Pokud chcete poÅ¾Ã¡dat o ruÄnÃ­ opÄ›tovnÃ© aktivaci.";
 // Send confirmation mail
-$locale['504'] = "Úèet byl znovu aktivován na ".$settings['sitename'];
-$locale['505'] = "Dobrı den [USER_NAME],\n
-Váš úèet na webu ".$settings['sitename']." byl znovu aktivován. Vìøíme, e lépe vyuijete moností na našem webu.\n\n
-S pozdravem,\n\n
-".$settings['siteusername'];
-$locale['506'] = "znovuaktivování od uivatele.";
-?>
+$locale['504'] = "ÃšÄet byl znovu aktivovÃ¡n na [SITENAME]";
+$locale['505'] = "Ahoj [USER_NAME],
+<br>VÃ¡Å¡ ÃºÄet na [SITENAME] Byla znovu aktivovÃ¡na. DoufÃ¡me, Å¾e vÃ¡s na strÃ¡nkÃ¡ch ÄastÄ›ji vidÃ­me.<br/><br/>
+S pozdravem,<br/><br/>[SITEUSERNAME]";
+$locale['506'] = "ReaktivovÃ¡no uÅ¾ivatelem.";

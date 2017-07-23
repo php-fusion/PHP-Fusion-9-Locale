@@ -1,5 +1,5 @@
 <?php
-$locale['bb_mail'] = "Email adresa";
-$locale['bb_mail_description'] = "Emailová adresa se dá použít kliknutím myši";
-$locale['bb_mail_usage'] = "Zobrazí emailovou adresu jako text";
-?>
+$locale['bb_mail'] = "Emailová adresa";
+$locale['bb_mail_description'] = "Vytvoří e-mailovou adresu, na kterou lze kliknout";
+$locale['bb_mail_usage'] = "E-mailová adresa nebo text pro zobrazení jako";
+

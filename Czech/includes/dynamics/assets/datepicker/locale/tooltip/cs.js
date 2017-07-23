@@ -1,0 +1,27 @@
+var tooltips_locale = {
+     today: "Výběr k dnešnímu dni",
+     clear: "Vymazat výběr",
+     close: "Zavřít výběr",
+     selectMonth: "Vyberte měsíc",
+     prevMonth: "Předchozí měsíc",
+     nextMonth: "Další měsíc",
+     selectYear: "Vyberte rok",
+     prevYear: "Předchozí rok",
+     nextYear: "Příští rok",
+     selectDecade: "Vyberte dekádu",
+     prevDecade: "Předchozí desetiletí",
+     nextDecade: "Další dekáda",
+     prevCentury: "Předchozí století",
+     nextCentury: "Další století",
+     pickHour: "Vybrat hodinu",
+     incrementHour: "Čas přírůstku",
+     decrementHour: "Kontrola hodin",
+     pickMinute: "Vybrat minuty",
+     incrementMinute: "Kontzrola minut",
+     decrementMinute: "Kontrola minuty",
+     pickSecond: "Pick Second",
+     incrementSecond: "Přírůstek druhé"
+     decrementSecond: "Decrement Second",
+     togglePeriod: "Přepnout období",
+     selectTime: "Vybrat čas"
+}

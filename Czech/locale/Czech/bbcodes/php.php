@@ -1,6 +1,5 @@
 <?php
 $locale['bb_php'] = "PHP";
-$locale['bb_php_description'] = "Napsaný text se zobrazí jako PHP kód";
-$locale['bb_php_usage'] = "Zobrazí PHP kód";
-$locale['bb_php_save'] = "Zdroj stáhnutí";
-?>
+$locale['bb_php_description'] = "Zvýrazněte vybraný text jako kód PHP";
+$locale['bb_php_usage'] = "PHP kód zvýraznit";
+$locale['bb_php_save'] = "Stáhnout zdroj";
