@@ -78,7 +78,7 @@ $locale['u114'] = "Typ uživatele";
 $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistují žádní členové skupiny.";
 
-;+a// Uživatelské jméno a e-mail
+// Uživatelské jméno a e-mail
 $locale['u119'] = "User name contains.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené uživatelské jméno již přijal jiný uživatel.";
@@ -91,7 +91,7 @@ $locale['u127'] = "Uživatelské jméno";
 $locale['u128'] = "Emailová adresa";
 $locale['u129'] = "Základní informace o uživateli";
 // Hesla
-$locale['u130'] = "Admin heslo";	
+$locale['u130'] = "Admin heslo";
 $locale['u131'] = "Admin heslo";
 $locale['u132'] = "Přihlašovací hesla";
 $locale['u133'] = "Přihlašovací hesla";
