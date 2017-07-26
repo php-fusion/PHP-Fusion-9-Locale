@@ -24,6 +24,6 @@ $locale['460'] = "Afbeeldingen";
 $locale['461'] = "Bekijken";
 $locale['462'] = "Verwijderen";
 $locale['463'] = "Dezen map is leeg";
-$locale['464'] = "Bijwerkene Afbeelding lijst voor TinyMCE editor";
+$locale['464'] = "Bijwerken Afbeelding lijst voor TinyMCE editor";
 // Popup Error/Warning Messages
 $locale['470'] = "Verwijder deze Afbeelding?";
