@@ -79,4 +79,4 @@ beheerder.[SITENAME] houd het recht voor om Inzendingen in te korten of aan te p
 FAQ&rsquo;s moeten passen bij de inhoud van deze site. Niet passende Inzendingen worden verwijderd.";
 $locale['faq_0921'] = "U dient in te loggen om een FAQ in te kunnen sturen.";
 $locale['faq_0922'] = "We accepteren op dit moment geen nieuwe FAQ inzendingen.";
-$locale['faq_0923'] = "U kunt geen FAQ inzenden, omdat er geen Gorie&euml;n zijn gedefinieerd.";
+$locale['faq_0923'] = "U kunt geen FAQ inzenden, omdat er geen Categie&euml;n zijn gedefinie&euml;rd.";
