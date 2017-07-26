@@ -89,11 +89,11 @@ $locale['no_keys'] = "Het lijkt of u nog geen sleutes heeft. Registreet en ontva
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Publieke Sleutel";
-$locale['grecaptcha_0101'] = "Prive Sleutel";
+$locale['grecaptcha_0101'] = "Priv&eacute; Sleutel";
 $locale['grecaptcha_0102'] = "Thema";
 $locale['grecaptcha_0102a'] = "Licht";
 $locale['grecaptcha_0102b'] = "Donker";
 $locale['grecaptcha_0103'] = "Validatie Type";
 $locale['grecaptcha_0103a'] = "Tekt";
 $locale['grecaptcha_0103b'] = "Geluid";
-$locale['grecaptcha_warn'] = "Vul a.u.b. uw publieke en prive reCAPTCHA sleutel in";
+$locale['grecaptcha_warn'] = "Vul a.u.b. uw publieke en priv&eacute; reCAPTCHA sleutel in";
