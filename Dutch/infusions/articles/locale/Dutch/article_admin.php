@@ -46,8 +46,13 @@ $locale['article_0126'] = "Kies Categorie";
 $locale['article_0127'] = "Alle Categorie&euml;n";
 $locale['article_0128'] = "Kies Taal";
 $locale['article_0129'] = "Alle talen";
+<<<<<<< HEAD
 $locale['article_0130'] = "Kies Auteur";
 $locale['article_0131'] = "Alle Auteuren";
+=======
+$locale['article_0130'] = "Kies Autheur";
+$locale['article_0131'] = "Alle Autheuren";
+>>>>>>> origin/master
 $locale['article_0132'] = "Items per Pagina";
 $locale['article_0150'] = "Naam";
 $locale['article_0152'] = "Status";
@@ -91,9 +96,17 @@ $locale['article_0910'] = "Artikel is succesvol ingezonden.";
 $locale['article_0911'] = "Dank u voor de Inzending.";
 $locale['article_0912'] = "Zend nog een Artikel in";
 $locale['article_0913'] = "Terug naar startschem";
+<<<<<<< HEAD
 $locale['article_0920'] = "Gebruik het volgende formulier om een Artikel in te sturen. Uw Inzending zal worden beoordeeld door een beheerder.
+=======
+$locale['article_0920'] = "Geruik het volgende formulier om een Artikel in te sturen. Uw Inzending zal worden beoordeeld dooe een beheerder.
+>>>>>>> origin/master
  [SITENAME] houd het recht voor om Inzendingen in te korten of aan te passen Artikelen
 moeten passen bij de inhoud van deze site. Niet passende Inzendingen worden verwijderd.";
 $locale['article_0921'] = "U dient in te loggen om een Artikel in te kunnen zenden.";
 $locale['article_0922'] = "We accepteren momenteel geen Artikel Inzendingen.";
+<<<<<<< HEAD
 $locale['article_0923'] = "U kunt geen Artikel inzenden, omdat er geen Gorie&euml;n zijn gedefinieerd.";
+=======
+$locale['article_0923'] = "U kunt geen Artikel inzenden, omdat er geen Categorie&euml;n zijn gedefinieerd.";
+>>>>>>> origin/master
