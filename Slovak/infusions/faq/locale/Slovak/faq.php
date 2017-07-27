@@ -17,7 +17,7 @@
 +--------------------------------------------------------*/
 $locale['faq_0000'] = "FAQ";
 $locale['faq_0001'] = "Kategórie";
-$locale['faq_0002'] = "Top";
+$locale['faq_0002'] = "Hore";
 $locale['faq_0003'] = "Pridať FAQ";
 $locale['faq_0004'] = "Upraviť FAQ";
 $locale['faq_0005'] = "Na schválenie";

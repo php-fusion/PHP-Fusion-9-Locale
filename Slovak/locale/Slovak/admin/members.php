@@ -61,6 +61,8 @@ $locale['ME_455'] = "Chystáte sa odstrániť užívateľa %s!<br/>\rAk budete p
 Pokiaľ to nie je spammer, odporúčame vám napr. zakázať, pozastaviť, zrušiť alebo anonymizovať tohto užívateľa.<br/>\r
 Naozaj chcete odstrániť tohto užívateľa?<br/>\r";
 $locale['ME_456'] = 'Odstrániť užívateľa';
+$locale['ME_457'] = "Chystáte sa odstrániť nového neaktivovaného používateľa %s!<br/>
+Naozaj chcete odstrániť tohto užívateľa?";
 
 $locale['ME_460'] = 'Nie sú deaktivovaní žiadni užívatelia';
 $locale['ME_461'] = '%s bol deaktivovaný';
@@ -93,3 +95,4 @@ $locale['ME_557'] = 'permanentne odstránený';
 
 $locale['ME_560'] = "Zobraziť výsledky";
 $locale['ME_561'] = "Zobraziť užívateľa so stavom";
+$locale['ME_562'] = "Nový neaktivovaný užívateľ";
