@@ -15,13 +15,13 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['apw_title'] = "Reset hesla administrátora";
-$locale['apw_desc'] = "Změní přihlašovací / administrátorská hesla správce";
+$locale['apw_title'] = "Obnovení admin hesla";
+$locale['apw_desc'] = "Změnit administrátorské přihlašovací/admin hesla";
 $locale['apw_admin1'] = "Administrátor obnoven";
 $locale['apw_400'] = "Administrátor(i) na obnovení:";
-$locale['apw_401'] = "Všechny administrátory";
-$locale['apw_402'] = "Pouze super administrátoři";
-$locale['apw_403'] = "Pouze administrátoři";
+$locale['apw_401'] = "Všichni Administrátoři";
+$locale['apw_402'] = "Jen hlavní administrátoři";
+$locale['apw_403'] = "Ken administrátoři";
 $locale['apw_404'] = "Odůvodnění resetování:";
 $locale['apw_405'] = "Obnovit přihlašovací i administrátorská hesla?";
 $locale['apw_406'] = "Obnovit hesla";

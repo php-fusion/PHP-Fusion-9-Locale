@@ -114,25 +114,25 @@ $locale['u144'] = "Nové heslo administrátora";
 $locale['u144a'] = "Aktuální heslo správce";
 $locale['u145'] = "Potvrzení hesla administrátora";
 $locale['u146'] = "nemůže být stejná jako vaše aktuální";
-$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky. \ N \ rAllowed symboly jsou az, 0-9 a @! # $% & / () = -_? ";
+$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky. \n\rAllowed symboly jsou az, 0-9 a @! # $% & / () = -_? ";
 $locale['u148'] = "Nové přihlašovací hesla nejsou totožné.";
 $locale['u148a'] = "Nové hesla správce nejsou totožné.";
 $locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";
 $locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
-$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné. \ N \ rNeníte heslo administrátora bez správného přihlašovacího hesla.";
+$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné. \n\rNeníte heslo administrátora bez správného přihlašovacího hesla.";
 // Aktivace e-mailu
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
-$locale['u152'] = "Dobrý den, USER_NAME, \ n \ r
-Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje: \ n \ r
-Uživatelské jméno: USER_NAME \ n \ r
-Heslo: USER_PASSWORD \ n \ r
-Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK \ n \ n \ r \ r
-S pozdravem, \ n \ r
+$locale['u152'] = "Dobrý den, USER_NAME, \n\r
+Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje: \n\r
+Uživatelské jméno: USER_NAME \n\r
+Heslo: USER_PASSWORD \n\r
+Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK \n \n\r
+S pozdravem, \n\r
 SITEUSERNAME ";
 
 $locale['u153'] = "Aktivační e-mail nelze odeslat.";
-$locale['u154'] = "Prosím, [LINK] kontaktujte [/ LINK] administrátora webu.";
+$locale['u154'] = "Prosím, [LINK] kontaktujte [/LINK] administrátora webu.";
 $locale['u155'] = "Aktivovat účet";
 $locale['u156'] = "Pro změnu e-mailu zadejte prosím aktuální heslo.";
 // Úspěch / selhání
