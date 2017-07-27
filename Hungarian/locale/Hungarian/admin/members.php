@@ -57,6 +57,9 @@ Ha ez nem egy spammer felhasználó például, akkor javasoljuk, hogy inkább t�
 \n
 Valóban törölne szeretnéd ezt  felhasználót?\n";
 $locale['ME_456'] = "Tag Törlése";
+$locale['ME_457'] = "<h2>Figyelem!</h2>\n
+<strong>%s</strong> Új aktiválatlan felhasználó törlésére készülsz!\n
+Valóban törölne szeretnéd ezt felhasználót?\n";
 
 $locale['ME_460'] = "Nincsennek Deaktivált Tagok";
 $locale['ME_461'] = "%s deaktivált";
@@ -89,6 +92,7 @@ $locale['ME_557'] = "végleges törölése";
 
 $locale['ME_560'] = "Találatok megjelenítése";
 $locale['ME_561'] = "Felhasználó állapota";
+$locale['ME_562'] = "Új Aktiválatlan felhasználó";
 
 // Edit Member Details
 $locale['430'] = "Felhasználó szerkesztése";
