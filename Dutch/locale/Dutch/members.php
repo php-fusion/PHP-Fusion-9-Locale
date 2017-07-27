@@ -18,3 +18,4 @@ $locale['MEMB_015'] = "Niet opgenomen in een gebruikersgroep";
 $locale['MEMB_016'] = "Toegang tot alle groepen";
 $locale['MEMB_017'] = "Tonen {%start_row%} - {%end_row%} van {%max_row%} aktieve {%member%}";
 $locale['MEMB_018'] = "Er zijn geen gebruikersnamen beginnend met: ";
+$locale['language'] = "NL"; 

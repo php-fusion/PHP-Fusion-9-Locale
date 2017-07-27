@@ -53,7 +53,7 @@ $locale['fields_0410'] = "Selecteer Categorie";
 $locale['fields_0411'] = "Dit is een verplicht veld";
 $locale['fields_0412'] = "Log Gebruikers velden";
 $locale['fields_0413'] = "Koppel veld aan registratie formulier?";
-$locale['fields_0414'] = "Vled volgorde";
+$locale['fields_0414'] = "Veld volgorde";
 $locale['fields_0415'] = "Bijwerken veld";
 $locale['fields_0416'] = "Installeer veld";
 

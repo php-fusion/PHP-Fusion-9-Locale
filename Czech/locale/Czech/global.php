@@ -38,6 +38,7 @@ $locale['datepicker'] = "cs";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
 $locale['password_strength'] = "cs";
+$locale['date_day'] = "%d %b";
 // Celé & krátké měsíce
 $locale['months'] = "&nbsp|Leden|Únor|Březen|Duben|Květen|Červen|Červenec|Srpen|Září|Říjen|Listopad|Prosinec";
 $locale['shortmonths'] = "&nbsp|Led|Úno|Bře|Dub|Kvě|Čer|Červ|Srp|Zář|Říj|Lis|Pro";

@@ -11,7 +11,7 @@ $locale['home_0052'] = "Geen Blogs om weer te geven";
 $locale['home_0053'] = "Geen Downloads om weer te geven";
 
 // common text
-$locale['home_0100'] = "Content modules niet geinstalleerd";
+$locale['home_0100'] = "Content modules niet ge&iuml;nstalleerd";
 $locale['home_0101'] = "Installeer a.u.b. minimaal 1 module voor tekst weergave, of verander de startpagina in Algemene instellingen.";
 $locale['home_0102'] = "Niet gecategoriseerd";
 $locale['home_0105'] = "Gepubliceerd door ";

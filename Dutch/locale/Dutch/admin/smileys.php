@@ -3,7 +3,9 @@
 $locale['SMLY_400'] = "Bestaande Smileys";
 $locale['SMLY_401'] = "Smiley toevoegen";
 $locale['SMLY_402'] = "Smiley wijzigen";
-$locale['SMLY_400'] = "Bestaande smileys";
+$locale['SMLY_403'] = "Bestaande smileys";
+$locale['SMLY_404'] = "Actieve Smileys";
+$locale['SMLY_405'] = "Inactieve Smileys";
 // Smiley messages
 $locale['SMLY_410'] = "Smiley toegevoegd";
 $locale['SMLY_411'] = "Smiley gewijzigd";

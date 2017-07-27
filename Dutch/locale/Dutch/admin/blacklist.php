@@ -13,7 +13,7 @@ $locale['BLS_016'] = "Zwarte Lijst email adres is niet geldig.";
 $locale['BLS_020'] = "Gebruiker op zwarte lijst plaatsen";
 $locale['BLS_021'] = "Gebruiker op zwarte lijst wijzigen";
 $locale['BLS_022'] = "Gebruiker op zwarte lijst toevoegen";
-$locale['BLS_023'] = "Er worden %d van %d totaal Zwarte lijst record getoond.";
+$locale['BLS_023'] = "Er worden %d van %d totaal Zwarte lijst records getoond.";
 
 $locale['BLS_030'] = "Reden van plaatsing op zwarte lijst";
 $locale['BLS_031'] = "Beheerder";
@@ -52,7 +52,7 @@ bijvoorbeeld <em>foo@bar.com</em>,
 of een email domein, 
 bijvoorbeeld <em>bar.com</em>.";
 
-% - komt overeen met een willekeurige string.<br /><br />
+"% - komt overeen met een willekeurige string.<br /><br />
 
 %.%.%.%@domain.tld blokkeert ieder adres dat minimaal 3 decimale punten bevat.<br />
 %+%@domain.tld blokkeert ieder adres wat minimaal 1 plus teken bevat.<br />

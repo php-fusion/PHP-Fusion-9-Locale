@@ -23,7 +23,7 @@ $locale['GRP_423'] = "Deze gebruikersgroep verwijderen?";
 $locale['GRP_424'] = "Toon %d Gebruikers groep.";
 $locale['GRP_425'] = "Deze gebruikersgroep verwijderen?";
 $locale['GRP_426'] = "Standaard groep";
-$locale['GRP_427'] = "Toont %d  %d Leden.";
+$locale['GRP_427'] = "Toont %d van %d Leden.";
 $locale['GRP_428'] = "Groep toevoegen";
 $locale['GRP_430'] = "toegevoegd aan groep %s";
 // Edit/Add User Group
@@ -48,7 +48,7 @@ $locale['GRP_448'] = "Alle aankruisen";
 $locale['GRP_449'] = "Alle wissen";
 $locale['GRP_450'] = "Geselecteerde gebruikers toevoegen";
 $locale['GRP_451'] = "Geen leden gevonden.";
-$locale['GRP_452'] = "Huidige groep";
+$locale['GRP_452'] = "Huidige groep: ";
 // Current Group Users
 $locale['GRP_460'] = "Aanwezige gebruikers in de groep";
 $locale['GRP_461'] = "Geselecteerde leden verwijderen";
