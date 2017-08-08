@@ -18,3 +18,4 @@ $locale['forum_tag_0205'] = "Використовується";
 $locale['forum_tag_0206'] = "Не використовується";
 $locale['forum_tag_0207'] = "Створити";
 $locale['forum_tag_0208'] = "Оновити";
+$locale['forum_tag_0209'] = "Ярлики не визначено.";
