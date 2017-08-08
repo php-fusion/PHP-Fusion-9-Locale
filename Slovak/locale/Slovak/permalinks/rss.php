@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_rss_title'] = "RSS kanály";
-$locale['pl_rss_desc'] = "Povolenie permalinkov pre RSS kanály.";
+$locale['pl_rss_desc'] = "Povolenie trvalých odkazov pre RSS kanály.";

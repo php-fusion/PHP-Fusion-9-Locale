@@ -1,20 +1,20 @@
 <?php
 $locale['validate'] = "Controleer en bevestig a.u.b. opnieuw het veld.";
-$locale['error_request'] = 'Er is een fout opgetreden tijdens de verwerking van uw verzoek'; // to be moved
-$locale['regex_error'] = 'Controleer en bevestig a.u.b. opnieuw het %s veld'; // to be moved
+$locale['error_request'] = "Er is een fout opgetreden tijdens de verwerking van uw verzoek"; // to be moved
+$locale['regex_error'] = "Controleer en bevestig a.u.b. opnieuw het %s veld"; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Vul a.u.b. een geldige gebruikersnaam op";
-$locale['error_input_default'] = 'Vul a.u.b. het veld in';
-$locale['error_input_password'] = 'Geef a.u.b. een geldig wachtwoord op';
-$locale['error_input_email'] = 'Geef a.u.b. een geldig e-mail adres op';
-$locale['error_input_number'] = 'Geef a.u.b. een geldig nummer op';
-$locale['error_input_url'] = 'Geef a.u.b. een geldige URL op';
-$locale['error_input_regex'] = 'Geef a.u.b. een geldig patroon op';
-$locale['error_input_safemode'] = 'Vul dit veld a.u.b. netjes in';
-$locale['error_input_check'] = 'Vul a.u.b. een correcte waarde in';
+$locale['error_input_default'] = "Vul a.u.b. het veld in";
+$locale['error_input_password'] = "Geef a.u.b. een geldig wachtwoord op";
+$locale['error_input_email'] = "Geef a.u.b. een geldig e-mail adres op";
+$locale['error_input_number'] = "Geef a.u.b. een geldig nummer op";
+$locale['error_input_url'] = "Geef a.u.b. een geldige URL op";
+$locale['error_input_regex'] = "Geef a.u.b. een geldig patroon op";
+$locale['error_input_safemode'] = "Vul dit veld a.u.b. netjes in";
+$locale['error_input_check'] = "Vul a.u.b. een correcte waarde in";
 $locale['df_error_text'] = "%s heeft een fout en verreist uw aandacht.";
-$locale['error_invalid_theme'] = 'Selecteer a.u.b. een gelldig thema'; // to be moved
-$locale['error_input_checkbox'] = 'Vink a.u.b. deze checkbox aan'; // to be moved
+$locale['error_invalid_theme'] = "Selecteer a.u.b. een geldig thema"; // to be moved
+$locale['error_input_checkbox'] = "Vink a.u.b. deze checkbox aan"; // to be moved
 $locale['error_input_file'] = "Selecteer a.u.b. een geldig bestand";
 $locale['error_secure_file'] = "Het uploaded bestand is afgewezen door een mogelijk aanwezigheid van kwaadaardige inhoud.";
 // Admin Login
@@ -89,11 +89,11 @@ $locale['no_keys'] = "Het lijkt of u nog geen sleutes heeft. Registreet en ontva
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Publieke Sleutel";
-$locale['grecaptcha_0101'] = "Prive Sleutel";
+$locale['grecaptcha_0101'] = "Priv&eacute; Sleutel";
 $locale['grecaptcha_0102'] = "Thema";
 $locale['grecaptcha_0102a'] = "Licht";
 $locale['grecaptcha_0102b'] = "Donker";
 $locale['grecaptcha_0103'] = "Validatie Type";
 $locale['grecaptcha_0103a'] = "Tekt";
 $locale['grecaptcha_0103b'] = "Geluid";
-$locale['grecaptcha_warn'] = "Vul a.u.b. uw publieke en prive reCAPTCHA sleutel in";
+$locale['grecaptcha_warn'] = "Vul a.u.b. uw publieke en priv&eacute; reCAPTCHA sleutel in";

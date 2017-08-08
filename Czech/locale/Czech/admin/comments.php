@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/commnts.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 10.04.2017
+| Filename: locale/Czech/admin/comments.php
+| Author: Kvido, phpfusion.cz, 10.04.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -30,4 +29,4 @@ $locale['430'] = "Upravit";
 $locale['431'] = "Vymazat";
 $locale['432'] = "IP uživatele:";
 $locale['433'] = "Smazat tento komentář?";
-$locale['434'] = "K této položce nejsou žádné komentáře";
+$locale['434'] = "Pro tuto položku neexistují žádné komentáře.";

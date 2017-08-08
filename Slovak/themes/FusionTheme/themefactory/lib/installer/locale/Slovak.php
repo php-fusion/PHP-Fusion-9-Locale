@@ -39,4 +39,4 @@ $locale['homeSetup_0117'] = "[h4]PHP-Fusion Developers Network[/h4]";
 $locale['homeSetup_0118'] = "[p]Pomôžte pri vývoji kódu, hľadanie vývojárov alebo nápady na financovanie a cestné mapy, ktoré by sa mali opäť zaväzovať otvorene, je to všetko čo sa deje.
 Zapojte sa dnes do celosvetového úsilia o spoluprácu s otvoreným zdrojom.[/p]";
 $locale['homeSetup_0119'] = "Úžasne jednoduché pre každého";
-$locale['homeSetup_0120'] = "Všetko čé sa vyžaduje, je aby ste cítili základné potreby. V celom CMS systéme sa nič nedá pokaziť.";
+$locale['homeSetup_0120'] = "Všetko čo sa vyžaduje, je aby ste cítili základné potreby. V celom CMS systéme sa nič nedá pokaziť.";

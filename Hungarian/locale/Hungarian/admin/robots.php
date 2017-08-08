@@ -1,15 +1,12 @@
 <?php
-// Titles
-$locale['400'] = "robots.txt";
-// Messages
-$locale['410'] = "Biztos vissza szeretnéd állítani a robots.txt tartalmát az eredeti állapotra?";
-$locale['411'] = "A robots.txt fájl nem létezik. Hozd létre ezt a fájlt a PHP-Fusion gyökérkönyvtárában, és próbáld meg újra.";
-$locale['412'] = "robots.txt módosítva.";
-$locale['413'] = "Hiba történt:";
-$locale['414'] = "A robots.txt nem írható.";
-$locale['415'] = "Nem sikerült módosítani a robots.txt fájlt.";
-// Edit form
-$locale['420'] = "robots.txt fájl szerkesztése";
-$locale['421'] = "További információ a robots.txt működéséről.";
-$locale['422'] = "Mentés";
-$locale['423'] = "Alapértelmezés visszaállítása";
+$locale['ROBOT_400'] = "robots.txt";
+$locale['ROBOT_410'] = "Biztos vissza szeretnéd állítani a robots.txt tartalmát az eredeti állapotra?";
+$locale['ROBOT_411'] = "A robots.txt fájl nem létezik. Létre hozhatod ezt a fájlt a PHP-Fusion gyökérkönyvtárában.";
+$locale['ROBOT_412'] = "robots.txt fájl módosítva.";
+$locale['ROBOT_414'] = "A robots.txt fájl nem írható.";
+$locale['ROBOT_416'] = "robots.txt létrehozva.";
+$locale['ROBOT_417'] = "robots.txt Tartalma nem megfelelő.";
+$locale['ROBOT_420'] = "robots.txt fájl szerkesztése";
+$locale['ROBOT_421'] = "[LINK]További információ a robots.txt működéséről.[/LINK]";
+$locale['ROBOT_422'] = "Új robots.txt fájl létrehozása";
+$locale['ROBOT_423'] = "Alapértelmezés visszaállítása";

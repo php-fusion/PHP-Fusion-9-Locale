@@ -34,3 +34,4 @@ $locale['forum_tag_0205'] = "Dette tag er aktivt";
 $locale['forum_tag_0206'] = "Dette tag er inaktivt";
 $locale['forum_tag_0207'] = "Opret tag";
 $locale['forum_tag_0208'] = "Opdater tag";
+$locale['forum_tag_0209'] = "Ingen debattag oprettet.";

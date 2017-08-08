@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/phpinfo.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Vícha (Kvido), phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/phpinfo.php
+| Author: Vícha (Kvido), phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -32,8 +31,8 @@ $locale['410'] = "Webový prohlížeč a operační systém";
 $locale['420'] = "Nastavení PHP";
 $locale['421'] = "Ano";
 $locale['422'] = "Ne";
-$locale['423'] = "Bezpečný režim";
-$locale['424'] = "Zaregistrujte globály";
+$locale['423'] = "Bezpečnostní mód";
+$locale['424'] = "RegisterGlobals";
 $locale['425'] = "Podpora pro ";
 $locale['426'] = "Nahrávání souborů (maximální velikost souboru)";
 $locale['428'] = "Zobrazení chyb";
@@ -46,4 +45,4 @@ $locale['441'] = "Zapisovatelný";
 $locale['442'] = "Není zapisovatelný";
 //PHPinfo
 $locale['450'] = "Podrobnosti";
-$locale['451'] = "Nelze získat data. Zkontrolujte, zda není funkce phpinfo() vypnutá?";
+$locale['451'] = "Nelze získat data. Zkontrolujte, zda není funkce phpinfo() vypnutá.";

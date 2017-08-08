@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Panel/locale/Czech.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 14.05.2017
+| Filename: panel/locale/Czech.php
+| Author: Kvido, phpfusion.cz, 14.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -18,8 +17,8 @@
 +--------------------------------------------------------*/
 $locale['PW_0100'] = "Panel";
 $locale['PW_0101'] = "PHP-Fusion panely";
-$locale['PW_0200'] = "Vyberte Instalovaný panel";
-$locale['PW_0201'] = "Ověřte prosím nainstalované nastavení přístupu k panelu [LINK]Správa panelu[/LINK]";
+$locale['PW_0200'] = "Vyberte nainstalovaný panel";
+$locale['PW_0201'] = "Prosím, ověřte přístup nainstalovaných panelů v [LINK]Správa panelu[/LINK]";
 $locale['PW_0220'] = "Uložit panel";
 $locale['PW_0221'] = "Uložit a zavřít panel";
-$locale['PW_0222'] = "Panel Název souboru";
+$locale['PW_0222'] = "Název souboru panelu";

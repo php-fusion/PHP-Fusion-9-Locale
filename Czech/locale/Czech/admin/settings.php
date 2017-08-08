@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/admin/sitelinks.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/sitelinks.php
+| Author: Kvido, phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -69,27 +68,27 @@ $locale['437'] = "Povolit Bootstrap";
 $locale['438'] = "Adresa URL pro vyhledávače (SEF):";
 $locale['439'] = "Normalizovat hezké adresy URL:";
 $locale['440'] = "Povolit režim ladění SEO:";
-$locale['441'] = "Povolit písmo Entypo";
-$locale['442'] = "Povolit písmo Awesome";
-$locale['443a'] = "Exclude User 1 Panels";
-$locale['443b'] = "Exclude User 2 Panels";
-$locale['443c'] = "Exclude User 3 Panels";
-$locale['443d'] = "Exclude User 4 Panels";
+$locale['441'] = "Povolit Entypo";
+$locale['442'] = "Povolit Font-Awesome";
+$locale['443a'] = "Vypnout uživatel 1 panely";
+$locale['443b'] = "Vypnout uživatel 2 panely";
+$locale['443c'] = "Vypnout uživatel 3 panely";
+$locale['443d'] = "Vypnout uživatel 4 panely";
 
 // Čas & Datum Nastavení
 $locale['450'] = "Čas a Datum";
-$locale['451'] = "Formát krátkého data:";
-$locale['452'] = "Formát dlouhého data:";
-$locale['453'] = "Formát data fóra:";
-$locale['454'] = "Formát data dílčího záhlaví:";
+$locale['451'] = "Krátký formát data:";
+$locale['452'] = "Dlouhý formát data:";
+$locale['453'] = "Formát data ve fóru:";
+$locale['454'] = "Formát data v podzáhlaví:";
 $locale['455'] = "-- Vyberte formát --";
-$locale['456'] = "Hosté vypnuto";
-$locale['457'] = "Novinky &amp; Formát data článků:";
+$locale['456'] = "Časový posun hosty";
+$locale['457'] = "Formát data pro novinky a články:";
 $locale['458'] = "Čas";
 $locale['459'] = "Server";
 $locale['460'] = "Vy";
 $locale['461'] = "Hosté";
-$locale['462'] = "Serverový offset";
+$locale['462'] = "Časový posun serveru";
 $locale['463'] = "Nastavte tak, aby čas serveru byl GMT 0";
 $locale['464'] = "Výchozí časové pásmo";
 $locale['465'] = "První den v týdnu";
@@ -97,47 +96,48 @@ $locale['466'] = "Výchozí nastavení pro nové uživatele";
 
 // Registrace Nastavení
 $locale['550'] = "Registrace";
-$locale['551'] = "Aktivovat registrační systém?";
-$locale['552'] = "Pro registraci použijte ověření e-mailu?";
+$locale['551'] = "Povolit registrační systém?";
+$locale['552'] = "Použít ověření pomocí emailu?";
 $locale['553'] = "Zobrazení ověřovacího kódu?";
-$locale['557'] = "Nové členy aktivované adminem?";
+$locale['557'] = "Nové uživatele aktivovat administrátorem?";
 $locale['558'] = "Povolit smluvní podmínky?";
 $locale['559'] = "Smluvní podmínky";
 
 // Ostatní nastavení
-$locale['601'] = "Velikost palety:";
+$locale['601'] = "Velikost náhledu:";
 $locale['602'] = "Velikost fotografie:";
 $locale['603'] = "Maximální velikost fotografie:";
 $locale['604'] = "Šířka x Výška";
 $locale['605'] = "Maximální velikost souboru (bajty):";
-$locale['606'] = "Metoda komprese palec";
+$locale['606'] = "Metoda komprese náhledů";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 
+$locale['649'] = "Zakázané uživatelská jména:";
 $locale['650'] = "Smíšený";
 $locale['651'] = "Seznam špatných slov:";
 $locale['652'] = "Zadejte jedno slovo na řádek.";
 $locale['653'] = "Ponechte prázdné, pokud není požadováno.";
-$locale['654'] = "Špatná náhrada slov:";
-$locale['655'] = "Umožnit hostům publikovat?";
+$locale['654'] = "Filtrované slova nahradit:";
+$locale['655'] = "Umožnit hostům publikovat příspěvky?";
 $locale['656'] = "Povolit komentáře k avatarům?";
-$locale['656a'] = "Povolit komentáře Jquery?";
-$locale['656b'] = "Nastavte prosím na velké množství komentářů na stránku, jestliže zapnete Jquery pro nejlepší zobrazení";
+$locale['656a'] = "Povolit Jquery komentáře?";
+$locale['656b'] = "Pro nejlepší zobrazení nastavte prosím na velké množství komentářů na stránku, jestliže zapnete Jquery";
 
 $locale['657'] = "Údržbový mód:";
-$locale['658'] = "Zpráva režimu údržby:";
+$locale['658'] = "Zpráva módu údržby:";
 $locale['659'] = "Povolit filtr špatných slov?";
-$locale['660'] = "Interval povodní (sekundy):";
-$locale['661'] = "Leave empty for immediate upload/download of backups.";
+$locale['660'] = "Doba pro zahlcení (sekundy):";
+$locale['661'] = "Nechte prázdné pro okamžité nahrání / stažení zálohy.";
 $locale['662'] = "TinyMCE Editor";
-$locale['663'] = "Pouze pro vlastní stránky, články, blogy a novinky administrace.";
+$locale['663'] = "Pouze pro vlastní stránky, články, blogy a novinky.";
 $locale['664'] = "SMTP Host";
-$locale['665'] = "Ponechte prázdné, pokud je povolen sendmail.";
+$locale['665'] = "Nechte prázdné pokud je povoleno posílání emailů.";
 $locale['666'] = "SMTP Uživatelské jméno";
 $locale['667'] = "SMTP Heslo";
 $locale['668'] = "Umožnit uživatelům změnit vzhled";
 $locale['668ML'] = "Tabulky s vícejazyčným obsahem";
-$locale['669ML'] = "Vyberte tabulky, které budou obsahovat více jazyková data";
+$locale['669ML'] = "Vyberte tabulky, které budou obsahovat vícejazyčné údaje";
 $locale['670ML'] = "Články";
 $locale['671ML'] = "Vlastní stránky";
 $locale['672ML'] = "Stahování";
@@ -151,35 +151,35 @@ $locale['679ML'] = "Webové odkazy";
 $locale['680ML'] = "Odkazy na stránky";
 $locale['681ML'] = "Panely";
 $locale['682ML'] = "Nastavení jazyka";
-$locale['683ML'] = "Enable Multilingal System";
+$locale['683ML'] = "Povolit vícejazyčný systém";
 $locale['684ML'] = "Povolené jazyky";
-$locale['685ML'] = "Výběr povolených jazyků.\n\rPOZNÁMKA: Pozor! Odstraněním jazyka odeberete ze systému všechny vlastní odkazy, kategorie a další váš národní obsah z celého systému!!";
+$locale['685ML'] = "Výběr povolených jazyků.\n\rPOZNÁMKA: Pozor! Odstraněním jazyka odstraníte i všechny přizpůsobené odkazy na stránky, kategorie a jakýkoli jiný vícejazyčný obsah pro daný jazyk ze celeého systému.";
 $locale['669'] = "Novinky";
 $locale['669b'] = "Položky blogu na stránku";
 $locale['669c'] = "Položky novinky na stránku";
-$locale['670'] = "Mělo by to být nerovnoměrné číslo";
+$locale['670'] = "Mělo by to být liché číslo";
 $locale['671'] = "Povolit systém komentářů?";
 $locale['672'] = "Povolit systém hodnocení?";
-$locale['673'] = "Skrýt uživatelské profily z veřejnosti:";
+$locale['673'] = "Skrýt uživatelské profily pro veřejnost:";
 $locale['674'] = "SMTP Port";
 $locale['675'] = "Úroveň údržby:";
 $locale['676'] = "Administrátoři";
-$locale['677'] = "Super administrátoři";
+$locale['677'] = "Hlavní administrátoři";
 $locale['678'] = "Vlastník webu";
 $locale['679'] = "Povolit počítadlo návštěv?";
-$locale['680'] = "Automatický zákaz povodní:";
+$locale['680'] = "Automatický ban zahlcení:";
 $locale['681'] = "Údržba";
-$locale['682'] = "Nastavení povodní";
-$locale['683'] = "Bezpečnostní nastavení";
-$locale['684'] = "Komentáře třídění";
+$locale['682'] = "Nastavení zahlcení";
+$locale['683'] = "Nastavení bezpečnosti";
+$locale['684'] = "Řazení komentářů";
 $locale['685'] = "Vzestupně";
 $locale['686'] = "Sestupně";
 $locale['687'] = "Sprostá slova";
-$locale['688'] = "Zobrazení doby vykreslení";
+$locale['688'] = "Zobrazit čas renderování";
 $locale['689'] = "Ano (všichni návštěvníci)";
 $locale['690'] = "Ano (pouze administrátoři)";
 $locale['691'] = "Povolit uživatelům změnit uživatelské jméno";
-$locale['692'] = "Nastavení protokolu Captcha";
+$locale['692'] = "Nastavení Captcha";
 $locale['693'] = "Captcha";
 $locale['694'] = "Povolit spuštění PHP";
 $locale['695'] = "VAROVÁNÍ! Povolením provádění PHP se systém otevře do zranitelných míst SQL.";
@@ -213,10 +213,10 @@ $locale['711'] = "Poznámka: Jednotlivé uživatelské volby mají přednost, po
 $locale['750'] = "Uložit nastavení";
 
 // Other Settings
-$locale['800'] = "Zrušit fóra";
-$locale['801'] = "Byly smazány příspěvky: ";
-$locale['802'] = "Závady byly smazány: ";
-$locale['803'] = "Přílohy byly smazány: ";
+$locale['800'] = "Pročistit fóra";
+$locale['801'] = "Vymazány příspěvky: ";
+$locale['802'] = "Vymazány témata: ";
+$locale['803'] = "Vymazány přílohy: ";
 
 // Privacy policy
 $locale['820'] = "Zásady ochrany osobních údajů";
@@ -231,11 +231,11 @@ $locale['855'] = "Náhled bannery";
 
 // Settings Error
 $locale['900'] = "Nastavení bylo úspěšně aktualizováno";
-$locale['901'] = "Došlo k chybě aktualizace databáze: Nastavení nebyla aktualizována!";
+$locale['901'] = "Došlo k chybě aktualizace databáze: Nastavení nebyly aktualizovány!";
 $locale['902'] = "Host hostitele nemůže zůstat prázdný!";
 
 // User Management
-$locale['1001'] = "Avatar poměr:";
+$locale['1001'] = "Rozměry avataru:";
 $locale['1002'] = "Deaktivační systém zapnutý";
 $locale['1003'] = "Povolená doba nečinnosti:";
 $locale['1004'] = "Počet dnů neaktivní před deaktivací je spuštěn.";
@@ -316,4 +316,4 @@ $locale['time_settings'] = "Nastavení časového data";
 $locale['user_settings'] = "Nastavení správy uživatelů";
 $locale['theme_settings'] = "Nastavení vzhledu";
 
-$locale['securimage3'] = "Zabezpečený obraz v.3";
+$locale['securimage3'] = "Secure Image v.3";

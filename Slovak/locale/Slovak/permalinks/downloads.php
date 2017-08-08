@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_downloads_title'] = "Downloady";
-$locale['pl_downloads_desc'] = "Povolenie permalinkov pre downloady.";
+$locale['pl_downloads_desc'] = "Povolenie trvalých odkazov pre downloady.";

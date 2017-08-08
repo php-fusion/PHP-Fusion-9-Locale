@@ -22,7 +22,7 @@ $locale['ME_403'] = 'Pridať nového užívateľa';
 $locale['ME_404'] = 'Použiť filter';
 $locale['ME_405'] = 'Podľa kritérií vyhľadávania sa nenašiel žiadny používateľ';
 //
-$locale['ME_407'] = 'Zobrazovanie %s - %d z %d nájdených záznamov';
+$locale['ME_407'] = 'Zobrazujem %s - %d z %d nájdených záznamov';
 $locale['ME_408'] = 'Základné informácie';
 $locale['ME_409'] = 'Detailné informácie';
 $locale['ME_410'] = 'Užívateľ';
@@ -57,20 +57,22 @@ $locale['ME_451'] = 'Profil: %s';
 $locale['ME_452'] = 'Upraviť profil: %s';
 $locale['ME_453'] = 'Odstrániť užívateľa: %s';
 $locale['ME_454'] = "Varovanie!";
-$locale['ME_455'] = "Chystáte sa odstrániť užívateľa %s!<br/>\rAk budete pokračovať, obsah uverejnený týmto užívateľom na tejto stránke bude odstránený.<br/>\r
+$locale['ME_455'] = "Chystáte sa odstrániť užívateľa %s!<br/>\rAk budete pokračovať, obsah zverejnený týmto užívateľom na tejto stránke bude odstránený.<br/>\r
 Pokiaľ to nie je spammer, odporúčame vám napr. zakázať, pozastaviť, zrušiť alebo anonymizovať tohto užívateľa.<br/>\r
 Naozaj chcete odstrániť tohto užívateľa?<br/>\r";
 $locale['ME_456'] = 'Odstrániť užívateľa';
+$locale['ME_457'] = "Chystáte sa odstrániť nového neaktivovaného používateľa %s!<br/>
+Naozaj chcete odstrániť tohto užívateľa?";
 
 $locale['ME_460'] = 'Nie sú deaktivovaní žiadni užívatelia';
 $locale['ME_461'] = '%s bol deaktivovaný';
 $locale['ME_462'] = 'Deaktivovať neaktívnych členov';
 $locale['ME_463'] = 'Máte viac ako 50 neaktívnych používateľov a budete musieť spustiť proces deaktivácie (%d) krát.';
-$locale['ME_464'] = '%d užívateľ/lia sa neprihlásili na %d dni a boli označený ako neaktívny. Deaktiváciou týchto používateľov to bude mať (%d) deň/dní predtým, ako sú %s.';
-$locale['ME_465'] = 'Upozorňujeme, že niektorí používatelia môžu na váš web odoslať obsah, napr. príspevky na fóre, komentáre, fotky atď. Tie budú odstránené, keď deaktivovaní užívatelia budú odstránení.';
+$locale['ME_464'] = '%d užívateľ/lia sa neprihlásili %d dni a boli označený ako neaktívny. Deaktiváciou týchto užívateľov budú mať %d dni pred tým, než budú %s.';
+$locale['ME_465'] = 'Upozorňujeme, že niektorí užívatelia môžu na váš web odoslať obsah, napr. príspevky na fóre, komentáre, fotky atď. Tie budú odstránené, keď deaktivovaní užívatelia budú odstránení.';
 $locale['ME_466'] = 'Dôrazne sa odporúča zmeniť akciu deaktivácie na anonymizáciu namiesto odstránenia, aby sa zabránilo strate dát!';
 $locale['ME_467'] = "Nastavte deaktivačný systém na anonymizáciu.";
-$locale['ME_468'] = 'Automatické deaktivovanie neaktívnych používateľov.';
+$locale['ME_468'] = 'Automatické deaktivovanie neaktívnych užívateľov.';
 
 // Actions
 $locale['ME_500'] = 'Ban';
@@ -93,3 +95,4 @@ $locale['ME_557'] = 'permanentne odstránený';
 
 $locale['ME_560'] = "Zobraziť výsledky";
 $locale['ME_561'] = "Zobraziť užívateľa so stavom";
+$locale['ME_562'] = "Nový neaktivovaný užívateľ";

@@ -17,14 +17,14 @@
 +--------------------------------------------------------*/
 // Admin Links
 $locale['200'] = "[SITENAME] administračný panel";
-$locale['ac00'] = "Admin domov";
+$locale['ac00'] = "Administrácia";
 $locale['ac01'] = "Obsah";
 $locale['ac02'] = "Užívatelia";
 $locale['ac03'] = "Systém";
 $locale['ac04'] = "Nastavenia";
 $locale['ac05'] = "Infúzie";
-$locale['ac10'] = "Admin dashboard";
-$locale['202'] = "Konfigurácia profilu používateľa";
+$locale['ac10'] = "Dashboard";
+$locale['202'] = "Konfigurácia profilu užívateľa";
 
 // Pre-defined sections
 $locale['AC'] = "Kategórie článkov";
@@ -74,18 +74,18 @@ $locale['S10'] = "Položiek na stránku";
 $locale['SB'] = "Bannery";
 $locale['S12'] = "Bezpečnosť";
 $locale['APWR'] = "Obnovenie admin hesla";
-$locale['ERRO'] = "Záznam o chybách";
+$locale['ERRO'] = "Záznam chýb";
 $locale['AD'] = "Administrátori";
 $locale['UL'] = "Záznam o užívateľoch";
 $locale['MAIL'] = "Šablóny e-mailov";
-$locale['PL'] = "Permalinky";
+$locale['PL'] = "Trvalé odkazy";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Správca tém";
 $locale['S13'] = "Nastavenia blogu";
-$locale['LANG'] = "Jazykové nastavenia";
+$locale['LANG'] = "Nastavenie jazyka";
 
 // Site Information
-$locale['250'] = "Dashboard - Prehľad o stránke";
+$locale['250'] = "Prehľad o stránke";
 $locale['251'] = "Reg. užívatelia";
 $locale['252'] = "Neakt. užívatelia";
 $locale['253'] = "Blok. užívatelia";
@@ -93,7 +93,7 @@ $locale['254'] = "Na schv."; // Submissions
 $locale['254a'] = "Momentálne nie sú žiadne príspevky na schválenie.";
 $locale['254b'] = "Momentálne nie sú žiadne hodnotenia.";
 $locale['254c'] = "Momentálne nie sú žiadne komentáre.";
-$locale['255'] = "Zobrazť viac";
+$locale['255'] = "Zobraziť viac";
 $locale['256'] = "Vlákna";
 $locale['257'] = "Komentáre";
 $locale['258'] = "- prehľad";
@@ -107,15 +107,15 @@ $locale['265'] = "Fórum";
 $locale['266'] = "Záznam o užívateľoch";
 $locale['267'] = "robots.txt";
 $locale['268'] = "Downloady";
-$locale['269'] = "Nevinky";
+$locale['269'] = "Novinky";
 $locale['269b'] = "Blog";
 $locale['270'] = "Články";
 $locale['271'] = "Odkazy";
 $locale['272'] = "Galéria";
 $locale['272a'] = "Vlastné stránky";
-$locale['273'] = "komentvané na";
+$locale['273'] = "komentované na";
 $locale['273a'] = "hodnotené na";
-$locale['273b'] = "vytvoril príspevok na";
+$locale['273b'] = "vytvoril/a príspevok na";
 $locale['274'] = "Spravovať komentáre";
 $locale['275'] = "Upraviť komentáre";
 $locale['276'] = "Odstrániť komentáre";

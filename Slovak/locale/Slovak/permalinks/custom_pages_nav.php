@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_cpnav_title'] = "Vlastné stránky v navigácií";
-$locale['pl_cpnav_desc'] = "Povolenie permalinkov pre vlastné stránky v navigácií.";
+$locale['pl_cpnav_desc'] = "Povolenie trvalých odkazov pre vlastné stránky v navigácií.";

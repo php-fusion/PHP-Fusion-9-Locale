@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_poll_title'] = "Anketa";
-$locale['pl_poll_desc'] = "Povolenie permalinkov pre anketu.";
+$locale['pl_poll_desc'] = "Povolenie trvalých odkazov pre anketu.";

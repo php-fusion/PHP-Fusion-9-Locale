@@ -41,7 +41,7 @@ $locale['blog_0402'] = "Upraviť blog";
 $locale['blog_0405'] = "Blog";
 $locale['blog_0406'] = "Nastavenia";
 $locale['blog_0407'] = "Kategórie";
-$locale['blog_0408'] = "Momentálne sa zobrazujú %d z %d celkových záznamov blogu";
+$locale['blog_0408'] = "Momentálne zobrazuje %d z %d celkových záznamov blogu";
 $locale['blog_0409'] = "Pridať kategóriu";
 // Blog messages
 $locale['blog_0410'] = "Blog bol pridaný";

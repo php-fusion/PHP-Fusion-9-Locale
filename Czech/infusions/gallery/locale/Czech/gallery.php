@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['400'] = "Galerie alba";
+$locale['400'] = "Fotoalba";
 $locale['401'] = "Otevřete album";
 $locale['402'] = "Bez náhledu";
 $locale['403'] = "Datum:";
@@ -25,9 +25,9 @@ $locale['406'] = "Nebyly zvěřejněny žádné alba.";
 $locale['420'] = "Informace o albech";
 $locale['421'] = "Album:";
 $locale['422'] = "Počet fotografií:";
-$locale['423'] = "Poslední foto přidané";
-$locale['424'] = "na";
-$locale['425'] = "Do tohoto galerijního alba nebyly přidány žádné fotky";
+$locale['423'] = "Poslední fotku přidal/a";
+$locale['424'] = "dne";
+$locale['425'] = "Žádné fotky nebyly přidány do alba";
 $locale['430'] = "Zobrazit album";
 $locale['431'] = "Klikněte pro zobrazení";
 $locale['434'] = "Přidáno:";
@@ -47,7 +47,7 @@ $locale['457'] = "Počet zobrazení:";
 $locale['458'] = "Klepnutím zavřete";
 $locale['459'] = "První fotka";
 $locale['460'] = "Poslední fotka";
-$locale['461'] = "Foto|Fotky";
-$locale['463'] = "Vydavatel|Nakladatelé";
+$locale['461'] = "fotka|fotky|fotek";
+$locale['463'] = "vydavatel|vydavatelé|vydavatelů";
 $locale['464'] = "Datum přidáno:";
 $locale['465'] = "Galerie";

@@ -156,7 +156,7 @@ $locale['global_058'] = "Zastaviť";
 $locale['global_059'] = "Nemáte žiadne sledované vlákna.";
 $locale['global_060'] = "Zastaviť sledovanie vlákien?";
 // Blog, News & Articles
-$locale['global_070'] = "Pridal ";
+$locale['global_070'] = "Pridal/a ";
 $locale['global_070b'] = "Zobraziť všetky príspevky od %s";
 $locale['global_071'] = "dňa ";
 $locale['global_071b'] = "Autor";
@@ -441,7 +441,7 @@ $locale['rights'] = "Práva";
 $locale['info'] = "Info";
 $locale['image'] = "Obrázok";
 // Forms
-$locale['choose'] = "Prosím, vyberte jedeno...";
+$locale['choose'] = "Prosím, vyberte jedno...";
 $locale['no_opts'] = "Žiadny výber";
 $locale['root'] = "Ako rodič";
 $locale['choose-user'] = "Prosím, vyberte užívateľa..";

@@ -18,3 +18,4 @@ $locale['forum_tag_0205'] = "Aktív címke";
 $locale['forum_tag_0206'] = "Inaktív címke";
 $locale['forum_tag_0207'] = "Címke készítése";
 $locale['forum_tag_0208'] = "Címke módosítása";
+$locale['forum_tag_0209'] = "Nincsenek létrehozva Cimke.";

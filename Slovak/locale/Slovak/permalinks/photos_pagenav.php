@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_pp_title'] = "Galéria v navigácií";
-$locale['pl_pp_desc'] = "Povolenie permalinkov pre linky galérie v navigácíí.";
+$locale['pl_pp_desc'] = "Povolenie trvalých odkazov  pre linky galérie v navigácíí.";

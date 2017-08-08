@@ -19,6 +19,7 @@ $locale['error-DP001'] = "Žiadne príspevky na odstránenie.";
 $locale['error-MP000'] = "Presunúť príspevky - chyba";
 $locale['error-MP001'] = "Nové vlákno neexistuje.";
 $locale['error-MP002'] = "Príspevky, ktoré ste označili na presun, neexistujú, alebo ich už niekto iný presunol.";
+
 $locale['forum_0000'] = "Diskusné fórum";
 $locale['forum_0001'] = "Fórum";
 $locale['forum_0002'] = "Vlákna";
@@ -34,6 +35,18 @@ $locale['forum_0011'] = "Moje príspevky";
 $locale['forum_0012'] = "Najnovšie vlákna";
 $locale['forum_0013'] = "Kategórie";
 $locale['forum_0014'] = "Reputácia";
+$locale['forum_0015'] = "Prehľad fóra";
+$locale['forum_0016'] = "Aktivita";
+$locale['forum_0017'] = "Ľudia";
+$locale['forum_0018'] = "Osoba";
+$locale['forum_0019'] = "Neexistujú žiadne subfóra";
+
+$locale['forum_0020'] = "Posledná aktivita";
+$locale['forum_0021'] = "dňa %s od %s";
+$locale['forum_0022'] = "Odpovedal v";
+$locale['forum_0023'] = "Re:";
+$locale['forum_0024'] = "Pozrite si všetky diskusné príspevky";
+
 $locale['forum_0050'] = "Zobraziť fórum";
 $locale['forum_0051'] = "Predmet";
 $locale['forum_0052'] = "Autor";
@@ -42,6 +55,8 @@ $locale['forum_0054'] = "Odpovedí";
 $locale['forum_0055'] = "Stránka:";
 $locale['forum_0056'] = "Neboli spustené žiadne vlákna";
 $locale['forum_0057'] = "Začať nové vlákno";
+$locale['forum_0058'] = "Opýtať sa otázku";
+
 $locale['forum_0080'] = "Označiť všetko";
 $locale['forum_0081'] = "Odznačiť všetko";
 $locale['forum_0082'] = "Vymazať vlákna";
@@ -111,7 +126,7 @@ $locale['forum_0223'] = "Prílohy";
 $locale['forum_0224'] = "Ankety";
 $locale['forum_0225'] = "Triediť podľa";
 $locale['forum_0226'] = "Dátum - posledná aktualizácia";
-$locale['forum_0228'] = "Názov";
+$locale['forum_0228'] = "Názov topicu";
 $locale['forum_0229'] = "Poradie";
 $locale['forum_0230'] = "Vzostupne";
 $locale['forum_0231'] = "Zostupne";
@@ -122,7 +137,7 @@ $locale['forum_0260'] = "Nové príspevky";
 $locale['forum_0261'] = "Žiadne nové príspevky";
 $locale['forum_0262'] = "Prilepené vlákno";
 $locale['forum_0263'] = "Zamknuté vlákno";
-$locale['forum_0264'] = "Začať nové vlákno";
+
 $locale['forum_0265'] = "Upraviť";
 $locale['forum_0266'] = "Citovať";
 $locale['forum_0267'] = "napísal/a";
@@ -130,9 +145,16 @@ $locale['forum_0268'] = "IP užívateľa";
 $locale['forum_0269'] = "Žiadne vlákna neboli nájdené.";
 $locale['forum_0270'] = "Žiadny príspevok nebol nájdený.";
 $locale['forum_0271'] = "V tomto vlákne už nie sú príspevky. Prosím vráťte sa na <a href=\"../../infusions/forum/index.php\">Fórum index</a>";
+$locale['forum_0272'] = "Filtrovať podľa tagov";
+$locale['forum_0273'] = "Populárne vlákna tento týždeň";
+$locale['forum_0274'] = "Neexistujú žiadne tagy vlákien";
+$locale['forum_0275'] = "Neboli nájdené žiadne vlákna";
+$locale['forum_0276'] = "Neexistujú žiadne tagy";
+
+$locale['forum_0300'] = "Presunúť na nové vlákno";
 $locale['forum_0301'] = "Vyberte nové fórum";
 $locale['forum_0302'] = "Ďalej";
-$locale['forum_0303'] = "Vyberte nové vlákno";
+$locale['forum_0303'] = "Presunúť na existujúce vlákno";
 $locale['forum_0305'] = "Pokúšate sa presunúť prvý príspevok v tomto vlákne!<br/>Prvý príspevok [STRONG]nebude presunutý[/STRONG] a bol odstránený zo zoznamu, pretože zostávajú príspevky vo vlákne.";
 $locale['forum_0306'] = "Pokúšate sa presunúť prvý príspevok v tomto vlákne!<br/>Prvý príspevok [STRONG]sa presunie[/STRONG] a vlákno bude odstránené.";
 $locale['forum_0307'] = "Žiadne príspevky na presun.";
@@ -161,7 +183,7 @@ $locale['forum_0365'] = "Odpovede";
 $locale['forum_0366'] = "Pridať anketu";
 $locale['forum_0372'] = "Hodnotenia";
 $locale['forum_0373'] = "Naposledy odpovedal/a:";
-$locale['forum_0374'] = "Všetky vlákna";
+$locale['forum_0374'] = "Všetok obsah";
 $locale['forum_0378'] = "Vyriešené";
 $locale['forum_0379'] = "Nevyriešené";
 $locale['forum_0381'] = "Čas príspevku";
@@ -173,7 +195,9 @@ $locale['forum_0396'] = "Potvrďte výber fóra";
 $locale['forum_0397'] = "Nie sú definované žiadne fóra.";
 $locale['forum_0398'] = "Súbor sa nepodarilo stiahnuť";
 $locale['forum_0399'] = "Pridať bounty";
+
 $locale['forum_0400'] = "Bounty vlákien bola aktualizovaná. Nezabudnite si vybrať odpoveď, ktorá sa má udeliť s bounty";
+
 $locale['forum_0500'] = "Náhľad vlákna";
 $locale['forum_0501'] = "Odoslať vlákno";
 $locale['forum_0505'] = "Náhľad zmien";
@@ -240,6 +264,9 @@ $locale['forum_0591'] = "Vyprázdniť príspevky";
 $locale['forum_0592'] = "Vyprázdniť vlákna";
 $locale['forum_0593'] = "Vyprázdniť prílohy";
 $locale['forum_0595'] = "Vyprázdniť ankety";
+$locale['forum_0596'] = "Otázka";
+$locale['forum_0597'] = "Otázka|Otázky|Otázok";
+
 $locale['forum_0601'] = "Správa";
 $locale['forum_0602'] = "Možnosti";
 $locale['forum_0603'] = "Upraviť anketu";
@@ -274,6 +301,12 @@ $locale['forum_0661'] = "Ahoj {USERNAME}, Bola zverejnená odpoveď vo fóre \"{
 Ak už nechcete sledovať túto vlákno, môžete kliknúť na \"Zastaviť sledovanie tohto vlákna\" odkaz umiestnený v hornej časti vlákna.
 S pozdravom,
 {SITEUSERNAME}";
+
+$locale['forum_0662'] = "Možnosti užívateľa";
+$locale['forum_0663'] = "Upraviť užívateľa";
+$locale['forum_0664'] = "Zablokovať užívateľa";
+$locale['forum_0665'] = "Odstrániť užívateľa";
+
 $locale['forum_0701'] = "Vlákno bolo odstránené";
 $locale['forum_0704'] = "Naozaj chcete odstrániť toto vlákno?";
 $locale['forum_0705'] = "Nepodarilo sa odstrániť vlákno, pretože vlákno neexistuje";
@@ -326,6 +359,8 @@ $locale['forum_4108'] = "Bounty bola udelená podľa požiadaviek";
 $locale['forum_4109'] = "Bounty vlákna nebola udelená";
 $locale['forum_4110'] = "Nemôžeme vám dať odmenu.";
 $locale['forum_4120'] = "Neexistujú ID fóra ani ID vlákien. Prosím definujte aspoň jedno.";
+$locale['forum_4121'] = "Na tomto fóre nie je žiadna aktivita.";
+
 $locale['forum_p001'] = "1 deň";
 $locale['forum_p002'] = "2 dni";
 $locale['forum_p007'] = "1 týždeň";
@@ -335,15 +370,15 @@ $locale['forum_p060'] = "2 mesiace";
 $locale['forum_p090'] = "3 mesiace";
 $locale['forum_p180'] = "6 mesiacov";
 $locale['forum_p999'] = "Všetky výsledky";
-$locale['forum_perm_access'] = "%s zobraziť všetky vlákna v tomto fóre.";
-$locale['forum_perm_bounty'] = "%s nastaviť odmenu v tomto vlákne.";
-$locale['forum_perm_create_poll'] = "%s začať v anketu v tomto fóre.";
-$locale['forum_perm_download'] = "%s stiahnuť prílohy v tomto fóre.";
-$locale['forum_perm_edit_poll'] = "%s upraviť anketu v tomto vlákne.";
-$locale['forum_perm_post'] = "%s začať nový diskusný príspevok v tomto fóre.";
-$locale['forum_perm_rate'] = "%s príspevku zvýšiť alebo znížiť hodnotenie.";
-$locale['forum_perm_reply'] = "%s odpovedať v tomto diskusnom vlákne.";
-$locale['forum_perm_upload'] = "%s na tomto fóre nahrať prílohy.";
-$locale['forum_perm_vote_poll'] = "%s hlasovať v ankete v tomto vlákne.";
+$locale['forum_perm_access'] = "Vy %s zobraziť všetky vlákna v tomto fóre.";
+$locale['forum_perm_bounty'] = "Vy %s nastaviť odmenu v tomto vlákne.";
+$locale['forum_perm_create_poll'] = "Vy %s začať v anketu v tomto fóre.";
+$locale['forum_perm_download'] = "Vy %s stiahnuť prílohy v tomto fóre.";
+$locale['forum_perm_edit_poll'] = "Vy %s upraviť anketu v tomto vlákne.";
+$locale['forum_perm_post'] = "Vy %s začať nový diskusný príspevok v tomto fóre.";
+$locale['forum_perm_rate'] = "Vy %s príspevku zvýšiť alebo znížiť hodnotenie.";
+$locale['forum_perm_reply'] = "Vy %s odpovedať v tomto diskusnom vlákne.";
+$locale['forum_perm_upload'] = "Vy %s na tomto fóre nahrať prílohy.";
+$locale['forum_perm_vote_poll'] = "Vy %s hlasovať v ankete v tomto vlákne.";
 $locale['success-DP001'] = "Príspevok bol úspešne odstránený";
 $locale['success-DP002'] = "Všetky príspevky boli odstránené. Fóra vlákien boli odstránené, pretože už neobsahujú žiadny príspevok.";

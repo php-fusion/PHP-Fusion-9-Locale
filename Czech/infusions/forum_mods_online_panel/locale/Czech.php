@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/infusions/forum_mods_online_panel/locale/Czech.php
-| Author: Jan Mølgaard (janmol)
-| Translate: Vícha Květoslav (Kvido), phpfusion.cz, 25.05.2017
+| Filename: infusions/forum_mods_online_panel/locale/Czech.php
+| Author: Vícha Květoslav (Kvido), phpfusion.cz, 25.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -19,4 +18,4 @@
 $locale['fmp_0100'] = "Členové nyní online";
 $locale['fmp_0101'] = "Vedení členů";
 $locale['fmp_0102'] = "Moderátoři online nyní";
-$locale['fmp_0103'] = "Nainstalujte prosím infuzní fórum";
+$locale['fmp_0103'] = "Prosím, nainstalujte fórum";

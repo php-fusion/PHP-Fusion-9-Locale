@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: root/locale/Czech/admin/custompages.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/custom_pages.php
+| Author: Kvido, phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -16,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['page_0100'] = "Vlastní stránka";
+$locale['page_0100'] = "Stránka";
 $locale['page_0101'] = "Název stránky";
 $locale['page_0102'] = "Viditelnost";
 $locale['page_0103'] = "Jazyk";
@@ -39,7 +38,7 @@ $locale['page_0118'] = "Akce";
 $locale['page_0200'] = "Přidat novou stránku"; //ex 400
 $locale['page_0201'] = "Upravit stránku"; // ex 401
 $locale['page_0202'] = "Nastavení stránky";
-$locale['page_0203'] = "Komponenta vizuální stránky";
+$locale['page_0203'] = "Vizuální skladatel stránky";
 $locale['page_0204'] = "Obsah stránky";
 $locale['page_0205'] = "Aktuální stránky"; // 402
 $locale['page_0300'] = "Název stránky:"; // 422
@@ -84,26 +83,26 @@ $locale['page_0357'] = "Duplikovat sloupec";
 $locale['page_0358'] = "Odstranit sloupec";
 $locale['page_0359'] = "Obal kontejneru řady";
 $locale['page_0380'] = "Počet sloupců";
-$locale['page_0381'] = "Sloupec|Sloupce";
-$locale['page_0382'] = "Řádek ID";
+$locale['page_0381'] = "sloupec|sloupce|sloupců";
+$locale['page_0382'] = "ID řádku";
 $locale['page_0383'] = "Třída řádků";
-$locale['page_0384'] = "Řádová objednávka";
-$locale['page_0385'] = "Řádek sloupce";
+$locale['page_0384'] = "Pořadí řádku";
+$locale['page_0385'] = "Pořadí sloupce";
 $locale['page_0390'] = "Seznam widgetů";
-$locale['page_0391'] = "Vyberte widget";
+$locale['page_0391'] = "Vybrat widget";
 $locale['page_0400'] = "Stránka byla smazána";
 $locale['page_0401'] = "Stránka byla vytvořena"; // 410
 $locale['page_0402'] = "Stránka byla aktualizována"; // 411
 $locale['page_0403'] = "Řádek odstraněn";
 $locale['page_0404'] = "Neplatný řádek";
 $locale['page_0405'] = "Nelze duplikovat řádek";
-$locale['page_0406'] = "Stipec nelze duplikovat";
-$locale['page_0407'] = "Řádkový duplikát";
-$locale['page_0408'] = "Aktualizovaný sloupec";
+$locale['page_0406'] = "Nelze duplikovat sloupec";
+$locale['page_0407'] = "Řádek byl duplikován";
+$locale['page_0408'] = "Sloupec byl aktualizován";
 $locale['page_0409'] = "Sloupec byl vytvořen";
 $locale['page_0409a'] = "Sloupec byl smazán";
-$locale['page_0410'] = "Stipec nelze duplikovat";
-$locale['page_0411'] = "Duplikovaný sloupec";
+$locale['page_0410'] = "Sloupec nelze duplikovat";
+$locale['page_0411'] = "Stĺpec bol duplikovaný";
 $locale['page_0412'] = "Neplatný sloupec";
 $locale['page_0413'] = "Odstranit tuto vlastní stránku?"; // 450
 $locale['page_0440'] = "Žádné vlastní stránky nebyli definovany";

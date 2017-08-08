@@ -144,6 +144,17 @@ $locale['forum_133'] = "PoiMin. Ukazuje na hlasování:";
 $locale['forum_134'] = "Min. Ukazuje na hlasování:";
 $locale['forum_135'] = "Bod(y)";
 $locale['forum_136'] = "Uživatelský bod fóra";
+$locale['forum_137'] = "Obecné nastavení fóra";
+$locale['forum_138'] = "Nastavení příspěvků fóra";
+$locale['forum_139'] = "Nastavení uživatelských polí fóra";
+$locale['forum_140'] = "Obecné nastavení zobrazení";
+$locale['forum_141'] = "Notifikace";
+$locale['forum_142'] = "Přílohy souborů a obrázků příspěvku";
+$locale['forum_143'] = "Konfigurace chování příspěvku";
+
+$locale['forum_150'] = "<strong>Povolit uživatelské pole v podrobných příspěvcích.</strong> Uživatelské pole jsou vlastní uživatelské informace, které lze spravovat v [LINK]administraci uživatelských polí[/LINK]";
+$locale['forum_151'] = "V této kategorii nejsou definovány uživatelské pole.";
+$locale['forum_152'] = "Neexistují žádné kategorie uživatelských polí.";
 $locale['forum_admin_000'] = "Správa fóra";
 $locale['forum_admin_001'] = "Fórum hodnosti";
 $locale['forum_admin_002'] = "Tagy fóra";

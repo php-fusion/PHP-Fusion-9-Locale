@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_submit_title'] = "Na schválenie";
-$locale['pl_submit_desc'] = "Povolenie permalinkov pre príspevky na schválenie.";
+$locale['pl_submit_desc'] = "Povolenie trvalých odkazov pre príspevky na schválenie.";

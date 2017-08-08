@@ -9,4 +9,4 @@ $locale['sept_007'] = "Novinky";
 $locale['sept_008'] = "Galerie";
 $locale['sept_009'] = "Forum";
 $locale['sept_010'] = "Stahování";
-$locale['sept_011'] = "Vyrobeno na stránkách HTML5 a CSS3";
+$locale['sept_011'] = "Vyrobeno pomocí HTML5 a CSS3";

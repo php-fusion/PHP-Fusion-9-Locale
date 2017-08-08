@@ -164,8 +164,8 @@ $locale['691'] = "Gebruikers mogen gebruikersnaam veranderen";
 $locale['692'] = "Captcha Instellingen";
 $locale['693'] = "Captcha";
 $locale['694'] = "Inschakelen PHP Executie";
-$locale['695'] = "WAARSCHUWING! Inschakene van PHP executie stelt het syteem open voor SQL vulnerabilities.";
-$locale['696'] = "Vul A.u.b. uw publieke en privé reCAPTCHA sleutel!";
+$locale['695'] = "WAARSCHUWING! Inschakelen van PHP executie stelt het syteem open voor SQL vulnerabilities.";
+$locale['696'] = "Vul A.u.b. uw publieke en priv&eacute; reCAPTCHA sleutel!";
 
 $locale['913'] = "Commentaren per pagina";
 
@@ -180,12 +180,12 @@ $locale['699e'] = "Email";
 $locale['699f'] = "Controleer geuploade files op MIME type?";
 
 // Private Message Settings
-$locale['700'] = "Privé Berichten";
+$locale['700'] = "Priv&eacute; Berichten";
 $locale['701'] = "Berichtenlimiet inbox:";
 $locale['702'] = "Berichtenlimiet outbox:";
 $locale['703'] = "Berichtenlimiet archief:";
 $locale['704'] = "Stel in op 0 voor ongelimiteerd";
-$locale['707'] = "Limieten Privé Berichten";
+$locale['707'] = "Limieten Priv&eacute; Berichten";
 $locale['708'] = "Standaardwaarden voor opties voor gebruikers";
 $locale['709'] = "Waarschuwing per e-mail?";
 $locale['710'] = "Verzonden PB&rsquo;s bewaren?";
@@ -278,7 +278,7 @@ $locale['language_description'] = "De configuratie instellingen voor default mul
 $locale['photo_description'] = "De configuratie instellingen voor default Foto Gallerij systeem";
 $locale['main_description'] = "De configuratie instellingen voo hete hoofd systeem";
 $locale['misc_description'] = "De configuratie instellingen voor Email, Authenticatie methode, Commentaren, Waardering, Avatars, Sociale Grafieken en andere Beheerder opties";
-$locale['message_description'] = "De configuratie instellingen voor Privé Berichten systeem";
+$locale['message_description'] = "De configuratie instellingen voor Priv&eacute; Berichten systeem";
 $locale['register_description'] = "De configuratie instellingen voor Leden Registratie systeem";
 $locale['security_description'] = "De configuratie instellingen voorr Beveiligins systeem";
 $locale['time_description'] = "De configuratie instellingen voor server Tijd en Datum systeem";
@@ -293,7 +293,7 @@ $locale['photo_settings'] = "Gallerij Instellingen";
 $locale['main_settings'] = "Hoofd Instellingen";
 $locale['misc_settings'] = "Diverse Instellingen";
 $locale['news_settings'] = "Nieuws Instellingen";
-$locale['message_settings'] = "Privé Berichten Instellingen";
+$locale['message_settings'] = "Priv&eacute; Berichten Instellingen";
 $locale['register_settings'] = "Registratie Instellingen";
 $locale['security_settings'] = "Beveilging Instellingen";
 $locale['time_settings'] = "Tijd en Datum Instellingen";
@@ -302,3 +302,4 @@ $locale['theme_settings'] = "Thema Instellingen";
 
 $locale['securimage'] = "Secure Image";
 $locale['securimage2'] = "Secure Image v.2";
+$locale['securimage3'] = "Secure Image v.3";

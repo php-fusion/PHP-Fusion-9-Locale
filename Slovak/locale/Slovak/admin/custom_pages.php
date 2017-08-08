@@ -35,7 +35,7 @@ $locale['page_0116'] = "Vyberte autora";
 $locale['page_0117'] = "Zadajte názov stránky"; // 451
 $locale['page_0118'] = "Akcie";
 // Custom Pages titles
-$locale['page_0200'] = "Pridať vlastnú stránku"; //ex 400
+$locale['page_0200'] = "Pridať novú stránku"; //ex 400
 $locale['page_0201'] = "Upraviť stránku"; // ex 401
 $locale['page_0202'] = "Nastavenia stránky";
 $locale['page_0203'] = "Vizuálny skladateľ stránky";

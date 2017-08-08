@@ -20,6 +20,7 @@ $locale['error-MP000'] = "Flyt indlæg - fejl";
 $locale['error-MP001'] = "Ny tråd findes ikke.";
 $locale['error-MP002'] = "Indlæg, som du har markeret til at flytte, findes ikke eller nogen har allerede flyttet dem.";
 
+
 $locale['forum_0000'] = "Debatforum";
 $locale['forum_0001'] = "Forum";
 $locale['forum_0002'] = "Diskussioner";
@@ -38,6 +39,8 @@ $locale['forum_0014'] = "Status";
 $locale['forum_0015'] = "Forum overblik";
 $locale['forum_0016'] = "Aktivitet";
 $locale['forum_0017'] = "Folk";
+$locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "Der er ingen underforums tilgængelige";
 
 $locale['forum_0050'] = "Se diskussion";
 $locale['forum_0051'] = "Emne";
@@ -116,7 +119,7 @@ $locale['forum_0223'] = "Tilknyttede filer";
 $locale['forum_0224'] = "Afstemninger";
 $locale['forum_0225'] = "Sorter efter";
 $locale['forum_0226'] = "Dato - seneste opdatering";
-$locale['forum_0228'] = "Overskrift";
+$locale['forum_0228'] = "Emneoverskrift";
 $locale['forum_0229'] = "Rækkefølge";
 $locale['forum_0230'] = "Faldende";
 $locale['forum_0231'] = "Stigende";
@@ -135,9 +138,16 @@ $locale['forum_0268'] = "Bruger-IP";
 $locale['forum_0269'] = "Der er ikke fundet debatter.";
 $locale['forum_0270'] = "Der er ikke fundet indlæg.";
 $locale['forum_0271'] = "Der er ikke indlæg i denne debat mere. Vend tilbage til <a href=\''.FORUM.'index.php\'>Debatoversigten</a>";
+$locale['forum_0272'] = "Filtrer efter tags";
+$locale['forum_0273'] = "Populære tråde denne uge";
+$locale['forum_0274'] = "Der er ingen trådetags";
+$locale['forum_0275'] = "Ingen tråde fundet";
+$locale['forum_0276'] = "Der er ikke oprettet tags";
+
+$locale['forum_0300'] = "Flyt til en ny tråd";
 $locale['forum_0301'] = "Vælg en ny debat";
 $locale['forum_0302'] = "Næste";
-$locale['forum_0303'] = "Vælg et nyt emne";
+$locale['forum_0303'] = "Flyt til eksisterende tråd";
 $locale['forum_0305'] = "Du forsøger at flytte det første indlæg i denne debat!<br />Det første indlæg [STRONG]kan ikke flyttes[/STRONG] og er blevet fjernet fra listen, fordi der stadigvæk er indlæg tilbage i debatten.";
 $locale['forum_0306'] = "Du forsøger at flytte det første indlæg i denne debat!<br />Det første indlæg [STRONG]vil blive flyttet[/STRONG] og derefter vil debatten blive slettet.";
 $locale['forum_0307'] = "Der er ingen indlæg, som kan flyttes.";
@@ -279,6 +289,12 @@ $locale['forum_0661'] = 'Hej {USERNAME}. Der er kommet et svar i debatten "{THRE
 Hvis du ikke længere ønsker at følge denne debat, kan du klikke på linket \"Hold op med at følge\" i toppen af debatten.
 Venlig hilsen.
 {SITEUSERNAME}';
+
+$locale['forum_0662'] = "Bruger muligheder";
+$locale['forum_0663'] = "Rediger bruger";
+$locale['forum_0664'] = "Udeluk bruger";
+$locale['forum_0665'] = "Slet bruger";
+
 $locale['forum_0701'] = "Debatten er slettet.";
 $locale['forum_0704'] = "Er du sikker på, at du vil slette denne debat?";
 $locale['forum_0705'] = "Ude af stand til at fjerne debatten, da den ikke kan findes";
@@ -331,6 +347,8 @@ $locale['forum_4108'] = "Dusøren er tildelt som ønsket.";
 $locale['forum_4109'] = "Dusøren blev ikke uddelt";
 $locale['forum_4110'] = "Dusøren kan ikke gives til dig selv.";
 $locale['forum_4120'] = "Der er ikke defineret nogen debat-ID eller debat. Definer enten det ene eller det andet.";
+$locale['forum_4121'] = "Der er ingen aktivitet i denne debat.";
+
 $locale['forum_p001'] = "1 dag";
 $locale['forum_p002'] = "2 dage";
 $locale['forum_p007'] = "1 uge";
@@ -350,5 +368,6 @@ $locale['forum_perm_rate'] = "Du %s stemme op eller ned for indlæg i denne deba
 $locale['forum_perm_reply'] = "Du %s skrive nye svar i denne debat.";
 $locale['forum_perm_upload'] = "Du %s uploade filer i dette debatområde.";
 $locale['forum_perm_vote_poll'] = "Du %s kan stemme i afstemningen i denne debat.";
+
 $locale['success-DP001'] = "Indlægget er flyttet uden fejl";
 $locale['success-DP002'] = "Alle indlæg er slettet. Debattens emner er slettet, da de ikke længere rummer nogen indlæg.";

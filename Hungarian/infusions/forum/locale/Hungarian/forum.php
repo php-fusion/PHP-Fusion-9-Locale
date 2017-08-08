@@ -23,17 +23,19 @@ $locale['forum_0015'] = "Fórum Áttekintés";
 $locale['forum_0016'] = "Tevékenység";
 $locale['forum_0017'] = "Emberek";
 $locale['forum_0018'] = "Személy";
+$locale['forum_0019'] = "Nincsenek alfórumok";
 
-$locale['forum_0020'] = "Utolsó tevékenység";
+$locale['forum_0020'] = "Utolsó Tevékenység";
 $locale['forum_0021'] = "Módosítva %s írta %s";
 $locale['forum_0022'] = "Válaszolt";
 $locale['forum_0023'] = "Válasz:";
 $locale['forum_0024'] = "Tekintse meg a teljes Témát";
 
+
 $locale['forum_0050'] = "Fórum Megtekintése";
-$locale['forum_0051'] = "Cím";
+$locale['forum_0051'] = "Téma Neve";
 $locale['forum_0052'] = "Szerző";
-$locale['forum_0053'] = "Megtekintések";
+$locale['forum_0053'] = "Megnézve";
 $locale['forum_0054'] = "Válaszok";
 $locale['forum_0055'] = "Oldal: ";
 $locale['forum_0056'] = "Nincs Téma indítva";
@@ -61,6 +63,7 @@ $locale['forum_0160'] = "";
 $locale['forum_0161'] = "csatolta a következő fájlt:";
 $locale['forum_0162'] = " Letöltve";
 $locale['forum_0163'] = "Nincs engedélyed a csatolt fájlokat megtekinteni.";
+$locale['forum_0163a'] = "Nem sikerült letölteni a mellékletet";
 $locale['forum_0164'] = "Módosította ";
 $locale['forum_0165'] = "Oka";
 $locale['forum_0166'] = "Kattints ide a módosítás mutatásához.";
@@ -108,7 +111,7 @@ $locale['forum_0223'] = "Csatolt fájlok";
 $locale['forum_0224'] = "Szavazás";
 $locale['forum_0225'] = "Rendezés";
 $locale['forum_0226'] = "Dátum - utolsó frissítés";
-$locale['forum_0228'] = "Cím";
+$locale['forum_0228'] = "Téma";
 $locale['forum_0229'] = "Rendezés";
 $locale['forum_0230'] = "Csökkenő";
 $locale['forum_0231'] = "Növekvő";
@@ -119,8 +122,7 @@ $locale['forum_0260'] = "Új hozzászólás";
 $locale['forum_0261'] = "Nincs új hozzászólás";
 $locale['forum_0262'] = "Kiemelt téma";
 $locale['forum_0263'] = "Lezárt téma";
-$locale['forum_0264'] = "Új téma indítása";
-
+//$locale['forum_0264'] = "Új téma indítása";
 $locale['forum_0265'] = "Szerkesztés";
 $locale['forum_0266'] = "Idézet";
 $locale['forum_0267'] = "írta";
@@ -128,9 +130,16 @@ $locale['forum_0268'] = "IP Cím";
 $locale['forum_0269'] = "Nincs létrehozva fórumtéma.";
 $locale['forum_0270'] = "Hozzászólás nem található.";
 $locale['forum_0271'] = "Nincs több hozzászólás a témában. Visszatérés a &lt;a href=&#039;../../infusions/forum/index.php&#039;&gt;Fórum Főoldalra&lt;/a&gt";
+$locale['forum_0272'] = "Szűrés címkék szerint";
+$locale['forum_0273'] = "Népszerű témák ezen a héten";
+$locale['forum_0274'] = "Nem Található Cimke.";
+$locale['forum_0275'] = "Nem Található Téma";
+$locale['forum_0276'] = "Cimke nem található";
+
+$locale['forum_0300'] = "Új Téma Mozgatása";
 $locale['forum_0301'] = "Új fórum kijelölése";
 $locale['forum_0302'] = "Következő";
-$locale['forum_0303'] = "Új téma kiválasztása";
+$locale['forum_0303'] = "Áthelyezés meglévő Témába";
 $locale['forum_0305'] = "Az első hozzászólást akarod mozdítani a témában!<br />Az első üzenet [STRONG]nem lesz áthelyezve[STRONG] mert van üzenet a témában.";
 $locale['forum_0306'] = "Az első hozzászólást akarod mozdítani a témában!<br />Az első üzenet [STRONG]át lesz helyezve[STRONG] és a téma törlésre kerül.";
 $locale['forum_0307'] = "Nincs áthelyezendő hozzászólás.";
@@ -197,8 +206,8 @@ $locale['forum_0524'] = "Beküldve ";
 $locale['forum_0525'] = "Legújabb hozzászólás";
 $locale['forum_0526'] = "Legújabb %s hozzászólás";
 $locale['forum_0527'] = "%s válaszolt - %s";
-$locale['forum_0528'] = "%s %s %s hangulathoz - %s";
-$locale['forum_0529'] = "reagált"; // for isset errors
+$locale['forum_0528'] = "%s %s csatlakozott a %s hangulathoz - %s";
+$locale['forum_0529'] = "reagált";
 $locale['forum_0529a'] = "Neked Nincs engedélyed a Szavazáshoz";
 $locale['forum_0530'] = "mások";
 $locale['forum_0540'] = "A csatolmány fájltípusa nem engedélyezett.";
@@ -277,6 +286,12 @@ $locale['forum_0661'] = "Szia {USERNAME},<br />
 A következő linken érhető el a hozzászólás: {THREAD_URL}<br />
 Ha legközelebb nem szeretnél ilyen levelet kapni, a fórumtéma felett található \"Téma nyomon követésének kikapcsolása\" linkre kattintva kapcsolhatod ki.
 <br />Üdvözlettel,<br />{SITEUSERNAME}";
+
+$locale['forum_0662'] = "Felhasználói Beállítások";
+$locale['forum_0663'] = "Felhasználó Szerkesztése";
+$locale['forum_0664'] = "Felhasználó Bannolása";
+$locale['forum_0665'] = "Felhasználó Törlése";
+
 $locale['forum_0701'] = "A téma törölve lett.";
 $locale['forum_0704'] = "Biztos törlöd a Fórum témát?";
 $locale['forum_0705'] = "Nem lehet törölni ezt a témát, mert nem létezik";
@@ -329,6 +344,7 @@ $locale['forum_4108'] = "Elnyerted a Bounty Díjat.";
 $locale['forum_4109'] = "A témában nincs Bounty Díj";
 $locale['forum_4110'] = "A Bounty Díjat nem adhatod saját magadnak.";
 $locale['forum_4120'] = "Nincs fórum ID vagy téma id. Kérlek hozz létre egyet.";
+$locale['forum_4121'] = "Ebben a Témában nincs aktivitás.";
 $locale['forum_p001'] = "1 napja";
 $locale['forum_p002'] = "2 napja";
 $locale['forum_p007'] = "1 hete";
@@ -339,7 +355,7 @@ $locale['forum_p090'] = "3 hónapja";
 $locale['forum_p180'] = "6 hónapja";
 $locale['forum_p999'] = "Összes";
 $locale['forum_perm_access'] = "Te %s megtekinteni a társalgásokat a fórumon.";
-$locale['forum_perm_bounty'] = 'Te %s létrehozni Bounty-t ebben a témába.';
+$locale['forum_perm_bounty'] = "Te %s létrehozni Bounty-t ebben a témába.";
 $locale['forum_perm_create_poll'] = "Te %s szavazást indítani a fórumon.";
 $locale['forum_perm_download'] = "Te %s csatolmányt letölteni a fórumról.";
 $locale['forum_perm_edit_poll'] = "Te %s a szavazást módosítani a fórumon.";

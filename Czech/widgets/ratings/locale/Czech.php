@@ -5,8 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: Ratings/locale/Czech.php
-|Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 14.05.2017
+|Author: Kvido, phpfusion.cz, 14.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -19,4 +18,4 @@
 $locale['RTW_0100'] = "Widget hodnocení";
 $locale['RTW_0101'] = "Core Ratings Plugin";
 $locale['RTW_0102'] = "Hodnocení vytvořena";
-$locale['RTW_0104'] = "Nelze vytvořit hodnocení";
+$locale['RTW_0104'] = "Nepodařilo se vytvořit hodnocení";

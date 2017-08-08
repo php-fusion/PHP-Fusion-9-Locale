@@ -1,7 +1,7 @@
 <?php
 $locale['currency'] = array(
     "AED" => "Emerati Dirham",
-    "AFN" => "Afghanistan Afghani",
+    "AFN" => "Afganistan Afghani",
     "ALL" => "Albanian Lek",
     "AMD" => "Armenian Dram",
     "ANG" => "Netherlands Antillian Guilder",
@@ -13,7 +13,7 @@ $locale['currency'] = array(
     "BAM" => "Bosnia and Herzegovina Convertible Marks",
     "BBD" => "Barbados Dollar",
     "BDT" => "Bangladesh Taka",
-    "BGN" => "Bulgarian Lev",
+    "BGN" => "Bulgar Lev",
     "BHD" => "Bahraini Dinar",
     "BIF" => "Burundi Franc",
     "BMD" => "Bermudian Dollar",
@@ -142,7 +142,7 @@ $locale['currency'] = array(
     "TMM" => "Turkmenistan Manat",
     "TND" => "Tunisian Dinar",
     "TOP" => "Tonga Pa'anga",
-    "TRY" => "Turkish Lira",
+    "TRY" => "Türk Lirası",
     "TTD" => "Trinidad and Tobago Dollar",
     "TWD" => "New Taiwan Dollar",
     "TZS" => "Tanzanian Shilling",

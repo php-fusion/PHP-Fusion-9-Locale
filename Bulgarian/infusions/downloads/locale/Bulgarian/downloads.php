@@ -19,13 +19,10 @@ $locale['download_1018'] = "Сайт";
 $locale['download_1019'] = "Рецензия на редактора";
 $locale['download_1020'] = "Големина на файла";
 $locale['download_1021'] = "Дата на публикуване";
-
-// filters
 $locale['download_2001'] = 'Най-коментирани';
 $locale['download_2002'] = 'Най-нови';
 $locale['download_2003'] = 'Най-сваляни';
 $locale['download_2004'] = 'С най-висока оценка';
-// errors
 $locale['download_3000'] = "Няма добавени файлове за сваляне";
 $locale['download_3001'] = "Няма категории";
 $locale['download_3002'] = "Няма издатели";

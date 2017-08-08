@@ -39,5 +39,5 @@ $locale['419'] = "Možnosti";
 $locale['420'] = "Verzia";
 $locale['421'] = "Autor";
 $locale['422'] = "Stiahnúť viac doplnkov";
-$locale['423'] = "%s infúzia bola nainštalovaná";
-$locale['424'] = "%s infúzia bola odinštalovaná";
+$locale['423'] = "Infúzia '%s' bola nainštalovaná";
+$locale['424'] = "Infúzia '%s' bola odinštalovaná";

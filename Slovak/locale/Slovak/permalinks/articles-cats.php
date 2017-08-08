@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_articles_cat_title'] = "Kategórie článkov";
-$locale['pl_articles_cat_desc'] = "Povolenie permalinkov pre kategórie článkov.";
+$locale['pl_articles_cat_desc'] = "Povolenie trvalých odkazov pre kategórie článkov.";

@@ -28,4 +28,4 @@ $locale['NB_200'] = "Od";
 // News Module
 $locale['NEWS_001'] = "Najnovšie správy";
 // Widget
-$locale['WIDGET_001'] = "Nastavenia témy boli akualizované";
+$locale['WIDGET_001'] = "Nastavenia témy boli aktualizované";

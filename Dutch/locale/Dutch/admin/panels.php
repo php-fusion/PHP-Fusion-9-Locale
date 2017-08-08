@@ -10,7 +10,7 @@ $locale['406'] = "Opties";
 $locale['407'] = "Huidige panelen";
 $locale['408'] = "Paneel toevoegen";
 $locale['409'] = "Wijzig Panele";
-$locale['410'] = "Je kunt drag and drop the panelen over het scherm om de positie of de volgorde aan te passen.";
+$locale['410'] = "Je kunt dmv drag and drop over het scherm de positie of de volgorde van de panelen aanpassen.";
 // Panel Settings
 $locale['420'] = "Links";
 $locale['421'] = "Middenboven";

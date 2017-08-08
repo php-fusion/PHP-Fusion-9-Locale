@@ -22,13 +22,13 @@ $locale['SL_0028'] = "Link in nieuw venster openen";
 $locale['SL_0029'] = "Link Categorie";
 $locale['SL_0030'] = "Link Icon";
 $locale['SL_0031'] = "Link Status";
-$locale['SL_0032'] = "Geen Ouder";
+$locale['SL_0032'] = "Geen Bovenliggende";
 $locale['SL_0033'] = "Link Taal";
 $locale['SL_0034'] = "Afgeschermd";
 $locale['SL_0035'] = "Sublinks";
 $locale['SL_0036'] = "Verplaatsen naar...";
-$locale['SL_0037'] = "Selecteer a.u.b. de Link Ouder";
-$locale['SL_0038'] = "Er zijn geen links beschikbaar die als ouder kunnen dienen";
+$locale['SL_0037'] = "Selecteer a.u.b. de Bovenliggende Link";
+$locale['SL_0038'] = "Er zijn geen links beschikbaar die als bovenliggende kunnen dienen";
 $locale['SL_0039'] = "Confirm Move";
 
 $locale['SL_0040'] = "Link opslaan";
@@ -37,13 +37,13 @@ $locale['SL_0042'] = "Stel uw site links navigatie in";
 $locale['SL_0043'] = "Links per pagina";
 $locale['SL_0044'] = "Maximum aantal linkt in de navigatie bar";
 $locale['SL_0045'] = "Aantal links";
-$locale['SL_0046'] = "Link Groupering";
-$locale['SL_0047'] = "Groupeer links als het aantal links per pagina wordt overschreden";
+$locale['SL_0046'] = "Link Groepering";
+$locale['SL_0047'] = "Groepeer links als het aantal links per pagina wordt overschreden";
 $locale['SL_0048'] = "Nee, links niet groeperen";
 $locale['SL_0049'] = "Ja, groepeer de links als \"Show more\"";
 
 // Site Links list
-$locale['SL_0050'] = "Naam van link:"
+$locale['SL_0050'] = "Naam van link:";
 $locale['SL_0051'] = "Zichtbaarheid";
 $locale['SL_0052'] = "Volorde";
 $locale['SL_0053'] = "Opties";

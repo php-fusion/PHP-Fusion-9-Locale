@@ -29,4 +29,4 @@ $locale['430'] = "Upraviť";
 $locale['431'] = "Vymazať";
 $locale['432'] = "IP užívateľa:";
 $locale['433'] = "Vymazať komentár?";
-$locale['434'] = "Žiadny komentár ešte nebol pridaný.";
+$locale['434'] = "Pre tuto položku neexistujú žiadne komentáre.";
