@@ -17,7 +17,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['SB_add'] = "Nová zpráva";
-$locale['SB_admin1'] = "Zprávy Admin";
+$locale['SB_admin1'] = "Shoutbox Admin";
 $locale['SB_archive'] = "Archiv zpráv";
 $locale['SB_days'] = "Dnů";
 $locale['SB_delete_old'] = "Smazat zprávy starší než";
@@ -44,7 +44,7 @@ $locale['SB_shout_captha'] = "Zadejte ověřovací kód:";
 $locale['SB_shout_deleted'] = "Zpráva smazána";
 $locale['SB_shout_updated'] = "Zpráva aktualizována";
 $locale['SB_shouts_deleted'] = "Zprávy smazány";
-$locale['SB_title'] = "Zprávy";
+$locale['SB_title'] = "Shoutbox";
 $locale['SB_update_ok'] = "Nastavení aktualizováno";
 $locale['SB_update_shout'] = "Aktualizovat zprávu";
 $locale['SB_userip'] = "IP uživatele:";
