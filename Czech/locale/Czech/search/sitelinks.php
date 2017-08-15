@@ -1,7 +1,7 @@
 <?php
-$locale['s400'] = "Site Links";
-$locale['s401'] = "Site Links";
-$locale['s402'] = "Site Link";
-$locale['s403'] = "found in";
-$locale['s404'] = "Page Link Title";
-$locale['s405'] = "Page Link URL";
+$locale['s400'] = "Odkazy stránky";
+$locale['s401'] = "Odkazy stránky";
+$locale['s402'] = "Odkaz stránky";
+$locale['s403'] = "nalezeno v";
+$locale['s404'] = "Název odkazu stránky";
+$locale['s405'] = "URL odkazu stránky";

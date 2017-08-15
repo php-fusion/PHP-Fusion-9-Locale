@@ -1,5 +1,4 @@
 <?php
-$locale['uf_geo'] = "User Geo";
-$locale['uf_geo_desc'] = "Country, Region, City, Address, Zip from our Geo DB";
-$locale['uf_geo_error'] = "Geo fields can not be left empty.";
-
+$locale['uf_geo'] = "Poloha uživatele";
+$locale['uf_geo_desc'] = "Země, region, město, adresa, PSČ z našeho Geo DB";
+$locale['uf_geo_error'] = "Geografická pole nemohou být prázdná.";

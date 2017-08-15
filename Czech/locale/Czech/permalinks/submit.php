@@ -1,4 +1,4 @@
 <?php
-$locale['pl_submit_title'] = "Submissions";
-$locale['pl_submit_desc'] = "Enable Permalinks for the Submission Links on the site.";
+$locale['pl_submit_title'] = "Na schválení";
+$locale['pl_submit_desc'] = "Povolit trvalé odkazy pro příspěvky na schvaleni na webu.";
 

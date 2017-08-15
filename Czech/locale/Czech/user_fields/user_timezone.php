@@ -1,4 +1,4 @@
 <?php
-$locale['uf_timezone'] = "Timezone";
-$locale['uf_timezone_desc'] = "User defined timezone.";
-$locale['uf_timezone_error'] = "Timezone was not set correctly.";
+$locale['uf_timezone'] = "Časové pásmo";
+$locale['uf_timezone_desc'] = "Uživatelem definovaná časová zóna";
+$locale['uf_timezone_error'] = "Časové pásmo nebylo nastaveno správně.";

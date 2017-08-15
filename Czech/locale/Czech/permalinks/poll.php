@@ -1,4 +1,4 @@
 <?php
-$locale['pl_poll_title'] = "Členové ankety";
-$locale['pl_poll_desc'] = "Povolení permalinks pro členové ankety na webu.";
+$locale['pl_poll_title'] = "Ankety";
+$locale['pl_poll_desc'] = "Povolit trvalé odkazy pro ankety na webu.";
 

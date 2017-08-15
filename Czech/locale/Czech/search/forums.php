@@ -1,10 +1,10 @@
 <?php
-$locale['f400'] = "Forum Posts";
-$locale['f401'] = "all forums";
-$locale['f402'] = "Forum Post";
-$locale['f403'] = "Forum Posts";
-$locale['f404'] = "Sticky:";
-$locale['f405'] = "Announcement:";
-$locale['f406'] = "found in";
-$locale['f407'] = "post subject";
-$locale['f408'] = "post message";
+$locale['f400'] = "Příspěvky ve fóru";
+$locale['f401'] = "všechny fóra";
+$locale['f402'] = "Fórum příspěvek";
+$locale['f403'] = "Fórum příspěvky";
+$locale['f404'] = "Přilepené:";
+$locale['f405'] = "Oznámení:";
+$locale['f406'] = "nalezeno v";
+$locale['f407'] = "předmět příspěvku";
+$locale['f408'] = "zpráva příspěvku";

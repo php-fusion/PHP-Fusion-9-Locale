@@ -1,8 +1,8 @@
 <?php
-$locale['n400'] = "News";
-$locale['n401'] = "News item";
-$locale['n402'] = "News items";
-$locale['n403'] = "found in";
-$locale['n404'] = "news subject";
-$locale['n405'] = "news text";
-$locale['n406'] = "extended news text";
+$locale['n400'] = "Novinky";
+$locale['n401'] = "Novinka";
+$locale['n402'] = "Novinky";
+$locale['n403'] = "nalezeno v";
+$locale['n404'] = "předmět novinky";
+$locale['n405'] = "text novinky";
+$locale['n406'] = "rozšířeny text novinky";
