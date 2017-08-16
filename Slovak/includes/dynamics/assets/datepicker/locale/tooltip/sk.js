@@ -17,7 +17,7 @@
 var tooltips_locale = {
     today: "Prejsť na dnešok",
     clear: "Zmazať výber",
-    close: "Zatvoriť picker",
+    close: "Zatvoriť výber dátumu",
     selectMonth: "Vybrať mesiac",
     prevMonth: "Predchádzajúci mesiac",
     nextMonth: "Ďalší mesiac",

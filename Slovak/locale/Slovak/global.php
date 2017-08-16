@@ -105,7 +105,7 @@ $locale['status8'] = "Neaktívny";
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigácia";
-$locale['global_002'] = "Neboli definované žiadne odkazy\n";
+$locale['global_002'] = "Neboli definované žiadne odkazy";
 $locale['global_003'] = "Nič na prezeranie";
 // Users Online
 $locale['global_010'] = "Kto je online";

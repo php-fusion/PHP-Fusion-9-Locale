@@ -16,9 +16,9 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Administrators messages
-$locale['400'] = "Administrátor pridaný";
-$locale['401'] = "Administrátor aktualizovaný";
-$locale['402'] = "Administrátor odstránený";
+$locale['400'] = "Administrátor bol pridaný";
+$locale['401'] = "Administrátor bol aktualizovaný";
+$locale['402'] = "Administrátor bol odstránený";
 // Search/Add Administrator
 $locale['410'] = "Pridať nového administrátora";
 $locale['411'] = "Vyhľadajte používateľov na pridanie pomocou nižšie uvedeného formulára:";
@@ -26,7 +26,7 @@ $locale['412'] = "ID užívateľa";
 $locale['413'] = "Meno";
 $locale['414'] = "Hľadať";
 $locale['415'] = "Priradiť všetky práva";
-$locale['416'] = "Vytvoriť Hlavného administrátora";
+$locale['416'] = "Vytvoriť hlavného administrátora";
 $locale['417'] = "Pridať administrátora";
 $locale['418'] = "Nenašli sa žiadny užívatelia.";
 $locale['419'] = "Hľadať znova";
@@ -35,7 +35,7 @@ $locale['420'] = "Administrátori";
 $locale['421'] = "Meno";
 $locale['422'] = "Funkcia";
 $locale['423'] = "Možnosti";
-$locale['424'] = "Hlavný Admin";
+$locale['424'] = "Hlavný admin";
 $locale['425'] = "Neboli pridelené žiadne práva";
 $locale['426'] = "Upraviť";
 $locale['427'] = "Odstrániť";

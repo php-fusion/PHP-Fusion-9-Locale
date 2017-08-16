@@ -21,7 +21,7 @@ $locale['401'] = "Je viac spôsobov ako nás môžete kontaktovať. E-mailom na
 [SITE_EMAIL]. Alebo ak ste zaregistrovaný, môžete poslať [PM_LINK].
 Prípadne môžete vyplniť formulár na tejto stránke, ktorý odošle vašu správu na e-mail.";
 $locale['402'] = "Meno:";
-$locale['403'] = "E=mail:";
+$locale['403'] = "E-mail:";
 $locale['404'] = "Predmet:";
 $locale['405'] = "Správa:";
 $locale['406'] = "Odoslať";

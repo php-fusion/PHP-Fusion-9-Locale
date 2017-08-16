@@ -18,21 +18,10 @@
 // Overview
 $locale['web_0000'] = "Odkazy";
 $locale['web_0001'] = "Všetky odkazy";
-//$locale['web_0002'] = "Zobraziť kategórie";
-//$locale['web_0003'] = "Kategórie";
-//$locale['web_0004'] = "Posledná aktualizácia";
-//$locale['web_0005'] = "Kategória:";
-
 $locale['fmt_open'] = "otvorenie|otvorenia|otvorení";
 // Sortings
 $locale['web_0030'] = "Najnovšie";
-$locale['web_0031'] = "Najvia otvorené";
-
-// Views
-//$locale['web_0040'] = "Dlaždice";
-//$locale['web_0041'] = "Zoznam";
-
+$locale['web_0031'] = "Najviac otvorené";
 // Messages
 $locale['web_0060'] = "Neboli definované žiadne kategórie odkazov.";
-//$locale['web_0061'] = "Neboli definované žiadne odkazy.";
 $locale['web_0062'] = "V tejto kategórii nie je žiadny odkaz.";
