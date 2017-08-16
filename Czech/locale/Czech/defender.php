@@ -5,7 +5,6 @@
 | https://www.php-fusion.co.uk/
 +---------------------------------------------------------+
 | Filename: root/locale/Czech/defender.php
-| Author: Frederic Chan 
 | Translate czech: Kvido phpfusion.cz, 01.05.2017
 +---------------------------------------------------------+
 | This program is released as free software under the

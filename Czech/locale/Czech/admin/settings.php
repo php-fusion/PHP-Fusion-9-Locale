@@ -49,7 +49,7 @@ $locale['420'] = "Vyloučit levé panely:";
 $locale['421'] = "Vyloučit horní panely:";
 $locale['422'] = "Vyloučit spodní panely:";
 $locale['423'] = "Vyloučit pravé panely:";
-$locale['424'] = "Příklad:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Příklad:<br/>\r/news.php<br/>\r/forum/index.php";
 $locale['425'] = "Adresa webu";
 $locale['426'] = "Protokol stránky:";
 $locale['427'] = "Host stránky:";
@@ -153,7 +153,7 @@ $locale['681ML'] = "Panely";
 $locale['682ML'] = "Nastavení jazyka";
 $locale['683ML'] = "Povolit vícejazyčný systém";
 $locale['684ML'] = "Povolené jazyky";
-$locale['685ML'] = "Výběr povolených jazyků.\n\rPOZNÁMKA: Pozor! Odstraněním jazyka odstraníte i všechny přizpůsobené odkazy na stránky, kategorie a jakýkoli jiný vícejazyčný obsah pro daný jazyk ze celeého systému.";
+$locale['685ML'] = "Výběr povolených jazyků.<br/>\rPOZNÁMKA: Pozor! Odstraněním jazyka odstraníte i všechny přizpůsobené odkazy na stránky, kategorie a jakýkoli jiný vícejazyčný obsah pro daný jazyk ze celeého systému.";
 $locale['669'] = "Novinky";
 $locale['669b'] = "Položky blogu na stránku";
 $locale['669c'] = "Položky novinky na stránku";
@@ -251,7 +251,7 @@ $locale['1013'] = "Odstranit uživatele";
 $locale['1014'] = "Uživatelé se mohou přihlásit na různých zařízeních současně?";
 $locale['1014a'] = "Vypněte pro lepší zabezpečení";
 
-$locale['1020'] = array(1 => 'B (bajty)', 1000 => 'KB (kilobyty)', 1000000 => 'MB (megabajty)');
+$locale['1020'] = [1 => 'B (bajty)', 1000 => 'KB (kilobyty)', 1000000 => 'MB (megabajty)'];
 
 // Social integration
 $locale['1030'] = "Vytvořit meta značky OpenGraph pro sociální sítě";

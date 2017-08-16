@@ -30,7 +30,7 @@ $locale['u050'] = "Nedefinováno";
 $locale['u051'] = "Skrýt e-mail?";
 $locale['u052'] = " Ano ";
 $locale['u053'] = " Ne";
-$locale['u054'] = "Zobrazit protokol o pozastavení";
+$locale['u054'] = "Zobrazit záznam o pozastavení";
 $locale['u055'] = "Stav uživatele:";
 $locale['u056'] = "Důvod";
 $locale['u057'] = "Uživatelské skupiny";
@@ -114,12 +114,12 @@ $locale['u144'] = "Nové heslo administrátora";
 $locale['u144a'] = "Aktuální heslo správce";
 $locale['u145'] = "Potvrzení hesla administrátora";
 $locale['u146'] = "nemůže být stejná jako vaše aktuální";
-$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky. \n\rAllowed symboly jsou az, 0-9 a @! # $% & / () = -_? ";
+$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>\rAllowed symboly jsou az, a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "Nové přihlašovací hesla nejsou totožné.";
 $locale['u148a'] = "Nové hesla správce nejsou totožné.";
 $locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";
 $locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
-$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné. \n\rNeníte heslo administrátora bez správného přihlašovacího hesla.";
+$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.<br/>\rNeníte heslo administrátora bez správného přihlašovacího hesla.";
 // Aktivace e-mailu
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
@@ -142,7 +142,6 @@ $locale['u162'] = "Administrátor Vaše Přihlášení co nejdříve aktivuje.";
 $locale['u163'] = "Váš profil byl úspěšně aktualizován.";
 $locale['u164'] = "Aktualizace se nezdařila";
 
-// $ locale ['u165'] = "Registrace se nezdařila";
 $locale['u167'] = "z následujících důvodů:";
 $locale['u168'] = "Zkuste to znovu.";
 $locale['u169'] = "Profil byl aktualizován";
@@ -179,4 +178,4 @@ Poznámka: Pro pokračování musíte být přihlášeni\n
 S pozdravem
 [SITEUSERNAME]\n\r
 [SITENAME]";
-$locale['u210'] = "Uživatelská pověst";
+$locale['u210'] = "Reputace";

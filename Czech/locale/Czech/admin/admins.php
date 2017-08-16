@@ -26,16 +26,16 @@ $locale['412'] = "ID člena";
 $locale['413'] = "Jméno";
 $locale['414'] = "Hledat";
 $locale['415'] = "Přiřadit všechny práva";
-$locale['416'] = "Vytvořit Hlavního administrátora";
+$locale['416'] = "Vytvořit hlavního administrátora";
 $locale['417'] = "Přidat administrátora";
 $locale['418'] = "Nenašel se žádný uživatel.";
 $locale['419'] = "Hledat znovu";
 // Aktuální administrátoři
 $locale['420'] = "Administrátoři";
 $locale['421'] = "Jméno";
-$locale['422'] = "Admin Level";
+$locale['422'] = "Admin level";
 $locale['423'] = "Možnosti";
-$locale['424'] = "Hlavní Admin";
+$locale['424'] = "Hlavní admin";
 $locale['425'] = "Nebyla přidělená žádná práva";
 $locale['426'] = "Upravit";
 $locale['427'] = "Odstránit";
@@ -57,6 +57,6 @@ $locale['461'] = "Přidat administrátora?";
 $locale['462'] = "Poskytnutí těchto administrátorských práv uživateli představuje potenciální bezpečnostní riziko!";
 // Odstranit potvrzení admin
 $locale['470'] = "Vymazat administrátora";
-$locale['471'] = "Za účelem odstránění tohoto administrátora, prosím zadajte vaše Admin heslo:";
+$locale['471'] = "Za účelem odstránění tohoto administrátora, prosím zadajte vaše admin heslo:";
 $locale['472'] = "Potvrdit";
 $locale['473'] = "Zrušit";

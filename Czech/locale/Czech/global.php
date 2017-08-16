@@ -108,7 +108,7 @@ $locale['status8'] = "Neaktivní";
 $locale['userf1'] = "Moderátor";
 // Navigace
 $locale['global_001'] = "Navigace";
-$locale['global_002'] = "Nebyly definovány žádné odkazy\n";
+$locale['global_002'] = "Nebyly definovány žádné odkazy";
 $locale['global_003'] = "Nic pro náhled";
 // Uživatelé on-line
 $locale['global_010'] = "Uživatelé online";
@@ -229,7 +229,7 @@ $locale['UM062'] = "Heslo";
 $locale['UM063'] = "Zapamatovat si mě na tomto počítači";
 $locale['UM064'] = "Přihlášení";
 $locale['UM065'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] zaregistrovat se.";
-$locale['UM066'] = "Zapomněli jste heslo?\n[LINK]Požádejte o nový[/LINK].";
+$locale['UM066'] = "Zapomněli jste heslo?<br/>[LINK]Požádejte o nový[/LINK].";
 $locale['UM067'] = "(Nedoporučuje se na veřejném nebo sdíleném počítači)";
 $locale['UM080'] = "Upravit profil";
 $locale['UM081'] = "Soukromé zprávy";
@@ -282,7 +282,7 @@ $locale['global_193'] = "Nelze nastavit soubor cookie pro dokumenty. Ujistěte s
 $locale['global_194'] = "Tento účet je momentálně pozastaven.";
 $locale['global_195'] = "Tento účet nebyl aktivován.";
 $locale['global_196'] = "Neplatné uživatelské jméno či heslo.";
-$locale['global_197'] = "Prosím, počkejte, než vás převezmeme ...\n\n[ [LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK] ]";
+$locale['global_197'] = "Prosím, počkejte, než vás převezmeme ...<br/><br/>[ [LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK] ]";
 $locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR DETEKOVÁN, PROSÍM VYMAZEJTE SOUBOR INSTALL.PHP";
 $locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, klepněte na tlačítko OK [LINK]Upravit profil[/LINK] nastavit.";
 //Tituly
@@ -298,10 +298,10 @@ $locale['global_301'] = "Je nám líto, ale tuto stránku nelze zobrazit. Vzhled
   Pokud jste správcem webu, použijte prosím FTP klienta pro nahrání libovolného motivu určeného pro PHP-Fusion 9 do složky témat.
   Po nahrání zkontrolujte nastavení tématu a zjistěte, zda je vybrané téma správně nahráno do vašeho adresáře témat.
   Vezměte prosím na vědomí, že nahraná složka témat musí mít přesně stejný název (včetně znakového případu, který je důležitý na serverech se systémem Unix)
-  Jak je vybráno na stránce Nastavení témat.\n\nPokud jste řádným členem tohoto webu, kontaktujte prosím naše stránky\'s administrátor přes [SITE_EMAIL] e-mail a nahlásit tento problém.";
+  Jak je vybráno na stránce Nastavení témat.<br/><br/>Pokud jste řádným členem tohoto webu, kontaktujte prosím naše stránky\'s administrátor přes [SITE_EMAIL] e-mail a nahlásit tento problém.";
 $locale['global_302'] = "Téma vybraná v hlavních nastaveních neexistuje nebo je neúplná!";
 // JavaScript není povolen
-$locale['global_303'] = "Ach ne! Kde je JavaScript?\nVáš webový prohlížeč nemá povolen JavaScript nebo nepodporuje JavaScript.
+$locale['global_303'] = "Ach ne! Kde je JavaScript?<br/>Váš webový prohlížeč nemá povolen JavaScript nebo nepodporuje JavaScript.
 Pro správné zobrazení tohoto webu nebo pro upgrade na webový prohlížeč, který podporuje JavaScript, povolte JavaScript ve webovém prohlížeči.";
 // Správa uživatelů
 $locale['global_400'] = "Pozastaveno";

@@ -16,6 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['fmp_0100'] = "Členové nyní online";
-$locale['fmp_0101'] = "Vedení členů";
-$locale['fmp_0102'] = "Moderátoři online nyní";
+$locale['fmp_0101'] = "Vedení";
+$locale['fmp_0102'] = "Moderátoři nyní online";
 $locale['fmp_0103'] = "Prosím, nainstalujte fórum";
