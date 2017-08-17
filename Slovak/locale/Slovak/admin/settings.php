@@ -65,7 +65,7 @@ $locale['434'] = "mojazlozka";
 $locale['435'] = "Vypnúť vyššie horné panely:";
 $locale['436'] = "Vypnúť nižšie spodné panely:";
 $locale['437'] = "Povoliť Bootstrap";
-$locale['438'] = "Adresa URL vhodná pre vyhľadávače (SEF):";
+$locale['438'] = "URL adresa vhodná pre vyhľadávače (SEF):";
 $locale['439'] = "Normalizovať priateľské adresy URL:";
 $locale['440'] = "Povoliť SEO Debug mód:";
 $locale['441'] = "Povoliť Entypo";
@@ -121,8 +121,8 @@ $locale['653'] = "Nechajte prázdne ak nie je vyžadované.";
 $locale['654'] = "Filtrované slová nahradiť:";
 $locale['655'] = "Umožniť hosťom uverejňovať príspevky?";
 $locale['656'] = "Povoliť avatar v komentároch?";
-$locale['656a'] = "Povoliť Jquery komentáre?";
-$locale['656b'] = "Ak zapnete Jquery, prosím, pre najlepšie zobrazenie nastavte na vysoký počet komentárov na stránku";
+$locale['656a'] = "Povoliť jQuery komentáre?";
+$locale['656b'] = "Ak zapnete jQuery, prosím, pre najlepšie zobrazenie nastavte na vysoký počet komentárov na stránku";
 
 $locale['657'] = "Mód údržby:";
 $locale['658'] = "Správa údržby:";
@@ -231,12 +231,12 @@ $locale['855'] = "Náhľad";
 
 // Settings Error
 $locale['900'] = "Nastavenia boli úspešne aktualizované";
-$locale['901'] = "Chyba pri aktualizácii databázi: Nastavenia neboli aktualizované!";
+$locale['901'] = "Chyba pri aktualizácii databázy: Nastavenia neboli aktualizované!";
 $locale['902'] = "Doména nemôže byť prázdna!";
 
 // User Management
 $locale['1001'] = "Pomer strán avataru:";
-$locale['1002'] = "De-aktivačný systém povolený";
+$locale['1002'] = "Povoliť deaktivačný systém";
 $locale['1003'] = "Povolená doba nečinnosti:";
 $locale['1004'] = "Počet neaktívnych dní, pred spustením deaktivácie.";
 $locale['1005'] = "Odpoveď pred deaktiváciou:";
@@ -244,11 +244,11 @@ $locale['1006'] = "Počet dní na odpoveď na email deaktivačného oznámenia."
 $locale['1007'] = "Nastavenia profilu";
 $locale['1008'] = "Veľkosť avataru:";
 $locale['1009'] = "Šírka x výška";
-$locale['1010'] = "Max. veľkosť súboru obrázka (v bytoch):";
+$locale['1010'] = "Max. veľkosť obrázku (v bytoch):";
 $locale['1011'] = "Deaktivácia:";
 $locale['1012'] = "Utajenie užívateľov";
-$locale['1013'] = "Zmazanie užívateľov";
-$locale['1014'] = "Povoliť prihlásenie z rôznych zariadení súčasne?";
+$locale['1013'] = "Odstrániť užívateľov";
+$locale['1014'] = "Povoliť prihlasovanie z rôznych zariadení súčasne?";
 $locale['1014a'] = "Zakázaním zlepšíte bezpečnosť";
 
 $locale['1020'] = [1 => 'Byty (bajty)', 1000 => 'KB (Kilobajty)', 1000000 => 'MB (Megabajty)'];
@@ -288,7 +288,7 @@ $locale['error_height'] = "Prosím, zadajte výšku.";
 $locale['error_value'] = "Prosím, zadajte hodnotu.";
 $locale['blog_description'] = "Konfiguračné nastavenia pre blog systém";
 $locale['news_description'] = "Konfiguračné nastavenia pre systém noviniek";
-$locale['ipp_description'] = "Konfiguračné nastavenia pre predvolené počty položiek vo výsledkach, ktoré sa majú zobraziť";
+$locale['ipp_description'] = "Konfiguračné nastavenia pre predvolené počty položiek vo výsledkoch, ktoré sa majú zobraziť";
 $locale['forum_description'] = "Konfiguračné nastavenia pre fórum systém";
 $locale['download_description'] = "Konfiguračné nastavenia pre download systém";
 $locale['language_description'] = "Konfiguračné nastavenia pre predvolený viacjazyčný systém";
@@ -298,7 +298,7 @@ $locale['misc_description'] = "Konfiguračné nastavenia pre e-mail, overovaciu 
 $locale['message_description'] = "Konfiguračné nastavenia pre systém súkromných správ";
 $locale['register_description'] = "Konfiguračné nastavenia pre registračný systém";
 $locale['security_description'] = "Konfiguračné nastavenia pre bezpečnostný systém";
-$locale['time_description'] = "Konfiguračné nastavenia pre server systém času a dátumu";
+$locale['time_description'] = "Konfiguračné nastavenia pre systém času a dátumu";
 $locale['user_description'] = "Konfiguračné nastavenia pre systém správy užívateľov";
 $locale['theme_description'] = "Konfiguračné nastavenia pre témy";
 $locale['blog_settings'] = "Nastavenia blogu";

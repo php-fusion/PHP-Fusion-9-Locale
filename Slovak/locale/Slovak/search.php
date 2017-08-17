@@ -56,8 +56,8 @@ $locale['502'] = "Vyhľadávacie reťazce, ktoré majú menej ako 3 znaky (%s) b
 //Global search
 $locale['510'] = "výsledkov bolo nájdených na celej stránke";
 //
-$locale['520'] = "článok";
-$locale['521'] = "články";
+$locale['520'] = "výsledok";
+$locale['521'] = "výsledkov";
 $locale['522'] = "bolo nájdených podľa zadaných kritérií";
 //more than 100 results
 $locale['530'] = "Prosím buďte presnejší vo vašom dotaze. Vaše dotazy %s výsledkov. Zobrazujeme len 100 výsledkov";

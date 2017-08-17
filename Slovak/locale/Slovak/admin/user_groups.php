@@ -52,7 +52,7 @@ $locale['GRP_438'] = "Členovia";
 $locale['GRP_439'] = "Ikonka skupiny";
 // Search/Add Group Users
 $locale['GRP_440'] = "Pridať užívateľov do skupiny";
-$locale['GRP_441'] = "Nájdite užívateľa a pridajte ho do skupiny pomocou tohoto formulára.";
+$locale['GRP_441'] = "Nájdite užívateľa a pridajte ho do skupiny pomocou tohto formulára.";
 $locale['GRP_442'] = "Môžete vyhľadávať viacerých používateľov, pre oddelenie mien stlačte Enter.";
 $locale['GRP_446'] = "Užívateľské meno";
 $locale['GRP_447'] = "Typ účtu";
