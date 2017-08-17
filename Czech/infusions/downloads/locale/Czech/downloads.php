@@ -1,17 +1,17 @@
 <?php
 $locale['download_1000'] = "Stahování";
-$locale['download_1001'] = "Hlavní stránka stahování";
-$locale['download_1003'] = "Stahování kategorie";
-$locale['download_1004'] = "Stahování autor";
-$locale['download_1006'] = "Číst více";
+$locale['download_1001'] = "Hlavní stránka";
+$locale['download_1003'] = "Kategorie";
+$locale['download_1004'] = "Autoři";
+$locale['download_1006'] = "Zobrazit více";
 $locale['download_1007'] = "Stáhnout soubor";
 $locale['download_1008'] = "Hodnocení uživatelů";
 $locale['download_1009'] = "Snímek obrazovky";
-$locale['download_1010'] = "Informace o stahování";
+$locale['download_1010'] = "Informace o souboru";
 $locale['download_1011'] = "Verze";
 $locale['download_1012'] = "Celkový počet stažení";
 $locale['download_1013'] = "Licence";
-$locale['download_1014'] = "Operační systém";
+$locale['download_1014'] = "OS";
 $locale['download_1015'] = "Autorská práva";
 $locale['download_1016'] = "Datum přidání";
 $locale['download_1017'] = "Oficiální stránka vydavatele";
