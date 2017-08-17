@@ -114,7 +114,7 @@ $locale['u144'] = "Nové heslo administrátora";
 $locale['u144a'] = "Aktuální heslo správce";
 $locale['u145'] = "Potvrzení hesla administrátora";
 $locale['u146'] = "nemůže být stejná jako vaše aktuální";
-$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>\rAllowed symboly jsou az, a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>\rPovolené symboly jsou a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "Nové přihlašovací hesla nejsou totožné.";
 $locale['u148a'] = "Nové hesla správce nejsou totožné.";
 $locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";

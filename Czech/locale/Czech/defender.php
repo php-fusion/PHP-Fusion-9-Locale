@@ -73,10 +73,10 @@ $locale['token_error_8'] = "Neplatný formát tokenu.";
 $locale['token_error_9'] = "Nelze najít žádný token pro tento formulář.";
 $locale['token_error_10'] = "Nelze najít žádný token pro uložení: ";
 
-$locale['df_300'] = "Klepnutím přidáte soubory";
-$locale['df_301'] = "Klepnutím přidáte fotografii";
-$locale['df_302'] = "Klepnutím přidáte video";
-$locale['df_303'] = "Klepnutím přidáte zvuk";
+$locale['df_300'] = "Kliknutím přidáte soubory";
+$locale['df_301'] = "Kliknutím přidáte fotografii";
+$locale['df_302'] = "Kliknutím přidáte video";
+$locale['df_303'] = "Kliknutím přidáte audio";
 $locale['df_304'] = "Vybraný soubor odebrat";
 
 $locale['df_400'] = "%s obsahuje neplatný znak.";

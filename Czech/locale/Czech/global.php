@@ -82,7 +82,7 @@ $locale['last_name'] = "Příjmení";
 $locale['doc_type'] = "Typ dokumentu";
 $locale['doc_series'] = "Série";
 $locale['doc_number'] = "Číslo";
-$locale['doc_authority'] = "Úřad";
+$locale['doc_authority'] = "Autorita";
 $locale['doc_date_issue'] = "Datum vydání";
 $locale['doc_date_expire'] = "Datum expirace";
 // Standardní uživatelské levely
@@ -148,22 +148,22 @@ $locale['global_045'] = "Zobrazení";
 $locale['global_046'] = "Odpovědi";
 $locale['global_047'] = "Poslední příspěvek";
 $locale['global_048'] = "Forum";
-$locale['global_049'] = "Vyslán";
+$locale['global_049'] = "Přidáno";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Anketa";
-$locale['global_052'] = "Přestěhoval";
+$locale['global_052'] = "Přesunul";
 $locale['global_053'] = "Nezačali jste zatím žádné fórum.";
 $locale['global_054'] = "Dosud jste nezveřejnili žádné příspěvky ve fóru.";
 $locale['global_055'] = "V poslední době jsou %u nové příspěvky v %u různých tématech";
 $locale['global_056'] = "Sledovaná vlákna";
 $locale['global_057'] = "Možnosti";
-$locale['global_058'] = "Zastavte sledování";
-$locale['global_059'] = "Nezaznamenáváte žádné vlákna.";
+$locale['global_058'] = "Zastavit sledování";
+$locale['global_059'] = "Nemáte žádné sledované vlákna.";
 $locale['global_060'] = "Zastavit sledování tohoto vlákna?";
 // Blog, News & Articles
 $locale['global_070'] = "Přidal/a ";
 $locale['global_070b'] = "Zobrazit všechny příspěvky od %s";
-$locale['global_071'] = "na ";
+$locale['global_071'] = "dne ";
 $locale['global_071b'] = "Autor";
 $locale['global_072'] = "Pokračovat ve čtení";
 $locale['global_073'] = " Komentáře";
@@ -239,9 +239,9 @@ $locale['UM084'] = "Odhlásit se";
 $locale['UM085'] = "Ty máš %u nový ";
 $locale['UM086'] = "zpráva";
 $locale['UM087'] = "zprávy";
-$locale['UM088'] = "Následují vlákna";
+$locale['UM088'] = "Moje sledovaná vlákna";
 // Podání (news, link, article)
-$locale['UM089'] = "Předložit...";
+$locale['UM089'] = "Přidat...";
 $locale['UM090'] = "Odeslat novinku";
 $locale['UM091'] = "Odeslat odkaz";
 $locale['UM092'] = "Odeslat článek";
@@ -251,7 +251,7 @@ $locale['UM095'] = "Odeslat blog";
 $locale['UM102'] = "Odeslat FAQ";
 // Uživatelský panel
 $locale['UM096'] = "Vítejte: ";
-$locale['UM097'] = "Osobní nabídka";
+$locale['UM097'] = "Osobní menu";
 $locale['UM101'] = "Přepnout jazyk";
 // Soukromé zprávy, měřiče
 $locale['UM098'] = "PM Doručená pošta :";
@@ -264,14 +264,14 @@ $locale['global_150'] = "Ověřovací kód:";
 $locale['global_151'] = "Zadejte ověřovací kód:";
 // Patička, podval, počítadlo návštěv
 $locale['global_170'] = "návštěvy";
-$locale['global_171'] = "návštěvy";
+$locale['global_171'] = "návštěv";
 $locale['global_172'] = "Doba vykreslování: %s sekund";
 $locale['global_173'] = "Dotazy";
 $locale['global_174'] = "Použitá paměť";
 $locale['global_175'] = "Průměrný: %s sekund";
 $locale['global_176'] = "Zásady ochrany osobních údajů";
 // Admin Navigation
-$locale['global_180'] = "Domovská stránka administrátora";
+$locale['global_180'] = "Administrace";
 $locale['global_181'] = "Vraťte se na stránku";
 $locale['global_182'] = "Heslo správce není zadáno nebo je nesprávné.";
 // Smíšené nastavení, údržba
@@ -288,7 +288,7 @@ $locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, kl
 //Tituly
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Vyhledávání";
+$locale['global_202'] = " - Hledat";
 $locale['global_203'] = " - FAQ";
 $locale['global_204'] = " - Fórum";
 //Vzhledy, design
@@ -304,46 +304,46 @@ $locale['global_302'] = "Téma vybraná v hlavních nastaveních neexistuje nebo
 $locale['global_303'] = "Ach ne! Kde je JavaScript?<br/>Váš webový prohlížeč nemá povolen JavaScript nebo nepodporuje JavaScript.
 Pro správné zobrazení tohoto webu nebo pro upgrade na webový prohlížeč, který podporuje JavaScript, povolte JavaScript ve webovém prohlížeči.";
 // Správa uživatelů
-$locale['global_400'] = "Pozastaveno";
-$locale['global_401'] = "Zakázáno";
-$locale['global_402'] = "Deaktivováno";
-$locale['global_403'] = "Účet byl ukončen";
-$locale['global_404'] = "Účet anonymised";
-$locale['global_405'] = "Anonymní uživatel";
+$locale['global_400'] = "suspendovaný";
+$locale['global_401'] = "zabanovaný";
+$locale['global_402'] = "deaktivovaný";
+$locale['global_403'] = "zrušený účet";
+$locale['global_404'] = "utajený účet";
+$locale['global_405'] = "utajený uživatel";
 $locale['global_406'] = "Tento účet byl zakázán z tohoto důvodu:";
 $locale['global_407'] = "Tento účet byl pozastaven až do ";
 $locale['global_408'] = " Z následujícího důvodu:";
 $locale['global_409'] = "Tento účet byl z bezpečnostních důvodů zakázán.";
 $locale['global_410'] = "Důvodem je: ";
 $locale['global_411'] = "Tento účet byl zrušen.";
-$locale['global_412'] = "Tento účet byl anonymní, pravděpodobně kvůli nečinnosti.";
+$locale['global_412'] = "Tento účet byl anonymizovaný, pravděpodobně kvůli nečinnosti.";
 // Ovládání SPAM
-$locale['global_440'] = "Automatický zákaz podle protipovodňové kontroly";
-$locale['global_441'] = "Váš účet je zapnutý [SITENAME] byl zakázán";
+$locale['global_440'] = "Automatický zákaz od kontroly přetečení";
+$locale['global_441'] = "Váš účet na [SITENAME] byl zakázán";
 $locale['global_442'] = "Ahoj [USER_NAME],\n
-Váš účet je zapnutý [SITENAME] Byl chycen odesílání příliš mnoho položek do systému ve velmi krátkém čase od IP [USER_IP], A byly proto zakázány. To je děláno, aby se zabránilo robotům odesílat spamové zprávy v rychlém sledu.\n
-Obraťte se na správce webu na adrese [SITE_EMAIL], abyste svůj účet obnovili nebo nahlásili, pokud by to neznamenal tento zákaz zabezpečení.\n\n
+Váš účet na [SITENAME] byl pro spoustu příspěvků v krátké době od IP [USER_IP], pozastavený. Jedná se o prevenci před SPAM-botmi s mnoha příspěvky.\n
+Kontaktujte hlavního administrátora prostřednictvím [SITE_EMAIL], chcete-li účet obnovit, pokud se nejedná o narušení bezpečnosti.\n\n
 S pozdravem,\n[SITEUSERNAME]";
 // Ověřte třídu
-$locale['global_450'] = "Zavěšení automaticky zvedne systém";
-$locale['global_451'] = "Pozastavení se zvedlo u [SITENAME]";
+$locale['global_450'] = "Dočasné pozastavení automaticky zrušené systémem";
+$locale['global_451'] = "Dočasné pozastavení zrušené systémem na [SITENAME]";
 $locale['global_452'] = "Ahoj USER_NAME,\n
-Pozastavení účtu u společnosti [SITEURL] Byl zrušen. Zde jsou vaše přihlašovací údaje:\n
+Dočasné pozastavení účtu na [SITEURL] bylo zrušeno. Zde jsou vaše přihlašovací údaje:\n
 Uživatelské jméno: USER_NAME\nHeslo: Skryté z bezpečnostních důvodů\n
 Pokud jste heslo zapomněli, můžete ho obnovit pomocí následujícího odkazu: LOST_PASSWORD\n\n
 S pozdravem,\n[SITEUSERNAME]";
-$locale['global_453'] = "Ahoj USER_NAME,\nPozastavení účtu u společnosti [SITEURL] Byl zrušen.\n\n
+$locale['global_453'] = "Ahoj USER_NAME,\nDočasné pozastavení účtu na [SITEURL] bylo zrušeno.\n\n
 S pozdravem,\n[SITEUSERNAME]";
-$locale['global_454'] = "Účet byl znovu aktivován at [SITENAME]";
+$locale['global_454'] = "Účet byl znovu aktivován na [SITENAME]";
 $locale['global_455'] = "Ahoj USER_NAME,\n
-Při posledním přihlášení jste účet znovu aktivovali [SITEURL] A účet již není označen jako neaktivní.\n\n
+Byl jste naposledy přihlášeni v obnoveném účtu na [SITEURL] a váš účet již není označen jako neaktivní.\n\n
 S pozdravem,\n[SITEUSERNAME]";
-$locale['global_456'] = "Nové upozornění heslem pro [SITENAME]";
+$locale['global_456'] = "Oznámení nového hesla pro [SITENAME]";
 $locale['global_457'] = "Ahoj USER_NAME,
-\n\nNové heslo bylo pro váš účet nastaveno na [SITENAME]. Přiložené nové přihlašovací údaje naleznete:\n\n
+\n\nNové heslo bylo pro váš účet nastaveno na [SITENAME]. Najdete zde nové přihlašovací údaje:\n\n
 Uživatelské jméno: USER_NAME\nHeslo: [PASSWORD]\n\nS pozdravem,\n[SITEUSERNAME]";
 $locale['global_458'] = "Bylo nastaveno nové heslo USER_NAME";
-$locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl odeslán. Ujistěte se, že uživatel informuje o nových podrobnostech.";
+$locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl odeslán. Ujistěte se, že uživatel byl informuován o nových podrobnostech.";
 // Funkce velikosti bajtů
 $locale['global_460'] = "Prázdný";
 $locale['global_461'] = "Byty";
@@ -362,20 +362,20 @@ $locale['recaptcha'] = "cz";
 $locale['global_700'] = "Zobrazit více";
 //Smíšený
 $locale['global_900'] = "Nelze konvertovat HEX na DEC";
-$locale['global_901'] = "Vložit médium";
+$locale['global_901'] = "Vložte médium";
 //Výběr jazyka
 $locale['global_ML100'] = "Jazyk:";
 $locale['global_ML101'] = "- Zvolte jazyk -";
 $locale['global_ML102'] = "Jazyk stránek";
 $locale['global_ML103'] = "Přepnout jazyk";
 // Kontrola povodní
-$locale['flood'] = "Je zakázáno odeslat příspěvek, dokud nebude ukončen cooldown. Počkejte prosím %s.";
+$locale['flood'] = "Je zakázáno odeslat příspěvek, dokud nebude ukončene protečení. Počkejte prosím %s.";
 $locale['no_image'] = "Bez obrázku";
 $locale['send_message'] = "Poslat zprávu";
-$locale['go_profile'] = "Jít do %s Stránka profilu";
+$locale['go_profile'] = "Jít na profil %s";
 // Globální jedno slovo lokalizace
 $locale['hello'] = "Ahoj!";
-$locale['goodbye'] = "Ahoj!";
+$locale['goodbye'] = "Sbohem!";
 $locale['welcome'] = "Vítej zpět";
 $locale['home'] = "Domů";
 
@@ -396,7 +396,7 @@ $locale['in'] = "v";
 $locale['of'] = "z";
 $locale['and'] = "a";
 $locale['na'] = "Nejsou k dispozici žádné informace";
-$locale['joined'] = "Přihlásil se od té doby: ";
+$locale['joined'] = "Připojen od: ";
 
 // Navigace
 $locale['next'] = "Další";
@@ -404,7 +404,7 @@ $locale['previous'] = "Předchozí";
 $locale['back'] = "Zpět";
 $locale['forward'] = "Vpřed";
 $locale['go'] = "Jít";
-$locale['cancel'] = "Zrušení";
+$locale['cancel'] = "Zrušit";
 $locale['clear'] = "Vyčistit";
 $locale['move'] = "Hýbat";
 $locale['move_up'] = "Hýbat nahoru";
@@ -422,14 +422,14 @@ $locale['update'] = "Aktualizace";
 $locale['updated'] = "Updated";
 $locale['remove'] = "Odstranit";
 $locale['delete'] = "Vymazat";
-$locale['search'] = "Vyhledávání";
+$locale['search'] = "Hledat";
 $locale['help'] = "Pomoc";
 $locale['register'] = "Registrovat";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivujte";
 $locale['user'] = "Uživatel";
 $locale['promote'] = "Podporovat";
-$locale['show'] = "Show";
+$locale['show'] = "Zobrazit";
 $locale['actions'] = "Akce";
 $locale['language'] = "Jazyk";
 
@@ -464,8 +464,8 @@ $locale['status'] = "Stav";
 $locale['note'] = "Poznamenejte si tuto položku";
 $locale['publish'] = "Publikovat";
 $locale['unpublish'] = "Zrušit publikování";
-$locale['sticky'] = "Sticky";
-$locale['unsticky'] = "Unsticky";
+$locale['sticky'] = "Připnut";
+$locale['unsticky'] = "Odopnout";
 $locale['draft'] = "Návrh";
 $locale['settings'] = "Nastavení";
 $locale['posted'] = "publikované";
@@ -475,17 +475,17 @@ $locale['qedit'] = "Rychlé úpravy";
 $locale['view'] = "Zobrazit";
 $locale['login'] = "Přihlásit se";
 $locale['logout'] = "Odhlásit se";
-$locale['admin-logout'] = "Odhlášení administrátora";
+$locale['admin-logout'] = "Odhlášení admina";
 $locale['message'] = "Soukromé zprávy";
-$locale['logged'] = "Jste přihlášen jako ";
+$locale['logged'] = "Přihlášen jako ";
 $locale['version'] = "Verze ";
-$locale['browse'] = "Procházet ...";
+$locale['browse'] = "Procházet...";
 $locale['close'] = "Zavřít";
 $locale['nopreview'] = "Náhled není k dispozici";
 $locale['mark_as'] = "Označit jako";
 $locale['preview'] = "Náhled";
 $locale['custom'] = "Zvyk";
-$locale['submit'] = "Předložit";
+$locale['submit'] = "Odoslat";
 
 // Zarovnání
 $locale['left'] = "Vlevo";
@@ -497,14 +497,14 @@ $locale['comments'] = "Komentáře";
 $locale['ratings'] = "Hodnocení";
 $locale['comments_ratings'] = "Komentáře a Hodnocení";
 $locale['user_account'] = "Uživatelský účet";
-$locale['about'] = "O";
+$locale['about'] = "O nás";
 
 // Stav uživatele
-$locale['online'] = "On-line";
+$locale['online'] = "Online";
 $locale['offline'] = "Offline";
 
 // Slova pro formátování na jednotlivé a množné formy. Počet formulářů závisí na jazyku
-$locale['fmt_submission'] = "podání|podání|podání";
+$locale['fmt_submission'] = "předložení|předložení|předložení";
 $locale['fmt_article'] = "článek|články|článků";
 $locale['fmt_blog'] = "blog|blogy|blogů";
 $locale['fmt_comment'] = "komentář|komentáře|komentářů";

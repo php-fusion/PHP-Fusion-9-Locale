@@ -21,7 +21,7 @@ $locale['401'] = "Administrátor byl aktualizován";
 $locale['402'] = "Administrátor byl odstraněn";
 // Hledat / Přidat administrátora
 $locale['410'] = "Přidat nového administrátora";
-$locale['411'] = "Vyhledávaní v uživatelých:";
+$locale['411'] = "Najít uživatele, které chcete přidat:";
 $locale['412'] = "ID člena";
 $locale['413'] = "Jméno";
 $locale['414'] = "Hledat";
@@ -33,7 +33,7 @@ $locale['419'] = "Hledat znovu";
 // Aktuální administrátoři
 $locale['420'] = "Administrátoři";
 $locale['421'] = "Jméno";
-$locale['422'] = "Admin level";
+$locale['422'] = "Funkce";
 $locale['423'] = "Možnosti";
 $locale['424'] = "Hlavní admin";
 $locale['425'] = "Nebyla přidělená žádná práva";
