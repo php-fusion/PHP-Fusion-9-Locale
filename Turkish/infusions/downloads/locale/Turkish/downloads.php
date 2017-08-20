@@ -1,29 +1,34 @@
 <?php
-$locale['download_1000'] = "Downloads";
-$locale['download_1001'] = "Downloads Home";
-$locale['download_1003'] = "Downloads Category";
-$locale['download_1004'] = "Downloads Publisher";
-$locale['download_1006'] = "Read more";
-$locale['download_1007'] = "Download File";
-$locale['download_1008'] = "User Ratings";
-$locale['download_1009'] = "Screenshot";
-$locale['download_1010'] = "Download Information";
-$locale['download_1011'] = "Version";
-$locale['download_1012'] = "Total Downloads";
-$locale['download_1013'] = "Download License";
-$locale['download_1014'] = "Operating System";
-$locale['download_1015'] = "Copyright";
-$locale['download_1016'] = "Date Added";
-$locale['download_1017'] = "Publisher's Official Homepage";
-$locale['download_1018'] = "Visit Website";
-$locale['download_1019'] = "Editor's Full Review";
-$locale['download_1020'] = "File Size";
-$locale['download_1021'] = "Publication Date";
-$locale['download_2001'] = 'Most Comments';
-$locale['download_2002'] = 'Most Recent';
-$locale['download_2003'] = 'Most Downloaded';
-$locale['download_2004'] = 'Top Rated Download';
-$locale['download_3000'] = "No Downloads has been added yet";
-$locale['download_3001'] = "No Category";
-$locale['download_3002'] = "No Publisher";
-$locale['download_3003'] = "View and rate this download";
+/**
+ * @Translated by MAxwELL_TR Web Site (https://alperperi.com)
+ */
+// Download File Information
+// v7.02.07 Çevirisinde "Download" kelimesi "Dosyalar" şeklinde çevirilmiştir. Bu çeviride "İndirme" kelimesi kulanılmıştır.  MAxwELL_TR
+$locale['download_1000'] = "İndirmeler";
+$locale['download_1001'] = "İndirmeler Ana Sayfası";
+$locale['download_1003'] = "İndirmeler Kategorisi";
+$locale['download_1004'] = "İndirmeler Editörü";
+$locale['download_1006'] = "Daha fazla oku";
+$locale['download_1007'] = "Dosyayı indir";
+$locale['download_1008'] = "Kullanıcı Değerlendirmeleri";
+$locale['download_1009'] = "Ekran görüntüsü";
+$locale['download_1010'] = "İndirme Bilgisi";
+$locale['download_1011'] = "Versiyon";
+$locale['download_1012'] = "Toplam İndirme";
+$locale['download_1013'] = "İndirme Lisansı";
+$locale['download_1014'] = "İşletim sistemi";
+$locale['download_1015'] = "Telif hakkı";
+$locale['download_1016'] = "Eklenme Tarihi";
+$locale['download_1017'] = "Yayıncının Resmi Ana Sayfası";
+$locale['download_1018'] = "Siteyi ziyaret et";
+$locale['download_1019'] = "Editörün Tam İncelemesi";
+$locale['download_1020'] = "Dosya Boyutu";
+$locale['download_1021'] = "Yayın tarihi";
+$locale['download_2001'] = 'En Çok Yorumlananlar';
+$locale['download_2002'] = 'En Yeni';
+$locale['download_2003'] = 'En Çok İndirilenler';
+$locale['download_2004'] = 'En Çok Oylanan İndirme';
+$locale['download_3000'] = "Henüz bir İndirme eklenmedi";
+$locale['download_3001'] = "Kategori Yok";
+$locale['download_3002'] = "Yayıncı Yok";
+$locale['download_3003'] = "Bu indirmeyi görüntüle ve derecelendir";
