@@ -1,38 +1,41 @@
 <?php
+/**
+ * @Translated by ALTUN Web Site(https://alapelit.com)
+ */
 // Smiley titles
-$locale['SMLY_400'] = "Current Smileys";
-$locale['SMLY_401'] = "Add Smiley";
-$locale['SMLY_402'] = "Edit Smiley";
-$locale['SMLY_403'] = "Smileys";
-$locale['SMLY_404'] = "Active Smileys";
-$locale['SMLY_405'] = "Inactive Smileys";
+$locale['SMLY_400'] = "Mevcut İfadeler";
+$locale['SMLY_401'] = "İfade Ekle";
+$locale['SMLY_402'] = "İfadeyi Düzenle";
+$locale['SMLY_403'] = "İfadeler";
+$locale['SMLY_404'] = "Aktif İfadeler";
+$locale['SMLY_405'] = "Aktif Olmayan İfadeler";
 // Smiley messages
-$locale['SMLY_410'] = "Smiley added";
-$locale['SMLY_411'] = "Smiley updated";
-$locale['SMLY_412'] = "Smiley deleted";
-$locale['SMLY_413'] = "Inactive Smileys";
+$locale['SMLY_410'] = "İfade eklendi";
+$locale['SMLY_411'] = "İfade güncellendi";
+$locale['SMLY_412'] = "İfade silindi";
+$locale['SMLY_413'] = "Aktif Olmayan İfadeler";
 
-$locale['SMLY_414'] = "The smiley Text is in use.";
-$locale['SMLY_415'] = "The smiley Code is in use.";
-$locale['SMLY_416'] = "Do you realy want to delete this smiley?";
-$locale['SMLY_417'] = "Do you realy want to Inactiv this smiley?";
-$locale['SMLY_418'] = "Error Uploading smiley";
+$locale['SMLY_414'] = "İfade metni kullanımda.";
+$locale['SMLY_415'] = "İfade kodu kullanımda.";
+$locale['SMLY_416'] = "Bu ifadeyi gerçekten silmek istiyor musun?";
+$locale['SMLY_417'] = "Bu ifadeyi gerçekten devredışı bırakmak istiyor musunuz?";
+$locale['SMLY_418'] = "İfade yüklenirken hata oluştu";
 // Smiley form
-$locale['SMLY_420'] = "Smiley Code:";
-$locale['SMLY_421'] = "Smiley Image:";
-$locale['SMLY_422'] = "Smiley Text:";
-$locale['SMLY_423'] = "Save Smiley";
-$locale['SMLY_424'] = "Update Smiley";
+$locale['SMLY_420'] = "İfade Kodu:";
+$locale['SMLY_421'] = "İfade Görüntüsü:";
+$locale['SMLY_422'] = "İfade Metni:";
+$locale['SMLY_423'] = "İfadeyi Kaydet";
+$locale['SMLY_424'] = "İfadeyi Güncelle";
 // Current Smileys
-$locale['SMLY_430'] = "Code";
-$locale['SMLY_431'] = "Image";
-$locale['SMLY_432'] = "Text";
-$locale['SMLY_433'] = "Options";
-$locale['SMLY_435'] = "Inactive";
-$locale['SMLY_436'] = "There are no smileys defined.";
+$locale['SMLY_430'] = "Kod";
+$locale['SMLY_431'] = "Görüntü";
+$locale['SMLY_432'] = "Metin";
+$locale['SMLY_433'] = "Seçenekler";
+$locale['SMLY_435'] = "Pasif";
+$locale['SMLY_436'] = "Hiçbir ifade tanımlanmadı.";
 // Error Message
-$locale['SMLY_437'] = "Please enter a Smiley Code";
-$locale['SMLY_438'] = "Please select a Smiley";
-$locale['SMLY_439'] = "Please enter a Smiley Text";
-$locale['SMLY_440'] = "No active Smileys";
-$locale['SMLY_441'] = "No inactive Smileys";
+$locale['SMLY_437'] = "Lütfen bir ifade kodu girin";
+$locale['SMLY_438'] = "Lütfen bir ifade seçiniz";
+$locale['SMLY_439'] = "Lütfen bir ifade metni girin";
+$locale['SMLY_440'] = "Aktif ifade yok";
+$locale['SMLY_441'] = "Pasif ifade yok";
