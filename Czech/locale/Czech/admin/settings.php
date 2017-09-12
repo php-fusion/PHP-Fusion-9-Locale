@@ -113,6 +113,7 @@ $locale['606'] = "Metoda komprese náhledů";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 
+$locale['649'] = "Zakázané uživatelská jména:";
 $locale['650'] = "Smíšený";
 $locale['651'] = "Seznam špatných slov:";
 $locale['652'] = "Zadejte jedno slovo na řádek.";
