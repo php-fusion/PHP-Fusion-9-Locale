@@ -112,12 +112,12 @@ $locale['u144'] = "Nové admin heslo";
 $locale['u144a'] = "Aktuálne admin heslo";
 $locale['u145'] = "Potvrdiť admin heslo";
 $locale['u146'] = " nemôže byť rovnaké ako aktuálne ";
-$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.\n\rPovolené znaky sú a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.<br/>\rPovolené znaky sú a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "Nové prihlasovacie heslá nie sú totožné.";
 $locale['u148a'] = "Nové admin heslá nie sú totožné.";
 $locale['u149'] = "Vaše aktuálne prihlasovacie heslo nebolo zadané alebo je neplatné.";
 $locale['u149a'] = "Vaše aktuálne admin heslo nebolo zadané alebo je neplatné.";
-$locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatné.<br>Nemôžete nastaviť admin heslo bez správneho prihl. hesla.";
+$locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatné.<br>\rNemôžete nastaviť admin heslo bez správneho prihl. hesla.";
 // Email activation
 $locale['u150'] = "Vaša registrácia je takmer kompletná, dostanete e-mail obsahujúci vaše prihlasovacie údaje spolu s odkazom na overenie účtu.";
 $locale['u151'] = "Vítajte na [SITENAME]";
@@ -140,7 +140,6 @@ $locale['u162'] = "Administrátor aktivuje váš účet v najbližšej dobe.";
 $locale['u163'] = "Profil bol úspešne obnovený.";
 $locale['u164'] = "Aktualizácia zlyhala";
 
-//$locale['u165'] = "Registrácia zlyhala";
 $locale['u167'] = "pre nasledujúci dôvod(y):";
 $locale['u168'] = "Prosím skúste to neskôr.";
 $locale['u169'] = "Profil obnovený";

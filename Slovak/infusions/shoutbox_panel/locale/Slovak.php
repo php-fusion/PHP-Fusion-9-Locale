@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['SB_add'] = "Správa";
+$locale['SB_add'] = "Nová správa";
 $locale['SB_admin1'] = "Adminstrácia shoutboxu";
 $locale['SB_archive'] = "Archív shoutboxu";
 $locale['SB_days'] = "dní";
@@ -40,9 +40,9 @@ $locale['SB_settings'] = "Nastavenia shoutboxu";
 $locale['SB_shout'] = "Správa";
 $locale['SB_shout_added'] = "Správa bola pridaná";
 $locale['SB_shout_captha'] = "Zadajte overovací kód:";
-$locale['SB_shout_deleted'] = "Správa odstránená";
-$locale['SB_shout_updated'] = "Správa aktualizovaná";
-$locale['SB_shouts_deleted'] = "Správy odstránené";
+$locale['SB_shout_deleted'] = "Správa bola odstránená";
+$locale['SB_shout_updated'] = "Správa bola aktualizovaná";
+$locale['SB_shouts_deleted'] = "Správy bola odstránené";
 $locale['SB_title'] = "Shoutbox";
 $locale['SB_update_ok'] = "Nastavenia boli aktualizované";
 $locale['SB_update_shout'] = "Aktualizovať správu";

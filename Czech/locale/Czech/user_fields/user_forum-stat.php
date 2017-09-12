@@ -1,4 +1,3 @@
 <?php
-$locale['uf_forum-stat'] = "Forum Posts";
-$locale['uf_forum-stat_desc'] = "Displays number of forum posts.";
-
+$locale['uf_forum-stat'] = "Příspěvky ve fóru";
+$locale['uf_forum-stat_desc'] = "Zobrazí počet příspěvků ve fóru.";

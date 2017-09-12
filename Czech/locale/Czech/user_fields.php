@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/user_fields.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/user_fields.php
+| Author: Kvido, phpfusion.cz, 26.05.2017
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -31,7 +30,7 @@ $locale['u050'] = "Nedefinováno";
 $locale['u051'] = "Skrýt e-mail?";
 $locale['u052'] = " Ano ";
 $locale['u053'] = " Ne";
-$locale['u054'] = "Zobrazit protokol o pozastavení";
+$locale['u054'] = "Zobrazit záznam o pozastavení";
 $locale['u055'] = "Stav uživatele:";
 $locale['u056'] = "Důvod";
 $locale['u057'] = "Uživatelské skupiny";
@@ -79,7 +78,7 @@ $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistují žádní členové skupiny.";
 
 // Uživatelské jméno a e-mail
-$locale['u119'] = "User name contains.";
+$locale['u119'] = "Uživatelské jméno obsahuje.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené uživatelské jméno již přijal jiný uživatel.";
 $locale['u122'] = "Uživatelské jméno nesmí zůstat prázdné.";
@@ -101,83 +100,82 @@ $locale['u134b'] = "Zopakujte heslo";
 $locale['u135a'] = "Aktuální heslo";
 $locale['u135b'] = "Nastavit nové heslo";
 $locale['u135c'] = "Opakujte nové heslo";
-$locale['u136'] = "Password can not be left empty.";
-$locale['u137'] = "Your current admin password can not be left empty.";
-$locale['u138'] = "Your current login password can not be left empty.";
-$locale['u139'] = "Login password did not match your current login password.";
-$locale['u140'] = "Admin password did not match your current admin password.";
-$locale['u141'] = " can not be the same as ";
-$locale['u142'] = " is too short or contains invalid characters!";
-$locale['u143'] = " does not match!";
-$locale['u143a'] = " can not be left empty.";
-$locale['u144'] = "New admin password";
-$locale['u144a'] = "Current Admin Password";
-$locale['u145'] = "Confirm admin password";
-$locale['u146'] = " can not be the same as your current ";
-$locale['u147'] = "Password must be between 8 and 64 chars long.\n\rAllowed symbols are a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
-$locale['u148'] = "New Login Passwords are not identical.";
-$locale['u148a'] = "New Admin Passwords are not identical.";
-$locale['u149'] = "Your Current Login Password was not specified or is invalid.";
-$locale['u149a'] = "Your Current Admin Password was not specified or is invalid.";
-$locale['u149b'] = "Your Current Login Password was not specified or is invalid.\n\rYou can't set your admin password without your correct login password.";
-// Email activation
-$locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account.";
-$locale['u151'] = "Welcome to [SITENAME]";
-$locale['u152'] = "Hello USER_NAME,\n\r
-Welcome to SITENAME. Here are your login details:\n\r
-Username: USER_NAME\n\r
-Password: USER_PASSWORD\n\r
-Please activate your account via the following link: ACTIVATION_LINK\n\n\r\r
-Regards,\n\r
-SITEUSERNAME";
 
-$locale['u153'] = "Activation email could not be sent.";
-$locale['u154'] = "Please [LINK]contact[/LINK] the Site Administrator.";
-$locale['u155'] = "Activate Account";
-$locale['u156'] = "Please type in current password to change email.";
-// Success / Fail
-$locale['u160'] = "Registration complete";
-$locale['u161'] = "You can now log in.";
-$locale['u162'] = "An administrator will activate your account shortly.";
-$locale['u163'] = "Profile was successfully updated.";
-$locale['u164'] = "Update failed";
+$locale['u136'] = "Heslo nemůže zůstat prázdné.";
+$locale['u137'] = "Vaše současné heslo správce nemůže zůstat prázdné.";
+$locale['u138'] = "Vaše aktuální přihlašovací heslo nemůže být prázdné.";
+$locale['u139'] = "Přihlašovací heslo neodpovídá vašemu aktuálnímu přihlašovacímu heslu.";
+$locale['u140'] = "Heslo správce neodpovídá vašemu aktuálnímu administrátorskému heslu.";
+$locale['u141'] = "nemůže být stejný jako";
+$locale['u142'] = "je příliš krátká nebo obsahuje neplatné znaky!";
+$locale['u143'] = "neodpovídá!";
+$locale['u143a'] = "nemůže zůstat prázdná.";
+$locale['u144'] = "Nové heslo administrátora";
+$locale['u144a'] = "Aktuální heslo správce";
+$locale['u145'] = "Potvrzení hesla administrátora";
+$locale['u146'] = "nemůže být stejná jako vaše aktuální";
+$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>\rPovolené symboly jsou a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u148'] = "Nové přihlašovací hesla nejsou totožné.";
+$locale['u148a'] = "Nové hesla správce nejsou totožné.";
+$locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";
+$locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
+$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.<br/>\rNeníte heslo administrátora bez správného přihlašovacího hesla.";
+// Aktivace e-mailu
+$locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
+$locale['u151'] = "Vítejte v [SITENAME]";
+$locale['u152'] = "Dobrý den, USER_NAME, \n\r
+Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje: \n\r
+Uživatelské jméno: USER_NAME \n\r
+Heslo: USER_PASSWORD \n\r
+Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK \n \n\r
+S pozdravem, \n\r
+SITEUSERNAME ";
 
-//$locale['u165'] = "Registration failed";
-$locale['u167'] = "for the following reason(s):";
-$locale['u168'] = "Please Try Again.";
-$locale['u169'] = "Profile updated";
-$locale['u170'] = "Registration successful";
-$locale['u171'] = "Your account has been verified.";
-$locale['u172'] = "Member successfully added.";
-$locale['u173'] = "Back to User Management.";
-$locale['u174'] = "Add another member.";
+$locale['u153'] = "Aktivační e-mail nelze odeslat.";
+$locale['u154'] = "Prosím, [LINK] kontaktujte [/LINK] administrátora webu.";
+$locale['u155'] = "Aktivovat účet";
+$locale['u156'] = "Pro změnu e-mailu zadejte prosím aktuální heslo.";
+// Úspěch / selhání
+$locale['u160'] = "Registrace dokončena";
+$locale['u161'] = "Nyní se můžete přihlásit.";
+$locale['u162'] = "Administrátor Vaše Přihlášení co nejdříve aktivuje.";
+$locale['u163'] = "Váš profil byl úspěšně aktualizován.";
+$locale['u164'] = "Aktualizace se nezdařila";
+
+$locale['u167'] = "z následujících důvodů:";
+$locale['u168'] = "Zkuste to znovu.";
+$locale['u169'] = "Profil byl aktualizován";
+$locale['u170'] = "Registrace úspěšná";
+$locale['u171'] = "Váš účet byl ověřen.";
+$locale['u172'] = "Člen úspěšně přidán.";
+$locale['u173'] = "Zpět na správu uživatelů.";
+$locale['u174'] = "Přidat jiného člena.";
 // Avatar upload
-$locale['u180'] = "There is an error uploading avatar image";
+$locale['u180'] = "Chyba při nahrávání obrázku avatar";
 
-$locale['u184'] = "Max. file size: %s / Max. size: %ux%u pixels";
+$locale['u184'] = "Maximální velikost souboru: %s/Maximální velikost:%ux%u pixelů";
 $locale['u185'] = "Avatar";
-$locale['u186'] = "Click Browse to upload an image";
-$locale['u187'] = "Delete";
-// Captcha and terms
-$locale['u190'] = "Validation Code";
-$locale['u191'] = "Enter Validation Code";
-$locale['u192'] = "Terms of Agreement";
-$locale['u193'] = "I have read the [LINK]Terms of Agreement[/LINK] and I agree with them.";
-$locale['u193a'] = "Updated";
-$locale['u193b'] = "I agree";
-$locale['u194'] = "Incorrect validation code.";
-$locale['u195'] = "Captcha code can not be left empty.";
-// E-mail Change Confirmation
-$locale['u200'] = "A verify email has been sent to your new email address (%s). Please check your email.";
-$locale['u201'] = "Your email address will be changed when you click the link in the mail.";
-$locale['u202'] = "E-mail address verify - [SITENAME]";
-$locale['u203'] = "Hello [USER_NAME],\n
-Someone set this email address in his account on our site.\n
-If you realy want to change your email address to this one please click the following link:\n
+$locale['u186'] = "Kliknutím na tlačítko Procházet nahrát obrázek";
+$locale['u187'] = "Odstranit";
+// Captcha a podmínky
+$locale['u190'] = "Ověřovací kód";
+$locale['u191'] = "Zadejte ověřovací kód";
+$locale['u192'] = "Smluvní podmínky";
+$locale['u193'] = "Přečetl(a) [LINK] Smluvní podmínky [/LINK] a souhlasím s nimi.";
+$locale['u193a'] = "Aktualizováno";
+$locale['u193b'] = "Souhlasím";
+$locale['u194'] = "Nesprávný ověřovací kód.";
+$locale['u195'] = "Captcha kód nemůže zůstat prázdný.";
+// Potvrzení změny e-mailu
+$locale['u200'] = "Ověřený e-mail byl odeslán na vaši novou e-mailovou adresu (%s). Zkontrolujte prosím svůj e-mail.";
+$locale['u201'] = "Vaše e-mailová adresa se změní po kliknutí na odkaz v e-mailu.";
+$locale['u202'] = "Kontrola e-mailové adresy - [SITENAME]";
+$locale['u203'] = "Dobrý den, [USER_NAME],\n
+Někdo nastavil tuto e-mailovou adresu ve svém účtu na našich stránkách.\n
+Pokud opravdu chcete změnit svou e-mailovou adresu, klikněte na následující odkaz:\n
 [EMAIL_VERIFY_LINK]\n
-Note: you have to be logged in to proceed.\n
-Regards,
+Poznámka: Pro pokračování musíte být přihlášeni\n
+S pozdravem
 [SITEUSERNAME]\n\r
 [SITENAME]";
-
-$locale['u210'] = "User Reputation";
+$locale['u210'] = "Reputace";

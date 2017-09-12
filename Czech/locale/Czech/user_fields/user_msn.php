@@ -6,5 +6,4 @@
 $locale['uf_msn'] = "MSN";
 $locale['uf_msn_id'] = "MSN Username";
 $locale['uf_msn_desc'] = "Microsoft Messenger";
-$locale['uf_msn_error'] = "MSN Username can not be left empty.";
-
+$locale['uf_msn_error'] = "MSN uživatelské jméno nesmí být prázdné.";

@@ -1,5 +1,5 @@
 <?php
-$locale['page_400'] = "Přístup odepřen!\nNemáte oprávnění tuto stránku prohlížet.";
+$locale['page_400'] = "Přístup odepřen!<br/>Nemáte oprávnění tuto stránku prohlížet.";
 $locale['page_401'] = "Interní chyba";
 $locale['page_402'] = "Nelze načíst obsah stránky.";
 $locale['page_403'] = "Vraťte se zpět";

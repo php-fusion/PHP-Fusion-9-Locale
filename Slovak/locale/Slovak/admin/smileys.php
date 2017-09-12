@@ -26,7 +26,7 @@ $locale['SMLY_405'] = "Neaktívne smajlíky";
 $locale['SMLY_410'] = "Smajlík bol pridaný";
 $locale['SMLY_411'] = "Smajlík bol aktualizovaný";
 $locale['SMLY_412'] = "Smajlík bol vymazaný";
-$locale['SMLY_413'] = "Neaktívne smajlíky";
+$locale['SMLY_413'] = "Smajlík bol deaktivovaný";
 
 $locale['SMLY_414'] = "Text smajlíka sa už používa.";
 $locale['SMLY_415'] = "Kód smajlíka sa už používa.";

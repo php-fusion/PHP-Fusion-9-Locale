@@ -17,9 +17,9 @@
 +--------------------------------------------------------*/
 $locale['POLL_001'] = "Ankety";
 $locale['POLL_002'] = "Archív ankiet";
-$locale['POLL_005'] = "Anketa pridaná";
-$locale['POLL_006'] = "Anketa akualizovaná";
-$locale['POLL_007'] = "Anketa odstránená";
+$locale['POLL_005'] = "Anketa bola pridaná";
+$locale['POLL_006'] = "Anketa bola akualizovaná";
+$locale['POLL_007'] = "Anketa bola odstránená";
 $locale['POLL_008'] = "Hlasovanie začalo";
 $locale['POLL_009'] = "Anketa zatvorená";
 $locale['POLL_010'] = "Anketa resetovaná";

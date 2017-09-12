@@ -65,7 +65,7 @@ $locale['setup_0130'] = "Xdebug nastavenia";
 $locale['setup_0131'] = "xdebug.max_nesting_level je nastavený na";
 $locale['setup_0132'] = "Nastavte {%code%} v konfigurácii PHP ako niektoré stránky v PHP-Fusion nebudú fungovať, ak je toto nastavenie príliš nízke.";
 $locale['setup_0134'] = "Všetky požadované súbory prešli kontrolou zapísateľnosti";
-$locale['setup_0135'] = "Ak chcete pokračovať v inštalácii, mali by byť zapisovateľné nasledujúce súbory a priečinky. Ak chcete pokračovať, atribúty súborov na 755 alebo 777";
+$locale['setup_0135'] = "Ak chcete pokračovať v inštalácii, mali by byť zapisovateľné nasledujúce súbory a priečinky. Ak chcete pokračovať, změňte atribúty súborov na 755 alebo 777";
 $locale['setup_0136'] = "Nezapisovateľné (zlyhalo)";
 $locale['setup_0137'] = "Zapisovateľné (prešlo)";
 $locale['setup_0138'] = "Založenie databázového pripojenia";
@@ -73,7 +73,7 @@ $locale['setup_0139'] = "Bol vytvorený výber stĺpca databázy";
 $locale['setup_0140'] = "Databáza je dostupná a pripravená na inštaláciu";
 $locale['setup_0141'] = "Povolenia databázy a overený prístup";
 $locale['setup_0142'] = "Bol vytvorený súbor config.php";
-$locale['setup_0143'] = "Zadaná predpona tabuľky sa už používa a je spustená. Inštalátor bude pokračovať s aktualizáciou rozdielmi podľa potreby.";
+$locale['setup_0143'] = "Zadaná predpona tabuľky sa už používa a je spustená. Inštalátor bude pokračovať v aktualizácii rozdielov podľa potreby.";
 $locale['setup_0144'] = "Diagnostika databázy bola dokončená";
 // Step 1
 $locale['setup_1000'] = "Vyberte svoj jazyk";

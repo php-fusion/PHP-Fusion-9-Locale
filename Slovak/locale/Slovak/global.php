@@ -45,6 +45,8 @@ $locale['year'] = "rok";
 $locale['year_a'] = "roky";
 $locale['month'] = "mesiac";
 $locale['month_a'] = "mesiace";
+$locale['week'] = "týždeň";
+$locale['week_a'] = "týždne";
 $locale['day'] = "deň";
 $locale['day_a'] = "dní";
 $locale['hour'] = "hodina";
@@ -103,7 +105,7 @@ $locale['status8'] = "Neaktívny";
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigácia";
-$locale['global_002'] = "Neboli definované žiadne odkazy\n";
+$locale['global_002'] = "Neboli definované žiadne odkazy";
 $locale['global_003'] = "Nič na prezeranie";
 // Users Online
 $locale['global_010'] = "Kto je online";
@@ -152,7 +154,7 @@ $locale['global_054'] = "Neposlali ste ešte žiadny príspevok do fóra.";
 $locale['global_055'] = "Bolo napísaných %u nových príspevkov, od vašej poslednej návštevy.";
 $locale['global_056'] = "Moje sledované vlákna";
 $locale['global_057'] = "Možnosti";
-$locale['global_058'] = "Zastaviť";
+$locale['global_058'] = "Zastaviť sledovanie";
 $locale['global_059'] = "Nemáte žiadne sledované vlákna.";
 $locale['global_060'] = "Zastaviť sledovanie vlákien?";
 // Blog, News & Articles
@@ -258,8 +260,8 @@ $locale['tags'] = "Tagy";
 $locale['global_150'] = "Validačný kód:";
 $locale['global_151'] = "Vložte validačný kód:";
 // Footer Counter
-$locale['global_170'] = "unikátna návšteva";
-$locale['global_171'] = "unikátne návštevy";
+$locale['global_170'] = "unikátne návštevy";
+$locale['global_171'] = "unikátnych návštev";
 $locale['global_172'] = "Vygenerované za: %s sekúnd";
 $locale['global_173'] = "Dotazy";
 $locale['global_174'] = "Použitá pamäť";
@@ -302,7 +304,7 @@ Ak chcete správne zobraziť túto webovú lokalitu, povoľte JavaScript vo svoj
 $locale['global_400'] = "suspendovaný";
 $locale['global_401'] = "zabanovaný";
 $locale['global_402'] = "deaktivovaný";
-$locale['global_403'] = "vymedzený účet";
+$locale['global_403'] = "zrušený účet";
 $locale['global_404'] = "utajený účet";
 $locale['global_405'] = "utajený užívateľ";
 $locale['global_406'] = "Tento účet je zabanovaný z tohto dôvodu:";
@@ -317,7 +319,7 @@ $locale['global_440'] = "Automatický BAN od kontroly pretečenia";
 $locale['global_441'] = "Váš účet na [SITENAME] bol zabanovaný";
 $locale['global_442'] = "Ahoj [USER_NAME],\n
 Váš účet na [SITENAME] bol pre priveľa príspevkov v krátkom čase z IP [USER_IP], pozastavený. Jedná sa o prevenciu pred SPAM-botmi s množstvom príspevkov.\n
-Prosím kontaktujte hlavného administrátora cez [SITE_EMAIL] na uvoľnenie účtu, ak sa nejedná o porušenie bezpečnosti.\n\n
+Prosím kontaktujte hlavného administrátora cez [SITE_EMAIL] na obnovenie účtu, ak sa nejedná o porušenie bezpečnosti.\n\n
 S pozdravom,\n[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Dočasné pozastavenie automaticky zrušené systémom";
@@ -452,8 +454,8 @@ $locale['status'] = "Status";
 $locale['note'] = "Poznačte si túto položku";
 $locale['publish'] = "Publikovať";
 $locale['unpublish'] = "Nepublikovať";
-$locale['sticky'] = "Prilepené";
-$locale['unsticky'] = "Neprilepené";
+$locale['sticky'] = "Pripnúť";
+$locale['unsticky'] = "Odopnúť";
 $locale['draft'] = "Koncept";
 $locale['settings'] = "Nastavenia";
 $locale['posted'] = "publikované";

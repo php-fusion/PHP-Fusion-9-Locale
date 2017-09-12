@@ -1,5 +1,4 @@
 <?php
-$locale['uf_birthdate'] = "Birthdate";
-$locale['uf_birthdate_desc'] = "Displays user's birth date";
-$locale['uf_birthdate_error'] = "Birth date was not set correctly.";
-
+$locale['uf_birthdate'] = "Datum narození";
+$locale['uf_birthdate_desc'] = "Zobrazí datum narození";
+$locale['uf_birthdate_error'] = "Datum narození nebylo nastaveno správně.";

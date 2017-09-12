@@ -1,4 +1,4 @@
 <?php
-$locale['pl_photo_title'] = "Photo Images";
-$locale['pl_photo_desc'] = "Enable Permalinks for the Photos links in the site.";
+$locale['pl_photo_title'] = "Fotky";
+$locale['pl_photo_desc'] = "Povolit trvalé odkazy pro fotky na webu.";
 

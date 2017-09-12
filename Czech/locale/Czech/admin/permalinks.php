@@ -16,18 +16,18 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Section Titles
-$locale['PL_400'] = "Povolené permalinky";
-$locale['PL_401'] = "Zakázané permalinky";
-$locale['PL_401a'] = "Permalink nastavení";
+$locale['PL_400'] = "Povolené trvalé odkazy";
+$locale['PL_401'] = "Zakázáné trvalé odkazy";
+$locale['PL_401a'] = "Nastavení trvalích odkazů";
 
 // Common
-$locale['PL_402'] = "Přepsat jméno";
+$locale['PL_402'] = "Název";
 $locale['PL_403'] = "Popis";
 $locale['PL_404'] = "Možnosti";
 $locale['PL_404a'] = "Nainstalovat";
 $locale['PL_404b'] = "Zakázat";
 $locale['PL_404c'] = "Upravit";
-$locale['PL_404d'] = "Znovu nainstalujte";
+$locale['PL_404d'] = "Přeinstalovat";
 
 // Editing Permalinks
 $locale['PL_405'] = "Upravit %s";
@@ -35,7 +35,7 @@ $locale['PL_406'] = "Tagy";
 $locale['PL_407'] = "Popis";
 $locale['PL_408'] = "Typy";
 $locale['PL_409'] = "Upravit vzor";
-$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_410'] = "Typ trvalého odkazu %u:";
 $locale['PL_411'] = "Chyba";
 $locale['PL_412'] = "Podívejte se na soubory %s!";
 $locale['PL_413'] = "Uložit";
