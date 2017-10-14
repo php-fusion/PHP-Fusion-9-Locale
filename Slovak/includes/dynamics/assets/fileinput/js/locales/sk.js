@@ -53,6 +53,7 @@
         msgUploadBegin: 'Inicializujem...',
         msgUploadEnd: 'Hotovo',
         msgUploadEmpty: 'Na nahrávanie nie sú k dispozícii žiadne platné údaje.',
+        msgUploadError: 'Chyba',
         msgValidationError: 'Chyba overenia',
         msgLoading: 'Nahrávanie súboru {index} z {files} &hellip;',
         msgProgress: 'Nahrávanie súboru {index} z {files} - {name} - {percent}% dokončené.',
@@ -77,6 +78,8 @@
         fileActionSettings: {
             removeTitle: 'Odstrániť súbor',
             uploadTitle: 'Nahrať súbor',
+            uploadRetryTitle: 'Znova nahrať',
+            downloadTitle: 'Stiahnuť súbor',
             zoomTitle: 'Zobraziť podrobnosti',
             dragTitle: 'Posunúť / Preskládať',
             indicatorNewTitle: 'Ešte nenahral',
