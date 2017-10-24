@@ -14,7 +14,7 @@ setlocale(LC_TIME, "hu_HU", "hu_HU.UTF8", "hu.UTF8", "hun_hun", "Hungarian", "hu
 $locale['charset'] = "UTF-8";
 $locale['region'] = "HU";
 $locale['xml_lang'] = "hu";
-$locael['short_lang_name'] = "hu";
+$locale['short_lang_name'] = "hu";
 $locale['tinymce'] = "hu";
 $locale['select2'] = "hu";
 $locale['phpmailer'] = "hu";
