@@ -17,5 +17,5 @@ $locale['testimonial_location'] = " и сейчас я живу в %s";
 $locale['testimonial_join'] = "Я зарегистрировался здесь %s.";
 $locale['testimonial_web'] = "Также я запустил(-а) свой сайт по адресу %s.";
 $locale['testimonial_contact'] = "Если Вам нужно связаться со мной, вы можете связаться со мной по адресу %s.";
-$locale['testimonial_email'] = "Также Вы можете отправить мне сообщение по электропочте на %s.";
+$locale['testimonial_email'] = "Также Вы можете отправить мне сообщение по электронной почте на %s.";
 
