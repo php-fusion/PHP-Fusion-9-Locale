@@ -112,21 +112,21 @@ $locale['u144'] = "Nové admin heslo";
 $locale['u144a'] = "Aktuálne admin heslo";
 $locale['u145'] = "Potvrdiť admin heslo";
 $locale['u146'] = " nemôže byť rovnaké ako aktuálne ";
-$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.<br/>\rPovolené znaky sú a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.<br/>Povolené znaky sú a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "Nové prihlasovacie heslá nie sú totožné.";
 $locale['u148a'] = "Nové admin heslá nie sú totožné.";
 $locale['u149'] = "Vaše aktuálne prihlasovacie heslo nebolo zadané alebo je neplatné.";
 $locale['u149a'] = "Vaše aktuálne admin heslo nebolo zadané alebo je neplatné.";
-$locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatné.<br>\rNemôžete nastaviť admin heslo bez správneho prihl. hesla.";
+$locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatné.<br>Nemôžete nastaviť admin heslo bez správneho prihl. hesla.";
 // Email activation
 $locale['u150'] = "Vaša registrácia je takmer kompletná, dostanete e-mail obsahujúci vaše prihlasovacie údaje spolu s odkazom na overenie účtu.";
 $locale['u151'] = "Vítajte na [SITENAME]";
-$locale['u152'] = "Dobrý deň USER_NAME,\n\r
-Vítajte na SITENAME. Tu sú vaše prihlasovacie údaje:\n\r
-Meno: USER_NAME\n\r
-Heslo: USER_PASSWORD\n\r
-Prosím aktivujte váš účet kliknutím na tento odkaz: ACTIVATION_LINK\n\n\r\r
-S pozdravom,\n\r
+$locale['u152'] = "Dobrý deň USER_NAME,<br/>
+Vítajte na SITENAME. Tu sú vaše prihlasovacie údaje:<br/>
+Meno: USER_NAME<br/>
+Heslo: USER_PASSWORD<br/>
+Prosím aktivujte váš účet kliknutím na tento odkaz: ACTIVATION_LINK<br/>
+S pozdravom,<br/>
 SITEUSERNAME";
 
 $locale['u153'] = "Aktivačný e-mail sa nepodarilo odoslať.";
@@ -168,13 +168,13 @@ $locale['u195'] = "Captcha kód nemôže byť prázdny.";
 $locale['u200'] = "Overovací email bude odoslaný na vašu novú emailovú adresu (%s). Prosím, skontrolujte si e-mail.";
 $locale['u201'] = "Vaša e-mailová adresa sa zmení, keď kliknete na odkaz v e-maile.";
 $locale['u202'] = "Emailová adresa overená - [SITENAME]";
-$locale['u203'] = "Dobrý deň [USER_NAME],\n
-Niekto nastavil túto e-mailovú adresu vo vašom účte na našich stránkach.\n
-Ak naozaj chcete zmeniť svoju emailovú adresu, kliknite na nasledujúci odkaz:\n
-[EMAIL_VERIFY_LINK]\n
-Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.\n
+$locale['u203'] = "Dobrý deň [USER_NAME],<br/>
+Niekto nastavil túto e-mailovú adresu vo vašom účte na našich stránkach.<br/>
+Ak naozaj chcete zmeniť svoju emailovú adresu, kliknite na nasledujúci odkaz:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.<br/>
 S pozdravom,
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]<br/>
 [SITENAME]";
 
 $locale['u210'] = "Reputácia";

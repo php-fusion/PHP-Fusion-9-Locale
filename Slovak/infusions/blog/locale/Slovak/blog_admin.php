@@ -108,7 +108,7 @@ $locale['blog_0561'] = "Táto kategória už existuje.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Zadajte predmet";
 $locale['blog_0451'] = "Odstrániť tento blog?";
-$locale['blog_0452'] = "%s sú zakázané pre všetky položky.<br/>\rToto nastavenie bude mať vplyv iba ak budú znova povolené.";
+$locale['blog_0452'] = "%s sú zakázané pre všetky položky.<br/>Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
 $locale['blog_0456'] = 'V tejto kategórii nie je žiadny blog.';
 $locale['blog_0457'] = "Zadajte kľúčové slová";
 $locale['blog_0461'] = 'Neboli definované žiadne kategórie blogov.';

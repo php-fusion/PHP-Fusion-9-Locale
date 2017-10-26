@@ -16,8 +16,8 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['validate'] = "Prosím, skontrolujte a opätovne potvrďte pole.";
-$locale['error_request'] = "Pri spracovaní vašej žiadosti sa vyskytla chyba"; // to be moved
-$locale['regex_error'] = "Prosím, skontrolujte pole %s a znovu ho potvrďte"; // to be moved
+$locale['error_request'] = "Pri spracovaní vašej žiadosti sa vyskytla chyba";
+$locale['regex_error'] = "Prosím, skontrolujte pole %s a znovu ho potvrďte";
 // Text fields errors
 $locale['error_input_username'] = "Zadajte platné užívateľské meno";
 $locale['error_input_default'] = "Prosím, vyplňte toto pole";
@@ -29,8 +29,8 @@ $locale['error_input_regex'] = "Prosím, zadajte platný vzor";
 $locale['error_input_safemode'] = "Prosím, vyplňte toto pole správne";
 $locale['error_input_check'] = "Prosím, vyplňte správnu hodnotu poľa";
 $locale['df_error_text'] = "%s má chybu a vyžaduje vašu pozornosť.";
-$locale['error_invalid_theme'] = "Prosím, vyberte platnú tému"; // to be moved
-$locale['error_input_checkbox'] = "Prosím, začiarknite toto políčko"; // to be moved
+$locale['error_invalid_theme'] = "Prosím, vyberte platnú tému";
+$locale['error_input_checkbox'] = "Prosím, začiarknite toto políčko";
 $locale['error_input_file'] = "Prosím, vyberte platný súbor";
 $locale['error_secure_file'] = "Nahraný súbor bol odmietnutý z dôvodu možnosti škodlivého zaťaženia.";
 // Admin Login
