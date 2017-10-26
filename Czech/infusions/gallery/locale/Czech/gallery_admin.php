@@ -68,8 +68,8 @@ $locale['gallery_0100'] = "Odesílání fotografií";
 $locale['gallery_0101'] = "Děkujeme, že jste odeslali fotografii";
 $locale['gallery_0102'] = "Odeslat další fotku";
 $locale['gallery_0107'] = "Použijte tento formulář k odeslání fotografie. Váš příspěvek bude kontrolován
-administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Fotografie
-by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
+<br/>administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Fotografie
+<br/>by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
 $locale['gallery_0111'] = "Odeslat fotografii";
 $locale['gallery_0112'] = "Je nám líto, momentálně na tomto webu nepřijímáme žádnou fotografii.";
 $locale['gallery_0113'] = "Návrat do [SITENAME]";

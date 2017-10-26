@@ -39,10 +39,10 @@ $locale['PL_410'] = "Typ trvalého odkazu %u:";
 $locale['PL_411'] = "Chyba";
 $locale['PL_412'] = "Podívejte se na soubory %s!";
 $locale['PL_413'] = "Uložit";
-$locale['PL_414'] = "UPOZORNĚNÍ: Údaje uživatelských aliasů budou trvale smazány!\n Opravdu chcete zakázat tento odkaz?";
-$locale['PL_415'] = "Permalink Pravidla přeměňují adresy URL různých webů na adresy URL vhodné pro vyhledávače s možnostmi přizpůsobení struktury adres URL pro vaše stránky.\n
-    Pokud váš server podporuje mod_rewrite, můžete zapnout službu Permalinks na kartě Nastavení. Aktivujete různá hesla, která se nacházejí na kartě Zakázáno. Pravidla můžete upravovat tak, aby dále přizpůsobovala URL vašim preferencím přímo v každém modulu Permalink.
-    Vezměte prosím na vědomí, že mod_rewrite nebo jeho ekvivalent je vyžadován, aby fungovaly pravidla Permalinku.";
+$locale['PL_414'] = "UPOZORNĚNÍ: Údaje uživatelských aliasů budou trvale smazány!<br/>Opravdu chcete zakázat tento odkaz?";
+$locale['PL_415'] = "Permalink Pravidla přeměňují adresy URL různých webů na adresy URL vhodné pro vyhledávače s možnostmi přizpůsobení struktury adres URL pro vaše stránky.<br/>
+                  Pokud váš server podporuje mod_rewrite, můžete zapnout službu Permalinks na kartě Nastavení. Aktivujete různá hesla, která se nacházejí na kartě Zakázáno. Pravidla můžete upravovat tak, aby dále přizpůsobovala URL vašim preferencím přímo v každém modulu Permalink.
+                  Vezměte prosím na vědomí, že mod_rewrite nebo jeho ekvivalent je vyžadován, aby fungovaly pravidla Permalinku.";
 
 // Admin Messages
 $locale['PL_420'] = "Vyskytla se chyba.";

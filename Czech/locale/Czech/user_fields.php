@@ -114,21 +114,21 @@ $locale['u144'] = "Nové heslo administrátora";
 $locale['u144a'] = "Aktuální heslo správce";
 $locale['u145'] = "Potvrzení hesla administrátora";
 $locale['u146'] = "nemůže být stejná jako vaše aktuální";
-$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>\rPovolené symboly jsou a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Heslo musí mít délku mezi 8 a 64 znaky.<br/>Povolené symboly jsou a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "Nové přihlašovací hesla nejsou totožné.";
 $locale['u148a'] = "Nové hesla správce nejsou totožné.";
 $locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";
 $locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
-$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.<br/>\rNeníte heslo administrátora bez správného přihlašovacího hesla.";
+$locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.<br/>Neníte heslo administrátora bez správného přihlašovacího hesla.";
 // Aktivace e-mailu
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
-$locale['u152'] = "Dobrý den, USER_NAME, \n\r
-Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje: \n\r
-Uživatelské jméno: USER_NAME \n\r
-Heslo: USER_PASSWORD \n\r
-Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK \n \n\r
-S pozdravem, \n\r
+$locale['u152'] = "Dobrý den, USER_NAME,<br/>
+Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>
+Uživatelské jméno: USER_NAME<br/>
+Heslo: USER_PASSWORD<br/>
+Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK<br/>
+S pozdravem,<br/>
 SITEUSERNAME ";
 
 $locale['u153'] = "Aktivační e-mail nelze odeslat.";
@@ -170,12 +170,12 @@ $locale['u195'] = "Captcha kód nemůže zůstat prázdný.";
 $locale['u200'] = "Ověřený e-mail byl odeslán na vaši novou e-mailovou adresu (%s). Zkontrolujte prosím svůj e-mail.";
 $locale['u201'] = "Vaše e-mailová adresa se změní po kliknutí na odkaz v e-mailu.";
 $locale['u202'] = "Kontrola e-mailové adresy - [SITENAME]";
-$locale['u203'] = "Dobrý den, [USER_NAME],\n
-Někdo nastavil tuto e-mailovou adresu ve svém účtu na našich stránkách.\n
-Pokud opravdu chcete změnit svou e-mailovou adresu, klikněte na následující odkaz:\n
-[EMAIL_VERIFY_LINK]\n
-Poznámka: Pro pokračování musíte být přihlášeni\n
+$locale['u203'] = "Dobrý den, [USER_NAME],<br/>
+Někdo nastavil tuto e-mailovou adresu ve svém účtu na našich stránkách.<br/>
+Pokud opravdu chcete změnit svou e-mailovou adresu, klikněte na následující odkaz:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Poznámka: Pro pokračování musíte být přihlášeni<br/>
 S pozdravem
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]<br/>
 [SITENAME]";
 $locale['u210'] = "Reputace";
