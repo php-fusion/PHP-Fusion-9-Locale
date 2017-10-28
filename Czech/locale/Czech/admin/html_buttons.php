@@ -34,7 +34,7 @@ $locale['html_014'] = "Malý 2";
 $locale['html_015'] = "Alt";
 $locale['html_016'] = "Přerušení stránky";
 $locale['html_017'] = "Barva fontu";
-$locale['html_018'] = "Odstavec";
+$locale['html_018'] = "Paragraf";
 $locale['html_019'] = "Nadpisy";
 
 $locale['texts'] = "Text";

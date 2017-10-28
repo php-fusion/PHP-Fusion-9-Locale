@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['page_0100'] = "Stránka";
+$locale['page_0100'] = "Vlastní stránka";
 $locale['page_0101'] = "Název stránky";
 $locale['page_0102'] = "Viditelnost";
 $locale['page_0103'] = "Jazyk";
@@ -42,7 +42,7 @@ $locale['page_0203'] = "Vizuální skladatel stránky";
 $locale['page_0204'] = "Obsah stránky";
 $locale['page_0205'] = "Aktuální stránky";
 $locale['page_0300'] = "Název stránky:";
-$locale['page_0301'] = "Klíčová slova pro stránku meta (Oddělte všechna klíčová slova pomocí klávesy Enter)";
+$locale['page_0301'] = "Klíčová slova pro stránku (Oddělte všechna klíčová slova pomocí klávesy Enter)";
 $locale['page_0302'] = "Povolené jazyky";
 $locale['page_0303'] = "Jazyk této stránky";
 $locale['page_0304'] = "Publikace stránky";

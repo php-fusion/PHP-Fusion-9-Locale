@@ -194,97 +194,97 @@ $locale['global_090'] = "Předchozí";
 $locale['global_091'] = "Další";
 $locale['global_092'] = "Strana ";
 $locale['global_093'] = " z ";
-$locale['global_094'] = " mimo ";
+$locale['global_094'] = " z celkových ";
 // Host, menu
-$locale['global_100'] = "Přihlásit se";
-$locale['global_101'] = "Přihlašovací ID";
+$locale['global_100'] = "Přihlášení";
+$locale['global_101'] = "Jméno";
 $locale['global_101a'] = "Zadejte uživatelské jméno";
 $locale['global_101b'] = "Zadejte email";
 $locale['global_101c'] = "Zadejte e-mail nebo uživatelské jméno";
 $locale['global_102'] = "Heslo";
 $locale['global_103'] = "Zůstat přihlášen";
 $locale['global_104'] = "Přihlásit se";
-$locale['global_105'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] zaregistrovat se.";
+$locale['global_105'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] a zaregistrujte se.";
 $locale['global_106'] = "[LINK]Zapomenuté heslo?[/LINK]";
-$locale['global_107'] = "Registrovat";
+$locale['global_107'] = "Registrace";
 $locale['global_108'] = "Ztracené heslo";
 $locale['global_109'] = "Přihlásit se";
 // Člen menu
-$locale['global_120'] = "Přizpůsobte si stránku profilu";
+$locale['global_120'] = "Upravit profil";
 $locale['global_121'] = "Soukromé zprávy";
 $locale['global_122'] = "Seznam členů";
 $locale['global_123'] = "Administrace webu";
 $locale['global_124'] = "Odhlásit se";
-$locale['global_125'] = "Ty máš %u nový ";
-$locale['global_126'] = "zpráva";
+$locale['global_125'] = "Máte %u novou/é ";
+$locale['global_126'] = "zprávu";
 $locale['global_127'] = "zprávy";
-$locale['global_128'] = "podáni";
-$locale['global_129'] = "podání";
+$locale['global_128'] = "příspěvek ke schválení";
+$locale['global_129'] = "příspěvky ke schválení";
 // Uživatel, menu
-$locale['UM060'] = "Přihlášení";
+$locale['UM060'] = "Přihlásit se";
 $locale['UM061'] = "Uživatelské jméno";
 $locale['UM061a'] = "E-mail";
 $locale['UM061b'] = "Uživatelské jméno nebo email";
 $locale['UM062'] = "Heslo";
 $locale['UM063'] = "Zapamatovat si mě na tomto počítači";
-$locale['UM064'] = "Přihlášení";
-$locale['UM065'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] zaregistrovat se.";
-$locale['UM066'] = "Zapomněli jste heslo?<br/>[LINK]Požádejte o nový[/LINK].";
-$locale['UM067'] = "(Nedoporučuje se na veřejném nebo sdíleném počítači)";
+$locale['UM064'] = "Přihlásit se";
+$locale['UM065'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] a zaregistrujte se.";
+$locale['UM066'] = "Zapomněli jste heslo?<br/>[LINK]Požádat o nové[/LINK].";
+$locale['UM067'] = "(nedoporučuje se na veřejném nebo sdíleném počítači)";
 $locale['UM080'] = "Upravit profil";
 $locale['UM081'] = "Soukromé zprávy";
 $locale['UM082'] = "Seznam členů";
 $locale['UM083'] = "Administrace webu";
 $locale['UM084'] = "Odhlásit se";
-$locale['UM085'] = "Ty máš %u nový ";
-$locale['UM086'] = "zpráva";
+$locale['UM085'] = "Máte %u novou/é";
+$locale['UM086'] = "zprávu";
 $locale['UM087'] = "zprávy";
 $locale['UM088'] = "Moje sledovaná vlákna";
 // Podání (news, link, article)
 $locale['UM089'] = "Přidat...";
-$locale['UM090'] = "Odeslat novinku";
-$locale['UM091'] = "Odeslat odkaz";
-$locale['UM092'] = "Odeslat článek";
-$locale['UM093'] = "Odeslat fotku";
-$locale['UM094'] = "Odeslat stahování";
-$locale['UM095'] = "Odeslat blog";
-$locale['UM102'] = "Odeslat FAQ";
+$locale['UM090'] = "Přidat novinku";
+$locale['UM091'] = "Přidat odkaz";
+$locale['UM092'] = "Přidat článek";
+$locale['UM093'] = "Přidat fotku";
+$locale['UM094'] = "Přidat stahování";
+$locale['UM095'] = "Přidat blog";
+$locale['UM102'] = "Přidat FAQ";
 // Uživatelský panel
-$locale['UM096'] = "Vítejte: ";
+$locale['UM096'] = "Vítej ";
 $locale['UM097'] = "Osobní menu";
 $locale['UM101'] = "Přepnout jazyk";
 // Soukromé zprávy, měřiče
-$locale['UM098'] = "PM Doručená pošta :";
-$locale['UM099'] = "PM Odeslaná pošta :";
-$locale['UM100'] = "PM Archiv :";
+$locale['UM098'] = "Doručená pošta: ";
+$locale['UM099'] = "Odeslaná pošta: ";
+$locale['UM100'] = "Archiv: ";
 // Klíčová slova a meta tagy
 $locale['tags'] = "Tagy";
 // Captcha
 $locale['global_150'] = "Ověřovací kód:";
 $locale['global_151'] = "Zadejte ověřovací kód:";
 // Patička, podval, počítadlo návštěv
-$locale['global_170'] = "návštěvy";
-$locale['global_171'] = "návštěv";
-$locale['global_172'] = "Doba vykreslování: %s sekund";
+$locale['global_170'] = "unikátní návštěvy";
+$locale['global_171'] = "unikátních návštěv";
+$locale['global_172'] = "Vygenerované za: %s sekund";
 $locale['global_173'] = "Dotazy";
 $locale['global_174'] = "Použitá paměť";
-$locale['global_175'] = "Průměrný: %s sekund";
+$locale['global_175'] = "Průměrně za: %s sekund";
 $locale['global_176'] = "Zásady ochrany osobních údajů";
 // Admin Navigation
 $locale['global_180'] = "Administrace";
-$locale['global_181'] = "Vraťte se na stránku";
-$locale['global_182'] = "Heslo správce není zadáno nebo je nesprávné.";
+$locale['global_181'] = "Zpět na stránku";
+$locale['global_182'] = "Heslo správce nebylo zadáno nebo je nesprávné.";
 // Smíšené nastavení, údržba
 $locale['global_190'] = "Režim údržby byl aktivován";
 $locale['global_191'] = "Vaše IP adresa je v současné době na černé listině.";
-$locale['global_192'] = "Platnost přihlašovací relace vypršela. Chcete-li pokračovat, přihlaste se znovu.";
-$locale['global_193'] = "Nelze nastavit soubor cookie pro dokumenty. Ujistěte se, že máte k dispozici cookies, abyste se mohli správně přihlásit.";
+$locale['global_192'] = "Platnost vaší přihlašovací relace vypršela. Chcete-li pokračovat, přihlaste se znovu.";
+$locale['global_193'] = "Nelze nastavit soubor cookie. Ujistěte se, že máte povoleny soubory cookie, abyste mohli správně přihlásit.";
 $locale['global_194'] = "Tento účet je momentálně pozastaven.";
 $locale['global_195'] = "Tento účet nebyl aktivován.";
 $locale['global_196'] = "Neplatné uživatelské jméno či heslo.";
-$locale['global_197'] = "Prosím, počkejte, než vás převezmeme ...<br/><br/>[ [LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK] ]";
-$locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR DETEKOVÁN, PROSÍM VYMAZEJTE SOUBOR INSTALL.PHP";
-$locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, klepněte na tlačítko OK [LINK]Upravit profil[/LINK] nastavit.";
+$locale['global_197'] = "Počkejte prosím, přihlašování může chvíli trvat ...<br/><br/>[LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK]";
+$locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR BOL DETEKOVÁN, PROSÍM VYMAŽTE INSTALL.PHP.";
+$locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, klepněte na [LINK]Upravit profil[/LINK] a nastavte ho.";
 //Tituly
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
@@ -292,8 +292,8 @@ $locale['global_202'] = " - Hledat";
 $locale['global_203'] = " - FAQ";
 $locale['global_204'] = " - Fórum";
 //Vzhledy, design
-$locale['global_210'] = "Přeskočit na obsah";
-$locale['global_300'] = "Žádná téma nebyla nalezena";
+$locale['global_210'] = "Přejít na obsah";
+$locale['global_300'] = "žádná téma nebyla nalezena";
 $locale['global_301'] = "Je nám líto, ale tuto stránku nelze zobrazit. Vzhledem k některým okolnostem nelze nalézt téma webu.
   Pokud jste správcem webu, použijte prosím FTP klienta pro nahrání libovolného motivu určeného pro PHP-Fusion 9 do složky témat.
   Po nahrání zkontrolujte nastavení tématu a zjistěte, zda je vybrané téma správně nahráno do vašeho adresáře témat.
@@ -409,7 +409,7 @@ $locale['clear'] = "Vyčistit";
 $locale['move'] = "Přesunout";
 $locale['move_up'] = "Přesunout nahoru";
 $locale['move_down'] = "Přesunout dólu";
-$locale['load_more'] = "Vložte více položek";
+$locale['load_more'] = "Vložit více položek";
 $locale['load_end'] = "Načíst od začátku";
 
 // Akce
@@ -418,7 +418,7 @@ $locale['save'] = "Uložit";
 $locale['save_changes'] = "Uložit změny";
 $locale['save_and_close'] = "Uložit a Zavřít";
 $locale['confirm'] = "Potvrdit";
-$locale['update'] = "Aktualizace";
+$locale['update'] = "Aktualizovat";
 $locale['updated'] = "Aktualizováno";
 $locale['remove'] = "Odstranit";
 $locale['delete'] = "Vymazat";
@@ -426,7 +426,7 @@ $locale['search'] = "Hledat";
 $locale['help'] = "Pomoc";
 $locale['register'] = "Registrovat";
 $locale['ban'] = "Ban";
-$locale['reactivate'] = "Reaktivujte";
+$locale['reactivate'] = "Reaktivovat";
 $locale['user'] = "Uživatel";
 $locale['promote'] = "Podporovat";
 $locale['show'] = "Zobrazit";

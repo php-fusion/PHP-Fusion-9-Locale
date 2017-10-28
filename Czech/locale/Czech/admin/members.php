@@ -19,7 +19,7 @@ $locale['ME_400'] = 'Správa uživatelů';
 $locale['ME_401'] = 'Hledat uživatele...';
 $locale['ME_402'] = 'Filtrovat podle';
 $locale['ME_403'] = 'Přidat nového uživatele';
-$locale['ME_404'] = 'Použijte filtr';
+$locale['ME_404'] = 'Použít filtr';
 $locale['ME_405'] = 'Žádný uživatel nebyl nalezen podle kritérií vyhledávání';
 //
 $locale['ME_407'] = 'Zobrazení %s - %d z %d nalezených záznamů';
