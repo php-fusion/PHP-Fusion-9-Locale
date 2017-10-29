@@ -39,9 +39,9 @@ $locale['PL_410'] = "Type af permalink %u";
 $locale['PL_411'] = "Fejl";
 $locale['PL_412'] = "Kontroller de filer, der som permalink har typen %s!";
 $locale['PL_413'] = "Gem";
-$locale['PL_414'] = "ADVARSEL: Dette permalink og alle CA-data vil blive slettet!\\nEr du sikker på at du vil slette linket?";
-$locale['PL_415'] = "<b>Permalinks</b> fungerer således, at funktionen ændrer adresserne på siden til adresser, der er mere anvendelige af søgemaskiner der gør det muligt at tilpasse adressestrukturen på din side.\n
-Du kan slå Permalinks til under sideopsætningen, hvis din server understøtter mod_rewrite. Du aktiverer de forskellige som kan ses under sektionen Slået Fra. Du kan også redigere reglerne yderligere for bedre at tilpasse adresserne direkte i hvert Permalinkmodul.n\n
+$locale['PL_414'] = "ADVARSEL: Dette permalink og alle CA-data vil blive slettet!<br/>Er du sikker på at du vil slette linket?";
+$locale['PL_415'] = "<b>Permalinks</b> fungerer således, at funktionen ændrer adresserne på siden til adresser, der er mere anvendelige af søgemaskiner der gør det muligt at tilpasse adressestrukturen på din side.<br/>
+Du kan slå Permalinks til under sideopsætningen, hvis din server understøtter mod_rewrite. Du aktiverer de forskellige som kan ses under sektionen Slået Fra. Du kan også redigere reglerne yderligere for bedre at tilpasse adresserne direkte i hvert Permalinkmodul.<br/>
 Bemærk venligst at mod_rewrite eller dens tilsvarende er påkrævet for at permalinks skal virke.";
 
 // Admin Messages

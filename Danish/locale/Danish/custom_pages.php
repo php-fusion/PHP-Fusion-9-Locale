@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/custom_pages.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['page_400'] = "Adgang nægtet!\nDu har ikke adgang til at se denne side.";
+$locale['page_400'] = "Adgang nægtet!<br/>Du har ikke adgang til at se denne side.";
 $locale['page_401'] = "Intern fejl";
 $locale['page_402'] = "Ude af stand til at hente sidens indhold.";
 $locale['page_403'] = "Tilbage";

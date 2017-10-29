@@ -57,9 +57,9 @@ $locale['ME_451'] = "%s\'s profil";
 $locale['ME_452'] = "Rediger %s\s profil";
 $locale['ME_453'] = "Slet brugeren %s";
 $locale['ME_454'] = "Advarsel!";
-$locale['ME_455'] = "Du er ved at slette brugeren %s!\n\r\n\rAlt indhold skabt af denne bruger på denne side vil blive slettet hvis du fortsætter.\n\r
-Med mindre der er tale om for eksempel en spammer, anbefaler vi dig at udelukke, suspendere, fortryde sletningen eller anonymisere denne bruger.\n\r
-Er du sikker på, at du stadigvæk ønsker at slette brugeren?\n\r"; 
+$locale['ME_455'] = "Du er ved at slette brugeren %s!<br/><br/>Alt indhold skabt af denne bruger på denne side vil blive slettet hvis du fortsætter.<br/>
+Med mindre der er tale om for eksempel en spammer, anbefaler vi dig at udelukke, suspendere, fortryde sletningen eller anonymisere denne bruger.<br/>
+Er du sikker på, at du stadigvæk ønsker at slette brugeren?<br/>"; 
 $locale['ME_456'] = "Slet bruger";
 
 $locale['ME_460'] = "Der er ingen brugere, som kan deaktiveres";

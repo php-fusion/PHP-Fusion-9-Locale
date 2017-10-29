@@ -22,18 +22,14 @@ $locale['403'] = "Tilbage til hjemmesiden";
 $locale['404'] = "Den mailadresse, du opgav, kunne ikke findes.";
 $locale['405'] = "Den mailadresse, du opgav, er ikke gyldig.";
 $locale['406'] = "Venligst prøv igen.";
-$locale['407'] = "Indtast venligst den mailadresse din konto er registreret med i feltet ovenfor.\nEt nyt kodeord vil blive oprettet og sendt til den adresse.";
+$locale['407'] = "Indtast venligst den mailadresse din konto er registreret med i feltet ovenfor.<br/>Et nyt kodeord vil blive oprettet og sendt til den adresse.";
 $locale['408'] = "Send kodeord";
 $locale['409'] = "Nyt kodeord til ";
-$locale['410'] = "Hej [USER_NAME],\nDu eller en anden har bedt om at få et nyt kodeord til din konto hos ".$settings['sitename']." tilsendt.\n
-For at skifte dit kodeord bedes du klikke på følgende link:\n
-[NEW_PASS_LINK]\n
-Venlig hilsen
-".$settings['siteusername'];
-$locale['411'] = "Hej [USER_NAME],\n
-Dit nye kodeord til ".$settings['sitename']." er:\n
-[NEW_PASS]\n
-Venligst,
-".$settings['siteusername'];
+$locale['410'] = "Hej [USER_NAME],<br/>Du eller en anden har bedt om at få et nyt kodeord til din konto hos [SITENAME] tilsendt.<br/>
+For at skifte dit kodeord bedes du klikke på følgende link:<br/>
+[NEW_PASS_LINK]<br/>Venlig hilsen<br/>[SITEUSERNAME]";
+$locale['411'] = "Hej [USER_NAME],<br/>
+Dit nye kodeord til ".$settings['sitename']." er:<br/>
+[NEW_PASS]<br/>Venligst,<br/>[SITEUSERNAME]";
 $locale['412'] = "Der opstod en fejl. Prøv igen senere.";
 $locale['413'] = "Indtast venligst din mailadresse";

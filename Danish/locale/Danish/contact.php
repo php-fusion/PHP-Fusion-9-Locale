@@ -17,8 +17,7 @@
 +--------------------------------------------------------*/
 // Contact Form
 $locale['400'] = "Kontakt";
-$locale['401'] = "Der er flere måder, du kan kontakte siden på. Du kan sende en mail direkte til adressen 
-[SITE_EMAIL]. Hvis du er oprettet som bruger, kan du sende en privat besked via [PM_LINK].
+$locale['401'] = "Der er flere måder, du kan kontakte siden på. Du kan sende en mail direkte til adressen [SITE_EMAIL]. Hvis du er oprettet som bruger, kan du sende en privat besked via [PM_LINK].
 Alternativt kan du udfylde formularen på denne side for at sende os en mail.";
 $locale['402'] = "Navn";
 $locale['403'] = "Mailadresse";
