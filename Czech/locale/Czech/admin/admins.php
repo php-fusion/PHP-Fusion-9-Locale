@@ -16,45 +16,46 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Zprávy administrátorů
-$locale['400'] = "Administrátor byl přidán";
-$locale['401'] = "Administrátor byl aktualizován";
-$locale['402'] = "Administrátor byl odstraněn";
+$locale['ADM_400'] = "Administrátor byl přidán";
+$locale['ADM_401'] = "Administrátor byl aktualizován";
+$locale['ADM_402'] = "Administrátor byl odstraněn";
 // Hledat / Přidat administrátora
-$locale['410'] = "Přidat nového administrátora";
-$locale['411'] = "Najít uživatele, které chcete přidat:";
+$locale['ADM_410'] = "Přidat nového administrátora";
+$locale['ADM_411'] = "Najít uživatele, které chcete přidat:";
 $locale['412'] = "ID člena";
-$locale['413'] = "Jméno";
+$locale['ADM_413'] = "Jméno";
 $locale['414'] = "Hledat";
-$locale['415'] = "Přiřadit všechny práva";
-$locale['416'] = "Vytvořit hlavního administrátora";
+$locale['ADM_415'] = "Přiřadit všechny práva";
+$locale['ADM_416'] = "Vytvořit hlavního administrátora";
 $locale['417'] = "Přidat administrátora";
-$locale['418'] = "Nenašel se žádný uživatel.";
-$locale['419'] = "Hledat znovu";
+$locale['ADM_418'] = "Nenašel se žádný uživatel.";
+$locale['ADM_419'] = "Hledat znovu";
 // Aktuální administrátoři
-$locale['420'] = "Administrátoři";
-$locale['421'] = "Jméno";
-$locale['422'] = "Funkce";
-$locale['423'] = "Možnosti";
+$locale['ADM_420'] = "Administrátoři";
+$locale['ADM_421'] = "Jméno";
+$locale['ADM_422'] = "Funkce";
+$locale['ADM_423'] = "Možnosti";
 $locale['424'] = "Hlavní admin";
-$locale['425'] = "Nebyla přidělená žádná práva";
+$locale['ADM_425'] = "Nebyla přidělená žádná práva";
 $locale['426'] = "Upravit";
 $locale['427'] = "Odstránit";
 // Upravit práva administrátora
-$locale['440'] = "Upravit práva administrátora";
-$locale['441'] = "Administrace obsahu";
-$locale['442'] = "Administrace užívatelů";
-$locale['443'] = "Administráce systému";
-$locale['444'] = "Modifikace";
-$locale['445'] = "Označit vše";
+$locale['ADM_440'] = "Upravit práva administrátora";
+$locale['ADM_441'] = "Administrace obsahu";
+$locale['ADM_442'] = "Administrace užívatelů";
+$locale['ADM_443'] = "Administráce systému";
+$locale['ADM_444'] = "Modifikace";
+$locale['ADM_445'] = "Označit vše";
 $locale['446'] = "Odznačit vše";
 $locale['447'] = "Admin heslo:";
-$locale['448'] = "Uložit administrátorská práva";
-$locale['449'] = "Nastavení";
-$locale['450'] = "Ověřit bezpečnost";
+$locale['ADM_448'] = "Uložit administrátorská práva";
+$locale['ADM_449'] = "Nastavení";
+$locale['ADM_450'] = "Ověřit bezpečnost";
 // Popup Chyba / Výstražné zprávy
 $locale['460'] = "Odstranit tohoto administrátora?";
-$locale['461'] = "Přidat administrátora?";
-$locale['462'] = "Poskytnutí těchto administrátorských práv uživateli představuje potenciální bezpečnostní riziko!";
+$locale['ADM_461'] = "Přidat administrátora?";
+$locale['ADM_462'] = "Poskytnutí těchto administrátorských práv uživateli představuje potenciální bezpečnostní riziko!";
+$locale['ADM_463'] = "Není vybrána žádná akce!";
 // Odstranit potvrzení admin
 $locale['470'] = "Vymazat administrátora";
 $locale['471'] = "Za účelem odstránění tohoto administrátora, prosím zadajte vaše admin heslo:";
