@@ -18,3 +18,4 @@ $locale['UL_016'] = "Régebbi bejegyzések törlése:";
 $locale['UL_017'] = "Nap";
 $locale['UL_018'] = "Növekvő";
 $locale['UL_019'] = "Csökkenő";
+$locale['UL_020'] = "Összes kijelölése";
