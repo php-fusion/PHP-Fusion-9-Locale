@@ -34,3 +34,4 @@ $locale['UL_016'] = "Odstrániť záznamy staršie ako:";
 $locale['UL_017'] = "dní";
 $locale['UL_018'] = "Zostupne";
 $locale['UL_019'] = "Vzostupne";
+$locale['UL_020'] = "Vybrať všetko";
