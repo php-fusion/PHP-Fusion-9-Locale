@@ -1,44 +1,45 @@
 <?php
 // Administrators messages
-$locale['400'] = "Adminisztrátor hozzáadva";
-$locale['401'] = "Adminisztrátor módosítva";
-$locale['402'] = "Adminisztrátor törölve";
+$locale['ADM_400'] = "Adminisztrátor hozzáadva";
+$locale['ADM_401'] = "Adminisztrátor módosítva";
+$locale['ADM_402'] = "Adminisztrátor törölve";
 // Search/Add Administrator
-$locale['410'] = "Adminisztrátor hozzáadása";
-$locale['411'] = "Hozzáadáshoz keresd meg a felhasználót az alábbi keresővel:";
+$locale['ADM_410'] = "Adminisztrátor hozzáadása";
+$locale['ADM_411'] = "Hozzáadáshoz keresd meg a felhasználót az alábbi keresővel:";
 $locale['412'] = "Azonosító (ID)";
-$locale['413'] = "Felhasználónév";
+$locale['ADM_413'] = "Felhasználónév";
 $locale['414'] = "Keresés";
-$locale['415'] = "Összes admin jog megadása";
-$locale['416'] = "Főadminisztrátori jog";
+$locale['ADM_415'] = "Összes admin jog megadása";
+$locale['ADM_416'] = "Főadminisztrátori jog";
 $locale['417'] = "Hozzáadás";
-$locale['418'] = "Nem található ilyen tag.";
-$locale['419'] = "Új keresés";
+$locale['ADM_418'] = "Nem található ilyen tag.";
+$locale['ADM_419'] = "Új keresés";
 // Current Administrators
-$locale['420'] = "Adminisztrátorok";
-$locale['421'] = "Felhasználónév";
-$locale['422'] = "Rang";
-$locale['423'] = "Lehetőségek";
+$locale['ADM_420'] = "Adminisztrátorok";
+$locale['ADM_421'] = "Felhasználónév";
+$locale['ADM_422'] = "Rang";
+$locale['ADM_423'] = "Lehetőségek";
 $locale['424'] = "Elsődleges főadmin";
-$locale['425'] = "Nincs admin joga";
+$locale['ADM_425'] = "Nincs admin joga";
 $locale['426'] = "Szerkesztés";
 $locale['427'] = "Törlés";
 // Edit Admin Rights
-$locale['440'] = "Adminisztrátori jogok";
-$locale['441'] = "Tartalom";
-$locale['442'] = "Felhasználók";
-$locale['443'] = "Rendszer";
-$locale['444'] = "Infusion";
-$locale['445'] = "Összes";
+$locale['ADM_440'] = "Adminisztrátori jogok";
+$locale['ADM_441'] = "Tartalom";
+$locale['ADM_442'] = "Felhasználók";
+$locale['ADM_443'] = "Rendszer";
+$locale['ADM_444'] = "Infusion";
+$locale['ADM_445'] = "Összes";
 $locale['446'] = "Egyik sem";
 $locale['447'] = "Admin jelszó:";
-$locale['448'] = "Admin jogok mentése";
-$locale['449'] = "Beállítások";
-$locale['450'] = "Biztonságosak";
+$locale['ADM_448'] = "Admin jogok mentése";
+$locale['ADM_449'] = "Beállítások";
+$locale['ADM_450'] = "Biztonságosak";
 // Popup Error/Warning Messages
 $locale['460'] = "Biztosan el akarod venni a felhasználó admin jogait?";
-$locale['461'] = "Biztosan hozzá szeretnéd adni ezt az adminisztrátort?";
-$locale['462'] = "Ezek az admin jogok rossz kezekben potenciális biztonsági kockázatot jelentenek!";
+$locale['ADM_461'] = "Biztosan hozzá szeretnéd adni ezt az adminisztrátort?";
+$locale['ADM_462'] = "Ezek az admin jogok rossz kezekben potenciális biztonsági kockázatot jelentenek!";
+$locale['ADM_463'] = "Nincs kiválasztva művelet!";
 // Remove Admin confirmation
 $locale['470'] = "Adminisztrátor törlése";
 $locale['471'] = "Ha törölni szeretnéd az adminisztrátort, add meg az admin jelszavadat:";
