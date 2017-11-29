@@ -18,3 +18,4 @@ $locale['UL_016'] = "Smazat položky starší než:";
 $locale['UL_017'] = "Dny";
 $locale['UL_018'] = "Vzestupně";
 $locale['UL_019'] = "Sestupně";
+$locale['UL_020'] = "Vybrat vše";
