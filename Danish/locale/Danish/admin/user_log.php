@@ -34,3 +34,4 @@ $locale['UL_016'] = "Slet alle records ældre end";
 $locale['UL_017'] = "Dage";
 $locale['UL_018'] = "Stigende";
 $locale['UL_019'] = "Faldende";
+$locale['UL_020'] = "Vælg alt";
