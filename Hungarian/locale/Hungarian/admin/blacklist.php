@@ -21,8 +21,9 @@ $locale['BLS_033'] = "Lehetőségek";
 $locale['BLS_034'] = "IP cím [STRONG]vagy[STRONG]";
 $locale['BLS_035'] = "E-mail";
 $locale['BLS_036'] = "Kitiltás oka";
-$locale['BLS_037'] = "Kitilt";  //444
-$locale['BLS_038'] = "Módosít";     //445
+$locale['BLS_037'] = "Kitilt";
+$locale['BLS_038'] = "Módosít";
+$locale['BLS_039'] = "Összes kijelölése";
 
 $locale['BLS_MS'] = "Egy IP cím megadásával letilthatod az onnan érkező oldallekéréseket.
 Beírhatsz egy teljes IP címet (<em>pl. 123.45.67.89</em>), vagy megadhatsz IP tartományokat is (<em>pl. 123.45.67 vagy 123.45</em>).
