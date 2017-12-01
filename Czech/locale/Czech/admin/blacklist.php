@@ -39,6 +39,7 @@ $locale['BLS_035'] = "Blokované e-mailové adresy";
 $locale['BLS_036'] = "Důvod zablokování";
 $locale['BLS_037'] = "Přidat uživatele na černou listinu";
 $locale['BLS_038'] = "Aktualizovat";
+$locale['BLS_039'] = "Označit vše";
 
 $locale['BLS_MS'] = "Vložením IP adresy zabráníte všem návštěvníkům stránky s touto IP adresou vstup.
 Můžete zadat celou IP adresu, např.: <em>123.45.67.89.</em>, nebo jen část IP, např.: <em>123.45.67</em> nebo <em>123.45</em>.
