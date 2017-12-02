@@ -49,3 +49,4 @@ $locale['apw_426'] = "Ingen kodeord er ændret.";
 $locale['apw_427'] = "Valgmuligheder";
 $locale['apw_428'] = "Ønsker du virkelig at slette denne log?";
 $locale['apw_429'] = "Loggen er slettet";
+$locale['apw_430'] = "Vælg alle";
