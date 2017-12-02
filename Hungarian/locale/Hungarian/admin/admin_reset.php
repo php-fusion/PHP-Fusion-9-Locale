@@ -33,3 +33,4 @@ $locale['apw_426'] = "Nincs Módosított jelszó.";
 $locale['apw_427'] = "Lehetőségek";
 $locale['apw_428'] = "Biztosan Törölni szeretnéd ezt a Bejegyzést?";
 $locale['apw_429'] = "Bejegyzés Törölve.";
+$locale['apw_430'] = "Összes Kijelölése";
