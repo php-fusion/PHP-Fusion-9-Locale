@@ -15,26 +15,31 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['400'] = "Administrace BB kódů";
-$locale['401'] = "Test BB kódu";
+$locale['BBCA_400'] = "BB kódy";
+$locale['BBCA_400a'] = "Administrace BB kódů";
+$locale['BBCA_401'] = "Test BB kódu";
 // Enabled BB Codes
-$locale['402'] = "Povolit BB kódy";
-$locale['403'] = "Název";
-$locale['404'] = "Ikona";
-$locale['405'] = "Popis";
-$locale['406'] = "Použití";
-$locale['407'] = "Seřadit";
-$locale['408'] = "Dólu";
-$locale['409'] = "Nahoru";
-$locale['410'] = "Zakázat";
-$locale['411'] = "Žádné BB kódy nebyly povolené.";
+$locale['BBCA_402'] = "Povolené BB kódy";
+$locale['BBCA_403'] = "Název";
+$locale['BBCA_404'] = "Ikona";
+$locale['BBCA_405'] = "Popis";
+$locale['BBCA_406'] = "Použití";
+$locale['BBCA_407'] = "Seřadit";
+$locale['BBCA_408'] = "Dólu";
+$locale['BBCA_409'] = "Nahoru";
+$locale['BBCA_410'] = "Zakázat";
+$locale['BBCA_411'] = "Žádné BB kódy nebyly povolené.";
 // Disabled BB Codes
-$locale['413'] = "Zakázat BB kódy";
-$locale['414'] = "Povolit";
-$locale['415'] = "Zalomit řádek";
-$locale['416'] = "Žádné BB kódy nebyly zakázané";
+$locale['BBCA_413'] = "Zakázané BB kódy";
+$locale['BBCA_414'] = "Povolit";
+$locale['BBCA_416'] = "Žádné BB kódy nebyly zakázané";
 // Test BB Codes
-$locale['417'] = "Náhled BB kódu";
-$locale['418'] = "Vypnout smajlíky v tomto testu";
-$locale['418a'] = "Testovací zpráva";
-$locale['418b'] = "Zadejte, prosím, zprávu pro testování BB kódů.";
+$locale['BBCA_417'] = "Náhled BB kódu";
+$locale['BBCA_418'] = "Vypnout smajlíky v tomto testu";
+$locale['BBCA_418a'] = "Testovací zpráva";
+$locale['BBCA_418b'] = "Zadejte, prosím, zprávu pro testování BB kódů.";
+// Notices
+$locale['BBCA_430'] = "BB kód byl přesunut nahoru.";
+$locale['BBCA_431'] = "BB kód byl přesunut dolů.";
+$locale['BBCA_432'] = "BB kód byl povolen.";
+$locale['BBCA_433'] = "BB kód byl zakázán.";
