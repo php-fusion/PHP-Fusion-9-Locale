@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/infusions/gallery/locale/Czech/gallery.php
-| Translate: Vícha Květoslav (Kvido), phpfusion.cz, 25.05.2017
+| Filename: infusions/gallery/locale/Czech/gallery.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or

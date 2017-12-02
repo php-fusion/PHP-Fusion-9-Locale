@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/user_fields.php
-| Author: Kvido, phpfusion.cz, 26.05.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-// Položky zobrazené v profilu
+// Items shown in profile
 $locale['u040'] = "Datum přihlášení";
 $locale['u041'] = "Poslední návštěva";
 $locale['u042'] = "Nepřijaté";
@@ -49,7 +49,7 @@ $locale['u070'] = "Ban";
 $locale['u071'] = "Pozastavit";
 $locale['u072'] = "Vymazat";
 $locale['u073'] = "Smazat tohoto uživatele?";
-// Profil a registrace
+// Profile and register
 $locale['u100'] = "Chcete-li změnit heslo nebo e-mailovou adresu, musíte zadat své aktuální heslo.";
 $locale['u101'] = "Registrace";
 $locale['u102'] = "Upravit profil";
@@ -57,7 +57,7 @@ $locale['u103'] = "Profil";
 $locale['u104'] = "Členský profil";
 $locale['u105'] = "Aktualizovat profil";
 
-// Nový UF 1.20
+// New UF 1.20
 $locale['uf_100'] = "Obecná nastavení účtu";
 $locale['uf_101'] = "Nastavení uživatelských informací";
 $locale['uf_102'] = "Nastavení uživatelských avatarů";
@@ -76,8 +76,7 @@ $locale['u113'] = "Uživatelské jméno";
 $locale['u114'] = "Typ uživatele";
 $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistují žádní členové skupiny.";
-
-// Uživatelské jméno a e-mail
+// User name and email
 $locale['u119'] = "Uživatelské jméno obsahuje.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené uživatelské jméno již přijal jiný uživatel.";
@@ -89,7 +88,7 @@ $locale['u126'] = "E-mailová adresa nemůže být prázdná.";
 $locale['u127'] = "Uživatelské jméno";
 $locale['u128'] = "Emailová adresa";
 $locale['u129'] = "Základní informace o uživateli";
-// Hesla
+// Passwords
 $locale['u130'] = "Admin heslo";
 $locale['u131'] = "Admin heslo";
 $locale['u132'] = "Přihlašovací hesla";
@@ -100,7 +99,6 @@ $locale['u134b'] = "Zopakujte heslo";
 $locale['u135a'] = "Aktuální heslo";
 $locale['u135b'] = "Nastavit nové heslo";
 $locale['u135c'] = "Opakujte nové heslo";
-
 $locale['u136'] = "Heslo nemůže zůstat prázdné.";
 $locale['u137'] = "Vaše současné heslo správce nemůže zůstat prázdné.";
 $locale['u138'] = "Vaše aktuální přihlašovací heslo nemůže být prázdné.";
@@ -120,7 +118,7 @@ $locale['u148a'] = "Nové hesla správce nejsou totožné.";
 $locale['u149'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.";
 $locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
 $locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo je neplatné.<br/>Neníte heslo administrátora bez správného přihlašovacího hesla.";
-// Aktivace e-mailu
+// Email activation
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
 $locale['u152'] = "Dobrý den, USER_NAME,<br/>
@@ -135,7 +133,7 @@ $locale['u153'] = "Aktivační e-mail nelze odeslat.";
 $locale['u154'] = "Prosím, [LINK] kontaktujte [/LINK] administrátora webu.";
 $locale['u155'] = "Aktivovat účet";
 $locale['u156'] = "Pro změnu e-mailu zadejte prosím aktuální heslo.";
-// Úspěch / selhání
+// Success / Fail
 $locale['u160'] = "Registrace dokončena";
 $locale['u161'] = "Nyní se můžete přihlásit.";
 $locale['u162'] = "Administrátor Vaše Přihlášení co nejdříve aktivuje.";
@@ -157,7 +155,7 @@ $locale['u184'] = "Maximální velikost souboru: %s/Maximální velikost:%ux%u p
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Kliknutím na tlačítko Procházet nahrát obrázek";
 $locale['u187'] = "Odstranit";
-// Captcha a podmínky
+// Captcha and terms
 $locale['u190'] = "Ověřovací kód";
 $locale['u191'] = "Zadejte ověřovací kód";
 $locale['u192'] = "Smluvní podmínky";
@@ -166,7 +164,7 @@ $locale['u193a'] = "Aktualizováno";
 $locale['u193b'] = "Souhlasím";
 $locale['u194'] = "Nesprávný ověřovací kód.";
 $locale['u195'] = "Captcha kód nemůže zůstat prázdný.";
-// Potvrzení změny e-mailu
+// E-mail Change Confirmation
 $locale['u200'] = "Ověřený e-mail byl odeslán na vaši novou e-mailovou adresu (%s). Zkontrolujte prosím svůj e-mail.";
 $locale['u201'] = "Vaše e-mailová adresa se změní po kliknutí na odkaz v e-mailu.";
 $locale['u202'] = "Kontrola e-mailové adresy - [SITENAME]";
@@ -178,4 +176,5 @@ Poznámka: Pro pokračování musíte být přihlášeni<br/>
 S pozdravem
 [SITEUSERNAME]<br/>
 [SITENAME]";
+
 $locale['u210'] = "Reputace";

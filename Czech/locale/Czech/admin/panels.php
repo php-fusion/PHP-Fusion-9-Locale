@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/admin/panels.php
-| Author: Kvido, phpfusion.cz, 10.04.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-// Správa panelů
+// Panel Management
 $locale['400'] = "Panely";
 $locale['401'] = "Název panelu";
 $locale['402'] = "Boční";
@@ -27,7 +27,7 @@ $locale['407'] = "Aktuální panely";
 $locale['408'] = "Přidat panel";
 $locale['409'] = "Upravit panel";
 $locale['410'] = "Můžete přetáhnout panely přes okno panelů pro přepínání pozic nebo zamíchat uspořádání panelů.";
-// Nastavení panelů
+// Panel Settings
 $locale['420'] = "Vlevo";
 $locale['421'] = "Horní střed";
 $locale['422'] = "Vpravo";
@@ -40,7 +40,7 @@ $locale['428a'] = "Uživatel 1";
 $locale['428b'] = "Uživatel 2";
 $locale['428c'] = "Uživatel 3";
 $locale['428d'] = "Uživatel 4";
-// Nastaveni panelu 1
+// Panel Options1
 $locale['430'] = "Přesuňte doleva";
 $locale['431'] = "Přesuňte doprava";
 $locale['432'] = "Přesuňte nahoru";
@@ -58,7 +58,7 @@ $locale['443'] = "Nahóře";
 $locale['444'] = "Dóle";
 $locale['445'] = "Pohybujte nahóru";
 $locale['446'] = "Pohybujte dolů";
-// Přidat/Editovat panel formuláře
+// Add/Edit Panel Form
 $locale['450'] = "Upravit panel";
 $locale['451'] = "Přidat panel";
 $locale['452'] = "Název panelu:";
@@ -80,14 +80,14 @@ $locale['467'] = "Zobrazit pouze na otevírací stránce";
 $locale['468'] = "Typ panelu";
 $locale['469'] = "Žádný";
 $locale['469a'] = "Obsah";
-// Aktualizovat/Přidat nový panel, chyby
+// Update/Add new Panel Errors
 $locale['470'] = "Název panelu není definován";
 $locale['471'] = "Používá se název panelu";
 $locale['472'] = "Obsah panelu není definován";
 $locale['473'] = "Název souboru panelu není definován";
 $locale['474'] = "Heslo administrátora je nesprávné";
 $locale['475'] = "Musí existovat alespoň část v seznamu filtrů pro použití filtru";
-// Aktualizovat/Přidat nový panel, selhání
+// Update/Add new Panel Success/Fail
 $locale['480'] = "Aktualizovat panel";
 $locale['481'] = "Nelze aktualizovat panel";
 $locale['482'] = "Panel byl aktualizován";
@@ -98,7 +98,7 @@ $locale['486'] = "Návrat do správy panelu";
 $locale['487'] = "Vrátit se na administrátorský index";
 $locale['488'] = "Panely objednávky byly aktualizovány.";
 $locale['489'] = "Panely byly smazány.";
-//Vizuální panel
+//Visual Panel
 $locale['600'] = "Rozhraní pro správu panelů";
 $locale['602'] = "Nepoužité panely";
 $locale['603'] = "Použité panely";

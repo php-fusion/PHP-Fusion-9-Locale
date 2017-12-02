@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: featurebox/locale/Czech.php
-| Author: Kvido, phpfusion.cz, 14.05.2017
+| Filename: widgets/featurebox/locale/Czech.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or

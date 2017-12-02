@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/Czech/setup.php
-| Author: Frederick MC Chan (Chan)
-| Translate Czech: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/setup.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -56,7 +55,7 @@ $locale['setup_0119a'] = "Zvažte zvýšení limitu paměti PHP na %memory_minim
 $locale['setup_0119b'] = "Zvyšte limit paměti úpravou memory_limit parameter v souboru ".get_cfg_var('cfg_file_path')." A poté restartujte webový server (nebo se obraťte na správce systému nebo poskytovatele hostingu o pomoc).";
 $locale['setup_0119c'] = "Obraťte se na svého správce systému nebo poskytovatele hostingu o pomoc při zvyšování limitu paměti PHP";
 $locale['setup_stepx'] = "%2\$s";
-// Tlačítka
+// Buttons
 $locale['setup_0120'] = "Dokončit konfiguraci";
 $locale['setup_0121'] = "Uložit a pokračovat";
 $locale['setup_0122'] = "Zkus to znovu";
@@ -76,7 +75,7 @@ $locale['setup_0141'] = "Povolení databáze a ověřený přístup";
 $locale['setup_0142'] = "Byl vytvořen soubor config.php";
 $locale['setup_0143'] = "Zadaná předpona tabulky se již používá a je spuštěna. Instalátor bude pokračovat v aktualizaci rozdílů podle potřeby.";
 $locale['setup_0144'] = "Diagnostika databáze byla dokončena";
-// Krok 1
+// Step 1
 $locale['setup_1000'] = "Zvolte prosím svůj jazyk";
 $locale['setup_1001'] = "Stáhněte si další lokalizace z <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>oficiální PHP-Fusion podpory</strong></a>";
 $locale['setup_1002'] = "Vítejte v režimu obnovení PHP-Fusion 9.0.";
@@ -97,12 +96,12 @@ $locale['setup_1017'] = "Zrušte a ukončit instalační program";
 $locale['setup_1018'] = "Instalaci můžete ukončit hned kliknutím na tlačítko níže. Tím přejmenujete soubor config_temp.php zpět na config.php.";
 $locale['setup_1019'] = "Ukončit instalaci";
 $locale['setup_1020'] = "Soubor .htaccess byl vytvořen / aktualizován";
-// Krok 2
+// Step 2
 $locale['setup_1090'] = "Soubory";
 $locale['setup_1091'] = "Stav";
 $locale['setup_1092'] = "Konfigurace databáze a ovladače";
 $locale['setup_1106'] = "Diagnostika požadavků serveru a souborů";
-// Krok 3 - Access criteria
+// Step 3 - Access criteria
 $locale['setup_1200'] = "Nastavení databáze a cesty serveru";
 $locale['setup_1201'] = "Zadejte prosím nastavení pro přístup k databázi MySQL.";
 $locale['setup_1202'] = "Název hostitele databáze:";
@@ -112,7 +111,7 @@ $locale['setup_1205'] = "Název databáze:";
 $locale['setup_1206'] = "Předpona tabulky:";
 $locale['setup_1207'] = "Předpona cookie:";
 $locale['setup_1208'] = "Ovladač databáze";
-// Krok 4 - Database Setup
+// Step 4 - Database Setup
 $locale['setup_1210'] = "Chyby PHP-Fusion instalace. Restartujte instalátor.";
 $locale['setup_1211'] = "Byla dokončena nová PHP-Fusion instalace. Přejděte k dalšímu kroku.";
 $locale['setup_1212'] = "Konfigurace stránky a hlavního administrátora";
@@ -133,7 +132,7 @@ $locale['setup_1311'] = "Zadaná databáze neexistuje.";
 $locale['setup_1313'] = "Zadaná předpona tabulky se již používá a je spuštěna. Nebudou nainstalovány žádné tabulky. Začněte znovu nebo přejděte na další krok.";
 $locale['setup_1315'] = "Ujistěte se, že MySQL uživatel má oprávnění pro čtení, zápis a odstraňování vybrané databáze.";
 $locale['setup_1317'] = "Ujistěte se, že jste vyplnili všechna pole MySQL připojení..";
-// Krok 6 - Super Admin přihlášení
+// Step 6 - Super Admin login
 $locale['setup_1500'] = "Primární účet hlavního administrátora";
 $locale['setup_1501'] = "Nakonfigurujte podrobnosti správce.";
 $locale['setup_1504'] = "Uživatelské jméno:";
@@ -146,12 +145,12 @@ $locale['setup_1510'] = "E-mailová adresa stránky:";
 $locale['setup_1511'] = "Vyberte oblast stránky:";
 $locale['setup_1512'] = "Instalace jazyka stránky:";
 $locale['setup_1513'] = "Jméno majitele stránky";
-// Zprávy o pokroku
+// Progress Reports
 $locale['setup_1600'] = "Instalace ";
 $locale['setup_1601'] = "Aktualizace struktury tabulky na ";
 $locale['setup_1602'] = "Přidání nového sloupce na ";
 $locale['setup_1603'] = "Populace dat ";
-// Krok 6 - Ověření uživatelských údajů
+// Step 6 - User details validation
 $locale['setup_5010'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['setup_5011'] = "Pole uživatelského jména nemůže zůstat prázdné.";
 $locale['setup_5012'] = "Vaše dvě přihlašovací hesla neodpovídají.";
@@ -159,8 +158,8 @@ $locale['setup_5013'] = "Neplatné přihlašovací heslo, použijte pouze alfanu
 $locale['setup_5015'] = "Vaše dvě hesla administrátora neodpovídají.";
 $locale['setup_5016'] = "Vaše uživatelské heslo a administrátorské heslo musí být jiné.";
 $locale['setup_5017'] = "Neplatné přihlašovací heslo, použijte pouze alfanumerické znaky..<br />Heslo musí mít délku minimálně 8 znaků.";
-$locale['setup_5020'] = "Pole E-mailu nemůže zůstat prázdné.";
-// Krok 6 - Administrace Panely
+$locale['setup_5020'] = "Pole e-mailu nemůže zůstat prázdné.";
+// Step 6 - Admin Panels
 $locale['setup_3000'] = "Administrátoři";
 $locale['setup_3002'] = "Články";
 $locale['setup_3003'] = "Bannery";
@@ -205,7 +204,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Správce vzhledu";
 $locale['setup_3057'] = "Migrační nástroj";
 $locale['setup_3058'] = "Nastavení vzhledu";
-// Vícejazyčná práva tabulky
+// Multilanguage table rights
 $locale['setup_3200'] = "Články";
 $locale['setup_3201'] = "Vlastní stránky";
 $locale['setup_3202'] = "Stahování";
@@ -220,7 +219,7 @@ $locale['setup_3210'] = "Odkazy na podstránky";
 $locale['setup_3211'] = "Panely";
 $locale['setup_3212'] = "Fórum hodnosti";
 $locale['setup_3213'] = "Blog";
-// Krok 6 - Navigace linky (odkazy)
+// Step 6 - Navigation Links
 $locale['setup_3300'] = "Domů";
 $locale['setup_3302'] = "Ke stažení";
 $locale['setup_3303'] = "FAQ";
@@ -247,7 +246,7 @@ $locale['setup_3324'] = "Začít nové vlákno";
 $locale['setup_3325'] = "Nejnovější články";
 $locale['setup_3326'] = "Nejnovější stahování";
 $locale['setup_3327'] = "Přidat FAQ";
-// Fáze 6 - Panely
+// Stage 6 - Panels
 $locale['setup_3400'] = "Navigace";
 $locale['setup_3401'] = "Online uživatelé";
 $locale['setup_3402'] = "Fórum vlákna";
@@ -256,7 +255,7 @@ $locale['setup_3405'] = "Seznam témat fóra";
 $locale['setup_3406'] = "Informace o uživateli";
 $locale['setup_3407'] = "Ankety";
 $locale['setup_3408'] = "RSS";
-// Fáze 6 - Novinky, kategorie
+// Stage 6 - News Categories
 $locale['setup_3500'] = "Chyby";
 $locale['setup_3501'] = "Ke stažení";
 $locale['setup_3502'] = "Hry";
@@ -273,7 +272,7 @@ $locale['setup_3512'] = "Bezpečnost";
 $locale['setup_3513'] = "Software";
 $locale['setup_3514'] = "Vzhledy";
 $locale['setup_3515'] = "Windows";
-// Fáze 6 - Ukázky hodnocení Fóra
+// Stage 6 - Sample Forum Ranks
 $locale['setup_3600'] = "Hlavní administrátor";
 $locale['setup_3601'] = "Administrátor";
 $locale['setup_3602'] = "Moderátor";
@@ -283,7 +282,7 @@ $locale['setup_3605'] = "Člen";
 $locale['setup_3606'] = "Diskutující";
 $locale['setup_3607'] = "Stařešina";
 $locale['setup_3608'] = "Fusionista";
-// Fáze 6 - Vzorky smajlíků
+// Stage 6 - Sample Smileys
 $locale['setup_3620'] = "Usměj se";
 $locale['setup_3621'] = "Mrkat";
 $locale['setup_3622'] = "Smutný";
@@ -293,19 +292,19 @@ $locale['setup_3625'] = "Pfft";
 $locale['setup_3626'] = "Chladný";
 $locale['setup_3627'] = "Úsměv";
 $locale['setup_3628'] = "Rozzlobený";
-$locale['setup_3629'] = "Jako";
-// Fáze 6 - User Field Categories
+$locale['setup_3629'] = "Like";
+// Stage 6 - User Field Categories
 $locale['setup_3640'] = "Profil";
 $locale['setup_3641'] = "Kontaktní informace";
 $locale['setup_3642'] = "Různé informace";
 $locale['setup_3643'] = "Možnosti";
 $locale['setup_3644'] = "Statistika";
 $locale['setup_3645'] = "Soukromí";
-// Fáze 6 - Fórum tagy
+// Stage 6 - Forum Tags
 $locale['setup_3660'] = "Informace o webu";
 $locale['setup_3661'] = "Diskuse týkající se správy této webové stránky";
 
-// Fáze 6 - User Fields
+// Stage 6 - User Fields
 require_once(dirname(__FILE__)."/user_fields/user_aim.php");
 require_once(dirname(__FILE__)."/user_fields/user_birthdate.php");
 require_once(dirname(__FILE__)."/user_fields/user_icq.php");
@@ -318,24 +317,24 @@ require_once(dirname(__FILE__)."/user_fields/user_yahoo.php");
 require_once(dirname(__FILE__)."/user_fields/user_timezone.php");
 require_once(dirname(__FILE__)."/user_fields/user_blacklist.php");
 
-// Uvítací zpráva
+// Welcome message
 $locale['setup_3650'] = "Vítejte na vašem webu";
-// Konečná zpráva
+// Final message
 $locale['setup_1700'] = "Instalace je dokončena";
 $locale['setup_1701'] = "PHP-Fusion 9.0 je nyní připraven k použití. Klepnutím na tlačítko Dokončit přepíšete soubor config_temp.php na config.php<br/>";
 $locale['setup_1702'] = "<strong>Poznámka: Po zadání vašeho webu byste měli z bezpečnostních důvodů smazat celou / instalační složku a chmod your config.php zpět na 0644.</strong>";
 $locale['setup_1703'] = "Děkujeme, že jste si vybrali PHP-Fusion.";
-// Výchozí nastavení času
+// Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";
 $locale['setup_3701'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3702'] = "%d-%m-%Y %H:%M";
 $locale['setup_3703'] = "%B %d %Y";
 $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
-// Nastavení šablony e-mailu
+// Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Šablony e-mailů";
-$locale['setup_3801'] = "Oznámení o nové SZ (PM)";
+$locale['setup_3801'] = "Oznámení o nové SZ";
 $locale['setup_3802'] = "Máte novou soukromou zprávu od [USER] čekající na [SITENAME]";
 $locale['setup_3803'] = "Ahoj [RECEIVER],<br/>Obdrželi jste novou zprávu s názvem [SUBJECT] od [USER] na [SITENAME]. Můžete si přečíst soukromou zprávu na adrese [SITEURL]messages.php<br/>Zpráva: [MESSAGE]<br/>Pokud již nechcete být upozorněni na nové zprávy, můžete vypnout upozornění e-mailem prostřednictvím panelu možností na stránce Soukromá zpráva.<br/>S pozdravem,<br/>[SENDER].";
 $locale['setup_3804'] = "Oznámení o nových příspěvcích na fóru";
@@ -344,7 +343,7 @@ $locale['setup_3806'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fó
 $locale['setup_3807'] = "Kontaktní formulář";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
-// Oficiální podporovaný systémový seznam
+// Official Supported System List
 $locale['articles']['title'] = "Články";
 $locale['articles']['description'] = "Standardní dokumentační systém.";
 $locale['blog']['title'] = "Blog";

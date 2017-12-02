@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename:locale/Czech/admin/db_backup.php
-| Author: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/db-backups.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or

@@ -3,10 +3,10 @@
 | PHP-Fusion Content Management System
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
-+----------------------------------------------------------------------+
-| Filename: root/infusions/news/locale/Czech/news_admin.php
-| Author: J.Falk (Falk), Translate czech: Kvido phpfusion.cz, 01.05.2017
-+----------------------------------------------------------------------+
++--------------------------------------------------------+
+| Filename: infusions/news/locale/Czech/news.php
+| Author: https://www.phpfusion.cz/ - Team
++--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
 | modify it under the terms of this license which you

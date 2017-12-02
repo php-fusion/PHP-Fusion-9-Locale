@@ -4,9 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: /themes/admin_themes/Material/locale/Czech.php
-| Author: RobiNN
-| Translate: Kvido, phpfusion.cz, 27.05.2017
+| Filename: themes/admin_themes/Material/locale/Czech.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -29,7 +28,7 @@ $locale['material_010'] = 'Číst';
 $locale['material_011'] = 'Nová zpráva';
 $locale['material_012'] = 'Neexistují žádné zprávy';
 $locale['material_013'] = 'Vytvořil';
-// Zprávy o výsledku
+// Result Messages
 $locale['material_100'] = 'Selhal systém validace';
 $locale['material_101'] = 'Selhal bezpečnostní systém opatření';
 $locale['material_102'] = 'Stránky se nepodařilo načíst';

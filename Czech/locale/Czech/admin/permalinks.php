@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/admin/permalinks.php
-| Author: Vícha (Kvido), phpfusion.cz, 26.05.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -57,4 +57,4 @@ $locale['PL_426'] = "Úspěšně zakázané trvalé odkazy pro %s.";
 $locale['PL_427'] = "Nebyly povoleny žádné trvalé odkazy.";
 $locale['PL_428'] = "Trvalé odkazy";
 $locale['seo_htc_warning'] = "Vezměte prosím na vědomí, že pokud změníte některá z těchto nastavení, obsah `.htaccess` bude přepsán a veškeré změny provedené v tomto souboru budou ztraceny.";
-// $locale['rewrite_disabled'] = "Vypadá to, že mod_rewrite není na vašem vzdáleném hostingu povolen!! Povolení adres URL SEF může poškodit vaše webové stránky. Obraťte se proto na poskytovatele hostingu  a žádejte  povolení "mod_rewrite" na vašem hostiteli..Vypadá to, že mod_rewrite není ve vašem hostiteli povolen. Povolení adres URL SEF může poškodit vaše webové stránky. Obraťte se na poskytovatele hostingu o povolení `mod_rewrite` na vašem hostiteli.";
+//$locale['rewrite_disabled'] = "Vypadá to, že mod_rewrite není ve vašem hostingu povolen. Povolení webových adres SEF může poškodit vaše webové stránky. Prosím, kontaktujte svého poskytovatele hostingu o povolení `mod_rewrite` na vašem hostingu.";

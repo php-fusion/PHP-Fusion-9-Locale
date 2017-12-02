@@ -3,10 +3,10 @@
 | PHP-Fusion Content Management System
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
-+----------------------------------------------------------------------+
++--------------------------------------------------------+
 | Filename: locale/Czech/admin/admin_reset.php
-| Author: Kvido phpfusion.cz, 26.05.2017
-+----------------------------------------------------------------------+
+| Author: https://www.phpfusion.cz/ - Team
++--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
 | modify it under the terms of this license which you
@@ -49,3 +49,4 @@ $locale['apw_426'] = "Žádné heslo nebylo změněno.";
 $locale['apw_427'] = "Možnosti";
 $locale['apw_428'] = "Opravdu chcete odstranit tento záznam?";
 $locale['apw_429'] = "Záznam byl smazán";
+$locale['apw_430'] = "Označit vše";

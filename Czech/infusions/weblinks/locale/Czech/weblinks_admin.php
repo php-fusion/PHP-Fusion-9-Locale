@@ -1,12 +1,12 @@
 <?php
-/*-------------------------------------------------------------------+
+/*-------------------------------------------------------+
 | PHP-Fusion Content Management System
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
-+--------------------------------------------------------------------+
-| Filename: root/infusions/weblinks/locale/weblinks_admin.php
-| Translate czech: phpfusion.cz, Kvido, 26.05.2017
-+--------------------------------------------------------------------+
++--------------------------------------------------------+
+| Filename: infusions/weblinks/locale/Czech/weblinks_admin.php
+| Author: https://www.phpfusion.cz/ - Team
++--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
 | modify it under the terms of this license which you
@@ -20,7 +20,6 @@ $locale['WLS_0002'] = "Přidat webový odkaz";
 $locale['WLS_0003'] = "Upravit odkaz";
 $locale['WLS_0004'] = "Kategorie";
 $locale['WLS_0005'] = "Přidat kategorii";
-// $ locale ['WLS_0006'] = "Upravit kategorii";
 $locale['WLS_0007'] = "Na schválení";
 $locale['WLS_0008'] = "Nastavení";
 $locale['WLS_0030'] = "Odkaz byl úspěšně vytvořen";
@@ -34,7 +33,6 @@ $locale['WLS_0041'] = "Kategorie úspěšně aktualizována";
 $locale['WLS_0042'] = "kategorie byla úspěšně smazána";
 $locale['WLS_0043'] = "Kategorie nelze odstranit";
 $locale['WLS_0044'] = "V kategorii existuje webový odkaz nebo podkategorie";
-// $ locale ['WLS_0045'] = "Kategorie byly úspěšně aktualizovány";
 $locale['WLS_0046'] = "Kategorie nelze odstranit";
 $locale['WLS_0048'] = "Musíte zvolit alespoň v kategorii";
 $locale['WLS_0049'] = "Kategorie úspěšně publikována";
@@ -73,6 +71,7 @@ $locale['WLS_0202'] = "Přispěvatel";
 $locale['WLS_0203'] = "Datum";
 $locale['WLS_0204'] = "Možnosti";
 $locale['WLS_0205'] = "Prozkoumat příspěvek";
+$locale['WLS_0206'] = "Vybrat vše";
 $locale['WLS_0252'] = "Název webového odkazu.";
 $locale['WLS_0253'] = "Adresa URL webového odkazu";
 $locale['WLS_0254'] = "Popis";
@@ -84,7 +83,6 @@ $locale['WLS_0270'] = "Musíte zadat předmět.";
 $locale['WLS_0303'] = "Rodič";
 $locale['WLS_0320'] = "Musíte zadat jméno.";
 $locale['WLS_0321'] = "Kategorie s tímto názvem již existuje.";
-// $ locale ['WLS_0322'] = "Musíte zadat popis.";
 $locale['WLS_0350'] = "Výše uvedený příspěvek byl odeslán od {% SUBMISSION_AUTHOR%}.";
 $locale['WLS_0351'] = "Datum příspěvku: {% SUBMISSION_TIME%} - {% SUBMISSION_DATE%}.";
 $locale['WLS_0400'] = "Nastavení odkazov na frontend a backend.";

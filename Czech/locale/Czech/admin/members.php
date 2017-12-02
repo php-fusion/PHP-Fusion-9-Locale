@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/admin/members.php
-| Author: Kvido, phpfusion.cz, 26.05.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -33,7 +33,7 @@ $locale['ME_414'] = 'Vybrat vše';
 $locale['ME_415'] = 'Skrytý';
 $locale['ME_416'] = 'Zobrazeno';
 
-// Filtr jádrových polí
+// Core Fields Filter
 $locale['ME_420'] = 'E-mail skrytý?';
 $locale['ME_421'] = 'Datum přihlášení';
 $locale['ME_422'] = 'Poslední přihlášení';
@@ -42,7 +42,7 @@ $locale['ME_424'] = 'Typ IP';
 $locale['ME_425'] = 'Uživatelské skupiny';
 $locale['ME_426'] = 'Časové pásmo';
 
-// Akční formulář
+// Action Form
 $locale['ME_430'] = 'Chyba: Akce s vybranými uživateli nebyla dokončena';
 $locale['ME_431'] = 'Následující uživatelé budou %s:';
 $locale['ME_432'] = '%s byl %s';
@@ -74,7 +74,7 @@ $locale['ME_466'] = 'Důrazně se doporučuje změnit akci deaktivace na anonymi
 $locale['ME_467'] = "Nastavte deaktivační systém na anonymizaci.";
 $locale['ME_468'] = 'Automatické deaktivování neaktivních uživatelů.';
 
-// Akce
+// Actions
 $locale['ME_500'] = 'Zabanovat';
 $locale['ME_501'] = 'Obnovit';
 $locale['ME_502'] = 'Deaktivovat';
@@ -83,7 +83,7 @@ $locale['ME_504'] = 'Bezpečnostní zákaz';
 $locale['ME_505'] = 'Zrušení';
 $locale['ME_506'] = 'Anonymní';
 
-// Zprávy nastavení
+// a_message keys
 $locale['ME_550'] = 'Zabanován';
 $locale['ME_551'] = 'Obnoven';
 $locale['ME_552'] = 'Deaktivován';

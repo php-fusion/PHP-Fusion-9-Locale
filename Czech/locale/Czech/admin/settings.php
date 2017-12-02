@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Czech/admin/sitelinks.php
-| Author: Kvido, phpfusion.cz, 26.05.2017
+| Filename: locale/Czech/admin/settings.php
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -75,7 +75,7 @@ $locale['443b'] = "Vypnout uživatel 2 panely";
 $locale['443c'] = "Vypnout uživatel 3 panely";
 $locale['443d'] = "Vypnout uživatel 4 panely";
 
-// Čas & Datum Nastavení
+// Time & Date Settings
 $locale['450'] = "Čas a Datum";
 $locale['451'] = "Krátký formát data:";
 $locale['452'] = "Dlouhý formát data:";
@@ -94,7 +94,7 @@ $locale['464'] = "Výchozí časové pásmo";
 $locale['465'] = "První den v týdnu";
 $locale['466'] = "Výchozí nastavení pro nové uživatele";
 
-// Registrace Nastavení
+// Registration Settings
 $locale['550'] = "Registrace";
 $locale['551'] = "Povolit registrační systém?";
 $locale['552'] = "Použít ověření pomocí emailu?";
@@ -103,7 +103,7 @@ $locale['557'] = "Nové uživatele aktivovat administrátorem?";
 $locale['558'] = "Povolit smluvní podmínky?";
 $locale['559'] = "Smluvní podmínky";
 
-// Ostatní nastavení
+// Other Settings
 $locale['601'] = "Velikost náhledu:";
 $locale['602'] = "Velikost fotografie:";
 $locale['603'] = "Maximální velikost fotografie:";

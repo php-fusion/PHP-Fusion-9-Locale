@@ -1,5 +1,21 @@
 <?php
-$locale['currency'] = array(
+/*-------------------------------------------------------+
+| PHP-Fusion Content Management System
+| Copyright (C) PHP-Fusion Inc
+| https://www.php-fusion.co.uk/
++--------------------------------------------------------+
+| Filename: locale/Czech/currcency.php
+| Author: https://www.phpfusion.cz/ - Team
++--------------------------------------------------------+
+| This program is released as free software under the
+| Affero GPL license. You can redistribute it and/or
+| modify it under the terms of this license which you
+| can read by viewing the included agpl.txt or online
+| at www.gnu.org/licenses/agpl.html. Removal of this
+| copyright header is strictly prohibited without
+| written permission from the original author(s).
++--------------------------------------------------------*/
+$locale['currency'] = [
     "AED" => "Emerati Dirham",
     "AFN" => "Afghanistan Afghani",
     "ALL" => "Albanian Lek",
@@ -165,9 +181,9 @@ $locale['currency'] = array(
     "ZMK" => "Zambian Kwacha",
     "ZWD" => "Zimbabwe Dollar",
     "NA" => "Not Available",
-);
+];
 
-$locale['currency_symbol'] = array(
+$locale['currency_symbol'] = [
     'AED' => '&#1583;.&#1573;', // ?
     'AFN' => '&#65;&#102;',
     'ALL' => '&#76;&#101;&#107;',
@@ -327,4 +343,4 @@ $locale['currency_symbol'] = array(
     'ZAR' => '&#82;',
     'ZMK' => '&#90;&#75;', // ?
     'ZWL' => '&#90;&#36;',
-);
+];

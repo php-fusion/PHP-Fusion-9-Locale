@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/admin/fields.php
-| Author: Kvido, phpfusion.cz, 26.05.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-// Nové prostředí pro pole Quantum Fields
+// New locale for Quantum Fields
 $locale['fields_0100'] = "Tato stránka přidává pole přímo do tabulky: %s";
 $locale['fields_0101'] = "Tato stránka přidává pole přímo do tabulky: %s, v kombinaci s DB_USERS pomocí sloupce %s";
 $locale['fields_0102'] = "Nebyla přidána žádná pole ";

@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Czech/admin/phpinfo.php
-| Author: Vícha (Kvido), phpfusion.cz, 26.05.2017
+| Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['400'] = "PHP Info";
-//Všeobecné
+//General
 $locale['401'] = "Všeobecné";
 $locale['402'] = "Serverový software";
 $locale['403'] = "Software webového serveru";
@@ -27,7 +27,7 @@ $locale['407'] = "PHP-Fusion verze";
 $locale['408'] = "Předpona databáze";
 $locale['409'] = "Předpona cookie";
 $locale['410'] = "Webový prohlížeč a operační systém";
-//PHP nastavení
+//PHP settings
 $locale['420'] = "Nastavení PHP";
 $locale['421'] = "Ano";
 $locale['422'] = "Ne";
@@ -39,7 +39,7 @@ $locale['428'] = "Zobrazení chyb";
 $locale['429'] = "Zakázané funkce";
 $locale['430'] = "n/a";
 $locale['431'] = "verze";
-//Oprávnění k zápisu
+//Write permission
 $locale['440'] = "Povolení složek";
 $locale['441'] = "Zapisovatelný";
 $locale['442'] = "Není zapisovatelný";
