@@ -49,3 +49,4 @@ $locale['apw_426'] = "Žiadne heslo nie je upravené.";
 $locale['apw_427'] = "Možnosti";
 $locale['apw_428'] = "Naozaj chcete odstrániť tento záznam?";
 $locale['apw_429'] = "Záznam odstránený";
+$locale['apw_430'] = "Označiť všetko";

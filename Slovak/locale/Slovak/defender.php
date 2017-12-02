@@ -101,7 +101,7 @@ $locale['grecaptcha'] = "Google reCAPTCHA";
 $locale['grecaptcha_desc'] = "Google reCAPTCHA modul poľa";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
-$locale['no_keys'] = "Zdá sa, že zatiaľ nemáte žiadne kľúče. Zaregistrujte sa a získajte svoj [RECAPTCHA_LINK]verejný kľúč tu[/RECAPTCHA_LINK]";
+$locale['no_keys'] = "Zdá sa, že zatiaľ nemáte žiadne kľúče. Zaregistrujte sa a získajte svoje [RECAPTCHA_LINK]kľúče tu[/RECAPTCHA_LINK]";
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Skontrolujte svoje kľúče Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Verejný kľúč";
