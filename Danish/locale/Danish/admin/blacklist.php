@@ -39,6 +39,7 @@ $locale['BLS_035'] = "Mailadresse "; //442
 $locale['BLS_036'] = "Udelukkelsesårsag "; //443
 $locale['BLS_037'] = "Udeluk bruger";  //444
 $locale['BLS_038'] = "Opdater";
+$locale['BLS_039'] = "Vælg alle";
 
 $locale['BLS_MS'] = "Ved at indskrive en IP-adresse vil man forhindre en bruger, hvis IP-adresse svarer til den gemte fra at besøge denne side.
 Du kan indskrive en fuld IP-adresse - f. eks. <em>123.45.67.89.</em>, eller en del af en adresse f. eks. <em>123.45.67</em> eller <em>123.45</em>.
