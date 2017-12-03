@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Featurebox/locale/Danish.php
+| Filename: featurebox/locale/Danish.php
 | Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,7 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-
 $locale['FBW_0100'] = "Funktionsboks";
 $locale['FBW_0101'] = "Funktionsboks plugin";
 $locale['FBW_0200'] = "Boksens overskrift";

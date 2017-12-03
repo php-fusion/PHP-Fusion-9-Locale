@@ -15,26 +15,31 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['400'] = "BB-Kode administration";
-$locale['401'] = "BB-Kode testside";
+$locale['BBCA_400'] = "BB koder";
+$locale['BBCA_400a'] = "BB-koder administration";
+$locale['BBCA_401'] = "BB-kode testside";
 // Enabled BB Codes
-$locale['402'] = "Aktive BB-koder";
-$locale['403'] = "Navn";
-$locale['404'] = "Ikon";
-$locale['405'] = "Beskrivelse";
-$locale['406'] = "Anvendelse";
-$locale['407'] = "Rækkefølge";
-$locale['408'] = "Ned";
-$locale['409'] = "Op";
-$locale['410'] = "Slå fra";
-$locale['411'] = "Der er ikke aktiveret nogen BB-koder";
+$locale['BBCA_402'] = "Aktive BB-koder";
+$locale['BBCA_403'] = "Navn";
+$locale['BBCA_404'] = "Ikon";
+$locale['BBCA_405'] = "Beskrivelse";
+$locale['BBCA_406'] = "Anvendelse";
+$locale['BBCA_407'] = "Rækkefølge";
+$locale['BBCA_408'] = "Ned";
+$locale['BBCA_409'] = "Op";
+$locale['BBCA_410'] = "Slå fra";
+$locale['BBCA_411'] = "Der er ikke aktiveret nogen BB-koder";
 // Disabled BB Codes
-$locale['413'] = "Deaktiverede BB-koder";
-$locale['414'] = "Aktiver";
-$locale['415'] = "Linjeskift.";
-$locale['416'] = "Start en ny linje med BB-koder";
+$locale['BBCA_413'] = "Deaktiverede BB-koder";
+$locale['BBCA_414'] = "Aktiver";
+$locale['BBCA_416'] = "Start en ny linje med BB-koder";
 // Test BB Codes
-$locale['417'] = "Resultat af testen";
-$locale['418'] = "Slå smileys fra i denne test.";
-$locale['418a'] = "Testbesked ";
-$locale['418b'] = "Indskriv en besked for at teste BB-koder.";
+$locale['BBCA_417'] = "Resultat af testen";
+$locale['BBCA_418'] = "Slå smileys fra i denne test.";
+$locale['BBCA_418a'] = "Testbesked ";
+$locale['BBCA_418b'] = "Indskriv en besked for at teste BB-koder.";
+// Notices
+$locale['BBCA_430'] = "BB-kode er blevet flyttet op.";
+$locale['BBCA_431'] = "BB-kode er blevet flyttet ned.";
+$locale['BBCA_432'] = "BB-kode er blevet aktiveret.";
+$locale['BBCA_433'] = "BB-kode er blevet deaktiveret.";

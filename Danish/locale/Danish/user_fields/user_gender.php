@@ -18,6 +18,4 @@
 $locale['uf_gender'] = "Køn";
 $locale['uf_gender_desc'] = "Brugeren kan vælge køn";
 $locale['uf_gender_error'] = "Hvis køn er forkert eller ikke oplyst.";
-$locale['uf_gender_tipp'] = "skift køn i  includes/user_fields/user_gender_include.php filen \$gen_set ved at skifte værdien.";
-
-$locale['uf_gender_sz'] = array("Ikke oplyst", "Kvinde", "Mand", "- Hemmeligt -");
+$locale['uf_gender_sz'] = ["Ikke oplyst", "Kvinde", "Mand", "Hemmeligt"];

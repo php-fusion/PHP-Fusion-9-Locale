@@ -18,21 +18,10 @@
 // Overview
 $locale['web_0000'] = "Links";
 $locale['web_0001'] = "Alle links";
-//$locale['web_0002'] = "Vis kategorier";
-//$locale['web_0003'] = "Kategorier";
-//$locale['web_0004'] = "Seneste opdatering";
-//$locale['web_0005'] = "Kategori";
-
 $locale['fmt_open'] = "åben|åben";
 // Sortings
 $locale['web_0030'] = "Seneste";
 $locale['web_0031'] = "Top åbnet";
-
-// Views
-//$locale['web_0040'] = "Vis som galleri";
-//$locale['web_0041'] = "Vis som liste";
-
 // Messages
 $locale['web_0060'] = "Der er endnu ikke defineret nogen linkkategorier.";
-//$locale['web_0061'] = "Der er ikke oprettet links.";
 $locale['web_0062'] = "Der er ikke oprettet links under denne kategori.";
