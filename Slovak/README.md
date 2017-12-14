@@ -1,6 +1,6 @@
 # Slovenský preklad
 
-Pre správne skolňovanie času napr.: pred 5 minútami,  vložte tento kód do ```theme.php``` alebo ```acp_theme.php```, kód musí byť umiestnený pred ```require_once INCLUDES.'theme_functions_include.php';```, ak tam nie je jednoducho ho vložte na vrch súboru.
+Pre správne skolňovanie času napr.: pred 5 minútami, vložte tento kód do ```theme.php``` alebo ```acp_theme.php```.
 
 ```php
 if (LANGUAGE === 'Slovak') {
