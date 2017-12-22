@@ -24,4 +24,5 @@ $locale['web_0030'] = "Najnovšie";
 $locale['web_0031'] = "Najviac otvorené";
 // Messages
 $locale['web_0060'] = "Neboli definované žiadne kategórie odkazov.";
+$locale['web_0061'] = "Nie sú definované žiadne odkazy."; // 9.0
 $locale['web_0062'] = "V tejto kategórii nie je žiadny odkaz.";
