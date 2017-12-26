@@ -235,7 +235,7 @@ $locale['1013'] = "Végleges törlés";
 $locale['1014'] = "A felhasználók bejelentkezhetnek egyszerre több gépről?";
 $locale['1014a'] = "A biztonság növeléséhez kapcsold ki.";
 
-$locale['1020'] = array(1 => 'Bájt (bájt)', 1000 => 'KB (Kilobájt)', 1000000 => 'MB (Megabájt)');
+$locale['1020'] = [1 => 'Bájt (bájt)', 1024 => 'KB (Kilobájt)', 1048576 => 'MB (Megabájt)'];
 
 // Social integration
 $locale['1030'] = "Készíts Open Graph metacímkéket a közösségi oldalakhoz.";
