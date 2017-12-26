@@ -104,9 +104,9 @@ $locale['fields_0485'] = "Mező regisztráció";
 $locale['fields_0488'] = "Mező mentése";
 $locale['fields_0489'] = "Csak Kép";
 
-$locale['fields_0490'] = "Bájtok (bájt)";
-$locale['fields_0491'] = "KB (Kiloájt)";
-$locale['fields_0492'] = "MB (Megaájt)";
+$locale['fields_0490'] = "Bájt (bájt)";
+$locale['fields_0491'] = "KB (Kilobájt)";
+$locale['fields_0492'] = "MB (Megabájt)";
 
 $locale['fields_0500'] = "Modul";
 $locale['fields_0501'] = "Szövegdoboz";
