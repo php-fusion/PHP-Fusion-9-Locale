@@ -26,7 +26,9 @@ $locale['420'] = "Deaktivujte smajlíky v tomto komentáři";
 $locale['421'] = "Uložit komentář";
 // Comments
 $locale['430'] = "Upravit";
-$locale['431'] = "Vymazat";
+$locale['431'] = "Vymazat & zablokovat";
 $locale['432'] = "IP uživatele:";
 $locale['433'] = "Smazat tento komentář?";
 $locale['434'] = "Pro tuto položku neexistují žádné komentáře.";
+$locale['435'] = "Opravdu chcete přidat tohoto uživatele do blacklistu?";
+$locale['436'] = "Váš komentář je na černé listině.";

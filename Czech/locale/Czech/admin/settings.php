@@ -251,7 +251,7 @@ $locale['1013'] = "Odstranit uživatele";
 $locale['1014'] = "Povolit přihlášení z různých zařízení najednou?";
 $locale['1014a'] = "Zakázání zvýší zabezpečení";
 
-$locale['1020'] = [1 => 'B (bajty)', 1000 => 'KB (kilobyty)', 1000000 => 'MB (megabajty)'];
+$locale['1020'] = [1 => 'B (bajty)', 1024 => 'KB (Kilobyty)', 1048576 => 'MB (Megabajty)'];
 
 // Social integration
 $locale['1030'] = "Vytvořit OpenGraph meta značky pro sociální sítě";
