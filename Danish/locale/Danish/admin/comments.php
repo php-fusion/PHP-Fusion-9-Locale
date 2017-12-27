@@ -26,7 +26,9 @@ $locale['420'] = "Slå smileys fra i denne kommentar";
 $locale['421'] = "Gem kommentar";
 // Comments
 $locale['430'] = "Ret";
-$locale['431'] = "Slet";
+$locale['431'] = "Slet & Udeluk";
 $locale['432'] = "Brugers IP";
 $locale['433'] = "Skal denne kommentar slettes?";
 $locale['434'] = "Ingen kommentarer her.";
+$locale['435'] = "Vil du udelukke denne bruger?";
+$locale['436'] = "Dine kommentarer er udelukkede.";

@@ -251,7 +251,7 @@ $locale['1013'] = "Slet bruger(e)";
 $locale['1014'] = "Skal brugere kunne logge på fra forskellige enheder samtidig";
 $locale['1014a'] = "Slå fra for at forbedre sikkerheden.";
 
-$locale['1020'] = array(1 => 'Bytes (bytes)', 1000 => 'KB (Kilobytes)', 1000000 => 'MB (Megabytes)');
+$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Skal der skabes OpenGraph meta tags til de sociale netværk";
