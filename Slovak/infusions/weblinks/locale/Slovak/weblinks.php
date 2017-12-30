@@ -22,6 +22,10 @@ $locale['fmt_open'] = "otvorenie|otvorenia|otvorení";
 // Sortings
 $locale['web_0030'] = "Najnovšie";
 $locale['web_0031'] = "Najviac otvorené";
+$locale['web_0032'] = "Najstaršie";
+// Views
+$locale['web_0040'] = "Dlaždice";
+$locale['web_0041'] = "Zoznam";
 // Messages
 $locale['web_0060'] = "Neboli definované žiadne kategórie odkazov.";
 $locale['web_0061'] = "Nie sú definované žiadne odkazy."; // 9.0
