@@ -1,6 +1,4 @@
 <?php
-// Tabs and Breadcrumbs
-$locale['WLS_0000'] = "Web Linkek";
 $locale['WLS_0001'] = "Web Linkek";
 $locale['WLS_0002'] = "Link Hozzáadása";
 $locale['WLS_0003'] = "Link Szerkesztése";
@@ -31,7 +29,6 @@ $locale['WLS_0101'] = "Kategória";
 $locale['WLS_0102'] = "Státusz";
 $locale['WLS_0103'] = "Hozzáférés";
 $locale['WLS_0104'] = "Művelet";
-$locale['WLS_0110'] = "Link Hozzáadása";
 $locale['WLS_0111'] = "Biztosan törölni szeretnéd ezt a linket?";
 $locale['WLS_0112'] = "Nincs Weblink.";
 $locale['WLS_0113'] = "Nincs a Keresési feltételnek megfeleő Web Link.";
@@ -67,7 +64,6 @@ $locale['WLS_0259'] = "Közzététel dátumának frissítése";
 $locale['WLS_0260'] = "További Információ";
 $locale['WLS_0261'] = "Link Ellenőrzés";
 $locale['WLS_0270'] = "Meg kell adni a Leírást.";
-$locale['WLS_0302'] = "Neve";
 $locale['WLS_0303'] = "Főkönyvtár";
 $locale['WLS_0320'] = "Meg kell adni egy Nevet.";
 $locale['WLS_0321'] = "Ilyen nevű Kategória már létezik.";
@@ -82,6 +78,6 @@ $locale['WLS_0912'] = "Másik link küldése";
 $locale['WLS_0913'] = "Vissza a [SITENAME]";
 $locale['WLS_0920'] = "Link beküldésére használd az alábbi űrlapot.
 A Link csak akkor kerül ki az oldalra, ha egy Adminisztrátor engedélyezi. [SITENAME] fenntartja a jogot a Link bővítésére, szerkesztésére.
-Csak az oldal tartalmához illeszkedő Link küldj be, különben töröljük.";
+Csak az oldal tartalmához illeszkedő Linket küldj be, különben töröljük.";
 $locale['WLS_0922'] = "Sajnáljuk de jelenleg nem fogadunk el link ajánlatot.";
 $locale['WLS_0923'] = "Nem lehet Web Linket Beküldeni, mert nincs Kategória létrehozva.";
