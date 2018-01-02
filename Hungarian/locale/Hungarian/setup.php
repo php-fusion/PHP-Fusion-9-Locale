@@ -9,6 +9,7 @@ $locale['setup_5000'] = "A PHP-Fusion használatához el kell olvasni és elfoga
 $locale['setup_0010'] = "Aktuális verzió - ";
 $locale['setup_0011'] = "hu";
 $locale['setup_0012'] = "utf-8";
+$locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion Frissítés";
 $locale['setup_0022'] = "Üdvözöllek a PHP-Fusion Frissítő";
 $locale['setup_0023'] = "A frissítési szolgáltatás végigvezet a szükséges lépéseken, hogy frissítse a PHP-Fusion CMS-t a szerverén. Kérjük, kövesse az alábbi lépéseket, és ellenőrizze a kötelező információkat.";
