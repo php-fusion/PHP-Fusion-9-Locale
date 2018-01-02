@@ -25,6 +25,7 @@ $locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolova
 $locale['setup_0010'] = "Aktuální verze - ";
 $locale['setup_0011'] = "cz";
 $locale['setup_0012'] = "utf-8";
+$locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion aktualizace";
 $locale['setup_0022'] = "Vítejte ve službě aktualizace PHP-Fusion";
 $locale['setup_0023'] = "Služba upgrade vás provede kroky potřebnými pro upgrade PHP-Fusion CMS na váš server. Postupujte podle těchto kroků a ověřte všechny požadované informace.";
