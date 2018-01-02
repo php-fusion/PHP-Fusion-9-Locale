@@ -1,12 +1,12 @@
 var locale = new Array();
 locale['wordLength'] = 'Dit kodeord er for kort';
 locale['wordNotEmail'] = 'Anvend ikke din mail som dit kodeord';
-locale['wordSimilarToUsername'] = 'Dit kodeord må ikke indeholde dit brugernavn';
+locale['wordSimilarToUsername'] = 'Dit kodeord mï¿½ ikke indeholde dit brugernavn';
 locale['wordTwoCharacterClasses'] = 'Benyt forskellige tegn klasser';
 locale['wordRepetitions'] = 'For mange gentagelser';
 locale['wordSequences'] = 'Dit kodeord indeholder sequences';
 locale['weak'] = 'Svag';
 locale['normal'] = 'Normal';
 locale['medium'] = 'Medium';
-locale['strong'] = 'Stærk';
-locale['very-strong'] = 'Meget stærk';
+locale['strong'] = 'Stï¿½rk';
+locale['very-strong'] = 'Meget stï¿½rk';

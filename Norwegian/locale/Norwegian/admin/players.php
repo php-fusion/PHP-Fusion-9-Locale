@@ -10,14 +10,14 @@ $locale['KUR_206'] ="Aktivitetsopplysningene er rettet";
 $locale['KUR_207'] ="Tilbage til hovedmeny";
 $locale['KUR_208'] ="Aktivitetsopplysningene er lagret";
 $locale['KUR_209'] ="Opprett ny aktivitet";
-$locale['KUR_210'] ="Vælg kategori: ";
+$locale['KUR_210'] ="Vï¿½lg kategori: ";
 $locale['KUR_211'] ="Overskrift: ";
 $locale['KUR_212'] ="Beskrivelse: ";
-$locale['KUR_213'] ="Start(d-m-å;): ";
+$locale['KUR_213'] ="Start(d-m-ï¿½;): ";
 $locale['KUR_214'] ="Starttidspunkt :";
 $locale['KUR_215'] ="Varighet: ";
 $locale['KUR_216'] ="Sted :";
-$locale['KUR_217'] ="Arrangør: ";
+$locale['KUR_217'] ="Arrangï¿½r: ";
 $locale['KUR_218'] ="Ytterligere informasjon:";
 $locale['KUR_219'] ="Det er ikke opprettet lag";
 

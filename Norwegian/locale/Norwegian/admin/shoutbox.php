@@ -11,7 +11,7 @@ $locale['420'] = "Slett replikk";
 $locale['421'] = "Replikken er slettet";
 $locale['422'] = "Lagre replikk";
 // Prune Shoutbox
-$locale['430'] = "Slett replikker ældre enn";
+$locale['430'] = "Slett replikker ï¿½ldre enn";
 $locale['431'] = " dager";
 $locale['432'] = "Slett replikker";
 // Current Shouts

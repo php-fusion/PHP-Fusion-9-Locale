@@ -1,43 +1,43 @@
 PHP-Fusion 9.02
 ==================
-Csak a fejlesztõk példánya: Ez a másolat még próba verzió, ami instabilitásához vezethet, kérjük, ne frissítse további értesítésig.
+Csak a fejlesztï¿½k pï¿½ldï¿½nya: Ez a mï¿½solat mï¿½g prï¿½ba verziï¿½, ami instabilitï¿½sï¿½hoz vezethet, kï¿½rjï¿½k, ne frissï¿½tse tovï¿½bbi ï¿½rtesï¿½tï¿½sig.
 Important Announcements:
 =============
 02/Mar/2017(GMT+8) 17:50hr - https://www.php-fusion.co.uk/forum/viewthread.php?thread_id=38308
 
 
-RC5 Naplók módosítások:
+RC5 Naplï¿½k mï¿½dosï¿½tï¿½sok:
 ===============================
-- Új Artemis és Material Adminisztrációs felület
-- Új Fusion Felület Csomag (Nebula csomag a WIP, amíg véget ér minden egyes szakaszban futó minõségû egyedi sablonokat)
-- Hírek Infusion frissítve 1.02-re, sok kódváltoztatással így már támogatja a Hír Gallériát, (Automatikus mentés funkció WIP)
-- Törölve Admin Rights NC, DC, WC és továbbiak
-- SecureImage v3, SecureImage v1 and v2 törölve
-- Bootstrap frissítve 3.3.7 verzióra
-- Új telepítõ a PHP-Fusion 9-hez, új frissítési futtatásokat.
+- ï¿½j Artemis ï¿½s Material Adminisztrï¿½ciï¿½s felï¿½let
+- ï¿½j Fusion Felï¿½let Csomag (Nebula csomag a WIP, amï¿½g vï¿½get ï¿½r minden egyes szakaszban futï¿½ minï¿½sï¿½gï¿½ egyedi sablonokat)
+- Hï¿½rek Infusion frissï¿½tve 1.02-re, sok kï¿½dvï¿½ltoztatï¿½ssal ï¿½gy mï¿½r tï¿½mogatja a Hï¿½r Gallï¿½riï¿½t, (Automatikus mentï¿½s funkciï¿½ WIP)
+- Tï¿½rï¿½lve Admin Rights NC, DC, WC ï¿½s tovï¿½bbiak
+- SecureImage v3, SecureImage v1 and v2 tï¿½rï¿½lve
+- Bootstrap frissï¿½tve 3.3.7 verziï¿½ra
+- ï¿½j telepï¿½tï¿½ a PHP-Fusion 9-hez, ï¿½j frissï¿½tï¿½si futtatï¿½sokat.
 
 
 
-Értesítések
+ï¿½rtesï¿½tï¿½sek
 ===========
 
-Frissítés PHP-Fusion 9 RC5
+Frissï¿½tï¿½s PHP-Fusion 9 RC5
 -----------------=========
-Ez vonatkozik a PHP-Fusion bármely verziójára, amelyre frissíteni kívánja a PHP-Fusion Release Candidate 5 legújabb fejlesztõi verzióját, amely végleges kiadásra jelölt, még mielõtt véglegesre jelölték volna.
+Ez vonatkozik a PHP-Fusion bï¿½rmely verziï¿½jï¿½ra, amelyre frissï¿½teni kï¿½vï¿½nja a PHP-Fusion Release Candidate 5 legï¿½jabb fejlesztï¿½i verziï¿½jï¿½t, amely vï¿½gleges kiadï¿½sra jelï¿½lt, mï¿½g mielï¿½tt vï¿½glegesre jelï¿½ltï¿½k volna.
 
-A frissítéshez léteznie kell egy létezõ config.php és egy létezõ adatbázisnak. Futtasd a install.php fájlt, és kövesse az összes lépést. Az Infusions lépésben kattintson a frissítésre ahol lehet, hogy frissítse az adatbázis rekordokat a PF9 infúziókhoz. Az összes frissítési fájlt eltávolíthatja hiba nélkül a telepítõ befejezése után. Ha bármilyen hiba van, kérjük, jelezze a hivatalos támogatási fórumon.
+A frissï¿½tï¿½shez lï¿½teznie kell egy lï¿½tezï¿½ config.php ï¿½s egy lï¿½tezï¿½ adatbï¿½zisnak. Futtasd a install.php fï¿½jlt, ï¿½s kï¿½vesse az ï¿½sszes lï¿½pï¿½st. Az Infusions lï¿½pï¿½sben kattintson a frissï¿½tï¿½sre ahol lehet, hogy frissï¿½tse az adatbï¿½zis rekordokat a PF9 infï¿½ziï¿½khoz. Az ï¿½sszes frissï¿½tï¿½si fï¿½jlt eltï¿½volï¿½thatja hiba nï¿½lkï¿½l a telepï¿½tï¿½ befejezï¿½se utï¿½n. Ha bï¿½rmilyen hiba van, kï¿½rjï¿½k, jelezze a hivatalos tï¿½mogatï¿½si fï¿½rumon.
 
 
-Szoftver Követelmény a PHP-Fusion 9 RC5-höz:
+Szoftver Kï¿½vetelmï¿½ny a PHP-Fusion 9 RC5-hï¿½z:
 ----
-|   Software    |   Ajánlott |   Minimum |
+|   Software    |   Ajï¿½nlott |   Minimum |
 |---|---|---|
 | PHP   |  5.6.8 | 5.5.35 |
 | MySQL |   5.5.3   | 5.1 |
 | Apache    | 2.4+  | 2.0 |
 | Nginx     |  1.8+ |   1.0 |
 
-Közös Git parancsok:
+Kï¿½zï¿½s Git parancsok:
 ----
 
 ````
@@ -54,171 +54,171 @@ git merge
 git push
 ````
 
-Ukrán, orosz Magyar nyelven mindent lefordítottak. A litván és a dán részlegesen lefordítva, de a fájl integritását ellenõrzik. Ha hiba történt, kérjük, olvassa el az angol változatot.
+Ukrï¿½n, orosz Magyar nyelven mindent lefordï¿½tottak. A litvï¿½n ï¿½s a dï¿½n rï¿½szlegesen lefordï¿½tva, de a fï¿½jl integritï¿½sï¿½t ellenï¿½rzik. Ha hiba tï¿½rtï¿½nt, kï¿½rjï¿½k, olvassa el az angol vï¿½ltozatot.
 
 
-PHP-Fusion Developers Only verzió
+PHP-Fusion Developers Only verziï¿½
 =================================
-A PHP-Fusion 9.00 jelenleg aktív fejlesztés alatt áll. A Beta kiadásának elsõ verziója 2014 negyedik negyedévében indult el.
-A PHP-Fusion 9.00-ben SEO permalineket vezettek be, a biztonság növelése érdekében. Sablonok kerültek bevezetésre a hatékonyság növelése érdekében.
+A PHP-Fusion 9.00 jelenleg aktï¿½v fejlesztï¿½s alatt ï¿½ll. A Beta kiadï¿½sï¿½nak elsï¿½ verziï¿½ja 2014 negyedik negyedï¿½vï¿½ben indult el.
+A PHP-Fusion 9.00-ben SEO permalineket vezettek be, a biztonsï¿½g nï¿½velï¿½se ï¿½rdekï¿½ben. Sablonok kerï¿½ltek bevezetï¿½sre a hatï¿½konysï¿½g nï¿½velï¿½se ï¿½rdekï¿½ben.
 Added Features in the Version 9.00 includes blog.
 
-A PHP-Fusion egy könnyû, nyílt forráskódú PHP-ben futó tartalomkezelõ rendszer (CMS), amelyet Nick Jones (más néven Digitanium) alapított. MySQL adatbázis felhasználásával tárolja a weboldal tartalmát, és egy egyszerû, de átfogó adminisztrációs rendszerrel rendelkezik. A PHP-Fusion több más CMS-csomagban is használható szolgáltatásokat tartalmaz.
+A PHP-Fusion egy kï¿½nnyï¿½, nyï¿½lt forrï¿½skï¿½dï¿½ PHP-ben futï¿½ tartalomkezelï¿½ rendszer (CMS), amelyet Nick Jones (mï¿½s nï¿½ven Digitanium) alapï¿½tott. MySQL adatbï¿½zis felhasznï¿½lï¿½sï¿½val tï¿½rolja a weboldal tartalmï¿½t, ï¿½s egy egyszerï¿½, de ï¿½tfogï¿½ adminisztrï¿½ciï¿½s rendszerrel rendelkezik. A PHP-Fusion tï¿½bb mï¿½s CMS-csomagban is hasznï¿½lhatï¿½ szolgï¿½ltatï¿½sokat tartalmaz.
 
 
-A Github Development Repository használata
+A Github Development Repository hasznï¿½lata
 ==========================================
-<strong>Saját PHP-Fusion Fork frissítése</strong>
+<strong>Sajï¿½t PHP-Fusion Fork frissï¿½tï¿½se</strong>
 <ol>
-    <li><strong>Követelmény</strong>:
+    <li><strong>Kï¿½vetelmï¿½ny</strong>:
     <ul>
-        <li>Hozz létre egy Github Hozzáférést</li>
-        <li>Telepítsd a Github [Windows](https://desktop.github.com/)/Mac vagy telepítse a [GitSCM](https://git-scm.com/downloads) Hogy elérje a legújabb GitBash verziót</li>
-        <li>Indítsa el a Gitbash parancssori terminálját
+        <li>Hozz lï¿½tre egy Github Hozzï¿½fï¿½rï¿½st</li>
+        <li>Telepï¿½tsd a Github [Windows](https://desktop.github.com/)/Mac vagy telepï¿½tse a [GitSCM](https://git-scm.com/downloads) Hogy elï¿½rje a legï¿½jabb GitBash verziï¿½t</li>
+        <li>Indï¿½tsa el a Gitbash parancssori terminï¿½ljï¿½t
         <ol>
-        <li><strong>Mac :</strong> Nyissa meg a terminált vagy egyszerûen írja be <strong>terminal</strong> a Spotlight/Finderben</li>
-        <li><strong>PC:</strong> Start, írja be <strong>cmd</strong> a keresõbe.</li>
-        <li>Így megnyit egy hozzáférést a <strong>Terminal vagy Dos vagy GitBash</strong> írja be a parancsot <strong>cd</strong> parancsal navigálhatja magát a tárhelye munkakönyvtárához (i.e. C:\User\user\Documents\Github\PHP-Fusion\ > - )
+        <li><strong>Mac :</strong> Nyissa meg a terminï¿½lt vagy egyszerï¿½en ï¿½rja be <strong>terminal</strong> a Spotlight/Finderben</li>
+        <li><strong>PC:</strong> Start, ï¿½rja be <strong>cmd</strong> a keresï¿½be.</li>
+        <li>ï¿½gy megnyit egy hozzï¿½fï¿½rï¿½st a <strong>Terminal vagy Dos vagy GitBash</strong> ï¿½rja be a parancsot <strong>cd</strong> parancsal navigï¿½lhatja magï¿½t a tï¿½rhelye munkakï¿½nyvtï¿½rï¿½hoz (i.e. C:\User\user\Documents\Github\PHP-Fusion\ > - )
     </ul>
 	</li>
-    <li><strong>Most hajtsa végre és futtassa soronként</strong>
+    <li><strong>Most hajtsa vï¿½gre ï¿½s futtassa soronkï¿½nt</strong>
 <ol>
 <li>git init</li>
 <li>git checkout 9.00</li>
 <li>git pull upstream</li>
 <li>git push</li>
-<li>Írja be <strong>Felhasználó név</strong> és a <strong>jelszót</strong> (ha van)</li>
+<li>ï¿½rja be <strong>Felhasznï¿½lï¿½ nï¿½v</strong> ï¿½s a <strong>jelszï¿½t</strong> (ha van)</li>
 </ol>
-<strong>Példa:</strong>
+<strong>Pï¿½lda:</strong>
 <ol>
 <li>C:\User\user\Documents\Github\PHP-Fusion\ git init</li>
 <li>C:\User\user\Documents\Github\PHP-Fusion\ git checkout 9.00</li>
 <li>C:\User\user\Documents\Github\PHP-Fusion\ git pull upstream</li>
 <li>C:\User\user\Documents\Github\PHP-Fusion\ git push</li>
-<li>Írja be <strong>Felhasználó név</strong> és a <strong>jelszót</strong> (ha van)</li>
+<li>ï¿½rja be <strong>Felhasznï¿½lï¿½ nï¿½v</strong> ï¿½s a <strong>jelszï¿½t</strong> (ha van)</li>
 </ol>
 </li>
 </ul>
 
-Fejlesztési változások (9. verzió)
+Fejlesztï¿½si vï¿½ltozï¿½sok (9. verziï¿½)
 ==================================
-<strong>Elkészült</strong>
+<strong>Elkï¿½szï¿½lt</strong>
 <ul>
-<li><strong>Gyors Mag</strong> - Leegyszerûsíthetõ a teljesítmény. Elõsször is, új class autoloader hoztak létre a class helyett, szerveroldali mentések fájl elérési utakon keresztül. A fájlok kezelése a Mag funkciója újra felhasználható a maincore.php hívása nélkül</li>
-<li><strong>Hatékonyabb és könnyebb kódolás</strong> - Automatizált összetevõk nélkül sok html kódolás. Az ûrlapok létrehozása könnyebb, mint korábban, a részek és a szabványos formájú összetevõk funkciói, amelyek a szinte minden egyes HTML attribútumot magukban foglalják, és szinte minden egyes jquery implementációt egy ûrlapmezõben.</li>
-<li><strong>360 degree Automatic Sanitization</strong> - A PHP-Fusion Defender mindent magába foglal. Nincs több egyéni sanitization vagy fájlfeltöltés érvényesítés. Ha a mag segítségével meg tudjuk csinálni, akkor a magon keresztül tesszük.</li>
-<li><strong>Új PDO</strong> - Új PDO Támogatja a MSQLi szerver bázist.</li>
-<li><strong>Idõzóna</strong> - A kiszolgálói idõ eltolódásokat az Idõzónák szerint újradefiniáltuk, így a DST a mi natív funkcióinkban is elérhetõ showdate(), timer(), countdown(), etc</li>
-<li><strong>Összevont funkciók</strong> - A 6,7-es verzió óta támogatott, egyedi, beépített natív funkciók felülvizsgáltuk, elavultak átírtuk.</li>
-<li>Bootstrapp & Letisztult dizájn</strong> - Minden alapvetõ sablon rögtön alkalmazkodik a tervezéshez. Le lehet kapcsolni, hogy támogassa az idõsebb generációk témáitt vagy más olyan érzékeny kereteket, mint az Foundation, a grid360, a Szemantikus felhasználói felület stb. Mindazonáltal kérjük, vegye figyelembe, hogy alapvetõ rendszereink kizárólag a Bootstrap alkalmazására épülnek.
+<li><strong>Gyors Mag</strong> - Leegyszerï¿½sï¿½thetï¿½ a teljesï¿½tmï¿½ny. Elï¿½sszï¿½r is, ï¿½j class autoloader hoztak lï¿½tre a class helyett, szerveroldali mentï¿½sek fï¿½jl elï¿½rï¿½si utakon keresztï¿½l. A fï¿½jlok kezelï¿½se a Mag funkciï¿½ja ï¿½jra felhasznï¿½lhatï¿½ a maincore.php hï¿½vï¿½sa nï¿½lkï¿½l</li>
+<li><strong>Hatï¿½konyabb ï¿½s kï¿½nnyebb kï¿½dolï¿½s</strong> - Automatizï¿½lt ï¿½sszetevï¿½k nï¿½lkï¿½l sok html kï¿½dolï¿½s. Az ï¿½rlapok lï¿½trehozï¿½sa kï¿½nnyebb, mint korï¿½bban, a rï¿½szek ï¿½s a szabvï¿½nyos formï¿½jï¿½ ï¿½sszetevï¿½k funkciï¿½i, amelyek a szinte minden egyes HTML attribï¿½tumot magukban foglaljï¿½k, ï¿½s szinte minden egyes jquery implementï¿½ciï¿½t egy ï¿½rlapmezï¿½ben.</li>
+<li><strong>360 degree Automatic Sanitization</strong> - A PHP-Fusion Defender mindent magï¿½ba foglal. Nincs tï¿½bb egyï¿½ni sanitization vagy fï¿½jlfeltï¿½ltï¿½s ï¿½rvï¿½nyesï¿½tï¿½s. Ha a mag segï¿½tsï¿½gï¿½vel meg tudjuk csinï¿½lni, akkor a magon keresztï¿½l tesszï¿½k.</li>
+<li><strong>ï¿½j PDO</strong> - ï¿½j PDO Tï¿½mogatja a MSQLi szerver bï¿½zist.</li>
+<li><strong>Idï¿½zï¿½na</strong> - A kiszolgï¿½lï¿½i idï¿½ eltolï¿½dï¿½sokat az Idï¿½zï¿½nï¿½k szerint ï¿½jradefiniï¿½ltuk, ï¿½gy a DST a mi natï¿½v funkciï¿½inkban is elï¿½rhetï¿½ showdate(), timer(), countdown(), etc</li>
+<li><strong>ï¿½sszevont funkciï¿½k</strong> - A 6,7-es verziï¿½ ï¿½ta tï¿½mogatott, egyedi, beï¿½pï¿½tett natï¿½v funkciï¿½k felï¿½lvizsgï¿½ltuk, elavultak ï¿½tï¿½rtuk.</li>
+<li>Bootstrapp & Letisztult dizï¿½jn</strong> - Minden alapvetï¿½ sablon rï¿½gtï¿½n alkalmazkodik a tervezï¿½shez. Le lehet kapcsolni, hogy tï¿½mogassa az idï¿½sebb generï¿½ciï¿½k tï¿½mï¿½itt vagy mï¿½s olyan ï¿½rzï¿½keny kereteket, mint az Foundation, a grid360, a Szemantikus felhasznï¿½lï¿½i felï¿½let stb. Mindazonï¿½ltal kï¿½rjï¿½k, vegye figyelembe, hogy alapvetï¿½ rendszereink kizï¿½rï¿½lag a Bootstrap alkalmazï¿½sï¿½ra ï¿½pï¿½lnek.
 </ul>
 
-A PHP-Fusion lehetõséget nyújt a felhasználóknak arra, hogy a szabványos csomagokkal ún. Infúziókkal bõvítsék. Ezek az infúziók könnyen feltölthetõk, telepíthetõk és kezelhetõk. Számos infúzió érhetõ el, melyek így megtalálhatók a hivatalos PHP-Fusion Mods adatbázisában. Az infúziók mellett vannak olyan modok is, amelyek leginkább a magkódot és a paneleket tartalmaznak, amelyek valamelyik oldalsó oldalon jelennek meg. Ezek mind széles körben rendelkezésre állnak, ellenõrzik és fel vannak tüntetve a PHP-Fusion Mods adatbázisban.
-A PHP-Fusion emellett témák létrehozását és weboldala könnyû használatát is kínálja, kevés munkával. Két fájl van, a theme.php és a styles.css, amelyeken a téma nagy része meghatározható és módosítható.
+A PHP-Fusion lehetï¿½sï¿½get nyï¿½jt a felhasznï¿½lï¿½knak arra, hogy a szabvï¿½nyos csomagokkal ï¿½n. Infï¿½ziï¿½kkal bï¿½vï¿½tsï¿½k. Ezek az infï¿½ziï¿½k kï¿½nnyen feltï¿½lthetï¿½k, telepï¿½thetï¿½k ï¿½s kezelhetï¿½k. Szï¿½mos infï¿½ziï¿½ ï¿½rhetï¿½ el, melyek ï¿½gy megtalï¿½lhatï¿½k a hivatalos PHP-Fusion Mods adatbï¿½zisï¿½ban. Az infï¿½ziï¿½k mellett vannak olyan modok is, amelyek leginkï¿½bb a magkï¿½dot ï¿½s a paneleket tartalmaznak, amelyek valamelyik oldalsï¿½ oldalon jelennek meg. Ezek mind szï¿½les kï¿½rben rendelkezï¿½sre ï¿½llnak, ellenï¿½rzik ï¿½s fel vannak tï¿½ntetve a PHP-Fusion Mods adatbï¿½zisban.
+A PHP-Fusion emellett tï¿½mï¿½k lï¿½trehozï¿½sï¿½t ï¿½s weboldala kï¿½nnyï¿½ hasznï¿½latï¿½t is kï¿½nï¿½lja, kevï¿½s munkï¿½val. Kï¿½t fï¿½jl van, a theme.php ï¿½s a styles.css, amelyeken a tï¿½ma nagy rï¿½sze meghatï¿½rozhatï¿½ ï¿½s mï¿½dosï¿½thatï¿½.
 
-Fõbb jellemzõi
+Fï¿½bb jellemzï¿½i
 ==============
-A PHP-Fusion a következõ fõbb jellemzõkkel rendelkezik:
+A PHP-Fusion a kï¿½vetkezï¿½ fï¿½bb jellemzï¿½kkel rendelkezik:
 <ul>
-<li>Hírek</li>
+<li>Hï¿½rek</li>
 <li>Blog</li>
 <li>Cikkek</li>
-<li>Fórum</li>
-<li>Galéria</li>
+<li>Fï¿½rum</li>
+<li>Galï¿½ria</li>
 <li>Web Linkek</li>
-<li>Letöltések</li>
-<li>Szavazás</li>
-<li>Üzenõfal</li>
-<li>Privát Üzenetek</li>
-<li>Keresõ</li>
-<li>Felületek</li>
+<li>Letï¿½ltï¿½sek</li>
+<li>Szavazï¿½s</li>
+<li>ï¿½zenï¿½fal</li>
+<li>Privï¿½t ï¿½zenetek</li>
+<li>Keresï¿½</li>
+<li>Felï¿½letek</li>
 </ul>
 
-Új funkciók 9.00
+ï¿½j funkciï¿½k 9.00
 ================
-<strong>Fejlesztõi funkciók</strong><br/>
-<P>A CMS-t úgy tervezték meg, hogy alkalmazkodjon a felhasználók igényeihez, elsõsorban az egyéni igények kielégítésére. Ebben az új verzióban dolgoztunk CMS átstrukturálásában, hogy egyre többet hozzunk ki a PHP-Fusion-ból, különös tekintettel a következõkre: </ p>
-- Maximális fejlesztési produktivitás
-- Maximális fejlesztési sebesség
-- Egyszerû használat.
+<strong>Fejlesztï¿½i funkciï¿½k</strong><br/>
+<P>A CMS-t ï¿½gy terveztï¿½k meg, hogy alkalmazkodjon a felhasznï¿½lï¿½k igï¿½nyeihez, elsï¿½sorban az egyï¿½ni igï¿½nyek kielï¿½gï¿½tï¿½sï¿½re. Ebben az ï¿½j verziï¿½ban dolgoztunk CMS ï¿½tstrukturï¿½lï¿½sï¿½ban, hogy egyre tï¿½bbet hozzunk ki a PHP-Fusion-bï¿½l, kï¿½lï¿½nï¿½s tekintettel a kï¿½vetkezï¿½kre: </ p>
+- Maximï¿½lis fejlesztï¿½si produktivitï¿½s
+- Maximï¿½lis fejlesztï¿½si sebessï¿½g
+- Egyszerï¿½ hasznï¿½lat.
 
-<strong>Új Mag</strong><br/>
-A PHP-Fusion 9.00-et a maincore.php után négy extra core segíti.<br/>
+<strong>ï¿½j Mag</strong><br/>
+A PHP-Fusion 9.00-et a maincore.php utï¿½n nï¿½gy extra core segï¿½ti.<br/>
 - A Dynamic Output handling Class.
 - A PHP-Fusion Quantum-Dynamic Field Class.
 - A PHP-Fusion Defender Class.
 - A PHP-Fusion Atom theme Class.
 - A PHP-Fusion Autoloader Class.
 
-<strong>Új Telepítõ</strong><br/>
-Egy új telepítõt terveztek és alakítottak ki az egyedi igények kielégítésére:<br/>
-- Telepítés/Törlés a Mag rendszer Modulja.
-- A weboldal tulajdonjoga átruházása más személyekre anélkül, hogy ki kellene adnia az eredeti jelszót (Jelszó-visszaírási módszer).
-- Frissítés A korábbi verziókból - úgy döntenek, hogy 2 legfontosabb okból átkerülnek
-- A config.php átnevezése így leállítja a Weboldal mûködését, és nem zavarja a DB felülírását.
-  -- fast-in-fast-out. Annak érdekében, hogy a telepítõ végrehajtsa a weboldalon a szükséges módosításokat, a webhely látogatói nem tudnak beavatkozni a folyamatba, és hogy a felhasználók biztonsági okból ne vegyék könnyedén ezeket a folyamatokat.
+<strong>ï¿½j Telepï¿½tï¿½</strong><br/>
+Egy ï¿½j telepï¿½tï¿½t terveztek ï¿½s alakï¿½tottak ki az egyedi igï¿½nyek kielï¿½gï¿½tï¿½sï¿½re:<br/>
+- Telepï¿½tï¿½s/Tï¿½rlï¿½s a Mag rendszer Modulja.
+- A weboldal tulajdonjoga ï¿½truhï¿½zï¿½sa mï¿½s szemï¿½lyekre anï¿½lkï¿½l, hogy ki kellene adnia az eredeti jelszï¿½t (Jelszï¿½-visszaï¿½rï¿½si mï¿½dszer).
+- Frissï¿½tï¿½s A korï¿½bbi verziï¿½kbï¿½l - ï¿½gy dï¿½ntenek, hogy 2 legfontosabb okbï¿½l ï¿½tkerï¿½lnek
+- A config.php ï¿½tnevezï¿½se ï¿½gy leï¿½llï¿½tja a Weboldal mï¿½kï¿½dï¿½sï¿½t, ï¿½s nem zavarja a DB felï¿½lï¿½rï¿½sï¿½t.
+  -- fast-in-fast-out. Annak ï¿½rdekï¿½ben, hogy a telepï¿½tï¿½ vï¿½grehajtsa a weboldalon a szï¿½ksï¿½ges mï¿½dosï¿½tï¿½sokat, a webhely lï¿½togatï¿½i nem tudnak beavatkozni a folyamatba, ï¿½s hogy a felhasznï¿½lï¿½k biztonsï¿½gi okbï¿½l ne vegyï¿½k kï¿½nnyedï¿½n ezeket a folyamatokat.
 
-<P>Vegye figyelembe, hogy az adatbázis mentése az Admin Panel-ban maradt, mivel nem mûködik közre a weboldal futtatásával. A rendszergazdának lehetõsége van a webhely karbantartása bekapcsolására, ha azt szeretné.</ P>
+<P>Vegye figyelembe, hogy az adatbï¿½zis mentï¿½se az Admin Panel-ban maradt, mivel nem mï¿½kï¿½dik kï¿½zre a weboldal futtatï¿½sï¿½val. A rendszergazdï¿½nak lehetï¿½sï¿½ge van a webhely karbantartï¿½sa bekapcsolï¿½sï¿½ra, ha azt szeretnï¿½.</ P>
 
-<strong>Új Felület SDK</strong>
-<P>Most robusztusabb és testre szabhatóbb. Az eddigi 7.00-es verzióból a kiterjesztett render_news(), a 9.00-es verzióban adták hozzá:</ p>
+<strong>ï¿½j Felï¿½let SDK</strong>
+<P>Most robusztusabb ï¿½s testre szabhatï¿½bb. Az eddigi 7.00-es verziï¿½bï¿½l a kiterjesztett render_news(), a 9.00-es verziï¿½ban adtï¿½k hozzï¿½:</ p>
 
 <strong>Cikkek:</strong>: display_main_articles(), render_article(), render_article_item()<br/>
 <strong>Blog:</strong>: render_main_blog(), display_blog_item(), display_blog_index(), display_blog_menu()<br/>
-<strong>Letölrések:</strong>: render_downloads(), display_download_menu()<br/>
+<strong>Letï¿½lrï¿½sek:</strong>: render_downloads(), display_download_menu()<br/>
 <strong>GyiK</strong>: display_main_faq(), render_faq_item()<br/>
-<strong>Fórum (Part A: Forms)</strong>: display_forum_postform(), display_forum_pollform(), display_quickReply()<br/>
-<strong>Fórum (Part B: Main)</strong>: render_forum(), render_forum_main(), render_forum_item(), forum_viewforum(), render_forum_threads(), render_thread_item(), render_participated(), render_laft(), render_tracked(), render_unanswered(), render_unsolved(), forum_filter(), forum_newtopic(), render_postify()<br/>
-<strong>Fórum (Part C: Tags)</strong>: display_forum_tags()<br/>
-<strong>Fórum (Part D: Thread)</strong>: render_thread(), render_post_item()<br/>
-<strong>Privát Üzenetek</strong>: display_inbox()<br/>
-<strong>Hírek:</strong> render_news(), render_main_news(), render_news_item()<br/>
-<strong>Felhasználói Profil: </strong> display_user_profile(), display_user_field(), display_user_field_container()<br/>
+<strong>Fï¿½rum (Part A: Forms)</strong>: display_forum_postform(), display_forum_pollform(), display_quickReply()<br/>
+<strong>Fï¿½rum (Part B: Main)</strong>: render_forum(), render_forum_main(), render_forum_item(), forum_viewforum(), render_forum_threads(), render_thread_item(), render_participated(), render_laft(), render_tracked(), render_unanswered(), render_unsolved(), forum_filter(), forum_newtopic(), render_postify()<br/>
+<strong>Fï¿½rum (Part C: Tags)</strong>: display_forum_tags()<br/>
+<strong>Fï¿½rum (Part D: Thread)</strong>: render_thread(), render_post_item()<br/>
+<strong>Privï¿½t ï¿½zenetek</strong>: display_inbox()<br/>
+<strong>Hï¿½rek:</strong> render_news(), render_main_news(), render_news_item()<br/>
+<strong>Felhasznï¿½lï¿½i Profil: </strong> display_user_profile(), display_user_field(), display_user_field_container()<br/>
 <strong>Web Linkek:</strong> display_main_weblinks(), render_weblinks_item()<br/>
 <br/>
-Ha szeretné testreszabni bármelyik részt, tegye be a függvényeket a téma közé, hogy felülírja az alapértelmezett értékeket.
+Ha szeretnï¿½ testreszabni bï¿½rmelyik rï¿½szt, tegye be a fï¿½ggvï¿½nyeket a tï¿½ma kï¿½zï¿½, hogy felï¿½lï¿½rja az alapï¿½rtelmezett ï¿½rtï¿½keket.
 
-<strong>Új Admin Panel</strong><br/>
+<strong>ï¿½j Admin Panel</strong><br/>
 <ul>
-<li><strong>Felület</strong> :Az adminisztrátor Felület alapértelmezett útvonala /themes/admin_themes/</li>
-<li><strong>Letisztult Dizájn</strong> : Új Admin felület az Artemis.</li>
-<li><strong>Irányítópult</strong> : Új Adminisztrációs felület.</li>
-<li><strong>Admin Belépés és Kilépés</strong>: Kiterjesztette a biztonságot, és eltávolította az adminisztrátor jelszavának beírását a bejelentkezés után.</li>
+<li><strong>Felï¿½let</strong> :Az adminisztrï¿½tor Felï¿½let alapï¿½rtelmezett ï¿½tvonala /themes/admin_themes/</li>
+<li><strong>Letisztult Dizï¿½jn</strong> : ï¿½j Admin felï¿½let az Artemis.</li>
+<li><strong>Irï¿½nyï¿½tï¿½pult</strong> : ï¿½j Adminisztrï¿½ciï¿½s felï¿½let.</li>
+<li><strong>Admin Belï¿½pï¿½s ï¿½s Kilï¿½pï¿½s</strong>: Kiterjesztette a biztonsï¿½got, ï¿½s eltï¿½volï¿½totta az adminisztrï¿½tor jelszavï¿½nak beï¿½rï¿½sï¿½t a bejelentkezï¿½s utï¿½n.</li>
 </ul>
 
-<strong>Hatékony felhasználói mezõk Modul</strong><br/>
-A felhasználói mezõk dinamikusak, modulok nélkül is hozzáadhatók. Csak add hozzá az Admin Panel segítségével.
+<strong>Hatï¿½kony felhasznï¿½lï¿½i mezï¿½k Modul</strong><br/>
+A felhasznï¿½lï¿½i mezï¿½k dinamikusak, modulok nï¿½lkï¿½l is hozzï¿½adhatï¿½k. Csak add hozzï¿½ az Admin Panel segï¿½tsï¿½gï¿½vel.
 
-<strong>Felület motor</strong><br/>
-Hozzáadtja az alapértelmezett css témákat a módosításhoz.
+<strong>Felï¿½let motor</strong><br/>
+Hozzï¿½adtja az alapï¿½rtelmezett css tï¿½mï¿½kat a mï¿½dosï¿½tï¿½shoz.
 
-<strong>Többnyelvû</strong><br/>
-Támogatjuk Többnyelvû opciót a 9.00 Verziótól. Az alapvetõ funkciókat e köré fejlesztjük. A kompatibilitási ok miatt nem írtunk SDK-t vagy API-t, csak egyszerûen
-a felhasználói nézet nyelvezetét könnyen az alábbi parancs "?lang=English" / "?lang=Russian" segítségével a felhasználó által használt nyelvi modell váltáshoz. Tartalomkezelés beleértve
-a felhasználói mezõk létrehozása, a panel nyelvének váltása alkalmazkodni fog ehhez a módszerhez, és ennek megfelelõen válthat. Ha azonban egy tartalom angolul áll rendelkezésre, akkor nem jelenik meg
-más nyelven, amíg egy másik tartalom nem áll rendelkezésre. A cikkek / hírek / szálait minden nyelvét külön kezeljük.
-<strong>SEO Integráció</strong><br/>
-Végrehajtottuk az elsõ lépést a rendszer egészére kiterjedõ, moduláris alapú SEO permalinkekre. Kulcsszavakkal és metákkat egészítetük ki a rendszert.
+<strong>Tï¿½bbnyelvï¿½</strong><br/>
+Tï¿½mogatjuk Tï¿½bbnyelvï¿½ opciï¿½t a 9.00 Verziï¿½tï¿½l. Az alapvetï¿½ funkciï¿½kat e kï¿½rï¿½ fejlesztjï¿½k. A kompatibilitï¿½si ok miatt nem ï¿½rtunk SDK-t vagy API-t, csak egyszerï¿½en
+a felhasznï¿½lï¿½i nï¿½zet nyelvezetï¿½t kï¿½nnyen az alï¿½bbi parancs "?lang=English" / "?lang=Russian" segï¿½tsï¿½gï¿½vel a felhasznï¿½lï¿½ ï¿½ltal hasznï¿½lt nyelvi modell vï¿½ltï¿½shoz. Tartalomkezelï¿½s beleï¿½rtve
+a felhasznï¿½lï¿½i mezï¿½k lï¿½trehozï¿½sa, a panel nyelvï¿½nek vï¿½ltï¿½sa alkalmazkodni fog ehhez a mï¿½dszerhez, ï¿½s ennek megfelelï¿½en vï¿½lthat. Ha azonban egy tartalom angolul ï¿½ll rendelkezï¿½sre, akkor nem jelenik meg
+mï¿½s nyelven, amï¿½g egy mï¿½sik tartalom nem ï¿½ll rendelkezï¿½sre. A cikkek / hï¿½rek / szï¿½lait minden nyelvï¿½t kï¿½lï¿½n kezeljï¿½k.
+<strong>SEO Integrï¿½ciï¿½</strong><br/>
+Vï¿½grehajtottuk az elsï¿½ lï¿½pï¿½st a rendszer egï¿½szï¿½re kiterjedï¿½, modulï¿½ris alapï¿½ SEO permalinkekre. Kulcsszavakkal ï¿½s metï¿½kkat egï¿½szï¿½tetï¿½k ki a rendszert.
 
-<strong>Új Almenû Rendszer</strong>
-A Beta 4 alatt a fejlesztõi csapat új hierarchia menürendszert indított a 9.00-es verzióra.
+<strong>ï¿½j Almenï¿½ Rendszer</strong>
+A Beta 4 alatt a fejlesztï¿½i csapat ï¿½j hierarchia menï¿½rendszert indï¿½tott a 9.00-es verziï¿½ra.
 
-Új Mag Rendszer
+ï¿½j Mag Rendszer
 ===============
  -- Sablon Mag
- -- Korlátlan hierarchia
- -- Új Adminisztrációs Felület
+ -- Korlï¿½tlan hierarchia
+ -- ï¿½j Adminisztrï¿½ciï¿½s Felï¿½let
 
 - Blog Rendszer
-- Navigációs almenû rendszer
+- Navigï¿½ciï¿½s almenï¿½ rendszer
 
-Kiemelt változások és Módosítások az új Rendszerben
+Kiemelt vï¿½ltozï¿½sok ï¿½s Mï¿½dosï¿½tï¿½sok az ï¿½j Rendszerben
 ===================================================
-- Fórum - a fórumok korlátlan száma adható hozzá. Korlátlan fórum-hierarchia szinteket, és hozzáadott 2 új típusú fórumot - Válaszok és támogatások és linkek.
-- Folyamatosan vizsgálja hogy a felhasználó éppen mit használ @username a fórum, üzenõfal, és az összes aplikációt felhasználja a parseSmileys();
+- Fï¿½rum - a fï¿½rumok korlï¿½tlan szï¿½ma adhatï¿½ hozzï¿½. Korlï¿½tlan fï¿½rum-hierarchia szinteket, ï¿½s hozzï¿½adott 2 ï¿½j tï¿½pusï¿½ fï¿½rumot - Vï¿½laszok ï¿½s tï¿½mogatï¿½sok ï¿½s linkek.
+- Folyamatosan vizsgï¿½lja hogy a felhasznï¿½lï¿½ ï¿½ppen mit hasznï¿½l @username a fï¿½rum, ï¿½zenï¿½fal, ï¿½s az ï¿½sszes aplikï¿½ciï¿½t felhasznï¿½lja a parseSmileys();
 
-A Jövõ
+A Jï¿½vï¿½
 ======
-A PHP-Fusion egy egyszerû CMS, amelyet a kiszolgáló betöltési idejének villámgyors teljesítménye miatt használtak, mert a kódokat könnyûvé és tömörítjük.
-Még az újonnan kifejlesztett funkciókkal is, hogy több alapmunkát végezzenek, nagyon valószínû, hogy a régebbi elemeket nem támogatják. Lessz idõ az átállásra.
-Amikor minden alapmûveletet elindítottunk, jövõbeni fejlesztési verzióink a jquery, az ajax és a mobil eszközökkel fognak haladni.
+A PHP-Fusion egy egyszerï¿½ CMS, amelyet a kiszolgï¿½lï¿½ betï¿½ltï¿½si idejï¿½nek villï¿½mgyors teljesï¿½tmï¿½nye miatt hasznï¿½ltak, mert a kï¿½dokat kï¿½nnyï¿½vï¿½ ï¿½s tï¿½mï¿½rï¿½tjï¿½k.
+Mï¿½g az ï¿½jonnan kifejlesztett funkciï¿½kkal is, hogy tï¿½bb alapmunkï¿½t vï¿½gezzenek, nagyon valï¿½szï¿½nï¿½, hogy a rï¿½gebbi elemeket nem tï¿½mogatjï¿½k. Lessz idï¿½ az ï¿½tï¿½llï¿½sra.
+Amikor minden alapmï¿½veletet elindï¿½tottunk, jï¿½vï¿½beni fejlesztï¿½si verziï¿½ink a jquery, az ajax ï¿½s a mobil eszkï¿½zï¿½kkel fognak haladni.

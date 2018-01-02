@@ -10,7 +10,7 @@ $locale['414'] = "RSS feed slettet";
 // RSS feed form
 $locale['420'] = "RSS Tittel:";
 $locale['421'] = "RSS Beskrivelse:";
-$locale['422'] = "Max alder på feed innlegg:";
+$locale['422'] = "Max alder pï¿½ feed innlegg:";
 $locale['423'] = "Max antall innlegg i feed:";
 $locale['429'] = "Lagre RSS Feed";
 // RSS Max age
@@ -18,7 +18,7 @@ $locale['431'] = "time";
 $locale['432'] = "timer";
 $locale['433'] = "dager";
 $locale['434'] = "uker";
-$locale['435'] = "måneder";
+$locale['435'] = "mï¿½neder";
 $locale['436'] = "uendelig";
 // RSS Feed Types
 $locale['440'] = "Artikler";

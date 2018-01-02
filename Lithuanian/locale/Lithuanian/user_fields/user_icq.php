@@ -1,6 +1,6 @@
 <?php
 $locale['uf_icq'] = "ICQ#";
 $locale['uf_icq_desc'] = "ICQ ID numeris";	 
-$locale['uf_icq_error'] = "ICQ negali bûti tuðèias.";
-$locale['uf_icq_error2'] = "ICQ turi sudaryti skaièiai.";
+$locale['uf_icq_error'] = "ICQ negali bï¿½ti tuï¿½ï¿½ias.";
+$locale['uf_icq_error2'] = "ICQ turi sudaryti skaiï¿½iai.";
 

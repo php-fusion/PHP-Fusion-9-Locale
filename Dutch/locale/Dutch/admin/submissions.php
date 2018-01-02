@@ -25,7 +25,7 @@ $locale['430'] = "Ingezonden link publiceren";
 $locale['431'] = "De link is gepubliceerd";
 $locale['432'] = "Ingezonden link verwijderen";
 $locale['433'] = "De link is verwijderd";
-$locale['434'] = "Geen categorieën";
+$locale['434'] = "Geen categorieï¿½n";
 // Web Link Submission Form
 $locale['440'] = "Ingezonden weblink bekijken";
 $locale['441'] = "De volgende link werd ingezonden door ";
