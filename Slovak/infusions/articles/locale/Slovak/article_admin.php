@@ -107,9 +107,9 @@ $locale['article_0910'] = "Článok bol úspešne odoslaný.";
 $locale['article_0911'] = "Ďakujeme Vám za príspevok.";
 $locale['article_0912'] = "Odoslať ďalší článok";
 $locale['article_0913'] = "Späť na začiatok stránky";
-$locale['article_0920'] = "Použite tento formulár na odoslanie článku. Váš príspevok bude posúdený
-administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Články
-by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['article_0920'] = "Použite tento formulár na odoslanie článku.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Články by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['article_0921'] = "Ak chcete odoslať článok, musíte sa prihlásiť.";
 $locale['article_0922'] = "Momentálne neprijímame nové príspevky.";
 $locale['article_0923'] = "Nemôžete odoslať článok, pretože nie sú definované žiadne kategórie.";

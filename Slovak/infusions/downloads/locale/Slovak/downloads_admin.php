@@ -39,14 +39,14 @@ $locale['download_0020'] = "Aktuálne kategórie";
 $locale['download_0021'] = "Upraviť kategórie";
 $locale['download_0022'] = "Kategórie";
 $locale['download_0023'] = "Editor kategórií";
-$locale['download_0039'] = "Vrátiť na [SITENAME]";
+$locale['download_0039'] = "Späť na [SITENAME]";
 $locale['download_0040'] = "Ospravedlňujeme sa, momentálne neprijímame žiadne nové príspevky.";
 $locale['download_0041'] = "Odoslať súbor na stiahnutie";
 $locale['download_0042'] = "Ďakujeme za odoslanie súboru na prevzatie";
 $locale['download_0043'] = "Odoslať ďalšie súbory na prevzatie";
-$locale['download_0044'] = "Použite tento formulár na odoslanie súbory na prevzatie. Váš príspevok bude posúdený
-administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Súbory na prevzatie
-by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['download_0044'] = "Použite tento formulár na odoslanie súboru na prevzatie.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Súbory na prevzatie by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['download_0046'] = "Príspevky na schválenie";
 $locale['download_0047'] = "Požadovaný screenshot?";
 $locale['download_0048'] = "Požadovaný úplný popis?";
@@ -105,8 +105,8 @@ $locale['download_0214'] = "Predložený súbor na prevzatie";
 $locale['download_0215'] = "Odkaz na stiahnutie";
 $locale['download_0216'] = "Odstrániť";
 $locale['download_0217'] = "Vypočítať veľkosť súboru";
-$locale['download_0218'] = "Max. veľkosť súboru: %s / povolené typy súborov: %s";
-$locale['download_0219'] = "Max. veľkosť súboru: %s / povolené typy súborov: / Max. šírka: %spx, max. výška: %spx";
+$locale['download_0218'] = "Max. veľkosť súboru: %s / Povolené typy súborov: %s";
+$locale['download_0219'] = "Max. veľkosť súboru: %s / Povolené typy súborov: / Max. šírka: %spx, max. výška: %spx";
 $locale['download_0220'] = "Screenshot";
 $locale['download_0221'] = "Domovská stránka";
 $locale['download_0222'] = "Copyright";
@@ -118,7 +118,7 @@ $locale['download_0227'] = "Možnosti";
 $locale['download_0249'] = "Nie sú definované žiadne kategórie.";
 $locale['download_0250'] = "Do tejto kategórie neboli pridané žiadne súbory na prevzatie";
 $locale['download_0251'] = "Nie sú definované žiadne kategórie";
-$locale['download_0252'] = "Musíte definovať aspoň jednu kategóriu predtým, ako môžete pridať nejaké súbory na prevzatie";
+$locale['download_0252'] = "Musíte definovať aspoň jednu kategóriu predtým, než začnete pridávať nejaké súbory na prevzatie";
 $locale['download_0253'] = "kliknite tu";
 $locale['download_0254'] = " prejdete do kategórií";
 $locale['download_0255'] = "Chcete odstrániť tento súbor na prevzatie?";

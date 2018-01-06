@@ -127,10 +127,10 @@ $locale['blog_0602'] = "Požadovaný rozšírený blog?";
 $locale['blog_0700'] = "Odoslať blog";
 $locale['blog_0701'] = "Ďakujeme za odoslanie vášho blogu";
 $locale['blog_0702'] = "Odošlite ďalší blog";
-$locale['blog_0703'] = "Použite nasledujúci formulár na odoslanie blogu. Váš príspevok bude posúdený
-administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Blogy
-by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
-$locale['blog_0704'] = "Vrátiť sa na [SITENAME]";
+$locale['blog_0703'] = "Použite nasledujúci formulár na odoslanie blogu.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Blogy by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['blog_0704'] = "Späť na [SITENAME]";
 $locale['601'] = "Veľkosť náhľadu:";
 $locale['602'] = "Veľkosť fotky:";
 $locale['603'] = "Max. veľkosť fotky:";

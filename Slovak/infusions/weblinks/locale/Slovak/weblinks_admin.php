@@ -91,9 +91,9 @@ $locale['WLS_0900'] = "Odoslať odkaz";
 $locale['WLS_0910'] = "Odkaz bol úspešne odoslaný.";
 $locale['WLS_0911'] = "Ďakujeme Vám za príspevok.";
 $locale['WLS_0912'] = "Odoslať ďalšá odkaz";
-$locale['WLS_0913'] = "Vrátiť sa na [SITENAME]";
-$locale['WLS_0920'] = "Použite tento formulár na odoslanie odkazu. Váš príspevok bude posúdený
-administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Odkazy
-by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['WLS_0913'] = "Späť na [SITENAME]";
+$locale['WLS_0920'] = "Použite tento formulár na odoslanie odkazu.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Odkazy by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['WLS_0922'] = "Momentálne neprijímame nové príspevky.";
 $locale['WLS_0923'] = "Nemôžete odoslať odkaz, pretože nie sú definované žiadne kategórie.";

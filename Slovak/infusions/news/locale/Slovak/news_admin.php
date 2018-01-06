@@ -125,10 +125,10 @@ $locale['news_0402'] = "Požadovaný rozšírený text?";
 $locale['news_0700'] = "Odoslať novinku";
 $locale['news_0701'] = "Ďakujeme Vám za príspevok";
 $locale['news_0702'] = "Odoslať ďalšiu novinku";
-$locale['news_0703'] = "Použite tento formulár na odoslanie novinky. Váš príspevok bude posúdený
-administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Novinky
-by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
-$locale['news_0704'] = "Vrátiť sa na [SITENAME]";
+$locale['news_0703'] = "Použite tento formulár na odoslanie novinky.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Novinky by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['news_0704'] = "Späť na [SITENAME]";
 $locale['601'] = "Veľkosť náhľadu:";
 $locale['602'] = "Veľkosť fotky:";
 $locale['603'] = "Max. veľkosť fotky:";

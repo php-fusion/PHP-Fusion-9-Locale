@@ -24,7 +24,7 @@ $locale['album_0006'] = "Po každom slove stlačte enter";
 $locale['album_0007'] = "Viditeľnosť";
 $locale['album_0008'] = "Jazyk";
 $locale['album_0009'] = "Náhľad albumu";
-$locale['album_0010'] = "Max. veľkosť súboru: %s / povolené typy súborov: / Max. šírka: %spx, max. výška: %spx";
+$locale['album_0010'] = "Max. veľkosť súboru: %s / Povolené typy súborov: / Max. šírka: %spx, max. výška: %spx";
 $locale['album_0011'] = "Poradie albumu";
 $locale['album_0012'] = "Uložiť album";
 $locale['album_0013'] = "Fotoalbum bol aktualizovaný";
@@ -39,7 +39,7 @@ $locale['album_0025'] = "Album sa presunul hore";
 $locale['album_0026'] = "Album sa presunul dole";
 $locale['album_0027'] = "V aktuálnom albume sú fotografie";
 $locale['album_0028'] = "Odstrániť celý album";
-$locale['album_0029'] = "Presunúť fotografie albumu do .. %s";
+$locale['album_0029'] = "Presunúť fotografie albumu do... %s";
 $locale['album_0030'] = "Album bol odstránený";
 $locale['album_0031'] = "Fotografie albumu sa presunuli do %s";
 $locale['album_0032'] = "V albume bolo odstránených %d fotografií";
@@ -67,12 +67,12 @@ $locale['gallery_0024'] = "Nie sú definované žiadne albumy.";
 $locale['gallery_0100'] = "Fotky na schválenie";
 $locale['gallery_0101'] = "Ďakujeme, že ste odoslali svoju fotku";
 $locale['gallery_0102'] = "Odoslať inú fotografiu";
-$locale['gallery_0107'] = "Použite nasledujúci formulár na odoslanie fotky. Váš príspevok bude posúdený
-<br/>administrátorom. [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok. Blogy
-<br/>by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
+$locale['gallery_0107'] = "Použite nasledujúci formulár na odoslanie fotky.<br/>Váš príspevok bude posúdený administrátorom.
+[SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
+Fotografie by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['gallery_0111'] = "Odoslať fotku";
 $locale['gallery_0112'] = "Ospravedlňujeme sa, momentálne na týchto stránkach neprijímame odosielanie nových fotografií.";
-$locale['gallery_0113'] = "Vrátiť sa na [SITENAME]";
+$locale['gallery_0113'] = "Späť na [SITENAME]";
 $locale['gallery_0150'] = "Momentálne nie sú žiadne fotografie na schválenie";
 $locale['gallery_0151'] = "Momentálne %s čakajú na vašu kontrolu.";
 $locale['gallery_0152'] = "Predmet príspevku na schválenie";
