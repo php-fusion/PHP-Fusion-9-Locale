@@ -39,23 +39,23 @@ $locale['download_0020'] = "Aktuální kategorie";
 $locale['download_0021'] = "Upravit kategorie";
 $locale['download_0022'] = "Kategorie";
 $locale['download_0023'] = "Editor kategorií";
-$locale['download_0039'] = "Návrat do [SITENAME]";
+$locale['download_0039'] = "Zpět na [SITENAME]";
 $locale['download_0040'] = "Je nám líto, momentálně nepřijímáme žádné příspěvky na stahování na těchto stránkách.";
 $locale['download_0041'] = "Odeslat stahování";
 $locale['download_0042'] = "Děkujeme, že jste odeslali své soubory ke stažení";
 $locale['download_0043'] = "Odeslat další soubory";
-$locale['download_0044'] = "Použijte tento formulář k odeslání souboru na stažení. Váš příspěvek bude kontrolován
-administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Soubory ke stažení
-by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
+$locale['download_0044'] = "Použijte tento formulář k odeslání souboru na stažení.<br/>Váš příspěvek bude kontrolován administrátorem.
+[SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
+Soubory ke stažení by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
 $locale['download_0046'] = "Povolit zasílání souborů?";
 $locale['download_0047'] = "Povolit screenshot?";
 $locale['download_0048'] = "Povolit úplný popis souboru?";
 $locale['download_0049'] = "Na schválení";
-$locale['download_0050'] = "V současné době neexistují žádné příspěvky ke stažení";
+$locale['download_0050'] = "Momentálně nejsou k dispozici žádné příspěvky ke schválení";
 $locale['download_0051'] = "Momentálně %s čeká na vaši kontrolu.";
 $locale['download_0052'] = "Předmět příspěvku na schváleni";
 $locale['download_0053'] = "Autor příspěvku";
-$locale['download_0054'] = "Čas odeslání";
+$locale['download_0054'] = "Čas příspěvku";
 $locale['download_0055'] = "ID příspěvku";
 $locale['download_0056'] = "Tento download byl odeslán od ";
 $locale['download_0057'] = "Přidáno od ";
@@ -106,7 +106,7 @@ $locale['download_0215'] = "URL odkaz ke stažení";
 $locale['download_0216'] = "Vymazat";
 $locale['download_0217'] = "Vypočítat velikost souboru";
 $locale['download_0218'] = "Max. velikost souboru: %s / Povolené typy souborů: %s";
-$locale['download_0219'] = "Max. velikost souboru: %s / Povolené typy souborů: %s / Max width: %spx, Max. height: %spx";
+$locale['download_0219'] = "Max. velikost souboru: %s / Povolené typy souborů: %s / Max. šířka: %spx, max. výška: %spx";
 $locale['download_0220'] = "Screenshot";
 $locale['download_0221'] = "Domovská stránka:";
 $locale['download_0222'] = "Autorská práva:";
@@ -127,7 +127,7 @@ $locale['download_0300'] = "Název kategorie";
 $locale['download_0301'] = "Popis kategorie";
 $locale['download_0302'] = "Třídění podle kategorií";
 $locale['download_0303'] = "ID stahování";
-$locale['download_0305'] = "Datum stažení";
+$locale['download_0305'] = "Datum";
 $locale['download_0306'] = "Vzestupně";
 $locale['download_0307'] = "Sestupně";
 $locale['download_0308'] = "Rodičovská kategorie";

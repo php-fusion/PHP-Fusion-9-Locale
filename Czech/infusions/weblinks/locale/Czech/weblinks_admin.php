@@ -92,8 +92,8 @@ $locale['WLS_0910'] = "Webový odkaz byl úspěšně odeslán.";
 $locale['WLS_0911'] = "Děkujeme za váš příspěvek.";
 $locale['WLS_0912'] = "Odeslat další webový odkaz";
 $locale['WLS_0913'] = "Zpět na [SITENAME]";
-$locale['WLS_0920'] = "Použijte tento formulář k odeslání odkazu. Váš příspěvek bude kontrolován
-administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Odkazy
-by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
+$locale['WLS_0920'] = "Použijte tento formulář k odeslání odkazu.<br/>Váš příspěvek bude kontrolován administrátorem.
+[SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
+Odkazy by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
 $locale['WLS_0922'] = "Omlouváme se, ale momentálně nepřijímáme žádosti o webové odkazy na těchto stránkách.";
 $locale['WLS_0923'] = "Nemůžete odeslat webový odkaz, protože nejsou definovány žádné kategorie.";

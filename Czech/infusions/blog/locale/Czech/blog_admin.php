@@ -74,7 +74,7 @@ $locale['blog_0435'] = "Povolit hodnocení";
 $locale['blog_0437'] = "Uložit blog";
 $locale['blog_0438'] = "Koncept";
 $locale['blog_0439'] = "Obrázek blogu:";
-$locale['blog_0440'] = "Max. velikost souboru %s / Povolené typy souborů GIF, JPEG or PNG.";
+$locale['blog_0440'] = "Max. velikost souboru %s / Povolené typy souborů GIF, JPEG nebo PNG.";
 $locale['blog_0441'] = "Zalomení stránky";
 $locale['blog_0442'] = "Poloha obrázku:";
 $locale['blog_0443'] = "Klíčová slova:";
@@ -127,10 +127,10 @@ $locale['blog_0602'] = "Požadovaný rozšířený blog?";
 $locale['blog_0700'] = "Odeslat blog";
 $locale['blog_0701'] = "Děkujeme za zaslání vašeho blogu";
 $locale['blog_0702'] = "Odeslat další blog";
-$locale['blog_0703'] = "Použijte tento formulář k odeslání blogu. Váš příspěvek bude kontrolován
-administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Blogy
-by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány";
-$locale['blog_0704'] = "Návrat do [SITENAME]";
+$locale['blog_0703'] = "Použijte tento formulář k odeslání blogu.<br/>Váš příspěvek bude kontrolován administrátorem.
+[SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
+Blogy by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány";
+$locale['blog_0704'] = "Zpět na [SITENAME]";
 $locale['601'] = "Velikost náhledu:";
 $locale['602'] = "Velikost fotografie:";
 $locale['603'] = "Maximální velikost fotografie:";

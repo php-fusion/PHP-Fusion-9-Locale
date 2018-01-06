@@ -90,9 +90,9 @@ $locale['faq_0910'] = "FAQ byl úspěšně odeslán.";
 $locale['faq_0911'] = "Děkujeme za váš příspěvek.";
 $locale['faq_0912'] = "Odeslat další FAQ";
 $locale['faq_0913'] = "Zpět na [SITENAME]";
-$locale['faq_0920'] = "Použijte tento formulář k odeslání FAQ. Váš příspěvek bude kontrolován
-administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. FAQ
-by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
+$locale['faq_0920'] = "Použijte tento formulář k odeslání FAQ.<br/>Váš příspěvek bude kontrolován administrátorem.
+[SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
+FAQ by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
 $locale['faq_0921'] = "Chcete-li odeslat nejčastější dotazy, musíte se přihlásit.";
 $locale['faq_0922'] = "V současné době nepřijímáme nové příspěvky.";
 $locale['faq_0923'] = "FAQ nelze odeslat, protože neexistují žádné definované kategorie.";

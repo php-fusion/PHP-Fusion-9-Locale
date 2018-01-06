@@ -24,7 +24,7 @@ $locale['album_0006'] = "Po každém klíčovém slově stiskněte Enter";
 $locale['album_0007'] = "Viditelnost";
 $locale['album_0008'] = "Jazyk";
 $locale['album_0009'] = "Náhled alba";
-$locale['album_0010'] = "Max. velikost souboru: %s / Povolené typy souborů: %s / Maximální šířka: %spx,Max. výška: %spx";
+$locale['album_0010'] = "Max. velikost souboru: %s / Povolené typy souborů: %s / Max. šířka: %spx, max. výška: %spx";
 $locale['album_0011'] = "Pořadí alba";
 $locale['album_0012'] = "Uložit album";
 $locale['album_0013'] = "Fotoalbum je aktualizováno";
@@ -67,12 +67,12 @@ $locale['gallery_0024'] = "Nejsou definovány žádné alba.";
 $locale['gallery_0100'] = "Odesílání fotografií";
 $locale['gallery_0101'] = "Děkujeme, že jste odeslali fotografii";
 $locale['gallery_0102'] = "Odeslat další fotku";
-$locale['gallery_0107'] = "Použijte tento formulář k odeslání fotografie. Váš příspěvek bude kontrolován
-<br/>administrátorem. [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek. Fotografie
-<br/>by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
+$locale['gallery_0107'] = "Použijte tento formulář k odeslání fotografie.<br/>Váš příspěvek bude kontrolován administrátorem.
+[SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
+Fotografie by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smazány.";
 $locale['gallery_0111'] = "Odeslat fotografii";
 $locale['gallery_0112'] = "Je nám líto, momentálně na tomto webu nepřijímáme žádnou fotografii.";
-$locale['gallery_0113'] = "Návrat do [SITENAME]";
+$locale['gallery_0113'] = "Zpět na [SITENAME]";
 $locale['gallery_0150'] = "V současné době nejsou odeslány žádné fotografie";
 $locale['gallery_0151'] = "V současné době %s čeká na vaše hodnocení.";
 $locale['gallery_0152'] = "Název fotografie na schválení";
