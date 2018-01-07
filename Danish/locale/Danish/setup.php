@@ -26,6 +26,7 @@ $locale['setup_5000'] = "For at kunne bruge PHP-Fusion, skal du acceptere beting
 $locale['setup_0010'] = "Nuværende Build Version - ";
 $locale['setup_0011'] = "da";
 $locale['setup_0012'] = "iso-8859-1";
+$locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion Opgradering";
 $locale['setup_0021'] = "PHP-Fusion version 9 Opgraderingsfunktion";
 $locale['setup_0022'] = "Velkommen til PHP-Fusions opgraderingsfunktion";

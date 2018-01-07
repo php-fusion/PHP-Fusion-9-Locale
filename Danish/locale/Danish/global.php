@@ -30,6 +30,7 @@ $locale['datepicker_js'] = "DD-M-YYYY, H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y, H:i:s";
 $locale['password_strength'] = "da";
 $locale['date_day'] = "%b %d";
+$locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januar|Februar|Marts|April|Maj|Juni|Juli|August|September|Oktober|November|December";
 $locale['shortmonths'] = "&nbsp|Jan|Feb|Mar|Apr|Maj|Jun|Jul|Aug|Sep|Okt|Nov|Dec";

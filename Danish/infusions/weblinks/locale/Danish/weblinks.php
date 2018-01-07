@@ -22,6 +22,10 @@ $locale['fmt_open'] = "åben|åben";
 // Sortings
 $locale['web_0030'] = "Seneste";
 $locale['web_0031'] = "Top åbnet";
+$locale['web_0032'] = "Ældste";
+// Views
+$locale['web_0040'] = "Ikon visning";
+$locale['web_0041'] = "Liste visning";
 // Messages
 $locale['web_0060'] = "Der er endnu ikke defineret nogen linkkategorier.";
 $locale['web_0062'] = "Der er ikke oprettet links under denne kategori.";
