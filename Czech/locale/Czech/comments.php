@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['c100'] = "Komentáře";
-$locale['c101'] = "Žádné komentáře byly zveřejněny.";
+$locale['c101'] = "Žádné komentáře nebyly zveřejněny.";
 $locale['c102'] = "Odeslat komentář";
 $locale['c103'] = "Aktualizovat komentář";
 $locale['c104'] = "Jméno:";
