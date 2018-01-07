@@ -15,8 +15,8 @@ $locale['SMLY_413'] = "Hangulatjel Kikapcsolva.";
 $locale['SMLY_414'] = "A Hangulatjel Szövege már használatban van.";
 $locale['SMLY_415'] = "A Hangulatjel kódja már használatban van.";
 $locale['SMLY_416'] = "Biztosan Törölni szeretnéd ezt a Hangulatjelet?";
-$locale['SMLY_417'] = "Biztosan Kikapcsolod ezt a Hangulatjelet?";   //
-$locale['SMLY_418'] = "Hiba a Hangulatjel feltöltése közben.";   //
+$locale['SMLY_417'] = "Biztosan Kikapcsolod ezt a Hangulatjelet?";
+$locale['SMLY_418'] = "Hiba a Hangulatjel feltöltése közben.";
 // Smiley form
 $locale['SMLY_420'] = "Kód:";
 $locale['SMLY_421'] = "Kép:";
@@ -28,7 +28,7 @@ $locale['SMLY_430'] = "Kód";
 $locale['SMLY_431'] = "Kép";
 $locale['SMLY_432'] = "Szöveg";
 $locale['SMLY_433'] = "Lehetőségek";
-$locale['SMLY_435'] = "Kikapcsol";  //
+$locale['SMLY_435'] = "Kikapcsol";
 $locale['SMLY_436'] = "Nincsenek megadva Hangulatjelek.";
 // Error Message
 $locale['SMLY_437'] = "Add meg a Hangulatjel kódját";
