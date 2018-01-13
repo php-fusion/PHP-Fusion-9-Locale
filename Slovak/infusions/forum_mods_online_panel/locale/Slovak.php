@@ -18,4 +18,4 @@
 $locale['fmp_0100'] = "Členovia práve online";
 $locale['fmp_0101'] = "Vedenie";
 $locale['fmp_0102'] = "Moderátori práve online";
-$locale['fmp_0103'] = "Prosím, nainštalujte fórum";
+$locale['fmp_0103'] = "Prosím, nainštalujte fórum"; // 9.0

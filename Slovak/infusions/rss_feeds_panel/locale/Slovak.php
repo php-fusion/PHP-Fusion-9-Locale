@@ -18,7 +18,7 @@
 $locale['rss_title'] = "RSS kanály";
 $locale['rss_articles'] = "Články";
 $locale['rss_blog'] = "Blogy";
-$locale['rss_downloads'] = "Downloady";
+$locale['rss_downloads'] = "Súbory na stiahnutie";
 $locale['rss_forums'] = "Fórum";
 $locale['rss_news'] = "Novinky";
 $locale['rss_weblinks'] = "Odkazy";
