@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/infusions/forum_mods_online_panel/locale/Danish.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -18,4 +18,3 @@
 $locale['fmp_0100'] = "Medarbejdere online nu";
 $locale['fmp_0101'] = "Medarbejdere";
 $locale['fmp_0102'] = "Ordstyrere online nu";
-$locale['fmp_0103'] = "Installer denne debatinfusion";
