@@ -88,8 +88,8 @@ $locale['grecaptcha_placeholder_2'] = "SECRET-KEY from Google";
 $locale['no_keys'] = "Úgy tűnik nincs beállítva kulcsod. Regisztrálj és kapd meg a RECAPTCHAd itt: [RECAPTCHA_LINK]Nyilvános kulcsok[/RECAPTCHA_LINK]";
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Kulcsaid ellenőrzéseit: Google reCAPTCHA</button></a>";
-$locale['grecaptcha_0100'] = "Nyilvános kulcs";
-$locale['grecaptcha_0101'] = "Magán kulcs";
+$locale['grecaptcha_0100'] = "Helyi kulcs";
+$locale['grecaptcha_0101'] = "Biztonsági kulcs";
 $locale['grecaptcha_0102'] = "Felület";
 $locale['grecaptcha_0102a'] = "Világos";
 $locale['grecaptcha_0102b'] = "Sötét";
