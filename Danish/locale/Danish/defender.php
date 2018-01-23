@@ -104,8 +104,8 @@ $locale['grecaptcha_placeholder_2'] = "SECRET-KEY from Google";
 $locale['no_keys'] = "Det ser ud til, at du ikke har nogen nøgler endnu. Opret dig og få din [RECAPTCHA_LINK]offentlige nøgle her[/RECAPTCHA_LINK]";
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
-$locale['grecaptcha_0100'] = "Offentlig nøgle ";
-$locale['grecaptcha_0101'] = "Privat nøgle ";
+$locale['grecaptcha_0100'] = "Site nøgle ";
+$locale['grecaptcha_0101'] = "Hemmelig nøgle ";
 $locale['grecaptcha_0102'] = "Tema ";
 $locale['grecaptcha_0102a'] = "Lys";
 $locale['grecaptcha_0102b'] = "Mørk";
