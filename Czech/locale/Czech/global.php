@@ -426,6 +426,7 @@ $locale['promote'] = "Podporovat";
 $locale['show'] = "Zobrazit";
 $locale['actions'] = "Akce";
 $locale['language'] = "Jazyk";
+$locale['loading'] = "Načítá...";
 // Persons & Identifiers
 $locale['you'] = "Vy";
 $locale['me'] = "Mě";
