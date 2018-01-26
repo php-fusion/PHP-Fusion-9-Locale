@@ -414,6 +414,7 @@ $locale['promote'] = "Támogat";
 $locale['show'] = "Mutat";
 $locale['actions'] = "Művelet";
 $locale['language'] = "Nyelv";
+$locale['loading'] = "Betöltés...";
 // Persons & Identifiers
 $locale['you'] = "Te";
 $locale['me'] = "Én";
