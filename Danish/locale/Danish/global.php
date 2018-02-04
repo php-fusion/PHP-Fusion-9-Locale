@@ -423,6 +423,7 @@ $locale['promote'] = "Forfrem";
 $locale['show'] = "Vis";
 $locale['actions'] = "Handlinger";
 $locale['language'] = "Sprog";
+$locale['loading'] = "Henter...";
 // Persons & Identifiers
 $locale['you'] = "Dig";
 $locale['me'] = "Mig";
