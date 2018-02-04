@@ -1,25 +1,25 @@
 <?php
 // Contact Form
-$locale['400'] = "Kapcsolatfelvétel";
-$locale['401'] = "Több módon is felveheted velünk a kapcsolatot. Küldhetsz egy e-mailt a következő címre:
+$locale['CT_400'] = "Kapcsolatfelvétel";
+$locale['CT_401'] = "Több módon is felveheted velünk a kapcsolatot. Küldhetsz egy e-mailt a következő címre:
  [SITE_EMAIL]. Ha már regisztráltál küldhetsz [PM_LINK].
 Vagy kitöltheted az alábbi űrlapot, amit e-mailben kapunk meg.";
-$locale['402'] = "Név:";
-$locale['403'] = "E-mail:";
-$locale['404'] = "Tárgy:";
-$locale['405'] = "Üzenet:";
-$locale['406'] = "Üzenet küldése";
-$locale['407'] = "Ellenőrzőkód:";
-$locale['408'] = "Írd be az ellenőrző kódot:";
+$locale['CT_402'] = "Név:";
+$locale['CT_403'] = "E-mail:";
+$locale['CT_404'] = "Tárgy:";
+$locale['CT_405'] = "Üzenet:";
+$locale['CT_406'] = "Üzenet küldése";
+$locale['CT_407'] = "Ellenőrzőkód:";
+$locale['CT_408'] = "Írd be az ellenőrző kódot:";
 // Contact Errors
-$locale['420'] = "Add meg a neved";
-$locale['421'] = "Add meg az e-mail címed";
-$locale['422'] = "Add meg az üzenet tárgyát";
-$locale['423'] = "Add meg az üzenetet";
-$locale['424'] = "Meg kell adnia a helyes Ellenőrzőkódot";
-$locale['425'] = "Belső hiba: nem sikerült elküldeni az üzenetet.";
+$locale['CT_420'] = "Add meg a neved";
+$locale['CT_421'] = "Add meg az e-mail címed";
+$locale['CT_422'] = "Add meg az üzenet tárgyát";
+$locale['CT_423'] = "Add meg az üzenetet";
+$locale['CT_424'] = "Meg kell adnia a helyes Ellenőrzőkódot";
+$locale['CT_425'] = "Belső hiba: nem sikerült elküldeni az üzenetet.";
 // Message Sent
-$locale['440'] = "Az üzenet elküldve";
-$locale['441'] = "Köszönjük";
-$locale['442'] = "Nem lehet elküldeni az üzenetet.";
-$locale['443'] = "Próbáld meg újra.";
+$locale['CT_440'] = "Az üzenet elküldve";
+$locale['CT_441'] = "Köszönjük";
+$locale['CT_442'] = "Nem lehet elküldeni az üzenetet.";
+$locale['CT_443'] = "Próbáld meg újra.";
