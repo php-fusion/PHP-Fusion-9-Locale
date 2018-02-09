@@ -37,7 +37,7 @@ $locale['ERROR_440'] = "Vymazať všetky záznamy so stavom";
 // Status form
 $locale['ERROR_450'] = "Nové";
 $locale['ERROR_451'] = "Vyriešené";
-$locale['ERROR_452'] = "Ignorované";
+$locale['ERROR_452'] = "Ignorovať";
 $locale['ERROR_453'] = "Použiť";
 $locale['ERROR_454'] = "Vážnosť";
 
