@@ -20,6 +20,7 @@ $locale['WLS_0002'] = "Pridať odkaz";
 $locale['WLS_0003'] = "Upraviť odkaz";
 $locale['WLS_0004'] = "Kategórie";
 $locale['WLS_0005'] = "Pridať kategóriu";
+$locale['WLS_0006'] = "Upraviť kategóriu";
 $locale['WLS_0007'] = "Na schválenie";
 $locale['WLS_0008'] = "Nastavenia";
 $locale['WLS_0030'] = "Odkaz bol úspešne vytvorený";
