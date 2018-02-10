@@ -4,6 +4,7 @@ $locale['WLS_0002'] = "Link Hozzáadása";
 $locale['WLS_0003'] = "Link Szerkesztése";
 $locale['WLS_0004'] = "Kategóriák";
 $locale['WLS_0005'] = "Kategória Hozzáadása";
+$locale['WLS_0006'] = "Kategória szerkesztése";
 $locale['WLS_0007'] = "Beküldések";
 $locale['WLS_0008'] = "Beállítások";
 $locale['WLS_0030'] = "Web Link sikeresen Létrehozva";
