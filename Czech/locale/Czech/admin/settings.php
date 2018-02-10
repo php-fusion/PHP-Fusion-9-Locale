@@ -76,7 +76,7 @@ $locale['443c'] = "Vypnout uživatel 3 panely";
 $locale['443d'] = "Vypnout uživatel 4 panely";
 
 // Time & Date Settings
-$locale['450'] = "Čas a Datum";
+$locale['450'] = "Čas a datum";
 $locale['451'] = "Krátký formát data:";
 $locale['452'] = "Dlouhý formát data:";
 $locale['453'] = "Formát data ve fóru:";
@@ -140,7 +140,7 @@ $locale['668ML'] = "Tabulky s vícejazyčným obsahem";
 $locale['669ML'] = "Vyberte tabulky, které budou obsahovat vícejazyčné údaje";
 $locale['670ML'] = "Články";
 $locale['671ML'] = "Vlastní stránky";
-$locale['672ML'] = "Stahování";
+$locale['672ML'] = "Ke stažení";
 $locale['673ML'] = "FAQs";
 $locale['674ML'] = "Fórum";
 $locale['675ML'] = "Novinky";
@@ -290,7 +290,7 @@ $locale['blog_description'] = "Konfigurační nastavení pro blog systém";
 $locale['news_description'] = "Konfigurační nastavení pro systém novinek";
 $locale['ipp_description'] = "Konfigurační nastavení pro výchozí počet položek ve výsledcích, které chcete zobrazit";
 $locale['forum_description'] = "Konfigurační nastavení pro fórum systém";
-$locale['download_description'] = "Konfigurační nastavení pro download systém";
+$locale['download_description'] = "Konfigurační nastavení pro systém stahování";
 $locale['language_description'] = "Konfigurační nastavení pro výchozí vícejazyčný systém";
 $locale['photo_description'] = "Konfigurační nastavení pro systém fotogalerie";
 $locale['main_description'] = "Konfigurační nastavení pro hlavní systém";

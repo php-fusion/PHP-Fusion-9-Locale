@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['download_1000'] = "Stahování";
+$locale['download_1000'] = "Ke stažení";
 $locale['download_1001'] = "Hlavní stránka";
 $locale['download_1003'] = "Kategorie";
 $locale['download_1004'] = "Autoři";
