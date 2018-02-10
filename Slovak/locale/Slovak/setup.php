@@ -233,7 +233,7 @@ $locale['setup_3310'] = "Pridať odkaz";
 $locale['setup_3311'] = "Pridať novinku";
 $locale['setup_3312'] = "Pridať článok";
 $locale['setup_3313'] = "Pridať fotku";
-$locale['setup_3314'] = "Pridať download";
+$locale['setup_3314'] = "Pridať súbor na stiahnutie";
 $locale['setup_3315'] = "Na schválenie";
 $locale['setup_3316'] = "Shoutbox";
 $locale['setup_3317'] = "Pridať blog";
@@ -245,7 +245,7 @@ $locale['setup_3322'] = "Nezodpovedané vlákna";
 $locale['setup_3323'] = "Nevyriešené otázky";
 $locale['setup_3324'] = "Začať nové vlákno";
 $locale['setup_3325'] = "Najnovšie články";
-$locale['setup_3326'] = "Najnovšie downloady";
+$locale['setup_3326'] = "Najnovšie súbory na stiahnutie";
 $locale['setup_3327'] = "Pridať FAQ";
 // Stage 6 - Panels
 $locale['setup_3400'] = "Navigácia";
