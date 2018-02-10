@@ -20,6 +20,7 @@ $locale['WLS_0002'] = "Tilføj link";
 $locale['WLS_0003'] = "Rediger link";
 $locale['WLS_0004'] = "Kategorier";
 $locale['WLS_0005'] = "Tilføj kategori";
+$locale['WLS_0006'] = "Rediger kategori";
 $locale['WLS_0007'] = "Brugerforslag";
 $locale['WLS_0008'] = "Opsætning";
 $locale['WLS_0030'] = "Linket er oprettet";
