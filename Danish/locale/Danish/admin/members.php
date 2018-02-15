@@ -182,7 +182,7 @@ $locale['577'] = "Brugerkontoen er genåbnet";
 $locale['578'] = "Brugerkontoen er lukket og brugeren anonymiseret";
 $locale['579'] = "Brugerens anonymisering er ophævet";
 
-$locale['582'] = "Reaktiver";
+$locale['582'] = "Genaktiver";
 $locale['583'] = "Genindsæt";
 $locale['584'] = "Vælg ny status";
 $locale['585'] = "Denne bruger blev oprindeligt udelukket af sikkerhedsårsager! Er du sikker på, at du nu ønsker at ophæve udelukkelsen?";
