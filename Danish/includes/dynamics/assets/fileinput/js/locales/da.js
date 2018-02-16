@@ -1,5 +1,5 @@
 /*!
- * FileInput Danish Translations, updated by Helmuth Mikkelsen, Sep. 23. 2017
+ * FileInput Danish Translations, updated by Helmuth Mikkelsen, Feb. 16. 2018
  *
  * This file must be loaded after 'fileinput.js'. Patterns in braces '{}', or
  * any HTML markup tags in the messages must not be converted or translated.
@@ -24,7 +24,7 @@
         msgNo: 'Ingen',
         msgNoFilesSelected: '',
         msgCancelled: 'aflyst',
-        msgPlaceholder: 'Select {files}...',
+        msgPlaceholder: 'V&aelig;lg {files}...',
         msgZoomModalHeading: 'Detaljeret visning',
         msgFileRequired: 'Du skal v&aelig;lge en fil at uploade.',
         msgSizeTooSmall: 'Fil "{name}" (<b>{size} KB</b>) er for lille og skal v&aelig;re st&oslash;rre end <b>{minSize} KB</b>.',
@@ -34,7 +34,7 @@
         msgFileNotFound: 'Filen "{name}" blev ikke fundet!',
         msgFileSecured: 'Sikkerhedsrestriktioner forhindrer l&aelig;sning af "{name}".',
         msgFileNotReadable: 'Filen "{name}" kan ikke indl&aelig;ses.',
-        msgFilePreviewAborted: 'Filpreview annulleret for "{name}".',
+        msgFilePreviewAborted: 'Filgennemsyn annulleret for "{name}".',
         msgFilePreviewError: 'Der skete en fejl under l&aelig;sningen af filen "{name}".',
         msgInvalidFileName: 'Ugyldige eller ikke-underst&oslash;ttede tegn i filnavn "{name}".',
         msgInvalidFileType: 'Ukendt type for filen "{name}". Kun "{types}" kan bruges.',
