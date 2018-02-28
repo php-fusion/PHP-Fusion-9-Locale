@@ -27,6 +27,7 @@ $locale['509'] = "Max. veľkosť súboru";
 $locale['510'] = "Povolené typy súborov:";
 $locale['511'] = "Stlačte enter po každom kľúčovom slove";
 $locale['512'] = "Oznámenie o vlákne";
+$locale['513'] = "Zobraziť reputáciu";
 $locale['518'] = "Áno";
 $locale['519'] = "Nie";
 $locale['520'] = "Povoliť hodnosti fóra";
