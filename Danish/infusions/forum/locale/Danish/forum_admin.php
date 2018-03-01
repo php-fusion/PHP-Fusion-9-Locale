@@ -27,6 +27,7 @@ $locale['509'] = "Maksimal filstørrelse.";
 $locale['510'] = "Tilladte filtyper";
 $locale['511'] = "Tryk ENTER for hvert nyt nøgleord.";
 $locale['512'] = "Følg debatten ";
+$locale['513'] = "Vis omdømme";
 $locale['518'] = "Ja";
 $locale['519'] = "Nej";
 $locale['520'] = "Skal rangeringen slås til ";
