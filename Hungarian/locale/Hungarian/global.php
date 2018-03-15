@@ -356,7 +356,7 @@ $locale['global_ML103'] = "Nyelv váltás";
 // Flood Control
 $locale['flood'] = "Nem szólhatsz hozzá, míg a flood periódusod le nem telt. Kérjük várj ennyit: %s.";
 $locale['no_image'] = "Nincs kép";
-$locale['send_message'] = "PM Küldés";
+$locale['send_message'] = "Üzenet Küldése";
 $locale['go_profile'] = "%s Profiljának megtekintése";
 // Global one word locales
 $locale['hello'] = "Helló!";
