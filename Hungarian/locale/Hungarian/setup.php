@@ -4,7 +4,7 @@ $locale['setup_0002'] = "Üdvözöllek a PHP-Fusion Telepítőben";
 $locale['setup_0003'] = "A telepítő végigvezeti a szükséges lépéseken, hogy telepítse a PHP-Fusion CMS rendszert a szerveren. Amennyiben további segítségre van szüksége, kérjük látogasson el a <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208'>Online Telepítési Dokumentáció</a>.";
 $locale['setup_0005'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://php-fusion.co.uk/license/'>használati feltételeit</a>.";
 $locale['setup_0006'] = "PHP-Fusion 9 működéséhez MINIMUM PHP 5.5.9. Szükséges, Lásd a <a href=\"https://www.php-fusion.co.uk/requirements\"> rendszer követelményei </a> oldalt további információkért.";
-$locale['setup_0007'] = "Rendszerek OPcache-t telepíteni kell <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\"> opcache.save_comments </a> engedélyezése.";
+$locale['setup_0007'] = "Rendszerek OPCache-t telepíteni kell <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\"> opcache.save_comments </a> engedélyezése.";
 $locale['setup_5000'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.</a>.";
 $locale['setup_0010'] = "Aktuális verzió - ";
 $locale['setup_0011'] = "hu";
@@ -34,7 +34,7 @@ $locale['setup_0113'] = "A PHP nagyon régi. PHP-Fusionnak szükség van legalá
 $locale['setup_0114'] = "PHP-Fusion használatához engedélyeznie kell a PHP kiterjesztést a következő listában";
 $locale['setup_0115'] = "Engedélyezve";
 $locale['setup_0115a'] = "Nem Engedélyezve";
-$locale['setup_0116'] = "PHP OPcode gyorsítótárazás javíthatja a webhelye teljesítményt. <strong>Javasoljuk </ strong> <a href='http://php.net/manual/opcache.installation.php' target='_blank'> a gyorsítótárazást </a> szerverén telepíteni.";
+$locale['setup_0116'] = "PHP OPCode gyorsítótárazás javíthatja a webhelye teljesítményét. <strong>Javasoljuk</ strong> <a href='http://php.net/manual/opcache.installation.php' target='_blank'> a gyorsítótárazást </a> szerverén telepíteni.";
 $locale['setup_0118'] = "A web szerver úgy tűnik nem támogja a PDO (PHP Data Objects)-t. Kérje tárhely szolgáltatóját a PDO támogatáshoz.";
 $locale['setup_0119a'] = "Fontolja meg a PHP memória korlátjának %memory_minimum_limit növelését, amely segít megelőzni a hibákat a telepítés folyamán.";
 $locale['setup_0119b'] = "Növelje a memória korlátot ".get_cfg_var('cfg_file_path')." fájl memory_limit paraméter szerkesztésével a majd indítsa újra a web szervert (vagy lépjen kapcsolatba a rendszergazdával vagy kérjen segítséget tárhely szolgáltatójától).";

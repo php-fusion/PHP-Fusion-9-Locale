@@ -25,8 +25,8 @@ $locale['password_strength'] = "hu";
 $locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
-$locale['months'] = "&nbsp|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
-$locale['shortmonths'] = "&nbsp|jan|febr|márc|ápr|máj|jún|júl|aug|szept|okt|nov|dec";
+$locale['months'] = "&nbsp;|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
+$locale['shortmonths'] = "&nbsp;|jan|febr|márc|ápr|máj|jún|júl|aug|szept|okt|nov|dec";
 $locale['weekdays'] = "Vasárnap|Hétfő|Kedd|Szerda|Csütörtök|Péntek|Szombat";
 // Timers
 $locale['year'] = "év";
