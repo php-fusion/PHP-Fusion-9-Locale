@@ -20,7 +20,7 @@ $locale['setup_0002'] = "Vítej v PHP-Fusion instalaci";
 $locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentaci instalace</a>.";
 $locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>podmínkami používání</a>";
 $locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 5.5.9. alší informace naleznete na stránce <a href=\"https://www.php-fusion.co.uk/requirements\">systémových požadavků</a>.";
-$locale['setup_0007'] = "Systémy s nainstalovanou OPcache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
+$locale['setup_0007'] = "Systémy s nainstalovanou OPCache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
 $locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion</a>.";
 $locale['setup_0010'] = "Aktuální verze - ";
 $locale['setup_0011'] = "cz";
@@ -50,7 +50,7 @@ $locale['setup_0113'] = "Vaše instalace PHP je příliš stará. PHP-Fusion vy�
 $locale['setup_0114'] = "PHP-Fusion vyžaduje, abyste povolili rozšíření PHP v následujícím seznamu:";
 $locale['setup_0115'] = "Povoleno";
 $locale['setup_0115a'] = "Není povoleno";
-$locale['setup_0116'] = "Funkce ukládání do mezipaměti PHP OPCode může výrazně zlepšit výkon vašeho webu. To je <strong>vysoce doporučeno</strong> mít <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> na vašem serveru.";
+$locale['setup_0116'] = "Funkce ukládání do mezipaměti PHP OPCache může výrazně zlepšit výkon vašeho webu. To je <strong>vysoce doporučeno</strong> mít <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> na vašem serveru.";
 $locale['setup_0118'] = "Váš webový server zřejmě nepodporuje PDO (PHP Data Objects). Požádejte svého poskytovatele hostingu, pokud podporuje přirozené rozšíření PDO, aby tento modul zuapnul";
 $locale['setup_0119a'] = "Zvažte zvýšení limitu paměti PHP na %memory_minimum_limit, abyste zabránili chybám v procesu instalace";
 $locale['setup_0119b'] = "Zvyšte limit paměti úpravou memory_limit parameter v souboru ".get_cfg_var('cfg_file_path')." A poté restartujte webový server (nebo se obraťte na správce systému nebo poskytovatele hostingu o pomoc).";

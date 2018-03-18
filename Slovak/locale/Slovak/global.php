@@ -38,8 +38,8 @@ $locale['password_strength'] = "sk";
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
-$locale['months'] = "&nbsp|Január|Február|Marec|Apríl|Máj|Jún|Júl|August|September|Október|November|December";
-$locale['shortmonths'] = "&nbsp|Jan|Feb|Mar|Apr|Máj|Jún|Júl|Aug|Sep|Okt|Nov|Dec";
+$locale['months'] = "&nbsp;|Január|Február|Marec|Apríl|Máj|Jún|Júl|August|September|Október|November|December";
+$locale['shortmonths'] = "&nbsp;|Jan|Feb|Mar|Apr|Máj|Jún|Júl|Aug|Sep|Okt|Nov|Dec";
 $locale['weekdays'] = "Nedeľa|Pondelok|Utorok|Streda|Štvrtok|Piatok|Sobota";
 // Timers
 $locale['year'] = "rok";

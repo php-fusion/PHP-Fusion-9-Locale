@@ -38,8 +38,8 @@ $locale['password_strength'] = "cs";
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
-$locale['months'] = "&nbsp|Leden|Únor|Březen|Duben|Květen|Červen|Červenec|Srpen|Září|Říjen|Listopad|Prosinec";
-$locale['shortmonths'] = "&nbsp|Led|Úno|Bře|Dub|Kvě|Čer|Červ|Srp|Zář|Říj|Lis|Pro";
+$locale['months'] = "&nbsp;|Leden|Únor|Březen|Duben|Květen|Červen|Červenec|Srpen|Září|Říjen|Listopad|Prosinec";
+$locale['shortmonths'] = "&nbsp;|Led|Úno|Bře|Dub|Kvě|Čer|Červ|Srp|Zář|Říj|Lis|Pro";
 $locale['weekdays'] = "Neděle|Pondělí|Úterý|Středa|Čtvrtek|Pátek|Sobota";
 // Timers
 $locale['year'] = "rok";

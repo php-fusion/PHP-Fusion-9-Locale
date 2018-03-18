@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['uf_da'] = "Deviantart";
-$locale['uf_da_id'] = "Deviantart užívateľské meno";
-$locale['uf_da_desc'] = "Profil na Deviantarte";
+$locale['uf_da'] = "DeviantArt";
+$locale['uf_da_id'] = "DeviantArt užívateľské meno";
+$locale['uf_da_desc'] = "Profil na DeviantArte";
 $locale['uf_da_error'] = "Užívateľské meno nemôže byť prázdne.";

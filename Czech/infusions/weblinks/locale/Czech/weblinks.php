@@ -19,7 +19,7 @@
 $locale['web_0000'] = "Webové odkazy";
 $locale['web_0001'] = "Všechny webové odkazy";
 $locale['fmt_open'] = "otevření|otevření|otevření";
-// Sortings
+// Sorting
 $locale['web_0030'] = "Nejnovější";
 $locale['web_0031'] = "Nejvíce otevřené";
 $locale['web_0032'] = "Nejstarší";

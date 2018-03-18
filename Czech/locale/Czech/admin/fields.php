@@ -126,7 +126,7 @@ $locale['fields_0492'] = "MB (Megabajty)";
 
 $locale['fields_0500'] = "Modul";
 $locale['fields_0501'] = "Textové pole";
-$locale['fields_0502'] = "Dropdown";
+$locale['fields_0502'] = "Drop-down";
 $locale['fields_0503'] = "Oblast textu";
 $locale['fields_0504'] = "Zaškrtávací políčko";
 $locale['fields_0505'] = "Přepínač";

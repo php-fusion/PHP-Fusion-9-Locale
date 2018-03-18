@@ -50,7 +50,7 @@ $locale['setup_0113'] = "Vaša PHP inštalácia je príliš stará. PHP-Fusion v
 $locale['setup_0114'] = "PHP-Fusion vyžaduje, aby ste povolili rozšírenie PHP v nasledujúcom zozname";
 $locale['setup_0115'] = "Povolené";
 $locale['setup_0115a'] = "Nepovolené";
-$locale['setup_0116'] = "PHP OPCache môže výrazne zlepšiť rýchlosť vášho webu. Je <strong>vysoko odporúčané</strong> mať <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> nainštalované na serveri.";
+$locale['setup_0116'] = "PHP OPCache môže výrazne zlepšiť rýchlosť vášho webu. Je <strong>vysoko odporúčané</strong> mať <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> nainštalované na serveri.";
 $locale['setup_0118'] = "Nezdá sa, že váš webový server podporuje PDO (PHP Data Objects). Spýtajte sa svojho poskytovateľa web hostingu, či podporuje natívne rozšírenie PDO.";
 $locale['setup_0119a'] = "Zvážte zvýšenie limitu PHP pamäte na %memory_minimum_limit, aby ste zabránili chybám v procese inštalácie.";
 $locale['setup_0119b'] = "Zvýšte limit pamäte úpravou parametra memory_limit v súbore ".get_cfg_var('cfg_file_path')." a potom reštartujte webový server (alebo kontaktujte svojho správcu systému alebo poskytovateľa hostingu).";
@@ -113,7 +113,7 @@ $locale['setup_1206'] = "Predpona tabuliek:";
 $locale['setup_1207'] = "Predpona cookie:";
 $locale['setup_1208'] = "Ovládač databázy";
 // Step 4 - Database Setup
-$locale['setup_1210'] = "Chyby PHP-Fusionin štalácie. Reštartujte inštalátor.";
+$locale['setup_1210'] = "Chyby PHP-Fusion inštalácie. Reštartujte inštalátor.";
 $locale['setup_1211'] = "Bola dokončená nová PHP-Fusion inštalácia. Prejdite k ďalšiemu kroku.";
 $locale['setup_1212'] = "Konfigurácia stránky a hlavného administrátora";
 $locale['setup_1213'] = "Informácie o stránke";
