@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/user_fields/user_deviantart.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['uf_da'] = "Deviantart";
-$locale['uf_da_id'] = "Deviantart brugernavn";
-$locale['uf_da_desc'] = "Deviantart profilside";
-$locale['uf_da_error'] = "Deviantart brugernavnet skal angives.";
+$locale['uf_da'] = "DeviantArt";
+$locale['uf_da_id'] = "DeviantArt brugernavn";
+$locale['uf_da_desc'] = "DeviantArt profilside";
+$locale['uf_da_error'] = "DeviantArt brugernavnet skal angives.";
