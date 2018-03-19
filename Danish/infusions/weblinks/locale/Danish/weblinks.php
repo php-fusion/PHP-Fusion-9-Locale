@@ -19,7 +19,7 @@
 $locale['web_0000'] = "Links";
 $locale['web_0001'] = "Alle links";
 $locale['fmt_open'] = "åben|åben";
-// Sortings
+// Sorting
 $locale['web_0030'] = "Seneste";
 $locale['web_0031'] = "Top åbnet";
 $locale['web_0032'] = "Ældste";
