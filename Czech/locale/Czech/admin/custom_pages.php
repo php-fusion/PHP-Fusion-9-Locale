@@ -50,6 +50,7 @@ $locale['page_0305'] = "Stav stránky";
 $locale['page_0306'] = "Viditelnost stránky";
 $locale['page_0307'] = "Publikováno dne";
 $locale['page_0308'] = "Kategorie stránek";
+$locale['page_0308a'] = "Automatické přerušení řádku";
 $locale['page_0309'] = "Atributy odkazů na stránky";
 $locale['page_0310'] = "Nebyly definovány žádné odkazy na stránku";
 $locale['page_0311'] = "Přidat odkaz na stránku";
