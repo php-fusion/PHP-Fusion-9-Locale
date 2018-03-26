@@ -1,5 +1,5 @@
 /*!
- * FileInput Danish Translations, updated by Helmuth Mikkelsen, Feb. 16. 2018
+ * FileInput Danish Translations, updated by Helmuth Mikkelsen, Mar. 2. 2018
  *
  * This file must be loaded after 'fileinput.js'. Patterns in braces '{}', or
  * any HTML markup tags in the messages must not be converted or translated.
