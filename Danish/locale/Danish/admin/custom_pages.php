@@ -50,6 +50,7 @@ $locale['page_0305'] = "Sidestatus ";
 $locale['page_0306'] = "Adgang ";
 $locale['page_0307'] = "Publiceret ";
 $locale['page_0308'] = "Kategori ";
+$locale['page_0308a'] = "Automatisk ny linje";
 $locale['page_0309'] = "Attributter til interne links";
 $locale['page_0310'] = "Der er ikke oprettet nogen interne links";
 $locale['page_0311'] = "Tilføj sidelinks";
