@@ -43,3 +43,15 @@ $locale['uf_fb_connect_220'] = "Fortsæt med ...";
 $locale['uf_fb_connect_221'] = "Log ind med ...";
 $locale['uf_fb_connect_222'] = "Aktiver log ud knap";
 $locale['uf_fb_connect_223'] = "Gem Facebook indstillinger";
+
+// User Fields Connector
+$locale['uf_fb_connect_400'] = 'Facebook er endnu ikke forbundet til din brugerkonto';
+$locale['uf_fb_connect_401'] = 'Facebook er forbundet til din konto';
+$locale['uf_fb_connect_402'] = 'Forbind brugerkonto til Facebook';
+$locale['uf_fb_connect_403'] = 'Deaktiver brugerkonto fra Facebook';
+
+// Email
+$locale['uf_fb_connect_500'] = "{SITE_NAME} - Konto mail aktivering";
+$locale['uf_fb_connect_501'] = "Kære {USER_NAME},\n\nDu har fornyligt forsøgt at linke din Facebook konto med {SITE_NAME} brugerkonto. For at færdiggøre konto synkroniseringen klik da på linket nedenfor:\n{LINK}\n\nVi råder dig til at aktivere din konto indenfor 3 dage efter modtagelsen af denne mail, for at undgå kontoudløb og afslutning af tilknyttede services.\n\nMed venlig hilsen,\n{ADMIN_NAME}, {SITE_NAME}";
+$locale['uf_fb_connect_502'] = "Vi har sent en bekræftelsesmail til din Facebook mailadresse.";
+$locale['uf_fb_connect_503'] = "Denne Facebook konto er blevet associeret med en konto.";
