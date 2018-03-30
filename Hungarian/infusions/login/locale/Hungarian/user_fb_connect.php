@@ -1,6 +1,24 @@
 <?php
+/*-------------------------------------------------------+
+| PHP-Fusion Content Management System
+| Copyright (C) PHP-Fusion Inc
+| https://www.php-fusion.co.uk/
++--------------------------------------------------------+
+| Filename: login/locale/Hungarian/user_fb_connect.php
+| Author: PHP-Fusion Development Team
++--------------------------------------------------------+
+| This program is released as free software under the
+| Affero GPL license. You can redistribute it and/or
+| modify it under the terms of this license which you
+| can read by viewing the included agpl.txt or online
+| at www.gnu.org/licenses/agpl.html. Removal of this
+| copyright header is strictly prohibited without
+| written permission from the original author(s).
++--------------------------------------------------------*/
+
 $locale['uf_fb_connect'] = "Facebook Belépés";
 $locale['uf_fb_connect_desc'] = "Bejelentkezés Facebook Csatoló Segítségével";
+$locale['uf_fb_connect_verify'] = "Facebook bejelentkezés megerősítése";
 
 // Driver configuration form
 $locale['uf_fb_connect_200'] = "Facebook SDK-val való Belépés lehetővé teszi, hogy bejelentkezzenek a weboldalunkra a Facebook adataival.";
@@ -27,6 +45,16 @@ $locale['uf_fb_connect_220'] = "Folytatás...";
 $locale['uf_fb_connect_221'] = "Bejelentkezés vele...";
 $locale['uf_fb_connect_222'] = "Engedélyezze a kijelentkezés gombot";
 $locale['uf_fb_connect_223'] = "Mentse a Facebook beállításait";
+
+// Verification responses
+$locale['uf_fb_connect_300'] = "A Facebook bejelentkezési e-mail címe mostantól hitelesített";
+$locale['uf_fb_connect_301'] = "Köszönjük az ellenőrzést. A Facebook Bejelentkezés most be van kapcsolva.";
+$locale['uf_fb_connect_302'] = "Érvénytelen e-mail cím.";
+$locale['uf_fb_connect_303'] = "Nem tudtuk ellenőrizni az e-mail címet. Próbálja meg újból csatlakozni a Facebook bejelentkezéséhez.";
+$locale['uf_fb_connect_304'] = "Aktivációs kód lejárt.";
+$locale['uf_fb_connect_305'] = "Az aktiváló e-mail lejárt. Próbálja meg újból csatlakozni a Facebook bejelentkezéséhez.";
+$locale['uf_fb_connect_306'] = "Érvénytelen aktiválási kód.";
+$locale['uf_fb_connect_307'] = "Az aktiváló kód érvénytelen. Próbálja meg újból csatlakozni a Facebook bejelentkezéséhez.";
 // User Fields Connector
 $locale['uf_fb_connect_400'] = "A Facebook még nem csatlakozik a felhasználói fiókjához";
 $locale['uf_fb_connect_401'] = "A Facebook kapcsolódik fiókjához";
@@ -34,6 +62,7 @@ $locale['uf_fb_connect_402'] = "Felhasználói fiók összekapcsolása a Faceboo
 $locale['uf_fb_connect_403'] = "Válassza le a felhasználói fiókot a Facebook-ról";
 $locale['uf_fb_connect_404'] = "Csatlakoztassa a Facebook fiókját a(z) {SITE_NAME} felhasználói fiókjával.";
 $locale['uf_fb_connect_405'] = "Az aktiválás folyamatban van Facebook-fiókjához.\nKérjük ellenőrizze a Facebook e-mailjét az aktiválási linken.";
+$locale['uf_fb_connect_406'] = "Vissza a Főmenűbe";
 // Email
 $locale['uf_fb_connect_500'] = "{SITE_NAME} - Fiók e-mail aktiválása";
 $locale['uf_fb_connect_501'] = "Kedves {USER_NAME},\n\nNemrég próbáltad összekapcsolni a Facebook-fiókodat a(z) {SITE_NAME} felhasználói fiókkal. A fiókszinkronizálás befejezéséhez kérjük, kattintson az alábbi linkre:\n{LINK}\n\nAz e-mail megérkezését követő 3 napon belül aktiválhatjuk fiókját, hogy elkerüljük a fiókja lejáratát és a kapcsolódó szolgáltatások megszüntetését.\n\nÜdvözlettel,\n{ADMIN_NAME}, {SITE_NAME}";
