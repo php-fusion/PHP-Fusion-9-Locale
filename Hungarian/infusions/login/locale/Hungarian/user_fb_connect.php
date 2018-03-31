@@ -15,7 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-
 $locale['uf_fb_connect'] = "Facebook Belépés";
 $locale['uf_fb_connect_desc'] = "Bejelentkezés Facebook Csatoló Segítségével";
 $locale['uf_fb_connect_verify'] = "Facebook bejelentkezés megerősítése";
@@ -61,11 +60,11 @@ $locale['uf_fb_connect_401'] = "A Facebook kapcsolódik fiókjához";
 $locale['uf_fb_connect_402'] = "Felhasználói fiók összekapcsolása a Facebookéval";
 $locale['uf_fb_connect_403'] = "Válassza le a felhasználói fiókot a Facebook-ról";
 $locale['uf_fb_connect_404'] = "Csatlakoztassa a Facebook fiókját a(z) {SITE_NAME} felhasználói fiókjával.";
-$locale['uf_fb_connect_405'] = "Az aktiválás folyamatban van Facebook-fiókjához.\nKérjük ellenőrizze a Facebook e-mailjét az aktiválási linken.";
+$locale['uf_fb_connect_405'] = "Az aktiválás folyamatban van Facebook-fiókjához.<br />Kérjük ellenőrizze a Facebook e-mailjét az aktiválási linken.";
 $locale['uf_fb_connect_406'] = "Vissza a Főmenűbe";
 // Email
 $locale['uf_fb_connect_500'] = "{SITE_NAME} - Fiók e-mail aktiválása";
-$locale['uf_fb_connect_501'] = "Kedves {USER_NAME},\n\nNemrég próbáltad összekapcsolni a Facebook-fiókodat a(z) {SITE_NAME} felhasználói fiókkal. A fiókszinkronizálás befejezéséhez kérjük, kattintson az alábbi linkre:\n{LINK}\n\nAz e-mail megérkezését követő 3 napon belül aktiválhatjuk fiókját, hogy elkerüljük a fiókja lejáratát és a kapcsolódó szolgáltatások megszüntetését.\n\nÜdvözlettel,\n{ADMIN_NAME}, {SITE_NAME}";
+$locale['uf_fb_connect_501'] = "Kedves {USER_NAME},<br /><br />Nemrég próbáltad összekapcsolni a Facebook-fiókodat a(z) {SITE_NAME} felhasználói fiókkal. A fiókszinkronizálás befejezéséhez kérjük, kattintson az alábbi linkre:<br />{LINK}<br /><br />Az e-mail megérkezését követő 3 napon belül aktiválhatjuk fiókját, hogy elkerüljük a fiókja lejáratát és a kapcsolódó szolgáltatások megszüntetését.<br /><br />Üdvözlettel,<br />{ADMIN_NAME}, {SITE_NAME}";
 $locale['uf_fb_connect_502'] = "Ellenőrző e-mailt elküldve a Facebook e-mail címére.";
 $locale['uf_fb_connect_503'] = "Ezt a Facebook-fiókot egy másik fiókhoz társították.";
 $locale['uf_fb_connect_504'] = "Már csatlakozott a Facebookhoz";
