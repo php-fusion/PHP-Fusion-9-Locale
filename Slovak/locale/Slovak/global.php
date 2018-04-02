@@ -526,5 +526,6 @@ $locale['fmt_points'] = "bod|body|bodov";
 $locale['fmt_admin'] = "admin|admini|adminov";
 $locale['fmt_group'] = "skupina|skupiny|skupín";
 $locale['fmt_category'] = "kategória|kategórie|kategórií";
+$locale['fmt_review'] = "recenzia|recenzie|recenzií";
 // include Defender locales
 include __DIR__."/defender.php";
