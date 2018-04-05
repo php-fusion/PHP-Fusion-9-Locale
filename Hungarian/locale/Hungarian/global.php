@@ -514,6 +514,6 @@ $locale['fmt_points'] = "pont|pontok";
 $locale['fmt_admin'] = "admin|adminok";
 $locale['fmt_group'] = "csoport|csoportok";
 $locale['fmt_category'] = "kategória|kategóriák";
-$locale['fmt_review'] = "felülvizsgálat|felülvizsgálatok";
+$locale['fmt_review'] = "értékelés|értékelés";
 // include Defender locales
 include __DIR__."/defender.php";
