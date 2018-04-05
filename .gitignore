@@ -1,6 +1,4 @@
-.idea/.name
+.idea
 *.xml
 *.iml
-config.php
 *.db
-.htaccess
