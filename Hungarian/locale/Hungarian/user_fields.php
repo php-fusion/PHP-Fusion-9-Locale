@@ -60,6 +60,7 @@ $locale['u113'] = "Felhasználónév";
 $locale['u114'] = "Rang";
 $locale['u115'] = "Nyelv";
 $locale['u116'] = "Nincs Csoportnak Tagja.";
+$locale['u117'] = "Nincs Csoport.";
 // User name and email
 $locale['u119'] = "A felhasználónév tartalmazza.";
 $locale['u120'] = "A felhasználónév nem engedélyezett karaktereket tartalmaz.";
