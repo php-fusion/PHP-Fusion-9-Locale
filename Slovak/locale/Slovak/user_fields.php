@@ -76,6 +76,7 @@ $locale['u113'] = "Užívateľské meno";
 $locale['u114'] = "Typ užívateľa";
 $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistujú žiadný členovia skupiny.";
+$locale['u117'] = "Žiadne skupiny užívateľov.";
 // User name and email
 $locale['u119'] = "Užívateľské meno obsahuje.";
 $locale['u120'] = "Užívateľské meno obsahuje nepovolené znaky.";
