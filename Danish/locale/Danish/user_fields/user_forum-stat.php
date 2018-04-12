@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/user_fields/user_forum-stat.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -17,3 +17,4 @@
 +--------------------------------------------------------*/
 $locale['uf_forum-stat'] = "Debatindlæg";
 $locale['uf_forum-stat_desc'] = "Viser antallet af debatindlæg.";
+$locale['uf_forum-stat_na'] = "Venligst installer Debatforum infusionen.";
