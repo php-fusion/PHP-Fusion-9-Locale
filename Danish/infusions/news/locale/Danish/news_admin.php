@@ -129,6 +129,13 @@ $locale['news_0703'] = "Anvend nedenstående formular til at foreslå en nyhed. 
 administrator. <b> [SITENAME] </b>forbeholder sig retten til at afvise eller redigere alle forslag. Nyhedsforslaget skal
 være i overensstemmelse med indholdet og reglerne her på siden. Upassende indhold vil blive slettet uden videre.";
 $locale['news_0704'] = "Tilbage til [SITENAME]";
+// New locale requried to update
+$locale['news_0705'] = "Bredde";
+$locale['news_0706'] = "Højde";
+$locale['news_0707'] = "Indstillinger";
+$locale['news_0708'] = "Opsætning af nyhedssystem";
+$locale['news_0709'] = "Foto indstillinger";
+$locale['news_0710'] = "Opsætning af nyhedsfotos";
 $locale['601'] = "Miniaturestørrelse";
 $locale['602'] = "Billedstørrelse";
 $locale['603'] = "Maksimal billedstørrelse";
