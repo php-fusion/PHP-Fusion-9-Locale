@@ -129,6 +129,14 @@ $locale['news_0703'] = "Použijte tento formulář k odeslání novinky.<br/>Vá
 [SITENAME] si vyhrazuje právo pozměnit nebo upravit jakýkoli příspěvek.
 Novinky by se měly vztahovat na obsah těchto stránek. Nevhodné příspěvky budou smazány.";
 $locale['news_0704'] = "Zpět na [SITENAME]";
+
+$locale['news_0705'] = "Šířka";
+$locale['news_0706'] = "Výška";
+$locale['news_0707'] = "Hlavní nastavení";
+$locale['news_0708'] = "Konfigurace pro systém novinek";
+$locale['news_0709'] = "Nastavení fotografií";
+$locale['news_0710'] = "Konfigurace fotografií novinek";
+
 $locale['601'] = "Velikost náhledu:";
 $locale['602'] = "Velikost fotografie:";
 $locale['603'] = "Maximální velikost fotografie:";
