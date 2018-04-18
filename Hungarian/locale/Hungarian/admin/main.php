@@ -113,3 +113,8 @@ $locale['283'] = "Infusion";
 $locale['284'] = "Nincs telepítve Infusion";
 $locale['285'] = "Infusionok kezelése";
 $locale['286'] = "Ugrás a Beküldéshez";
+
+$locale['290'] = "Van egy automatikus mentése ebből a bejegyzésből.";
+$locale['291'] = "Automatikus mentés megtekintése";
+$locale['292'] = "Mentett módosítások";
+$locale['293'] = "Űrlap kitöltése";
