@@ -129,3 +129,8 @@ $locale['283'] = "Infusioner";
 $locale['284'] = "Der er endnu ikke installeret nogen infusioner.";
 $locale['285'] = "Administrer infusioner";
 $locale['286'] = "Gennemse brugerforslag";
+
+$locale['290'] = "Der er en nyere autogemt version af dette indlæg end versionen nedenfor.";
+$locale['291'] = "Se den autogemte";
+$locale['292'] = "Gemte udgaver";
+$locale['293'] = "Udfyld til Autogem";
