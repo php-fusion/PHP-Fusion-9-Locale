@@ -129,3 +129,8 @@ $locale['283'] = "Infuze";
 $locale['284'] = "Neinstalovány žádné infuze";
 $locale['285'] = "Spravovat infuze";
 $locale['286'] = "Podívejte se na příspěvek";
+
+$locale['290'] = "Existuje automatické ukládání tohoto příspěvku, které je aktuálnější než níže uvedená verze.";
+$locale['291'] = "Zobrazit automaticky uložené";
+$locale['292'] = "Uložené revize";
+$locale['293'] = "Vyplnit automaticky uložené";
