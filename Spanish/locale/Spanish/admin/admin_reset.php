@@ -1,46 +1,35 @@
 <?php
-// Infusion titles & description
 $locale['apw_title'] = "Reinicio de la Contraseña de Administrador";
 $locale['apw_desc'] = "Cambia las contraseñas de usuario/administrador";
 $locale['apw_admin1'] = "Reiniciar Administrador";
-$locale['400'] = "Reiniciar la Contraseña de:";
-$locale['401'] = "Todos los Administradores";
-$locale['402'] = "Sólo los Super Administradores";
-$locale['403'] = "Sólo los Administradores";
-$locale['404'] = "Motivo del Reinicio:";
-$locale['405'] = "Reiniciar ambas contraseñas (usuario y administrador)";
-$locale['406'] = "Reiniciar Contraseñas";
-$locale['407'] = "Reinicio de Contraseña en ";
-$locale['408'] = "Hola [USER_NAME],
-
-Tu contraseña de administrador ha sido reiniciada en ".fusion_get_settings('siteurl').":
-
-Contraseña de Administrador: [NEW_ADMIN_PASS]
-
-El motivo de este reinicio es: [RESET_MESSAGE]
-
-Saludos,
-[ADMIN]";
-$locale['409'] = "Hola [USER_NAME],
-
-Tus contraseñas de usuario y de administrador han sido reiniciadas en ".fusion_get_settings('siteurl').":
-
-Contraseña de Usuario: [NEW_PASS]
-Contraseña de Administrador: [NEW_ADMIN_PASS]
-
-El motivo de este reinicio es: [RESET_MESSAGE]
-
-Saludos,
-[ADMIN]";
-$locale['410'] = "Resultados del Reinicio";
-$locale['411'] = "<b>Aviso:</b> No has indicado la contraseña de administrador o es incorrecta.";
-$locale['412'] = "Contraseña de Administrador:";
-$locale['415'] = "Registro de Reinicios";
-$locale['416'] = "ID de Registro";
-$locale['417'] = "Hora de Reinicio";
-$locale['418'] = "Responsable";
-$locale['419'] = "Reinicio";
-$locale['420'] = "Correcto";
-$locale['421'] = "Motivo";
-$locale['422'] = "de";
-$locale['423'] = "No especificado.";
+$locale['apw_400'] = "Reiniciar la Contraseña de:";
+$locale['apw_401'] = "Todos los Administradores";
+$locale['apw_402'] = "Sólo los Super Administradores";
+$locale['apw_403'] = "Sólo los Administradores";
+$locale['apw_404'] = "Motivo del Reinicio:";
+$locale['apw_405'] = "Reiniciar ambas contraseñas (usuario y administrador)";
+$locale['apw_406'] = "Reiniciar Contraseñas";
+$locale['apw_407'] = "Reinicio de Contraseña en ";
+$locale['apw_408'] = "Hello [USER_NAME],\n\nTu contraseña de administrador ha sido reiniciada en [SITEURL]:\n\n
+Admin Password: [NEW_ADMIN_PASS]\n\nEl motivo de este reinicio es: [RESET_MESSAGE]\n\nRegards,\n[ADMIN]";
+$locale['apw_409'] = "Hola [USER_NAME],\nTu contraseña de administrador ha sido reiniciada en [SITEURL]:\n\n
+Contraseña de inicio de sesión: [NEW_PASS]\nContraseña de Administrador: [NEW_ADMIN_PASS]\n\nEl motivo de este reinicio es: [RESET_MESSAGE]\n
+Saludos,\n[ADMIN]";
+$locale['apw_410'] = "Resultados del Reinicio";
+$locale['apw_411'] = "Actualizar contraseña de administrador.";
+$locale['apw_412'] = "Contraseña de Administrador:";
+$locale['apw_415'] = "Registro de Reinicios";
+$locale['apw_416'] = "ID de Registro";
+$locale['apw_417'] = "Hora de Reinicio";
+$locale['apw_418'] = "Responsable";
+$locale['apw_419'] = "Reinicio";
+$locale['apw_420'] = "Correcto";
+$locale['apw_421'] = "Motivo";
+$locale['apw_422'] = "de";
+$locale['apw_423'] = "No especificado.";
+$locale['apw_424'] = "Reinicio de administradores:";
+$locale['apw_425'] = "Administradores fallaron:";
+$locale['apw_426'] = "Ninguna contraseña es modificada.";
+$locale['apw_427'] = "Opciones";
+$locale['apw_428'] = "¿De verdad quieres borrar este registro?";
+$locale['apw_429'] = "Log borrado";
