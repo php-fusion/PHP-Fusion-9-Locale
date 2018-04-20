@@ -1,45 +1,43 @@
 <?php
-// Delete blacklisted user
-$locale['400'] = "Borrar";
-$locale['401'] = "Usuario eliminado de expulsiones";
-$locale['402'] = "Volver a la Administración de Expulsiones";
-$locale['403'] = "Volver a Administración";
-$locale['404'] = "Por favor, introduzca Lista negra IP o Lista negra de correo electrónico";
-$locale['405'] = "Dirección de correo electrónico de la lista negra no es válida de correo electrónico.";
-$locale['406'] = "Lista negra";
-// Add/Edit Blacklist Titles
-$locale['420'] = "Expulsiones";
-$locale['421'] = "Editar Usuario Expulsado";
-// Add/Edit blacklist form
-$locale['440'] = "Introducción de una dirección IP evitará que un usuario cuya dirección IP coincide con la entrada de visitar este sitio.
-Puede introducir una IP completa, por ejemplo, <em>123.45.67.89.</em>, o una IP parcial, por ejemplo, <em>123.45.67</em> o <em>123,45</em>.
-Nota: Las direcciones IPv6 se convierten a su forma de cuerpo entero en este sitio,
-por ejemplo <em>ABCD:1234:5:6:7:8:9:FF</em> se mostrará como <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Direcciones IP mixtos (aquellos que contienen ambos parte IPv6 y IPv4) no se comprobará la coincidencia parcial.
-<br /> <br />
-Introducción de una dirección de correo electrónico va a impedir que los miembros se registren usando esa dirección.
-Puede introducir una dirección de correo electrónico completa, por ejemplo, <em>foo@bar.com</em>, o un dominio de correo electrónico, por ejemplo, <em>bar.com</em>. <br /> <br />
+$locale['BLS_000'] = "Lista negra"; // 406
+// Mensaje de lista negra
+$locale['BLS_010'] = "Correo electrónico o dirección IP inválidos.";
+$locale['BLS_011'] = "Agregar usuarios a la lista negra.";
+$locale['BLS_012'] = "Lista negra modificada por el usuario.";
+$locale['BLS_013'] = "Usuario eliminado de la lista negra"; // 401
+$locale['BLS_014'] = "¿Está seguro de que desea eliminar esta entrada?";
+$locale['BLS_015'] = "La lista negra está actualmente vacía."; // 465
+$locale['BLS_016'] = "La dirección de correo electrónico de la lista negra no es un correo electrónico válido."; // 405
 
-% - Coincide con cualquier cadena <br /> <br />.
+$locale['BLS_020'] = "Usuario de la lista negra"; // 420
+$locale['BLS_021'] = "Editar usuario en la lista negra"; // 421
+$locale['BLS_022'] = "Agregar usuario en la lista negra";
+$locale['BLS_023'] = "Actualmente muestra %d de %d entradas de lista negra.";
 
-%.%.%.%@dominio.tld prohíbe cualquier dirección que contiene al menos 3 puntos. <br />
-%+%@dominio.tld prohíbe cualquier dirección que contiene al menos un signo más. <br />
-%@dominio.tld prohíbe cualquier dirección de <br /> dominio.tld
-%.dominio.tld prohíbe todos los subdominios de <br /> dominio.tld
-%payday% prohíbe cualquier dirección que contiene la palabra \"payday\" que era muy a menudo en los sitios. <br />
-dominio.tld es un alias de %@dominio.tld para que sea compatible con las normas definidas en v7 <br />. ";
+$locale['BLS_030'] = "Información en la lista negra"; // 461
+$locale['BLS_031'] = "Administrador"; // 467
+$locale['BLS_032'] = "Fecha"; // 468
+$locale['BLS_033'] = "Opciones"; // 462
+$locale['BLS_034'] = "Dirección IP de la lista negra: <strong> o </ strong>"; // 441
+$locale['BLS_035'] = "Dirección de correo electrónico de la lista negra"; // 442
+$locale['BLS_036'] = "Motivo de la lista negra"; // 443
+$locale['BLS_037'] = "Usuario de la lista negra"; // 444
+$locale['BLS_038'] = "Actualizar";
 
-$locale['441'] = "Expulsar Dirección IP:";
-$locale['442'] = "<b>o</b> Expulsar Dirección o Dominio de Email:";
-$locale['443'] = "Motivo de la Expulsión";
-$locale['444'] = "Expulsar";
-// Current blacklisted users
-$locale['460'] = "Expulsiones Existentes";
-$locale['461'] = "Información de la Expulsión";
-$locale['462'] = "Opciones";
-$locale['463'] = "Editar";
-$locale['464'] = "Borrar";
-$locale['465'] = "No hay expulsiones.";
-$locale['466'] = "N/D";
-$locale['467'] = "Administrador";
-$locale['468'] = "Fecha";
+$locale['BLS_MS'] = "Al ingresar una dirección IP evitará que un usuario cuya dirección IP coincida con la entrada visite este sitio.
+Puede ingresar una dirección IP completa, p. <em>123.45.67.89.</em>, o una IP parcial, p. <em>123.45.67</em> o <em>123.45</em>.
+Tenga en cuenta: las direcciones IPv6 se convierten a su forma completa en este sitio,
+p.ej. <em>ABCD:1234:5:6:7:8:9:FF</em> se mostrará como <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Las direcciones IP mixtas (aquellas que contienen ambas partes, IPv6 e IPv4) no se verificarán para una coincidencia parcial.
+<br /><br />
+Ingresar una dirección de correo electrónico evitará que los miembros se registren usando esa dirección.
+Puede ingresar una dirección de correo electrónico completa, p. <em>foo@bar.com</em>, o un dominio de correo electrónico, p. <em>bar.com</em>. <br /><br />
+
+% - coincide con cualquier cadena. <br /> <br />
+
+%.%.%.%@domain.tld prohíbe cualquier dirección que contenga al menos 3 puntos.<br />
+%+%@domain.tld prohíbe cualquier dirección que contenga al menos un signo más.<br />
+%@domain.tld prohíbe cualquier dirección de domain.tld<br />
+%.domain.tld prohíbe todos los subdominios de domain.tld<br />
+%payday% prohíbe cualquier dirección que contenga la palabra \"payday\" que a menudo estaba en los sitios.<br />
+domain.tld es un alias de %@domain.tld para hacerlo compatible con las reglas definidas en v7.<br />"; // 440
