@@ -22,4 +22,3 @@ $locale['417'] = "Resultado de la Comprobación de los Códigos BB";
 $locale['418'] = "Desactivar Smileys en la comprobación";
 $locale['418a'] = "Mensaje de prueba";
 $locale['418b'] = "Por favor, introduzca un mensaje a probar BBcodes.";
-
