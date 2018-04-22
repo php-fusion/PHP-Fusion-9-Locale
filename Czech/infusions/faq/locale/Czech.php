@@ -42,6 +42,7 @@ $locale['faq_0060'] = "Příspěvek byl zveřejněn";
 $locale['faq_0061'] = "Příspěvek byl uložen jako návrh";
 $locale['faq_0062'] = "Příspěvek byl odstráněn";
 $locale['faq_0063'] = "Neexistují žádné nové příspěvky.";
+$locale['faq_0064'] = "Momentálně %s čeká na vaši kontrolu.";
 $locale['faq_0100'] = "Otázka";
 $locale['faq_0102'] = "Koncept";
 $locale['faq_0105'] = "Autor";

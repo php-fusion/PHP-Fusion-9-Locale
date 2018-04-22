@@ -42,6 +42,7 @@ $locale['faq_0060'] = "Príspevok bol publikovaný";
 $locale['faq_0061'] = "Príspevok je uložený ako koncept";
 $locale['faq_0062'] = "Príspevok bol odstránený";
 $locale['faq_0063'] = "Neexistujú žiadne nové píspevky na schválenie.";
+$locale['faq_0064'] = "Momentálne %s čakajú na vašu kontrolu.";
 $locale['faq_0100'] = "Otázka";
 $locale['faq_0102'] = "Koncept";
 $locale['faq_0105'] = "Autor";
