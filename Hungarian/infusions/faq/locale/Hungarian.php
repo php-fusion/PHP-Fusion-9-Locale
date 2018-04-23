@@ -26,6 +26,7 @@ $locale['faq_0060'] = "Beküldött GyIK publikálva";
 $locale['faq_0061'] = "A GyIK elmentve a piszkozatok közé";
 $locale['faq_0062'] = "Beküldött GyIK Törölve";
 $locale['faq_0063'] = "Nincs Új Beküldött GyIK.";
+$locale['faq_0064'] = "Jelenleg %s vár az értékelésedre.";
 $locale['faq_0100'] = "Kérdés";
 $locale['faq_0102'] = "Piszkozat";
 $locale['faq_0105'] = "Szerző";
