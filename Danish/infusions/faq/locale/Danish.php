@@ -42,6 +42,7 @@ $locale['faq_0060'] = "Brugerforslaget er offentliggjort";
 $locale['faq_0061'] = "Brugerforslaget er gemt som udkast";
 $locale['faq_0062'] = "Brugerforslaget er slettet";
 $locale['faq_0063'] = "Der er aktuelt ingen nye brugerforslag.";
+$locale['faq_0064'] = "I øjeblikket er der %s som venter på dit gennemsyn.";
 $locale['faq_0100'] = "Spørgsmål ";
 $locale['faq_0102'] = "Udkast";
 $locale['faq_0105'] = "Forfatter";
