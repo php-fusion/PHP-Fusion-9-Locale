@@ -1,7 +1,7 @@
 <?php
 // New locale for Quantum Fields
 $locale['fields_0100'] = 'Esta página agrega campo directamente en la tabla: %s';
-$locale['fields_0101'] = "Esta página agrega campos directamente en la tabla: %s, se combina con DB_USERS través de la columna <strong>%s</strong>";
+$locale['fields_0101'] = "Esta página agrega campos directamente en la tabla: %s, se combina con DB_USERS través de la columna %s";
 $locale['fields_0102'] = "No hay campos agregados en ";
 $locale['fields_0103'] = "No hay página creada. Por favor, añada una página mediante la creación de una página como categoría.";
 $locale['fields_0104'] = "Nombre del campo existe en %s y cambiar nombre de columna no se pudo. Por favor elige otro nombre.";
