@@ -317,3 +317,12 @@ $locale['user_settings'] = "Správa užívateľov";
 $locale['theme_settings'] = "Nastavenia tém";
 
 $locale['securimage3'] = "Secure Image v.3";
+
+// Security Settings
+$locale['security_001'] = "Systémové relácie";
+$locale['security_002'] = "Konfigurácia relácie webových stránok";
+$locale['security_003'] = "Typ relácií";
+$locale['security_004'] = "Databázový systém";
+$locale['security_005'] = "Systém súborov";
+$locale['security_006'] = "Vymazať vyrovnávaciu pamäť relácie systému";
+$locale['security_007'] = "Všetky relácie systému boli úspešne odstránené";
