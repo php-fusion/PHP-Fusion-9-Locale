@@ -295,3 +295,12 @@ $locale['user_settings'] = "Felhasználói Beállítások";
 $locale['theme_settings'] = "Felület Beállítások";
 
 $locale['securimage3'] = "Secure Image v.3";
+
+// Security Settings
+$locale['security_001'] = "Rendszer Sessions";
+$locale['security_002'] = "Honlap Session Beállítások";
+$locale['security_003'] = "Session Típusa";
+$locale['security_004'] = "Adatbázis Rendszer";
+$locale['security_005'] = "Fájl Rendszer";
+$locale['security_006'] = "Rendszer Cache Törlése";
+$locale['security_007'] = "Az összes rendszeres munkamenet sikeresen törölve lett";
