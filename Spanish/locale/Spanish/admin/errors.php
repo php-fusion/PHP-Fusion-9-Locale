@@ -1,26 +1,33 @@
 <?php
 // Titles
-$locale['400'] = "Registro de Errores";
-$locale['401'] = "Examinar el archivo";
+$locale['ERROR_400'] = "Registro de Errores";
+$locale['ERROR_401'] = "Examinar el archivo";
 // Errors table
-$locale['410'] = "Error";
-$locale['411'] = "En Página";
-$locale['412'] = "Usuario";
-$locale['413'] = "Fecha";
-$locale['414'] = "Estado";
-$locale['415'] = "Línea:";
-$locale['416'] = "Nivel:";
-$locale['417'] = "IP:";
-$locale['418'] = "No hay errores registrados.";
-$locale['419'] = "Archivo";
-$locale['420'] = "Detalles";
-$locale['421'] = "Código Fuente";
-$locale['422'] = "Voler Arriba";
+$locale['ERROR_410'] = "Error";
+$locale['ERROR_411'] = "En Página";
+$locale['ERROR_412'] = "Usuario";
+$locale['ERROR_413'] = "Fecha";
+$locale['ERROR_414'] = "Estado";
+$locale['ERROR_415'] = "Línea:";
+$locale['ERROR_416'] = "Nivel:";
+$locale['ERROR_417'] = "IP:";
+$locale['ERROR_418'] = "No hay errores registrados.";
+$locale['ERROR_419'] = "Archivo";
+$locale['ERROR_420'] = "Detalles";
+$locale['ERROR_421'] = "Código Fuente";
+$locale['ERROR_422'] = "Voler Arriba";
 // Delete form
-$locale['440'] = "Borrar todas las entrada del estado";
+$locale['ERROR_440'] = "Borrar todas las entrada del estado";
 // Status form
-$locale['450'] = "Nuevo";
-$locale['451'] = "Resuelto";
-$locale['452'] = "Ignorado";
-$locale['453'] = "Aplicar";
-$locale['454'] = "Severidad";
+$locale['ERROR_450'] = "Nuevo";
+$locale['ERROR_451'] = "Resuelto";
+$locale['ERROR_452'] = "Ignorado";
+$locale['ERROR_453'] = "Aplicar";
+$locale['ERROR_454'] = "Severidad";
+
+$locale['ERROR_460'] = "Errores";
+$locale['ERROR_461'] = "Archivo de error";
+$locale['ERROR_462'] = "Opciones";
+$locale['ERROR_463'] = "Generado por";
+$locale['ERROR_464'] = "Consola de error";
+$locale['ERROR_465'] = "Archivo de origen";

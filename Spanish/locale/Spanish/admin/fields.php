@@ -1,8 +1,7 @@
 <?php
 // New locale for Quantum Fields
 $locale['fields_0100'] = 'Esta página agrega campo directamente en la tabla: %s';
-$locale['fields_0101'] = "Esta página agrega campos directamente en la tabla: <strong>%s</strong>,
-	se combina con DB_USERS través de la columna <strong>%s</strong>";
+$locale['fields_0101'] = "Esta página agrega campos directamente en la tabla: %s, se combina con DB_USERS través de la columna %s";
 $locale['fields_0102'] = "No hay campos agregados en ";
 $locale['fields_0103'] = "No hay página creada. Por favor, añada una página mediante la creación de una página como categoría.";
 $locale['fields_0104'] = "Nombre del campo existe en %s y cambiar nombre de columna no se pudo. Por favor elige otro nombre.";
@@ -15,7 +14,6 @@ $locale['fields_0110'] = "Tabla existe. Por favor elija otro nombre de la tabla"
 $locale['fields_0111'] = "Página de ámbito de usuario se puede ampliar para leer otra base de datos en la vista.";
 $locale['fields_0112'] = "¿Qué tabla principalmente es utilizado por esta página?";
 $locale['fields_0113'] = "¿Qué columna en su primaria es la columna ID de usuario?";
-
 $locale['field_0200'] = 'Se ha eliminado la categoría de campo';
 $locale['field_0201'] = 'El campo ha sido eliminado';
 $locale['field_0202'] = 'Acción de campo cancelado';
@@ -66,6 +64,7 @@ $locale['fields_0433'] = "Orden de categoría";
 $locale['fields_0434'] = "Tabla primaria (%s)";
 $locale['fields_0435'] = "Tabla Primaria Columna usuario";
 $locale['fields_0436'] = "Icono Clase";
+$locale['fields_0437'] = "Icono para pestañas";
 
 $locale['fields_0450'] = "Seleccione una categoría";
 $locale['fields_0451'] = "Título del campo";
@@ -103,6 +102,7 @@ $locale['fields_0483'] = "Log campo";
 $locale['fields_0484'] = "Orden de los campos";
 $locale['fields_0485'] = "Campo de Registro";
 $locale['fields_0488'] = "Guardar campo";
+$locale['fields_0489'] = "Solo imágenes";
 
 $locale['fields_0490'] = "Bytes (bytes)";
 $locale['fields_0491'] = "KB (Kilobytes)";
@@ -128,3 +128,25 @@ $locale['fields_0515'] = "Url web";
 $locale['fields_0600'] = "Hay %s sub-categoría(s) en esta categoría";
 $locale['fields_0601'] = "Hay %s campo(s) en esta categoría";
 $locale['fields_0602'] = "Este módulo no se puede instalar. Información de la columna de la tabla que falta.";
+
+$locale['fields_0650'] = "Mover ID de campo";
+$locale['fields_0651'] = "Subir una ranura e ID de campo [FIELD_ID] en una ranura.";
+$locale['fields_0652'] = "Abajo una ranura e ID de campo [FIELD_ID] en una ranura.";
+$locale['fields_0653'] = "Sin resultado";
+$locale['fields_0654'] = "Eliminar campos";
+$locale['fields_0655'] = "No se encontró el ID del gato. Vuelva a verificarlo";
+$locale['fields_0656'] = "No se encontró la ID de categoría. Vuelva a verificar.";
+$locale['fields_0657'] = "establecer para la carga.";
+$locale['fields_0658'] = "cargado.";
+$locale['fields_0659'] = "locale faltante!";
+$locale['fields_0660'] = "No se encontraron módulos";
+$locale['fields_0661'] = "Modo de actualización";
+$locale['fields_0662'] = "Modo guardar";
+$locale['fields_0663'] = "Nombre de tabla";
+$locale['fields_0664'] = "Información de la tabla anterior -";
+$locale['fields_0665'] = "Nueva información de la tabla -";
+$locale['fields_0666'] = "Fork No.1 - Actualizar campo en una tabla diferente";
+$locale['fields_0667'] = "Conflicto de columna. Existen columnas en [OLD_TABLE] en";
+$locale['fields_0668'] = "Tenedor No.2 - Actualizar campo en la misma tabla";
+$locale['fields_0669'] = "Cambio de nombre de columna [FIELD_NAME] en [OLD_TABLE] a [FIELD_NAME_] con atributos de";
+$locale['fields_0670'] = "Datos antiguos";
