@@ -319,10 +319,10 @@ $locale['theme_settings'] = "Temaopsætning";
 $locale['securimage3'] = "Secure Image v.3";
 
 // Security Settings
-$locale['security_001'] = "System Sessioner";
-$locale['security_002'] = "Konfuguration af hjemmeside sessioner";
+$locale['security_001'] = "System sessioner";
+$locale['security_002'] = "Konfiguration af hjemmeside sessioner";
 $locale['security_003'] = "Sessionstype";
 $locale['security_004'] = "Databasesystem";
 $locale['security_005'] = "Filsystem";
-$locale['security_006'] = "Ryd System Sessions Cache";
+$locale['security_006'] = "Ryd system sessioner cache";
 $locale['security_007'] = "Alle system sessioner er nu blevet ryddet";
