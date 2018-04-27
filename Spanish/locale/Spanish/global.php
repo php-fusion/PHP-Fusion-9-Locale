@@ -1,16 +1,27 @@
 <?php
 /**
-
  * Spanish Locale
-
+ *
+ * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+ * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+ * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
+ * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
+ * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
+ * @package locale/Spanish
  */
 setlocale(LC_TIME, "es_ES.utf8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "ES";
 $locale['xml_lang'] = "es";
+$locale['short_lang_name'] = "es";
 $locale['tinymce'] = "es";
+$locale['select2'] = "es";
 $locale['phpmailer'] = "es";
-$locale['datepicker'] = "es";
+$locale['datepicker'] = "es-es";
+$locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
+$locale['datepicker_php'] = "d-m-Y H:i:s";
+$locale['password_strength'] = "es";
 // Full & Short Months
 $locale['months'] = "&nbsp|Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre";
 $locale['shortmonths'] = "&nbsp|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic";
@@ -29,7 +40,7 @@ $locale['minute_a'] = "minutos";
 $locale['second'] = "segundo";
 $locale['second_a'] = "segundos";
 $locale['just_now'] = "En este momento";
-$locale['ago'] = "";
+$locale['ago'] = "hace";
 // Geo
 $locale['street1'] = "Dirección calle 1";
 $locale['street2'] = "Dirección calle 2";
@@ -40,6 +51,7 @@ $locale['sel_state'] = "Seleccione Estado";
 $locale['sel_user'] = "Por favor, escriba un nombre de usuario";
 $locale['add_language'] = "Agregar Traducciones de idioma";
 $locale['add_lang'] = "Agregar %s";
+$locale['other_states'] = "Otros estados";
 // Name
 $locale['name'] = 'Nombre completo';
 $locale['username_pretext'] = 'Tu nombre de usuario público también es el mismo que su dirección del perfil de usuario se encuentra en:<div class="alert alert-info m-t-10 p-10">%s<strong>%s</strong></div>';
@@ -58,7 +70,7 @@ $locale['user0'] = "Público";
 $locale['user1'] = "Miembro";
 $locale['user2'] = "Administrador";
 $locale['user3'] = "Super Administrador";
-$locale['user_na'] = "N/D";
+$locale['user_na'] = "N/A";
 $locale['user_guest'] = "Invitado";
 $locale['user_anonymous'] = "Usuario Anónimo";
 $locale['genitive'] = "%s's %s";
@@ -77,6 +89,7 @@ $locale['userf1'] = "Moderador";
 // Navigation
 $locale['global_001'] = "Navegación";
 $locale['global_002'] = "No se han creado enlaces\n";
+$locale['global_003'] = "Nada que ver";
 // Users Online
 $locale['global_010'] = "Usuarios Conectados";
 $locale['global_011'] = "Invitados";
@@ -85,6 +98,7 @@ $locale['global_013'] = "Ninguno";
 $locale['global_014'] = "Total Miembros";
 $locale['global_015'] = "Miembros Sin Activar";
 $locale['global_016'] = "Último Miembro";
+$locale['global_017'] = "Alternar la navegación";
 // Forum Side panel
 $locale['global_020'] = "Temas del Foro";
 $locale['global_021'] = "Últimos Temas";
@@ -93,7 +107,6 @@ $locale['global_023'] = "No se han creado temas";
 $locale['global_024'] = "Participaron de las discusiones";
 $locale['global_027'] = "Temas sin respuestas";
 $locale['global_028'] = "Preguntas sin resolver";
-
 // Comments Side panel
 $locale['global_025'] = "Últimos Comentarios";
 $locale['global_026'] = "No hay comentarios";
@@ -138,7 +151,7 @@ $locale['global_073b'] = " Comentario";
 $locale['global_074'] = " Lecturas";
 $locale['global_074b'] = " Leer";
 $locale['global_075'] = "Imprimir";
-$locale['print'] = 'Imprimir';
+$locale['print'] = "Imprimir";
 $locale['global_076'] = "Editar";
 $locale['global_077'] = "Noticias";
 $locale['global_078'] = "No hay noticias";
@@ -171,10 +184,11 @@ $locale['global_101c'] = "Ingrese correo electrónico o nombre de usuario";
 $locale['global_102'] = "Contraseña";
 $locale['global_103'] = "Recordar";
 $locale['global_104'] = "Iniciar Sesión";
-$locale['global_105'] = "¿No eres miembro?<br /><a href='".BASEDIR."register.php' class='side'><strong>Regístrate aquí</strong></a>.";
-$locale['global_106'] = "¿Contraseña olvidada?<br /><a href='".BASEDIR."lostpassword.php' class='side'><strong>Recupera tu contraseña</strong></a>.";
+$locale['global_105'] = "¿No eres miembro? [LINK]Regístrate aquí[/LINK].";
+$locale['global_106'] = "¿Contraseña olvidada? [LINK]Recupera tu contraseña[/LINK].";
 $locale['global_107'] = "Registro";
 $locale['global_108'] = "Contraseña Olvidada";
+$locale['global_109'] = "Únete";
 // Member User Menu
 $locale['global_120'] = "Personaliza tu página de perfil";
 $locale['global_121'] = "Mensajes Privados";
@@ -194,8 +208,9 @@ $locale['UM061b'] = "Nombre de usuario o correo electrónico";
 $locale['UM062'] = "Contraseña";
 $locale['UM063'] = "Acuérdate de mí";
 $locale['UM064'] = "Entrar";
-$locale['UM065'] = "¿No eres miembro todavía?<br /><a href='".BASEDIR."register.php' class='side'>haga clic aquí</a> para registrarse.";
-$locale['UM066'] = "¿Olvidó su contraseña?<br />Solicitar una nueva <a href='".BASEDIR."lostpassword.php' class='side'>aquí</a>.";
+$locale['UM065'] = "¿No eres miembro todavía? [LINK]haga clic aquí[/LINK] para registrarse.";
+$locale['UM066'] = "¿Olvidó su contraseña?\n[LINK]Solicitar una nueva aquí[/LINK].";
+$locale['UM067'] = "(No recomendado en el ordenador público o compartido)";
 $locale['UM080'] = "Editar Perfil";
 $locale['UM081'] = "Mensajes Privados";
 $locale['UM082'] = "Lista de Miembros";
@@ -207,12 +222,13 @@ $locale['UM087'] = "mensajes";
 $locale['UM088'] = "Temas segidos";
 // Submit (news, link, article)
 $locale['UM089'] = "Presentar...";
-$locale['UM090'] = "Añadir Noticias";
-$locale['UM091'] = "Añadir Enlace";
-$locale['UM092'] = "Añadir Articulo";
-$locale['UM093'] = "Añadir Foto";
-$locale['UM094'] = "Añadir Descarga";
+$locale['UM090'] = "Enviar Noticias";
+$locale['UM091'] = "Enviar Enlace";
+$locale['UM092'] = "Enviar Articulo";
+$locale['UM093'] = "Enviar Foto";
+$locale['UM094'] = "Enviar Descarga";
 $locale['UM095'] = "Enviar Blog";
+$locale['UM102'] = "Enviar FAQ";
 // User Panel
 $locale['UM096'] = "BIENVENIDA: ";
 $locale['UM097'] = "Menú Personal";
@@ -233,10 +249,11 @@ $locale['global_172'] = "Generado en %s segundos";
 $locale['global_173'] = "Consultas";
 $locale['global_174'] = "Memoria utilizada";
 $locale['global_175'] = "Promedio: %s segundos";
+$locale['global_176'] = "Política de privacidad";
 // Admin Navigation
 $locale['global_180'] = "Inicio Administración";
 $locale['global_181'] = "Volver al Sitio";
-$locale['global_182'] = "<b>Aviso:</b> Contraseña de Administración no introducida o incorrecta.";
+$locale['global_182'] = "Contraseña de Administración no introducida o incorrecta.";
 // Miscellaneous
 $locale['global_190'] = "Modo de mantenimiento activado";
 $locale['global_191'] = "Tu dirección IP está expulsada.";
@@ -245,23 +262,27 @@ $locale['global_193'] = "No se ha podido establecer la cookie de usuario. Para p
 $locale['global_194'] = "Esta cuenta está suspendida.";
 $locale['global_195'] = "Esta cuenta no está activada.";
 $locale['global_196'] = "El nombre de usuario o la contraseña no son válidos.";
-$locale['global_197'] = "Espera mientras eres transferido...<br /><br />
-[ <a href='index.php'>o pulsa aquí si no quieres esperar</a> ]";
-$locale['global_198'] = "<b>ATENCIÓN:</b> INSTALADOR DETECTADO Elimine LA CARPETA / <strong>INSTALL</strong> / DE INMEDIATO.";
-$locale['global_199'] = "<b>ATENCIÓN:</b> No está configurada la contraseña de administrador. Pulsa <a href='".BASEDIR."edit_profile.php'>Editar Perfil</a> para configurarla.";
+$locale['global_197'] = "Espera mientras eres transferido...\n\n[ [LINK]o pulsa aquí si no quieres esperar[/LINK] ]";
+$locale['global_198'] = "ADVERTENCIA: INSTALADOR DETECTADO, POR FAVOR ELIMINE EL ARCHIVO INSTALL-PHP INMEDIATAMENTE.";
+$locale['global_199'] = "ADVERTENCIA: No está configurada la contraseña de administrador. Pulsa [LINK]Editar Perfil[/LINK] para configurarla.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Buscar";
-$locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Foro";
+$locale['global_202'] = " - Buscar";
+$locale['global_203'] = " - FAQ";
+$locale['global_204'] = " - Foro";
 //Themes
 $locale['global_210'] = "Ir al Contenido";
 $locale['global_300'] = "No se han encontrado temas";
-$locale['global_301'] = "No se ha podido mostrar esta página. Por alguna circunstancia no se ha encontrado el Tema (Theme) del sitio web. Si eres el Administrador del sitio, usa tu cliente de FTP y transfiere al directorio <em>themes/</em> cualquier Tema diseñado para <em>PHP-Fusion v7</em>. Después de transferir el Tema, comprueba en la <em>Configuración Principal</em> que el Tema seleccionado se encuentra en el directorio <em>themes/</em>. Si es así, comprueba que el Tema transferido tiene el mismo nombre (incluyendo mayúsculas y minúsculas - importante en servidores basados en UNIX) que el elegido en la página de la <em>Configuración Principal</em>.<br /><br />Si eres un miembro normal de este sitio web, contacta por email con el Administrador ".hide_email(fusion_get_settings('siteemail'))." e infórmale de este problema.";
+$locale['global_301'] = "Lo sentimos, pero esta página no se puede mostrar. Debido a algunas circunstancias no se puede encontrar ningún tema del sitio.
+  Si usted es un Administrador del Sitio, por favor utilice su cliente FTP para cargar cualquier tema diseñado para PHP-Fusion 9 a la carpeta de temas.
+  Después de cargar comprobar en Configuración de tema para ver si el tema seleccionado se subió correctamente a su directorio de temas.
+  Tenga en cuenta que la carpeta de temas cargados tiene que tener exactamente el mismo nombre (incluido el caso de caracteres, que es importante en los servidores basados en Unix)
+  Como se elige en la página Configuración del tema. \n \nSi eres miembro habitual de este sitio, ponte en contacto con el administrador del sitio a través de [SITE_EMAIL] correo electrónico e informa de este problema.";
 $locale['global_302'] = "El Tema (Theme) elegido en la Configuración Principal no existe o está incompleto.";
 // JavaScript Not Enabled
-$locale['global_303'] = "<b>Error de JavaScript</b>:<br />Tu navegador no tiene JavaScript activado o no admite JavaScript. Debes <b>activar JavaScript</b> en tu navegador para ver correctametne este sitio web,<br />o <b>actualizar</b> tu navegador a uno que admita JavaScript: <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Navegador Web Opera'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> o una versión de <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> más reciente que la versión 6.";
+$locale['global_303'] = "¡Oh no! ¿Dónde está el JavaScript? \n El navegador Web no tiene JavaScript activado o no es compatible con JavaScript.
+Active JavaScript en su explorador Web para ver correctamente este sitio Web o actualizar a un navegador Web que admita JavaScript.";
 // User Management
 $locale['global_400'] = "suspendido";
 $locale['global_401'] = "expulsado";
@@ -276,31 +297,34 @@ $locale['global_409'] = "Esta cuenta ha sido expulsada por motivos de seguridad.
 $locale['global_410'] = "El motivo es: ";
 $locale['global_411'] = "Esta cuenta ha sido cancelada.";
 $locale['global_412'] = "Esta cuenta ha sido anonimizada debido, probablemente, a su inactividad.";
-$locale['global_440'] = "Expulsión Automática por el Control de Desbordamiento";
-$locale['global_441'] = "Su cuenta en ".fusion_get_settings('sitename')." Ha sido prohibida";
-$locale['global_442'] = "Hola [USER_NAME],\n
-Tu cuenta en ".fusion_get_settings('sitename')." ha sido detectada publicando demasiados elementos en el sistema en un muy corto espacio de tiempo desde la dirección IP ".USER_IP." y, por consiguiente, ha sido expulsada. Esto se lleva a cabo para evitar que los robots envíen mensajes de SPAM en una rápida sucesión.\n
-Contacta con el administrador del sitio en ".fusion_get_settings('siteemail')." para cancelar la expulsión de tu cuenta o para informar de que no has sido tú el causante de esta expulsión de seguridad.\n
-".fusion_get_settings('siteusername');
-$locale['global_450'] = "Suspensión cancelada automáticamente por el sistema";
-$locale['global_451'] = "Suspensión Cancelada en ".fusion_get_settings('sitename');
-$locale['global_452'] = "Hola USER_NAME,\n
-La suspensión de tu cuenta en ".fusion_get_settings('siteurl')." ha sido cancelada. Aquí tienes tus datos de inicio de sesión:\n
-Nombre de Usuario: USER_NAME
-Contraseña: Oculta por motivos de seguridad\n
-Si has olvidado tu contraseña, puedes obtener una nueva contraseña pulsando el siguiente enlace: LOST_PASSWORD\n\n
-Saludos,\n
-".fusion_get_settings('siteusername');
-$locale['global_453'] = "Hola USER_NAME,\n
-La suspensión de su cuenta en ".fusion_get_settings('siteurl')." se ha levantado.\n\n
-Saludos,\n
-".fusion_get_settings('siteusername');
-$locale['global_454'] = "Cuenta reactivada en ".fusion_get_settings('sitename');
-$locale['global_455'] = "Hola USER_NAME,\n
-última vez que usted ha iniciado sesión en su cuenta fue reactivada en ".fusion_get_settings('siteurl')." y tu cuenta ya no está marcada como inactiva.\n\n
-Saludos,\n
-".fusion_get_settings('siteusername');
-// Function parsebytesize()
+// Control de inundaciones
+$locale['global_440'] = "Prohibición automática por control de inundación";
+$locale['global_441'] = "Tu cuenta en [SITENAME] ha sido prohibida";
+$locale['global_442'] = "Hola [USER_NAME], \n
+Su cuenta en [SITENAME] fue detectada al publicar demasiados elementos en el sistema en muy poco tiempo desde la IP [USER_IP], y por lo tanto se han prohibido. Esto se hace para evitar que los robots envíen mensajes de spam en rápida sucesión. \norte
+Póngase en contacto con el administrador del sitio en [SITE_EMAIL] para que su cuenta se restablezca o informe si no fue esta la causa de esta prohibición de seguridad. \n \n
+Recuerdos, \n [SITEUSERNAME] ";
+// Authenticate Class
+$locale['global_450'] = "Suspensión automáticamente levantada por el sistema";
+$locale['global_451'] = "Suspensión levantada en [SITENAME]";
+$locale['global_452'] = "Hola USER_NAME, \n
+La suspensión de su cuenta en [SITEURL] se ha levantado. Estos son los datos de acceso: \n
+Nombre de usuario: USER_NAME \n Contraseña: ocultada por razones de seguridad \n
+Si ha olvidado su contraseña, puede restablecerla a través del siguiente enlace: LOST_PASSWORD \n \n
+Recuerdos, \n [SITEUSERNAME] ";
+$locale['global_453'] = "Hola USER_NAME, \n Se ha levantado la suspensión de su cuenta en [SITEURL]. \n \n
+Recuerdos, \n [SITEUSERNAME] ";
+$locale['global_454'] = "Cuenta reactivada en [SITENAME]";
+$locale['global_455'] = "Hola USER_NAME, \n
+La última vez que ingresaste tu cuenta se reactivó en [SITEURL] y tu cuenta ya no está marcada como inactiva. \n \n
+Recuerdos, \n [SITEUSERNAME] ";
+$locale['global_456'] = "Nueva notificación de contraseña para [SITENAME]";
+$locale['global_457'] = "Hola USER_NAME,
+ \n \n Se ha establecido una nueva contraseña para su cuenta en [SITENAME]. Encuentre los nuevos detalles de acceso incluidos: \n \n
+Nombre de usuario: USER_NAME \n Contraseña: [PASSWORD] \n \n Saludos, \n [SITEUSERNAME] ";
+$locale['global_458'] = "Se ha establecido una nueva contraseña para USER_NAME";
+$locale['global_459'] = "Se ha establecido una nueva contraseña para USER_NAME y no se ha enviado correo electrónico. Asegúrese de informar al usuario de los nuevos detalles.";
+// Funcion parsebytesize ()
 $locale['global_460'] = "Vacío";
 $locale['global_461'] = "Bytes";
 $locale['global_462'] = "KB";
@@ -311,14 +335,19 @@ $locale['global_465'] = "TB";
 $locale['global_500'] = "Espera... Estás siendo redirigido a %s. Si no eres redirigido, pulsa aquí.";
 // Captcha Locales
 $locale['global_600'] = "Código de Validación";
+$locale['global_601'] = "Debe introducir un código de validación correcto";
 $locale['recaptcha'] = "es";
+// Site links
+$locale['global_700'] = "Mostrar más";
 //Miscellaneous
 $locale['global_900'] = "No se puede convertir HEX a DEC";
+$locale['global_901'] = "Insertar medios";
 //Language Selection
 $locale['global_ML100'] = "Idioma:";
 $locale['global_ML101'] = "- Seleccione Idioma -";
 $locale['global_ML102'] = "idioma del sitio";
-
+$locale['global_ML103'] = "Cambiar idioma";
+// Flood Control
 $locale['flood'] = "Se le prohibirá a publicar hasta que el período de tiempo de reutilización de inundación ha terminado. Por favor, espere a que %t";
 $locale['no_image'] = "No Imagen";
 $locale['send_message'] = 'Enviar mensaje';
@@ -327,7 +356,7 @@ $locale['go_profile'] = 'Ir a %s Página de perfil';
 $locale['hello'] = 'Hola!';
 $locale['goodbye'] = '¡Adiós!';
 $locale['welcome'] = 'Bienvenido de vuelta';
-$locale['home'] = 'Inicio';
+$locale['home'] = 'Casa';
 // Status
 $locale['error'] = 'Error!';
 $locale['success'] = 'éxito!';
@@ -339,11 +368,11 @@ $locale['no'] = 'No';
 $locale['yes'] = 'Sí';
 $locale['off'] = 'Off';
 $locale['on'] = 'On';
-$locale['or'] = 'or';
-$locale['by'] = 'by';
-$locale['in'] = 'in';
-$locale['of'] = 'of';
-$locale['and'] = "and";
+$locale['or'] = 'o';
+$locale['by'] = 'por';
+$locale['in'] = 'en';
+$locale['of'] = 'de';
+$locale['and'] = "y";
 $locale['na'] = 'No disponible';
 $locale['joined'] = "Registrado desde: ";
 // Navigation
@@ -353,6 +382,8 @@ $locale['back'] = 'Atrás';
 $locale['forward'] = 'Adelante';
 $locale['go'] = 'Ir';
 $locale['cancel'] = 'Cancelar';
+$locale['clear'] = "Claro";
+$locale['move'] = "Mover";
 $locale['move_up'] = "Mover arriba";
 $locale['move_down'] = "Mover abajo";
 $locale['load_more'] = "Cargar más artículos";
@@ -361,6 +392,7 @@ $locale['load_end'] = "Cargar desde Comienzo";
 $locale['add'] = 'Añadir';
 $locale['save'] = 'Guardar';
 $locale['save_changes'] = 'Guardar Cambios';
+$locale['save_and_close'] = "Guardar y Salir";
 $locale['confirm'] = 'Confirmar';
 $locale['update'] = 'Actualización';
 $locale['updated'] = 'Actualizado';
@@ -374,8 +406,18 @@ $locale['reactivate'] = 'Reactivar';
 $locale['user'] = 'Usuario';
 $locale['promote'] = 'Promover';
 $locale['show'] = 'Mostrar';
+$locale['actions'] = "Acciones";
+$locale['language'] = "Idioma";
+// Persons & Identifiers
+$locale['you'] = "Tú";
+$locale['me'] = "Yo";
+$locale['they'] = "Ellos";
+$locale['we'] = "Nosotras";
+$locale['us'] = "Nos";
+$locale['he'] = "Él";
+$locale['she'] = "Ella";
+$locale['it'] = "Ello";
 //Tables
-$locale['status'] = 'Estado';
 $locale['order'] = 'Orden';
 $locale['sort'] = 'Tipo';
 $locale['id'] = 'ID';
@@ -390,11 +432,13 @@ $locale['root'] = 'Como padre';
 $locale['choose-user'] = 'Por favor, elija un usuario...';
 $locale['choose-location'] = 'Por favor, elija una ubicación';
 $locale['parent'] = 'Crear como nuevo padre...';
-$locale['order'] = 'Artículo pedido';
+$locale['item_order'] = 'Artículo pedido';
 $locale['status'] = 'Estado';
 $locale['note'] = 'Tome nota de este artículo';
 $locale['publish'] = 'Publicado';
 $locale['unpublish'] = 'No publicados';
+$locale['sticky'] = "Sticky";
+$locale['unsticky'] = "Unsticky";
 $locale['draft'] = 'borrador';
 $locale['settings'] = 'Ajustes';
 $locale['posted'] = 'publicado';
@@ -403,7 +447,7 @@ $locale['edit'] = 'Editar';
 $locale['qedit'] = 'Edición rápida';
 $locale['view'] = 'Ver';
 $locale['login'] = 'Iniciar sesión';
-$locale['logout'] = 'Cerrar sesion';
+$locale['logout'] = 'Cerrar sesión';
 $locale['admin-logout'] = 'Administrador Salir';
 $locale['message'] = 'Mensajes privados';
 $locale['logged'] = 'Conectado como ';
@@ -412,6 +456,9 @@ $locale['browse'] = 'Ver ...';
 $locale['close'] = 'Cerrar';
 $locale['nopreview'] = 'No hay nada para una vista previa';
 $locale['mark_as'] = "Marcado como";
+$locale['preview'] = "Vista previa";
+$locale['custom'] = "Personalizado";
+$locale['submit'] = "Enviar";
 // Alignment
 $locale['left'] = "Izquierda";
 $locale['center'] = "Centro";
@@ -456,5 +503,9 @@ $locale['fmt_views'] = "vista|vistas";
 $locale['fmt_weblink'] = "enlace|enlaces";
 $locale['fmt_week'] = "semana|semanas";
 $locale['fmt_year'] = "año|años";
+$locale['fmt_points'] = "punto|puntos";
+$locale['fmt_admin'] = "admin|admins";
+$locale['fmt_group'] = "grupo|grupos";
+$locale['fmt_category'] = "categoría|categorías";
 // include Defender locales
 include __DIR__."/defender.php";
