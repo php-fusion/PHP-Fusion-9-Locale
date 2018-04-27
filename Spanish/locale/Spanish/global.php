@@ -54,7 +54,7 @@ $locale['add_lang'] = "Agregar %s";
 $locale['other_states'] = "Otros estados";
 // Name
 $locale['name'] = 'Nombre completo';
-$locale['username_pretext'] = 'Tu nombre de usuario público también es el mismo que su dirección del perfil de usuario se encuentra en:<div class="alert alert-info m-t-10 p-10">%s<strong>%s</strong></div>';
+$locale['username_pretext'] = 'Tu nombre de usuario público también es el mismo que su dirección del perfil de usuario se encuentra en: %s %s';
 $locale['first_name'] = 'Nombre de pila';
 $locale['middle_name'] = 'Segundo nombre';
 $locale['last_name'] = 'con Apellido';
