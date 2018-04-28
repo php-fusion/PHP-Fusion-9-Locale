@@ -1,5 +1,7 @@
 <?php
-$locale['400'] = "<span style='color:#ff0000;'><b>¡Acceso Denegado!</b></span><br />No tienes permiso para ver esta página.";
-$locale['401'] = "Error Interno";
-$locale['402'] = "No se ha podido obtener el contenido de la página.";
-$locale['403'] = "Atrás";
+$locale['page_400'] = "Acceso denegado!\nNo está permitido ver esta página.";
+$locale['page_401'] = "Error interno";
+$locale['page_402'] = "No se puede recuperar el contenido de la página.";
+$locale['page_403'] = "Regresar";
+$locale['page_404'] = "Falta el widget. Restaura o elimina contenido.";
+$locale['page_405'] = "No se puede ver contenido de widget";
