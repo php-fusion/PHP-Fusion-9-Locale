@@ -10,3 +10,7 @@ $locale['c107'] = " Desactivar Smileys en este comentario";
 $locale['c108'] = "Editar";
 $locale['c109'] = "Borrar";
 $locale['c110'] = "¿Borrar este comentario?";
+$locale['c111'] = "Deja un comentario";
+$locale['c112'] = "Responder";
+$locale['c113'] = "Título";
+$locale['c114'] = "Se han actualizado los comentarios";
