@@ -1,20 +1,22 @@
 <?php
 $locale['validate'] = "Por favor, comprobar y revalidar el campo.";
-$locale['error_request'] = 'Hubo un error al procesar su solicitud'; // to be moved
-$locale['regex_error'] = 'Por favor, comprobar y revalidar el %s campo'; // to be moved
+$locale['error_request'] = "Hubo un error al procesar su solicitud"; // to be moved
+$locale['regex_error'] = "Por favor, comprobar y revalidar el %s campo"; // to be moved
 // Text fields errors
-$locale['error_input_default'] = 'Por favor rellene este campo';
-$locale['error_input_password'] = 'Por favor, introduce una contraseña válida';
-$locale['error_input_email'] = 'Por favor introduzca una dirección de correo electrónico válida';
-$locale['error_input_number'] = 'por favor ingrese un número valido';
-$locale['error_input_url'] = 'Por favor introduzca un URL válido';
-$locale['error_input_regex'] = 'Por favor, introduzca un patrón válido';
-$locale['error_input_safemode'] = 'Por favor, rellene este campo correctamente';
-$locale['error_input_check'] = 'Por favor llene un valor correcto del campo';
+$locale['error_input_username'] = "Por favor ingrese un nombre de usuario válido";
+$locale['error_input_default'] = "Por favor rellene este campo";
+$locale['error_input_password'] = "Por favor, introduce una contraseña válida";
+$locale['error_input_email'] = "Por favor introduzca una dirección de correo electrónico válida";
+$locale['error_input_number'] = "por favor ingrese un número valido";
+$locale['error_input_url'] = "Por favor introduzca un URL válido";
+$locale['error_input_regex'] = "Por favor, introduzca un patrón válido";
+$locale['error_input_safemode'] = "Por favor, rellene este campo correctamente";
+$locale['error_input_check'] = "Por favor llene un valor correcto del campo";
 $locale['df_error_text'] = "%s tiene error y requiere su atención.";
-$locale['error_invalid_theme'] = 'Por favor, elige un tema válido'; // to be moved
-$locale['error_input_checkbox'] = 'Por favor, marque esta casilla'; // to be moved
+$locale['error_invalid_theme'] = "Por favor, elige un tema válido"; // to be moved
+$locale['error_input_checkbox'] = "Por favor, marque esta casilla"; // to be moved
 $locale['error_input_file'] = "Por favor, seleccione un archivo válido";
+$locale['error_secure_file'] = "El archivo subido se ha rechazado debido a la posibilidad de una carga útil malintencionada.";
 // Admin Login
 $locale['cookie_title'] = "Agotado el tiempo de sesión";
 $locale['cookie_description'] = "No hay autenticación válida / o la sesión probablemente ha agotado el tiempo. Por favor, iniciar sesión de nuevo.";
@@ -52,6 +54,15 @@ $locale['token_error_5'] = "Marca de fecha símbolo no válido.";
 $locale['token_error_6'] = "Publicar se hizo demasiado rápido.";
 $locale['token_error_7'] = "Hash de token no válido.";
 $locale['token_error_8'] = "Formato token no válido.";
+$locale['token_error_9'] = "No se puede encontrar ningún token para este formulario.";
+$locale['token_error_10'] = "No se puede encontrar ningún token para el almacenamiento: ";
+
+$locale['df_300'] = "Haga clic para agregar archivos";
+$locale['df_301'] = "Haga clic para agregar Foto";
+$locale['df_302'] = "Haga clic para agregar video";
+$locale['df_303'] = "Haga clic para agregar audio";
+$locale['df_304'] = "Quitar archivo seleccionado";
+
 $locale['df_400'] = "%s contiene caracteres no válidos.";
 $locale['df_401'] = "%s no es una dirección válida de correo electrónico.";
 $locale['df_402'] = "%s no es una contraseña válida.";
@@ -68,13 +79,15 @@ $locale['df_421'] = "La imagen no debe ser más grande de %uw x %uh píxeles.";
 $locale['df_422'] = "Error desconocido (consulta)";
 $locale['df_423'] = "Imagen no se carga correctamente. Por favor, inténtelo de nuevo";
 $locale['df_424'] = "Actual subida de archivos es más que el límite máximo. Por favor, inténtelo de nuevo y adjuntar menos archivos.";
+
 // ReCaptcha2
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha_desc'] = "Google Recaptcha campo de Módulo";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY de Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY de Google";
-$locale['no_keys'] = "Parece que usted no tiene ninguna clave todavía. Registrarse y obtener su <a href='https://www.google.com/recaptcha/admin' target='_BLANK'>clave pública aquí</a>";
-$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Revise sus claves en Google reCAPTCHA</button></a>";
+$locale['no_keys'] = "Parece que usted no tiene ninguna clave todavía. Registrarse y obtener su [RECAPTCHA_LINK]clave pública aquí[/RECAPTCHA_LINK]";
+// here
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Clave Pública";
 $locale['grecaptcha_0101'] = "Clave Privada";
 $locale['grecaptcha_0102'] = "Theme";
