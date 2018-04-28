@@ -1,10 +1,9 @@
 <?php
 // Contact Form
 $locale['400'] = "Contactar";
-$locale['401'] = "Hay varias maneras que usted puede ponerse en contacto conmigo. Usted me puede enviar por correo electrónico directamente en<br />
-Puedes enviar un email a ".hide_email(fusion_get_settings('siteemail')).". Si estás registrado, puedes enviar un<br />
-<a href='messages.php?msg_send=1'>Mensaje Privado</a>.<br />
-Y también puedes rellenar el siguiente formulario.";
+$locale['401'] = "Hay varias maneras de ponerse en contacto. Puede enviar un correo electrónico directamente a
+[SITE_EMAIL]. Si eres Miembro, puedes enviar un [PM_LINK].
+Alternativamente, puede rellenar el formulario de esta página que envía su mensaje por correo electrónico.";
 $locale['402'] = "Tu Nombre:";
 $locale['403'] = "Email:";
 $locale['404'] = "Asunto:";
