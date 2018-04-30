@@ -16,3 +16,4 @@ $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/D";
 $locale['err_101'] = "<b>AVISO:</b> Se ha producido un error al analizar la página. Revisa el [ERROR_LOG_URL]informe de error[/ERROR_LOG_URL] de PHP-Fusion para más detalles.";
 $locale['err_102'] = "¡Muéstrame el error!";
+$locale['err_103'] = "{%function%} {%folder%} No existe.";
