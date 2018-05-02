@@ -23,3 +23,5 @@ $locale['419'] = "Opciones";
 $locale['420'] = "Versión";
 $locale['421'] = "Autor";
 $locale['422'] = "Descargar más Complementos";
+$locale['423'] = "%s La infusión se ha instalado";
+$locale['424'] = "%s La infusión ha sido desinstalada";
