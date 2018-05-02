@@ -34,7 +34,7 @@ $locale['u071'] = "Suspender";
 $locale['u072'] = "Borrar";
 $locale['u073'] = "¿Borrar este usuario?";
 // Profile and register
-$locale['u100'] = "Para cambiar tu contraseña o tu dirección de email<br />debes indicar tu contraseña actual.";
+$locale['u100'] = "Para cambiar tu contraseña o tu dirección de email, debes indicar tu contraseña actual.";
 $locale['u101'] = "Registro";
 $locale['u102'] = "Editar Perfil";
 $locale['u103'] = "Perfil";
@@ -58,6 +58,8 @@ $locale['u111'] = "%u Usuario";
 $locale['u112'] = "%u Usuarios";
 $locale['u113'] = "Nombre de Usuario";
 $locale['u114'] = "Tipo de Usuario";
+$locale['u115'] = "Idioma";
+$locale['u116'] = "No hay miembros del grupo";
 // User name and email
 $locale['u120'] = "El nombre de usuario contiene caracteres no válidos.";
 $locale['u121'] = "El nombre de usuario que has elegido ya está registrado.";
@@ -101,14 +103,15 @@ $locale['u149a'] = "No has indicado tu actual contraseña de administrador o no 
 $locale['u149b'] = "Su contraseña de acceso actual no ha sido especificada o no es válida.\nNo se puede establecer la contraseña de administrador sin la contraseña de acceso correcta.";
 // Email actiation
 $locale['u150'] = "Tu registro está casi completo. Recibirás un email conteniendo tus datos de inicio de sesión, así como un enlace para verificar tu cuenta.";
-$locale['u151'] = "Bienvenida y Activación en [SITENAME]";
-$locale['u152'] = "Hola USER_NAME,\n
-Te damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:\n
-Nombre de Usuario: USER_NAME
-Contraseña: USER_PASSWORD\n
-Ahora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK\n\n
-Saludos,
+$locale['u151'] = "Bienvenido a [SITENAME]";
+$locale['u152'] = "Hola USER_NAME,\n\r
+Te damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:\n\r
+Nombre de Usuario: USER_NAME\n\r
+Contraseña: USER_PASSWORD\n\r
+Ahora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK\n\n\r\r
+Saludos,\n\r
 SITEUSERNAME";
+
 $locale['u153'] = "No se ha podido enviar el email de activación.";
 $locale['u154'] = "Contacta con el [LINK]Administrador del Portal.[/LINK].";
 $locale['u155'] = "Activar la Cuenta";
@@ -132,7 +135,6 @@ $locale['u174'] = "Añadir Otro Miembro.";
 // Avatar upload
 $locale['u180'] = "Hay un error cargando imagen de avatar";
 
-
 $locale['u184'] = "Tamaño Máx. Archivo: %s / Dimensiones Máx.: %u x %u píxeles";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Pulsa el botón Examinar para transferir una imagen";
@@ -142,17 +144,21 @@ $locale['u190'] = "Código de Validación";
 $locale['u191'] = "Introduce el Código de Validación";
 $locale['u192'] = "Condiciones del Registro";
 $locale['u193'] = "He leído las [LINK]Condiciones del Registro[/LINK] y estoy de acuerdo con ellas.";
+$locale['u193a'] = "Actualizado";
+$locale['u193b'] = "Estoy de acuerdo";
 $locale['u194'] = "Código de validación incorrecto.";
 $locale['u195'] = "El código de validación no puede dejarse vacío.";
 // E-mail Change Confirmation
 $locale['u200'] = "Ha sido enviado un email de verificación a tu nueva dirección de email (%s).";
 $locale['u201'] = "Tu dirección de email será cambiada cuando pulses el enlace contenido en el email de verificación.";
 $locale['u202'] = "Verificación de Email - [SITENAME]";
-$locale['u203'] = "Hola [USER_NAME],\n\r
-Ha sido solicitada la configuración de esta dirección de email en una cuenta de nuestro sitio web.\n\r
-Si realmente quieres cambiar tu dirección de email, pulsa el siguiente enlace:\n\r
-[EMAIL_VERIFY_LINK]\n\n\r\r
-Nota: tienes que haber iniciado sesión para proceder.\n\r
-Saludos,\n\r
-[SITEUSERNAME]\n\r
+$locale['u203'] = "Hola [USER_NAME],\n
+Ha sido solicitada la configuración de esta dirección de email en una cuenta de nuestro sitio web.\n
+Si realmente quieres cambiar tu dirección de email, pulsa el siguiente enlace:\n
+[EMAIL_VERIFY_LINK]\n
+Nota: tienes que haber iniciado sesión para proceder.\n
+Saludos,\n
+[SITEUSERNAME]\n
 [SITENAME]";
+
+$locale['u210'] = "Reputación del usuario";
