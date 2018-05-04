@@ -1,4 +1,96 @@
 <?php
+$locale['ME_400'] = 'Gestión de usuarios';
+$locale['ME_401'] = 'Buscar usuario ...';
+$locale['ME_402'] = 'Mostrar filtros';
+$locale['ME_403'] = 'Agregar un nuevo usuario';
+$locale['ME_404'] = 'Aplicar filtro';
+$locale['ME_405'] = 'No hay usuarios encontrados bajo los criterios de búsqueda';
+//
+$locale['ME_407'] = 'Mostrando %s - %d de %d registros encontrados';
+$locale['ME_408'] = 'Información básica';
+$locale['ME_409'] = 'Información detallada';
+$locale['ME_410'] = 'Usuario';
+$locale['ME_411'] = 'Nivel de usuario';
+$locale['ME_412'] = 'Dirección de correo electrónico';
+$locale['ME_413'] = 'Cuenta de usuario';
+$locale['ME_414'] = 'Seleccionar todo';
+$locale['ME_415'] = 'Oculto';
+$locale['ME_416'] = 'Mostrado';
+
+// Filtro de campos principales
+$locale['ME_420'] = 'Email Hidden?';
+$locale['ME_421'] = 'Fecha de incorporación';
+$locale['ME_422'] = 'Último inicio de sesión';
+$locale['ME_423'] = 'Dirección IP';
+$locale['ME_424'] = 'Tipo de IP';
+$locale['ME_425'] = 'Grupos de usuarios';
+$locale['ME_426'] = 'Zona horaria';
+
+// Formulario de acción
+$locale['ME_430'] = 'Error: las acciones contra los usuarios seleccionados no pudieron completarse';
+$locale['ME_431'] = 'Los siguientes usuarios serán %s:';
+$locale['ME_432'] = '%s ha sido %s';
+$locale['ME_433'] = 'Por favor, especifique un motivo para la acción';
+$locale['ME_434'] = 'Razón';
+$locale['ME_435'] = 'Duración';
+$locale['ME_436'] = 'Días';
+$locale['ME_437'] = 'Actualizar usuario';
+
+$locale['ME_450'] = 'Agregar nuevo usuario';
+$locale['ME_451'] = '%s\'s Perfil ';
+$locale['ME_452'] = 'Editar %s\'s Perfil ';
+$locale['ME_453'] = 'Eliminar usuario %s';
+$locale['ME_454'] = "¡Advertencia!";
+$locale['ME_455'] = "Está a punto de eliminar el usuario %s!\n\r\n\rLos contenidos publicados por este usuario en este sitio se eliminarán si continúa.\n\r
+A menos que sea un spammer, por ej. le recomendamos que cancele, suspenda, cancele o anomime a este usuario.\n\r
+¿Seguro que quieres eliminar a este usuario?\n\r";
+$locale['ME_456'] = 'Eliminar usuario';
+
+$locale['ME_460'] = 'No hay usuarios para ser desactivados';
+$locale['ME_461'] = '%s ha sido desactivado';
+$locale['ME_462'] = 'Desactivar miembros inactivos';
+$locale['ME_463'] = 'Tiene más de 50 usuarios inactivos y tendrá que ejecutar el proceso de desactivación (%d) veces.';
+$locale['ME_464'] = '%d usuario(s) no ha iniciado sesión para %d día(s) y se ha marcado como inactivo. Al desactivar estos usuarios tendrán (%d) día(s) antes de que sean %s. ';
+$locale['ME_465'] = 'Tenga en cuenta que algunos usuarios pueden haber enviado contenido a su sitio, como publicaciones en el foro, comentarios, fotos, etc. Estos se eliminarán cuando se eliminen los usuarios desactivados.';
+$locale['ME_466'] = '¡Se recomienda encarecidamente cambiar la acción de desactivación para anonimizar en lugar de eliminar para evitar la pérdida de datos!';
+$locale['ME_467'] = "Establecer el sistema de desactivación para anonimizar.";
+$locale['ME_468'] = 'Desactivación automática de usuarios inactivos.';
+
+// Acciones
+$locale['ME_500'] = 'Prohibir';
+$locale['ME_501'] = 'Reinstaurar';
+$locale['ME_502'] = 'Desactivar';
+$locale['ME_503'] = 'Suspender';
+$locale['ME_504'] = 'Prohibición de seguridad';
+$locale['ME_505'] = 'Cancelar';
+$locale['ME_506'] = 'Anonimizar';
+
+// a_message keys
+$locale['ME_550'] = 'prohibido';
+$locale['ME_551'] = 'restablecido';
+$locale['ME_552'] = 'desactivado';
+$locale['ME_553'] = 'suspendido';
+$locale['ME_554'] = 'seguridad prohibida';
+$locale['ME_555'] = 'cancelado';
+$locale['ME_556'] = 'anonimizado';
+$locale['ME_557'] = 'eliminado permanentemente';
+
+$locale['ME_560'] = "Mostrar resultados";
+$locale['ME_561'] = "Mostrar usuario con estado";
+
+/*--------------------------------------------------------------------------
+These are old locale. They are MOST LIKELY not being used by the new member center.
+Please remove them or reindex the keys if you find any.
+*--------------------------------------------------------------------------*/
+
+
+// Edit Member Details
+$locale['430'] = "Editar miembro";
+// Add Member Errors
+$locale['480'] = "Agregar miembro";
+$locale['481'] = "La cuenta miembro ha sido creada.";
+$locale['482'] = "La cuenta miembro no pudo ser creada.";
+
 // Member Management Options
 $locale['400'] = "Gestión de Usuarios";
 $locale['401'] = "Usuario";
@@ -26,57 +118,18 @@ $locale['421'] = "Expulsión eliminada";
 $locale['422'] = "Miembro borrado";
 $locale['423'] = "¿Borrar este miembro?";
 $locale['424'] = "Miembro activado";
-$locale['425'] = "<h2>Warning!</h2><br />
-You are about to delete user <strong>%s</strong> !<br />
-The following content <u>posted by this user</u> on this site will be deleted if you proceed:<br />
-- Articles<br />
-- News<br />
-- Forum threads. Note that posts made by other users in these threads will also be deleted, along with the poll votes and attachemets existent in this threads.<br />
-- Forum posts<br />
-- Forum attachements<br />
-- Comments<br />
-- Private messages sent or received by this user<br />
-- Poll votes<br />
-- Ratings given<br />
-Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anomymize this user.<br />
-<br />
-Are you sure you want to delete this user?<br />";
 $locale['426'] = "Sí";
 $locale['427'] = "No";
-// Edit Member Details
-$locale['430'] = "Editar Miembro";
-$locale['431'] = "Datos del miembro actualizados";
-$locale['432'] = "Volver a la Administración de Miembros";
-$locale['433'] = "Volver a Administración";
-$locale['434'] = "No se han podido actualizar los datos del miembro:";
-// Extra Edit Member Details form options
-$locale['440'] = "Guardar";
-// Update Profile Errors
-$locale['450'] = "No se ha podido editar el administrador principal.";
-$locale['451'] = "Debes indicar un nombre de usuario y una dirección de email.";
-$locale['452'] = "El nombre de usuario contiene caracteres no válidos.";
-$locale['453'] = "El nombre de usuario ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." ya está en uso.";
-$locale['454'] = "La dirección de email no es válida.";
-$locale['455'] = "La dirección de email ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." ya está en uso.";
-$locale['456'] = "Las nuevas contraseñas no coinciden.";
-$locale['457'] = "Contraseña no válida. Usa sólo caracteres alfanuméricos.<br />
-La contraseña debe tener, como mínimo, 8 caracteres de longitud.";
-$locale['458'] = "<b>Aviso:</b> Ejecución inesperada del programa.";
-// View Member Profile
-$locale['470'] = "Perfil del Miembro";
-$locale['472'] = "Estadísticas";
-$locale['473'] = "Grupos de Usuarios";
-// Add Member Errors
-$locale['480'] = "Añadir Miembro";
-$locale['481'] = "La cuenta del miembro ha sido creada.";
-$locale['482'] = "No se ha podido crear la cuenta del miembro.";
-// Suspension Log 
+
+// Suspension Log
 $locale['510s'] = "Registro de Suspensión para ";
 $locale['511s'] = "En el registro de suspensiones no hay datos de este miembro.";
 $locale['512s'] = "Suspensiones anteriores de ";
 $locale['513'] = "Nº."; // as in number
 $locale['514'] = "Fecha";
+
 $locale['515'] = "Motivo";
+
 $locale['516'] = "Suspensión del Administrador";
 $locale['517'] = "Acción del Sistema";
 $locale['518'] = "Volver al Perfil del Usuario";
@@ -94,12 +147,12 @@ $locale['552'] = "Motivo:";
 $locale['553'] = "Suspender";
 $locale['554'] = "En el registro de suspensiones no hay datos de este miembro.";
 $locale['555'] = "Si decides que este usuario debería ser expulsado, pulsa Expulsar";
-$locale['556'] = "Cancelar Suspensión del Usuario: ";
-$locale['557'] = "Cancelar Suspensión";
-$locale['558'] = "Cancelar Expulsión del Usuario: ";
-$locale['559'] = "Cancelar Expulsión";
-$locale['560'] = "Cancelar Expulsión de Seguridad del Usuario: ";
-$locale['561'] = "Cancelar Expulsión de Seguridad";
+$locale['556'] = "Levante la Suspensión del Usuario: ";
+$locale['557'] = "Levante la Suspensión";
+$locale['558'] = "Levante la Expulsión del Usuario: ";
+$locale['559'] = "Levante la Expulsión";
+$locale['560'] = "Levante la Expulsión de Seguridad del Usuario: ";
+$locale['561'] = "Levante la Expulsión de Seguridad";
 $locale['562'] = "Expulsar al Usuario: ";
 $locale['563'] = "Expulsar por seguridad al Usuario: ";
 $locale['585a'] = "Explica el motivo por el que estás expulsando o readmitiendo ";
@@ -114,10 +167,10 @@ $locale['576'] = "Cuenta cancelada";
 $locale['577'] = "Cancelación de cuenta anulada";
 $locale['578'] = "Cuenta cancelada y anonimizada";
 $locale['579'] = "Anonimización de cuenta anulada";
-$locale['580'] = "Desactivar Miembros Inactivos";
-$locale['581'] = "Tienes más de 50 usuarios inactivos y el proceso de desactivación tendrá que ejecutarse <b>%d veces</b>.";
+
+
 $locale['582'] = "Reactivar";
-$locale['583'] = "Rehabilitar";
+$locale['583'] = "Reintegrar";
 $locale['584'] = "Seleccionar nuevo estado";
 $locale['585'] = "Este miembro fue inicialmente expulsado por razones de seguridad. ¿Seguro que deseas readmitir ahora a este miembro?";
 $locale['590'] = "Suspender";
@@ -126,24 +179,14 @@ $locale['592'] = "suspendiendo";
 $locale['593'] = "rehabilitando";
 $locale['594'] = "Indica el motivo por el que estás ";
 $locale['595'] = " al usuario ";
-$locale['596'] = "Duración:";
+
 $locale['600'] = "Expulsar por seguridad";
 $locale['601'] = "expulsando por seguridad";
 $locale['602'] = "Readmitir";
 $locale['603'] = "readmitiendo";
 $locale['604'] = "Motivo:";
+
 // Deactivation System
-$locale['610'] = "Hay <b>%d usuarios</b> que no han iniciado sesión durante <b>%d días</b> y han sido marcados como inactivos.
-Si se desactivan, dispondrán de <b>%d días</b> antes de que sean %s.";
-$locale['611'] = "Ten en cuenta que algunos usuarios han podido enviar contenidos al sitio, tales como mensajes del foro, comentarios, fotos, etc.,
-y éstos serán eliminados cuando los usuarios desactivados sean borrados.";
 $locale['612'] = "usuario";
 $locale['613'] = "usuarios";
 $locale['614'] = "Desactivar";
-$locale['615'] = "borrado permanentemente";
-$locale['616'] = "anonimizar";
-$locale['617'] = "<b>Aviso:</b>";
-$locale['618'] = "Es muy recomendable cambiar la acción de desactivación por la de anonimización para evitar el borrado y la perdida de datos.";
-$locale['619'] = "Puedes hacerlo aquí.";
-$locale['620'] = "anonimizar";
-$locale['621'] = "Desactivación automática de los usuarios inactivos.";
