@@ -20,6 +20,10 @@ $locale['424'] = "PHP";
 $locale['425'] = "Abj-Ctr";
 $locale['426'] = "A continuación cabecera";
 $locale['427'] = "Por encima de pie de página";
+$locale['428a'] = "User 1";
+$locale['428b'] = "User 2";
+$locale['428c'] = "User 3";
+$locale['428d'] = "User 4";
 // Panel Options
 $locale['430'] = "Mover a la izquierda";
 $locale['431'] = "Mover a la derecha";
@@ -36,8 +40,8 @@ $locale['441'] = "Izquierda";
 $locale['442'] = "Derecha";
 $locale['443'] = "Subir";
 $locale['444'] = "Bajar";
-$locale['445'] = "Cambiar a Arr-Ctr";
-$locale['446'] = "Cambiar a Abj-Ctr";
+$locale['445'] = "Mover hacia arriba";
+$locale['446'] = "Mover hacia abajo";
 // Add/Edit Panel Form
 $locale['450'] = "Editar Panel";
 $locale['451'] = "Añadir Panel";
@@ -58,13 +62,15 @@ $locale['465'] = "Incluir en estas páginas";
 $locale['466'] = "Idioma del panel:";
 $locale['467'] = "Mostrar en la página de inicio sólo";
 $locale['468'] = "Tipo de panel";
+$locale['469'] = "Ninguno";
+$locale['469a'] = "Contenido";
 // Update/Add new Panel Errors
 $locale['470'] = "Debes indicar el nombre del panel";
 $locale['471'] = "El nombre del panel ya está en uso";
 $locale['472'] = "Debes introducir el contenido del panel";
 $locale['473'] = "Debes indicar el nombre del archivo del panel";
 $locale['474'] = "La contraseña de administrador no es válida";
-$locale['475'] = "Tienes que marcar \"Mostrar el panel en todas las páginas\" cuando restrinjas paneles centrales (Arr-Ctr/Abj-Ctr)";
+$locale['475'] = "Debe haber al menos una sección en la lista de filtros para usar el filtro";
 // Update/Add new Panel Success/Fail
 $locale['480'] = "Actualizar Panel";
 $locale['481'] = "No se ha podido actualizar el panel";
@@ -83,3 +89,4 @@ $locale['603'] = "paneles usados";
 $locale['604'] = "paneles";
 $locale['605'] = "Panel";
 $locale['606'] = "Contenido del sitio";
+$locale['607'] = "Archivo";
