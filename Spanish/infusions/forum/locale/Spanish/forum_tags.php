@@ -1,0 +1,20 @@
+<?php
+$locale['forum_tag_0100'] = "Etiquetas del foro";
+$locale['forum_tag_0101'] = "Las etiquetas se usan para organizar sus hilos y ayudarlo en la microorganización de sus temas de discusión.";
+$locale['forum_tag_0102'] = "Etiqueta del foro actual";
+$locale['forum_tag_0103'] = "Crear etiqueta";
+$locale['forum_tag_0104'] = "Editar etiqueta";
+$locale['forum_tag_0105'] = "Etiqueta creada";
+$locale['forum_tag_0106'] = "Etiqueta actualizada";
+$locale['forum_tag_0107'] = "Etiqueta eliminada";
+$locale['forum_tag_0110'] = "Información del sitio";
+$locale['forum_tag_0111'] = "Debates sobre la gestión de este sitio web";
+$locale['forum_tag_0200'] = "Título de la etiqueta";
+$locale['forum_tag_0201'] = "Descripción de la etiqueta";
+$locale['forum_tag_0202'] = "Color de etiqueta";
+$locale['forum_tag_0203'] = "Lenguaje de etiquetas";
+$locale['forum_tag_0204'] = "Estado de etiqueta";
+$locale['forum_tag_0205'] = "Esta etiqueta está activa";
+$locale['forum_tag_0206'] = "Esta etiqueta está inactiva";
+$locale['forum_tag_0207'] = "Crear etiqueta";
+$locale['forum_tag_0208'] = "Actualizar etiqueta";
