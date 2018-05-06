@@ -18,6 +18,8 @@
 $locale['400'] = "Indstillinger";
 // Site Settings
 $locale['401'] = "Hovedindstillinger";
+$locale['401a'] = "Hjemmeside vært indstillinger";
+$locale['401b'] = "Konfiguration til din hjemmeside url, hjemmeside port og hjemmeside protokoller.";
 $locale['402'] = "Sidens navn";
 $locale['403'] = "Sidens adresse";
 $locale['404'] = "Sidens banner";
@@ -329,3 +331,5 @@ $locale['security_004'] = "Databasesystem";
 $locale['security_005'] = "Filsystem";
 $locale['security_006'] = "Ryd system sessioner cache";
 $locale['security_007'] = "Alle system sessioner er nu blevet ryddet";
+$locale['security_008'] = "Formular tokens";
+$locale['security_009'] = "Antal af udstedte tokens til hver formular";
