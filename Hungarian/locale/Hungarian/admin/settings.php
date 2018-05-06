@@ -311,3 +311,5 @@ $locale['security_004'] = "Adatbázis Rendszer";
 $locale['security_005'] = "Fájl Rendszer";
 $locale['security_006'] = "Rendszer Cache Törlése";
 $locale['security_007'] = "Az összes rendszeres munkamenet sikeresen törölve lett";
+$locale['security_008'] = "Űrlap Token";
+$locale['security_009'] = "Űrlap Tokenek Száma";
