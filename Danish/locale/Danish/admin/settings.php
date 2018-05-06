@@ -74,6 +74,9 @@ $locale['443a'] = "Udeluk elementer for bruger 1 ";
 $locale['443b'] = "Udeluk elementer for bruger 2 ";
 $locale['443c'] = "Udeluk elementer for bruger 3 ";
 $locale['443d'] = "Udeluk elementer for bruger 4 ";
+$locale['444a'] = "Konfiguration af flere domæner på et enkelt site.<br/><br/>Adskil og tilføj et domæne i hver sin række.";
+$locale['444b'] = "Registrerede domænenavne";
+$locale['445'] = "Ugyldig (test formål)";
 
 // Time & Date Settings
 $locale['450'] = "Dato og klokkeslæt";
