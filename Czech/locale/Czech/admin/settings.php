@@ -16,6 +16,9 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['400'] = "Nastavení";
+$locale['401a'] = "Nastavení hostitelské stránky";
+$locale['401b'] = "Konfigurace pro vaše webové adresy, porty a protokoly stránky.";
+
 // Site Settings
 $locale['401'] = "Hlavní";
 $locale['402'] = "Název stránky";
@@ -52,7 +55,7 @@ $locale['423'] = "Vyloučit pravé panely:";
 $locale['424'] = "Příklad:<br/>/news.php<br/>/forum/index.php";
 $locale['425'] = "Adresa webu";
 $locale['426'] = "Protokol stránky:";
-$locale['427'] = "Host stránky:";
+$locale['427'] = "Hostitel stránky:";
 $locale['428'] = "Příklad:";
 $locale['429'] = "Cesta stránky:";
 $locale['430'] = "Port stránky:";
@@ -74,6 +77,10 @@ $locale['443a'] = "Vypnout uživatel 1 panely";
 $locale['443b'] = "Vypnout uživatel 2 panely";
 $locale['443c'] = "Vypnout uživatel 3 panely";
 $locale['443d'] = "Vypnout uživatel 4 panely";
+$locale['444'] = "Doménové servery";
+$locale['444a'] = "Konfigurace pro více domény na jedné stránce.<br/><br/>Oddělte a zadejte jednu doménu v každém řádku.";
+$locale['444b'] = "Registrované doménová jména";
+$locale['445'] = "Neplatné (testovací účely)";
 
 // Time & Date Settings
 $locale['450'] = "Čas a datum";
@@ -326,3 +333,5 @@ $locale['security_004'] = "Databázový systém";
 $locale['security_005'] = "Systém souborů";
 $locale['security_006'] = "Vymazat mezipaměť relace systému";
 $locale['security_007'] = "Všechny relace systému byly úspěšně odstraněny";
+$locale['security_008'] = "Tokeny formuláře";
+$locale['security_009'] = "Počet vydaných tokenů pro každý formulář";
