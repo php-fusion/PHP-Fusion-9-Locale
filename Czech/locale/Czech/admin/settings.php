@@ -333,3 +333,5 @@ $locale['security_004'] = "Databázový systém";
 $locale['security_005'] = "Systém souborů";
 $locale['security_006'] = "Vymazat mezipaměť relace systému";
 $locale['security_007'] = "Všechny relace systému byly úspěšně odstraněny";
+$locale['security_008'] = "Tokeny formuláře";
+$locale['security_009'] = "Počet vydaných tokenů pro každý formulář";
