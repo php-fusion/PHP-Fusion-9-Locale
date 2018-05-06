@@ -2,6 +2,9 @@
 $locale['400'] = "Beállítások";
 // Site Settings
 $locale['401'] = "Alapbeállítások";
+$locale['401a'] = "Webhely beállításai";
+$locale['401b'] = "A webhely URL-je, a webhely portja és a webhely-protokollok konfigurációja.";
+
 $locale['402'] = "Oldal neve";
 $locale['403'] = "Oldal URL";
 $locale['404'] = "Oldal banner";
@@ -58,6 +61,10 @@ $locale['443a'] = "1 Felhasználói Panel Elrejtése";
 $locale['443b'] = "2 Felhasználói Panel Elrejtése";
 $locale['443c'] = "3 Felhasználói Panel Elrejtése";
 $locale['443d'] = "4 Felhasználói Panel Elrejtése";
+$locale['444'] = "Domain szerverek";
+$locale['444a'] = "Egyetlen webhely több tartományának konfigurálása.<br />Adja meg soronként a tartományokat.";
+$locale['444b'] = "Regisztrált Domain Nevek";
+$locale['445'] = "Érvénytelen (Teszt Célra)";
 
 // Time & Date Settings
 $locale['450'] = "Dátum és idő";
