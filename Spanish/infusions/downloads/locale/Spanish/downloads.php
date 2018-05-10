@@ -19,13 +19,10 @@ $locale['download_1018'] = "Visite el sitio web";
 $locale['download_1019'] = "Revisión completa del editor";
 $locale['download_1020'] = "Tamaño del archivo";
 $locale['download_1021'] = "Fecha de publicación";
-
-// filters
 $locale['download_2001'] = 'La mayoría de comentarios';
 $locale['download_2002'] = 'Más reciente';
 $locale['download_2003'] = 'Más descargados';
 $locale['download_2004'] = 'los mejores';
-// errors
 $locale['download_3000'] = "Aún No se han agregado Descargas";
 $locale['download_3001'] = "Sin categoría";
 $locale['download_3002'] = "Sin Editor";
