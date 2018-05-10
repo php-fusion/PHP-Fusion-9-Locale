@@ -1,5 +1,4 @@
 <?php
-
 $locale['blog_1000'] = "Blog";
 $locale['blog_1001'] = "Blog Inicio";
 $locale['blog_1003'] = "Blog Categoría";
@@ -19,4 +18,3 @@ $locale['testimonial_join'] = "Ingresé a este sitio web en %s";
 $locale['testimonial_web'] = "También ejecuto otro sitio web en %s";
 $locale['testimonial_contact'] = "Si desea ponerse en contacto conmigo, pueden contactarme en %s";
 $locale['testimonial_email'] = "También puede contactarme a mi dirección de correo electrónico en %s";
-
