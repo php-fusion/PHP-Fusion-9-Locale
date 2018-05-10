@@ -17,6 +17,7 @@ $locale['blog_0145'] = "Presentación Borrada";
 $locale['blog_0146'] = "Envíos se ha publicado";
 $locale['blog_0147'] = "Envíos se guarda como borrador";
 $locale['blog_0148'] = "Publicado por ";
+$locale['blog_0149'] = "%s Se ha inhabilitado y no tendrá efecto.";
 // Blog titles
 $locale['blog_0400'] = "Blogs actuales";
 $locale['blog_0401'] = "Añadir Blog";
@@ -54,7 +55,6 @@ $locale['blog_0432'] = "Hacer este Blog tema pegajoso";
 $locale['blog_0433'] = "Saltos de línea automáticos";
 $locale['blog_0434'] = "Permitir comentarios";
 $locale['blog_0435'] = "Permiten calificaciones";
-$locale['blog_0436'] = "Vista previa Blog";
 $locale['blog_0437'] = "Guardar Blog";
 $locale['blog_0438'] = "borrador";
 $locale['blog_0439'] = "Blog imagen:";
@@ -66,7 +66,6 @@ $locale['blog_0444'] = "Pulsar intro después de cada palabras clave";
 // Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Editar Blog categoría";
-$locale['blog_0501'] = "Añadir Blog Categoría";
 $locale['blog_0502'] = "Categorías";
 // Blog Categories messages
 $locale['blog_0520'] = "Categoría blog añadido";
@@ -82,6 +81,9 @@ $locale['blog_0533'] = "Categoría Superior:";
 $locale['blog_0535'] = "No hay categorías definidas blog";
 $locale['blog_0536'] = "Haga clic aquí para subir imágenes categoría";
 $locale['blog_0537'] = "Padres";
+$locale['blog_0538'] = "Bytes (bytes)";
+$locale['blog_0539'] = "KB (Kilobytes)";
+$locale['blog_0540'] = "MB (Megabytes)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "¿Desea eliminar esta categoría de Blog?";
 // Error Messages
@@ -90,7 +92,6 @@ $locale['blog_0561'] = "Esta categoría ya existe.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Por favor especifique un tema";
 $locale['blog_0451'] = "¿Borrar este Blog?";
-$locale['blog_0451b'] = "¿Desea eliminar esta categoría de Blog?";
 $locale['blog_0452'] = "%s están deshabilitados para todos los elementos.\n\rEste ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
 $locale['blog_0456'] = 'No hay ningún Blog en esta categoría.';
 $locale['blog_0457'] = "Por favor especifique palabras clave";
@@ -114,20 +115,19 @@ $locale['blog_0703'] = "Utilice el siguiente formulario para presentar el Blog. 
 Administrador. [SITENAME] se reserva el derecho de modificar o editar cualquier envío. Blog
 debe ser aplicable al contenido de este sitio. Se eliminarán las presentaciones inadecuadas.";
 $locale['blog_0704'] = "Volver a [SITENAME]";
-
-$locale['601'] = "Thumb size:";
-$locale['602'] = "Photo size:";
-$locale['603'] = "Maximum photo size:";
-$locale['604'] = "Width x Height";
-$locale['605'] = "Maximum file size (bytes):";
+$locale['601'] = "Tamaño del pulgar:";
+$locale['602'] = "Tamaño de la foto:";
+$locale['603'] = "Tamaño máximo de la foto:";
+$locale['604'] = "Anchura x Altura";
+$locale['605'] = "Tamaño máximo de archivo (bytes):";
 // Blog & News Settings
-$locale['950'] = "Image Upload";
-$locale['951'] = "Image link:";
-$locale['952'] = "Category";
-$locale['953'] = "News Item";
-$locale['953b'] = "Blog Item";
+$locale['950'] = "Subir imagen";
+$locale['951'] = "Enlace imagen:";
+$locale['952'] = "Categoría";
+$locale['953'] = "Elemento de blog";
 $locale['954'] = "Thumb ratio:";
 $locale['955'] = "Original";
-$locale['956'] = "Square";
-$locale['959'] = "Uploaded Photo";
-$locale['960'] = "Category Image";
+$locale['956'] = "Cuadrado";
+$locale['959'] = "Foto cargada";
+$locale['960'] = "Categoría Imagen";
+$locale['961'] = "Tipos de archivo permitidos:";
