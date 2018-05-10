@@ -1,35 +1,39 @@
 <?php
-// Descargas de títulos
+$locale['604'] = "Anchura x Altura";
+$locale['930'] = "Tama񯠭⹩mo de subidas:";
+$locale['931'] = "Tama񯠭⹩mo del archivo en bytes";
+$locale['932'] = "Tipos de archivo permitidos:";
+$locale['933'] = "Separar cada tipo con una coma";
+$locale['934'] = "Tama񯠭⹩mo de captura de pantalla:";
+$locale['936'] = "Tama񯠭⹩mo del archivo de captura de pantalla (bytes):";
+$locale['937'] = "Tama񯠭⹩mo de la captura de pantalla:";
+$locale['938'] = "ࠈabilitar capturas de pantalla?";
+$locale['939'] = "Descarga de elementos por p⨩na";
+$locale['940'] = "ࠈabilitar estadicas?";
 $locale['download_0000'] = "Descargas actuales";
 $locale['download_0001'] = "Descargas";
 $locale['download_0002'] = "Añadir descarga";
 $locale['download_0003'] = "Editar descarga";
 $locale['download_0004'] = "Descargas";
 $locale['download_0005'] = "actualmente mostrando %d de %d total descargas entradas";
-// Filtros
+$locale['download_0006'] = "Ajustes";
 $locale['download_0010'] = "filtrar por:";
 $locale['download_0011'] = "Filtro Mostrar categoría";
-// Descargar títulos de la categoría
 $locale['download_0020'] = "Categorías actuales";
 $locale['download_0021'] = "Editar categoría descarga";
 $locale['download_0022'] = "Categorías de descarga";
 $locale['download_0023'] = "Editor de categoría";
-
-// Descargar las presentaciones
-$locale['download_0039'] = "volver a".fusion_get_settings('sitename');
+$locale['download_0039'] = "volver a [SITENAME]";
 $locale['download_0040'] = "Lo sentimos, actualmente no aceptamos envíos descargar en este sitio.";
 $locale['download_0041'] = "Enviar descarga"; // 650
 $locale['download_0042'] = "Gracias por enviar la descarga";
 $locale['download_0043'] = "Enviar otra descarga";
 $locale['download_0044'] = "usar el siguiente formulario para enviar una descarga. Su envío será revisado por un
-Administrador. ".fusion_get_settings('sitename')." se reserva el derecho a modificar o editar cualquier envío. Descargas
+Administrador. [SITENAME] se reserva el derecho a modificar o editar cualquier envío. Descargas
 debe ser aplicable al contenido de este sitio. Serán rechazadas las presentaciones que se considera como no aptos. ";
-$locale['download_0045'] = "Enviar descargar";
 $locale['download_0046'] = "Las presentaciones";
 $locale['download_0047'] = "¿Requiere captura de pantalla?";
 $locale['download_0048'] = "¿Se requiere Descripción completa?";
-
-// Descargar presentaciones - admin
 $locale['download_0049'] = "Presentaciones";
 $locale['download_0050'] = "Hay actualmente no hay presentaciones de descarga";
 $locale['download_0051'] = "Hay %s pendientes para su revisión.";
@@ -43,8 +47,6 @@ $locale['download_0060'] = "Eliminar la sumisión";
 $locale['download_0061'] = "Publicar presentación";
 $locale['download_0062'] = "Presentación eliminada";
 $locale['download_0063'] = "Presentación publicada";
-
-// Descargas mensajes
 $locale['download_0100'] = "Descarga añadida";
 $locale['download_0101'] = "Descarga actualizada";
 $locale['download_0102'] = "Descarga borrada";
@@ -62,13 +64,11 @@ $locale['download_0113'] = "Error desconocido";
 $locale['download_0114'] = "Captura de pantalla requerido";
 $locale['download_0115'] = "Se requiere archivo";
 $locale['download_0116'] = "Se requiere url";
-// Descargar mensajes de categoría
 $locale['download_0150'] = "Descarga añadido categoría";
 $locale['download_0151'] = "Descargar categoría actualizado";
 $locale['download_0152'] = "Categoría de descarga no se puede eliminar";
 $locale['download_0153'] = "hay descargas o subcategorías vinculadas a esta categoría";
 $locale['download_0154'] = "Descargar categoría eliminado";
-// Formulario de descargas
 $locale['download_0200'] = "descargar título:";
 $locale['download_0201'] = "Completo informe de descarga";
 $locale['download_0202'] = "Descripción breve:";
@@ -97,40 +97,25 @@ $locale['download_0222'] = "Copyright:";
 $locale['download_0223'] = "Permitir comentarios";
 $locale['download_0224'] = "Activar calificaciones";
 $locale['download_0225'] = "Cancelar";
-
-
-// Actuales descargas
 $locale['download_0226'] = "Prueba Descargar paquete";
 $locale['download_0227'] = "Opciones";
-// No hay categorías de descargas/Download definidas
 $locale['download_0249'] = "No hay categorías definidas.";
 $locale['download_0250'] = "Ninguna descarga ha sido agregada a esta categoría";
 $locale['download_0251'] = "No hay categorías de descarga definidos";
 $locale['download_0252'] = "Debe definir al menos una categoría antes de poder agregar todas las descargas";
 $locale['download_0253'] = "Clic aquí";
 $locale['download_0254'] = "para ir a descargar categorías";
-
-// Mensajes de Error/ADVERTENCIA emergente
 $locale['download_0255'] = "Eliminar esta descarga?";
-$locale['download_0256'] = "%s están desactivados todos los elementos. <br /> este ajuste sólo se llevará a efecto cuando se habilitan nuevamente.";
-// Descargar formulario categoría
+$locale['download_0256'] = "%s están desactivados todos los elementos. este ajuste sólo se llevará a efecto cuando se habilitan nuevamente.";
 $locale['download_0300'] = "nombre de categoría:";
 $locale['download_0301'] = "Descripción de la categoría:";
 $locale['download_0302'] = "clasificación de la categoría:";
 $locale['download_0303'] = "Descargar ID";
-$locale['download_0304'] = "Descargar título";
 $locale['download_0305'] = "Fecha de descarga";
 $locale['download_0306'] = "Ascendente";
 $locale['download_0307'] = "Descendente";
 $locale['download_0308'] = "categoría de padres:";
 $locale['download_0309'] = "Guardar categoría";
-// Categorías de descarga actual
-$locale['download_0310'] = "Categoría";
-$locale['download_0311'] = "Acceso";
-$locale['download_0312'] = "Opciones";
-$locale['download_0313'] = "no hay categorías de descargas";
-// Eliminar categoría descargar
 $locale['download_0350'] = "¿Desea eliminar esta categoría de descarga?";
-// Mensajes de error
 $locale['download_0351'] = "Escriba un nombre de categoría.";
 $locale['download_0352'] = "esta categoría ya existe.";
