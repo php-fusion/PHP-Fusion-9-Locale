@@ -1,15 +1,15 @@
 <?php
 $locale['604'] = "Anchura x Altura";
-$locale['930'] = "Tama񯠭⹩mo de subidas:";
-$locale['931'] = "Tama񯠭⹩mo del archivo en bytes";
+$locale['930'] = "Tamaño máximo de subidas:";
+$locale['931'] = "Tamaño máximo del archivo en bytes";
 $locale['932'] = "Tipos de archivo permitidos:";
 $locale['933'] = "Separar cada tipo con una coma";
-$locale['934'] = "Tama񯠭⹩mo de captura de pantalla:";
-$locale['936'] = "Tama񯠭⹩mo del archivo de captura de pantalla (bytes):";
-$locale['937'] = "Tama񯠭⹩mo de la captura de pantalla:";
-$locale['938'] = "ࠈabilitar capturas de pantalla?";
-$locale['939'] = "Descarga de elementos por p⨩na";
-$locale['940'] = "ࠈabilitar estadicas?";
+$locale['934'] = "Tamaño máximo de captura de pantalla:";
+$locale['936'] = "Tamaño máximo del archivo de captura de pantalla (bytes):";
+$locale['937'] = "Tamaño máximo de la captura de pantalla:";
+$locale['938'] = "¿Habilitar capturas de pantalla?";
+$locale['939'] = "Descarga de elementos por página";
+$locale['940'] = "¿Habilitar estadísticas?";
 $locale['download_0000'] = "Descargas actuales";
 $locale['download_0001'] = "Descargas";
 $locale['download_0002'] = "Añadir descarga";
