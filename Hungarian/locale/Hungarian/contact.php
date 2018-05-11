@@ -2,7 +2,7 @@
 // Contact Form
 $locale['CT_400'] = "Kapcsolatfelvétel";
 $locale['CT_401'] = "Több módon is felveheted velünk a kapcsolatot. Küldhetsz egy e-mailt a következő címre:
- [SITE_EMAIL]. Ha már regisztráltál küldhetsz [PM_LINK].
+ [SITE_EMAIL]. Ha már regisztráltál [PM_LINK]-et küldhetsz.
 Vagy kitöltheted az alábbi űrlapot, amit e-mailben kapunk meg.";
 $locale['CT_402'] = "Név:";
 $locale['CT_403'] = "E-mail:";
