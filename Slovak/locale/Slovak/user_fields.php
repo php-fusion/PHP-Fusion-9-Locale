@@ -66,7 +66,7 @@ $locale['uf_104'] = "Informácie o používateľovi";
 $locale['uf_105'] = "Profilový obrázok";
 $locale['uf_106'] = "Základné informácie";
 $locale['uf_107'] = "%s nemá k dispozícii žiadne užívateľské informácie.";
-$locale['uf_108'] = "Nie sú definované žiadne používateľské polia";
+$locale['uf_108'] = "Nie sú pridané žiadne užívateľské polia";
 
 // View User Groups
 $locale['u110'] = "Zobraziť užívateľské skupiny";

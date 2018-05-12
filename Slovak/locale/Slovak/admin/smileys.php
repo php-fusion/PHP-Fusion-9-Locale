@@ -45,7 +45,7 @@ $locale['SMLY_431'] = "Obrázok";
 $locale['SMLY_432'] = "Text";
 $locale['SMLY_433'] = "Možnosti";
 $locale['SMLY_435'] = "Deaktivovať";
-$locale['SMLY_436'] = "Žiadne smajlíky neboli definované.";
+$locale['SMLY_436'] = "Neboli pridané žiadne smajlíky.";
 // Error Message
 $locale['SMLY_437'] = "Prosím, zadajte kód smajlíka";
 $locale['SMLY_438'] = "Prosím vyberte smajlíka";

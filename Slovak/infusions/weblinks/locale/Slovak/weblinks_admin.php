@@ -65,7 +65,7 @@ $locale['WLS_0129'] = "Všetky jazyky";
 $locale['WLS_0132'] = "Odkazov na stránku";
 $locale['WLS_0151'] = "Odkaz";
 $locale['WLS_0161'] = "Odstrániť túto kategóriu?";
-$locale['WLS_0162'] = "Nie sú definované žiadne kategórie.";
+$locale['WLS_0162'] = "Nie sú pridané žiadne kategórie.";
 $locale['WLS_0200'] = "ID";
 $locale['WLS_0201'] = "Názov odkazu";
 $locale['WLS_0202'] = "Prispievateľ";
@@ -87,7 +87,7 @@ $locale['WLS_0321'] = "Kategória s týmto názvom už existuje.";
 $locale['WLS_0350'] = "Vyššie uvedený príspevok bol odoslaný od {%SUBMISSION_AUTHOR%}.";
 $locale['WLS_0351'] = "Dátum príspevku: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
 $locale['WLS_0400'] = "Nastavenia odkazov pre fronend a backend";
-$locale['WLS_0403'] = "Požadovaný rozšírený odkaz";
+$locale['WLS_0403'] = "Požadovaný popis odkazu";
 $locale['WLS_0900'] = "Odoslať odkaz";
 $locale['WLS_0910'] = "Odkaz bol úspešne odoslaný.";
 $locale['WLS_0911'] = "Ďakujeme Vám za príspevok.";
@@ -97,4 +97,4 @@ $locale['WLS_0920'] = "Použite tento formulár na odoslanie odkazu.<br/>Váš p
 [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
 Odkazy by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['WLS_0922'] = "Momentálne neprijímame nové príspevky.";
-$locale['WLS_0923'] = "Nemôžete odoslať odkaz, pretože nie sú definované žiadne kategórie.";
+$locale['WLS_0923'] = "Nemôžete odoslať odkaz, pretože nie sú pridané žiadne kategórie.";

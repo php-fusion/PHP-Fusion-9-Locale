@@ -49,7 +49,7 @@ $locale['faq_0105'] = "Autor";
 $locale['faq_0106'] = "Viditeľnosť";
 $locale['faq_0107'] = "Akcie";
 $locale['faq_0111'] = "Odstrániť tento FAQ?";
-$locale['faq_0112'] = "Nie sú definované žiadne FAQ.";
+$locale['faq_0112'] = "Nie sú pridané žiadne FAQ.";
 $locale['faq_0113'] = "Neexistujú žiadne časté otázky, ktoré by zodpovedali možnosti vyhľadávania.";
 $locale['faq_0114'] = "Aby ste mohli vytvoriť FAQ, musíte vytvoriť kategóriu.";
 $locale['faq_0115'] = "Názov kategórie";
@@ -96,4 +96,4 @@ $locale['faq_0920'] = "Použite tento formulár na odoslanie FAQ.<br/>Váš prí
 FAQ by sa mal vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['faq_0921'] = "Ak chcete odoslať FAQ, musíte sa prihlásiť.";
 $locale['faq_0922'] = "Momentálne neprijímame nové príspevky.";
-$locale['faq_0923'] = "Nemôžete odoslať FAQ, pretože nie sú definované žiadne kategórie.";
+$locale['faq_0923'] = "Nemôžete odoslať FAQ, pretože nie sú pridané žiadne kategórie.";

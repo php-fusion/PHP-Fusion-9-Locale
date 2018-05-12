@@ -192,7 +192,7 @@ $locale['forum_0389'] = "typu";
 $locale['forum_0390'] = "Všetky vlákna";
 $locale['forum_0395'] = "Vyberte fórum";
 $locale['forum_0396'] = "Potvrďte výber fóra";
-$locale['forum_0397'] = "Nie sú definované žiadne fóra.";
+$locale['forum_0397'] = "Nie sú pridané žiadne fóra.";
 $locale['forum_0398'] = "Súbor sa nepodarilo stiahnuť";
 $locale['forum_0399'] = "Pridať bounty";
 

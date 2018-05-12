@@ -18,10 +18,10 @@
 $locale['blog_1000'] = "Blog";
 $locale['blog_1001'] = "Hlavná stránka blogu";
 $locale['blog_1003'] = "Kategórie";
-$locale['blog_1004'] = "Archív";
+$locale['blog_1004'] = "Archív blogov";
 $locale['blog_1005'] = "Autori";
 $locale['blog_1006'] = "Čítaj viac";
-$locale['blog_2001'] = "Najnovšie blogy";
+$locale['blog_2001'] = "Najnovšie";
 $locale['blog_2002'] = "Najkomentovanejšie";
 $locale['blog_2003'] = "Najviac hodnotené";
 $locale['blog_3000'] = "Žiadne blogy neboli zatiaľ zverejnené";
