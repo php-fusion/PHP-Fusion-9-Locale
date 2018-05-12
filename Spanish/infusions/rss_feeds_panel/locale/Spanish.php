@@ -1,6 +1,6 @@
 <?php
 $locale['rss_title'] = "canales RSS";
-$locale['rss_articles'] = "ArtÃ­culoss";
+$locale['rss_articles'] = "Artículos";
 $locale['rss_blog'] = "Blog";
 $locale['rss_downloads'] = "Descargas";
 $locale['rss_forums'] = "Foros";
