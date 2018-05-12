@@ -18,8 +18,8 @@
 $locale['setup_0000'] = "PHP-Fusion - Inštalácia";
 $locale['setup_0002'] = "Vitajte v inštalácii PHP-Fusion";
 $locale['setup_0003'] = "Inštalačný sprievodca vás prevedie krokmi potrebnými na inštaláciu PHP-Fusion CMS na Váš server. Ak potrebujete ďalšiu pomoc, prosím skontrolujte našu <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentáciu inštalácie</a>.";
-$locale['setup_0005'] = " Prečítal som a súhlasim s PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>podmienkami používania</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje minimálne PHP 5.5.9. Pre viac informácií si pozrite <a href=\"https://www.php-fusion.co.uk/requirements\">systémové požiadavky</a>.";
+$locale['setup_0005'] = " Prečítal som a súhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>podmienkami používania</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje minimálne PHP 5.5.9. Pre viac informácií si pozrite <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systémové požiadavky</a>.";
 $locale['setup_0007'] = "Systémy s nainštalovaným OPCache musia mať povolené <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
 $locale['setup_5000'] = "Aby ste mohli používať PHP-Fusion, musíte skontrolovať a súhlasiť s podmienkami PHP-Fusion.";
 $locale['setup_0010'] = "Aktuálna verzia zostavy: ";
@@ -44,7 +44,7 @@ $locale['setup_0105'] = "Konfigurácia jadra systému";
 $locale['setup_0106'] = "Primárne podrobnosti admina";
 $locale['setup_0107'] = "Finálne nastavenia";
 $locale['setup_0109'] = "Minimálna verzia Apache potrebná na spustenie PHP-Fusion bez povoleného mod_rewrite je 2.2.16.";
-$locale['setup_0110'] = "Kvôli nastaveniam Servertokenov v httpd.conf nie je možné určiť verziu Apache bez mod_rewrite, je potrebná minimálna verzia 2.2.16.";
+$locale['setup_0110'] = "Kvôli nastaveniam Server tokenov v httpd.conf nie je možné určiť verziu Apache bez mod_rewrite, je potrebná minimálna verzia 2.2.16.";
 $locale['setup_0112'] = "Funkcia phpinfo() bola z bezpečnostných dôvodov zakázaná. Ak chcete zobraziť informácie o vašom serveri phpinfo(), zmeňte svoje nastavenia PHP alebo kontaktujte svojho správcu servera.";
 $locale['setup_0113'] = "Vaša PHP inštalácia je príliš stará. PHP-Fusion vyžaduje minimálne 5.5.21. PHP verzie vyššie ako 5.6.5 alebo 5.5.21 poskytujú zabudovanú ochranu proti SQL injection pre mysql databázy. Odporúča sa aktualizovať.";
 $locale['setup_0114'] = "PHP-Fusion vyžaduje, aby ste povolili rozšírenie PHP v nasledujúcom zozname";
@@ -78,7 +78,7 @@ $locale['setup_0143'] = "Zadaná predpona tabuľky sa už používa a je spusten
 $locale['setup_0144'] = "Diagnostika databázy bola dokončená";
 // Step 1
 $locale['setup_1000'] = "Vyberte svoj jazyk";
-$locale['setup_1001'] = "Stiahnuť viac lokalizácií z <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>Oficiálnej PHP-Fusion podpori</strong></a>";
+$locale['setup_1001'] = "Stiahnuť viac lokalizácií z <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>Oficiálnej PHP-Fusion podpori</strong></a>";
 $locale['setup_1002'] = "Vitajte v režime obnovy PHP-Fusion 9.0.";
 $locale['setup_1003'] = "Zistili sme, že existujúci systém je nainštalovaný. Ak chcete pokračovať, vyberte jednu z nasledujúcich možností.";
 $locale['setup_1004'] = "Čistá inštalácia";
@@ -251,7 +251,7 @@ $locale['setup_3327'] = "Pridať FAQ";
 $locale['setup_3400'] = "Navigácia";
 $locale['setup_3401'] = "Online užívatelia";
 $locale['setup_3402'] = "Témy fóra";
-$locale['setup_3404'] = "Privítacia správa";
+$locale['setup_3404'] = "Uvítacia správa";
 $locale['setup_3405'] = "Zoznam tém fóra";
 $locale['setup_3406'] = "Info o užívateľovi";
 $locale['setup_3407'] = "Ankety užívateľov";

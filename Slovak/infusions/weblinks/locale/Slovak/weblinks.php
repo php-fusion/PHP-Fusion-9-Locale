@@ -27,6 +27,6 @@ $locale['web_0032'] = "Najstaršie";
 $locale['web_0040'] = "Dlaždice";
 $locale['web_0041'] = "Zoznam";
 // Messages
-$locale['web_0060'] = "Neboli definované žiadne kategórie odkazov.";
-$locale['web_0061'] = "Nie sú definované žiadne odkazy."; // 9.0
+$locale['web_0060'] = "Neboli pridané žiadne kategórie odkazov.";
+$locale['web_0061'] = "Nie sú pridané žiadne odkazy."; // 9.0
 $locale['web_0062'] = "V tejto kategórii nie je žiadny odkaz.";

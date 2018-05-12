@@ -94,7 +94,7 @@ $locale['blog_0530'] = "Názov kategórie:";
 $locale['blog_0531'] = "Obrázok kategórie:";
 $locale['blog_0532'] = "Uložiť kategóriu";
 $locale['blog_0533'] = "Rodič kategórie:";
-$locale['blog_0535'] = "Nie sú definované žiadne kategórie blogov";
+$locale['blog_0535'] = "Nie sú pridané žiadne kategórie blogov";
 $locale['blog_0536'] = "Kliknutím tu môžete nahrať obrázky kategórie";
 $locale['blog_0537'] = "Rodič";
 $locale['blog_0538'] = "Byty (bajty)";
@@ -111,7 +111,7 @@ $locale['blog_0451'] = "Odstrániť tento blog?";
 $locale['blog_0452'] = "%s sú zakázané pre všetky položky.<br/>Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
 $locale['blog_0456'] = 'V tejto kategórii nie je žiadny blog.';
 $locale['blog_0457'] = "Zadajte kľúčové slová";
-$locale['blog_0461'] = 'Neboli definované žiadne kategórie blogov.';
+$locale['blog_0461'] = 'Neboli pridané žiadne kategórie blogov.';
 // Filters
 $locale['blog_0458'] = "Filtrovať podľa:";
 $locale['blog_0459'] = "Zobraziť kategóriu podľa";

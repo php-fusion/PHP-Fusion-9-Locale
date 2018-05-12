@@ -68,7 +68,7 @@ $locale['article_0132'] = "Položky na stránku";
 $locale['article_0150'] = "Názov";
 $locale['article_0152'] = "Stav";
 $locale['article_0161'] = "Odstrániť túto kategóriu?";
-$locale['article_0162'] = "Nie sú definované žiadne kategórie.";
+$locale['article_0162'] = "Nie sú pridané žiadne kategórie.";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Prispievateľ";
 $locale['article_0203'] = "Dátum";
@@ -112,4 +112,4 @@ $locale['article_0920'] = "Použite tento formulár na odoslanie článku.<br/>V
 Články by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['article_0921'] = "Ak chcete odoslať článok, musíte sa prihlásiť.";
 $locale['article_0922'] = "Momentálne neprijímame nové príspevky.";
-$locale['article_0923'] = "Nemôžete odoslať článok, pretože nie sú definované žiadne kategórie.";
+$locale['article_0923'] = "Nemôžete odoslať článok, pretože nie sú pridané žiadne kategórie.";

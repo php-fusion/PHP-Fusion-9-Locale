@@ -106,7 +106,7 @@ $locale['status8'] = "Neaktívny";
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigácia";
-$locale['global_002'] = "Neboli definované žiadne odkazy";
+$locale['global_002'] = "Neboli pridané žiadne odkazy";
 $locale['global_003'] = "Nič na prezeranie";
 // Users Online
 $locale['global_010'] = "Kto je online";
@@ -118,26 +118,26 @@ $locale['global_015'] = "Neaktivovaní členovia";
 $locale['global_016'] = "Najnovší člen";
 $locale['global_017'] = "Prepnúť navigáciu";
 // Forum Side panel
-$locale['global_020'] = "Vlákna fóra";
-$locale['global_021'] = "Najnovšie vlákna";
-$locale['global_022'] = "Najhorúcejšie vlákna";
-$locale['global_023'] = "Žiadne vlákna";
-$locale['global_024'] = "Zúčastnené diskusie";
-$locale['global_027'] = "Nezodpovedané vlákna";
+$locale['global_020'] = "Témy fóra";
+$locale['global_021'] = "Najnovšie diskusie";
+$locale['global_022'] = "Najhorúcejšie témy";
+$locale['global_023'] = "Žiadne témy";
+$locale['global_024'] = "Participované diskusie";
+$locale['global_027'] = "Nezodpovedané témy";
 $locale['global_028'] = "Nevyriešené otázky";
 // Comments Side panel
-$locale['global_025'] = "Posledné komentáre";
+$locale['global_025'] = "Najnovšie komentáre";
 $locale['global_026'] = "Žiadne komentáre";
 // Articles Side panel
-$locale['global_030'] = "Posledné články";
+$locale['global_030'] = "Najnovšie články";
 $locale['global_031'] = "Neboli pridané žiadne články";
 // Downloads Side panel
-$locale['global_032'] = "Posledné súbory na stiahnutie";
+$locale['global_032'] = "Najnovšie súbory na stiahnutie";
 $locale['global_033'] = "Žiadne súbory na stiahnutie";
 // Welcome panel
 $locale['global_035'] = "Vitajte";
 // Latest Active Forum Threads panel
-$locale['global_040'] = "Posledné aktívne vlákna vo fóre";
+$locale['global_040'] = "Najnovšie aktívne vlákna vo fóre";
 $locale['global_041'] = "Moje vlákna";
 $locale['global_042'] = "Moje príspevky";
 $locale['global_043'] = "Nové príspevky";
@@ -150,8 +150,8 @@ $locale['global_049'] = "Pridané";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Anketa";
 $locale['global_052'] = "Presunul";
-$locale['global_053'] = "Nezaložili ste ešte žiadne vlákna.";
-$locale['global_054'] = "Neposlali ste ešte žiadny príspevok do fóra.";
+$locale['global_053'] = "Nezaložili ste ešte žiadnu tému.";
+$locale['global_054'] = "Nezverejnili ste ešte žiadne príspevky vo fóre.";
 $locale['global_055'] = "Bolo napísaných %u nových príspevkov, od vašej poslednej návštevy.";
 $locale['global_056'] = "Moje sledované vlákna";
 $locale['global_057'] = "Možnosti";

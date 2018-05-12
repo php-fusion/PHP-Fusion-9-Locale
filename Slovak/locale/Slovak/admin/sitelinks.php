@@ -66,7 +66,7 @@ $locale['SL_0052'] = "Poradie";
 $locale['SL_0053'] = "Možnosti";
 $locale['SL_0060'] = "Upraviť";
 $locale['SL_0061'] = "Vymazať";
-$locale['SL_0062'] = "Neboli definované žiadne odkazy.";
+$locale['SL_0062'] = "Neboli pridané žiadne odkazy.";
 $locale['SL_0063'] = "Použiť BB kódy v názve odkazu?";
 
 $locale['SL_0070'] = "Ikonka";
