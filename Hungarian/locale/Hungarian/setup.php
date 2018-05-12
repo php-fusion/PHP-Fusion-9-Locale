@@ -2,8 +2,8 @@
 $locale['setup_0000'] = "PHP-Fusion - Telepítő";
 $locale['setup_0002'] = "Üdvözöllek a PHP-Fusion Telepítőben";
 $locale['setup_0003'] = "A telepítő végigvezeti a szükséges lépéseken, hogy telepítse a PHP-Fusion CMS rendszert a szerveren. Amennyiben további segítségre van szüksége, kérjük látogasson el a <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208'>Online Telepítési Dokumentáció</a>.";
-$locale['setup_0005'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://php-fusion.co.uk/license/'>használati feltételeit</a>.";
-$locale['setup_0006'] = "PHP-Fusion 9 működéséhez MINIMUM PHP 5.5.9. Szükséges, Lásd a <a href=\"https://www.php-fusion.co.uk/requirements\"> rendszer követelményei </a> oldalt további információkért.";
+$locale['setup_0005'] = " Elolvastam és elfogadom a PHP-Fusion <a href='www.php-fusion.co.uk/licensing/licensing.php'>használati feltételeit</a>.";
+$locale['setup_0006'] = "PHP-Fusion 9 működéséhez MINIMUM PHP 5.5.9. Szükséges, Lásd a <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'> rendszer követelményei </a> oldalt további információkért.";
 $locale['setup_0007'] = "Rendszerek OPCache-t telepíteni kell <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\"> opcache.save_comments </a> engedélyezése.";
 $locale['setup_5000'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.</a>.";
 $locale['setup_0010'] = "Aktuális verzió - ";
@@ -62,7 +62,7 @@ $locale['setup_0143'] = "A megadott tábla előtag már használatban van, és f
 $locale['setup_0144'] = "Adatbázis diagnosztika Elvégezve";
 // Step 1
 $locale['setup_1000'] = "Kérjük válassza ki a kívánt nyelvet:";
-$locale['setup_1001'] = "További nyelveket itt találhatsz: <a href='https://www.php-fusion.co.uk/downloads.php#langpacks'><strong>PHP-Fusion hivatalos támogatási oldal</strong></a>";
+$locale['setup_1001'] = "További nyelveket itt találhatsz: <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php'><strong>PHP-Fusion hivatalos támogatási oldal</strong></a>";
 $locale['setup_1002'] = "Üdvözöllek a PHP-Fusion 9 helyreállítási módba.";
 $locale['setup_1003'] = "Már installálva van egy rendszer.<br/>Kérjük válassz a következőkből a folytatáshoz.";
 $locale['setup_1004'] = "Új Telepítés";
