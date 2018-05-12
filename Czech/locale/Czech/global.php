@@ -118,12 +118,12 @@ $locale['global_015'] = "Neaktivní členové";
 $locale['global_016'] = "Nejnovější člen";
 $locale['global_017'] = "Přepnout navigaci";
 // Forum Side panel
-$locale['global_020'] = "Fórum vlákna";
-$locale['global_021'] = "Poslední diskuse";
-$locale['global_022'] = "Nejžhavější vlákna";
-$locale['global_023'] = "Žádné vlákna nebyly vytvořeny";
+$locale['global_020'] = "Témata fóra";
+$locale['global_021'] = "Nejnovější diskuse";
+$locale['global_022'] = "Nejžhavější témata";
+$locale['global_023'] = "Žádné témata nebyly vytvořeny";
 $locale['global_024'] = "Zúčastněné diskuse";
-$locale['global_027'] = "Nezodpovězené vlákna";
+$locale['global_027'] = "Nezodpovězené témata";
 $locale['global_028'] = "Nevyřešené otázky";
 // Comments Side panel
 $locale['global_025'] = "Nejnovější komentáře";
@@ -132,8 +132,8 @@ $locale['global_026'] = "Žádné komentáře k dispozici";
 $locale['global_030'] = "Nejnovější články";
 $locale['global_031'] = "Žádné články k dispozici";
 // Downloads Side panel
-$locale['global_032'] = "Nejnovější stahování";
-$locale['global_033'] = "K dispozici nejsou žádná stahování";
+$locale['global_032'] = "Nejnovější soubory ke stažení";
+$locale['global_033'] = "Žádné soubory ke stažení";
 // Welcome panel
 $locale['global_035'] = "Vítejte";
 // Latest Active Forum Threads panel
@@ -150,9 +150,9 @@ $locale['global_049'] = "Přidáno";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Anketa";
 $locale['global_052'] = "Přesunul";
-$locale['global_053'] = "Nezačali jste zatím žádné fórum.";
+$locale['global_053'] = "Nezačali jste zatím žádné téma.";
 $locale['global_054'] = "Dosud jste nezveřejnili žádné příspěvky ve fóru.";
-$locale['global_055'] = "V poslední době jsou %u nové příspěvky v %u různých tématech";
+$locale['global_055'] = "Bylo napsaných %u nových příspěvků, od vaší poslední návštěvy.";
 $locale['global_056'] = "Sledovaná vlákna";
 $locale['global_057'] = "Možnosti";
 $locale['global_058'] = "Zastavit sledování";
@@ -403,7 +403,7 @@ $locale['cancel'] = "Zrušit";
 $locale['clear'] = "Vyčistit";
 $locale['move'] = "Přesunout";
 $locale['move_up'] = "Přesunout nahoru";
-$locale['move_down'] = "Přesunout dólu";
+$locale['move_down'] = "Přesunout dolu";
 $locale['load_more'] = "Vložit více položek";
 $locale['load_end'] = "Načíst od začátku";
 // Actions

@@ -46,4 +46,4 @@ $locale['forum_rank_437'] = "Nebyly definovány žádné hodnosti fóra.";
 $locale['forum_rank_438'] = "Typ / počet";
 $locale['forum_rank_450'] = "Fórum hodnosti jsou nyní zakázány.<br/>Přejděte do %s a povolte je.";
 $locale['forum_rank_451'] = "Nastavení fóra";
-$locale['forum_rank_0100'] = "Hodnosti fóra se používají na správu uživatelů fóra a zobrazují jejich výkonnost a činnost";
+$locale['forum_rank_0100'] = "Hodnosti fóra se používají na správu uživatelů fóra a zobrazují jejich výkon a aktivitu";

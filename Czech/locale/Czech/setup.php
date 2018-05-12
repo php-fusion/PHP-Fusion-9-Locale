@@ -18,11 +18,11 @@
 $locale['setup_0000'] = "PHP-Fusion Instalace";
 $locale['setup_0002'] = "Vítej v PHP-Fusion instalaci";
 $locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentaci instalace</a>.";
-$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>podmínkami používání</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 5.5.9. alší informace naleznete na stránce <a href=\"https://www.php-fusion.co.uk/requirements\">systémových požadavků</a>.";
+$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>podmínkami používání</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 5.5.9. alší informace naleznete na stránce <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systémových požadavků</a>.";
 $locale['setup_0007'] = "Systémy s nainstalovanou OPCache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
 $locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion</a>.";
-$locale['setup_0010'] = "Aktuální verze - ";
+$locale['setup_0010'] = "Aktuální verze sestavy: ";
 $locale['setup_0011'] = "cz";
 $locale['setup_0012'] = "utf-8";
 $locale['setup_0012a'] = "ltr";
@@ -78,7 +78,7 @@ $locale['setup_0143'] = "Zadaná předpona tabulky se již používá a je spuš
 $locale['setup_0144'] = "Diagnostika databáze byla dokončena";
 // Step 1
 $locale['setup_1000'] = "Zvolte prosím svůj jazyk";
-$locale['setup_1001'] = "Stáhněte si další lokalizace z <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>oficiální PHP-Fusion podpory</strong></a>";
+$locale['setup_1001'] = "Stáhněte si další lokalizace z <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>oficiální PHP-Fusion podpory</strong></a>";
 $locale['setup_1002'] = "Vítejte v režimu obnovení PHP-Fusion 9.0.";
 $locale['setup_1003'] = "Zjistili jsme, že stávající systém je nainstalován. Chcete-li pokračovat, vyberte jednu z následujících možností.";
 $locale['setup_1004'] = "Čistá instalace";
