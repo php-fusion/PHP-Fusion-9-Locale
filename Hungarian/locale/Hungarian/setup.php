@@ -93,7 +93,7 @@ $locale['setup_1202'] = "Adatbázis hostnév:";
 $locale['setup_1203'] = "Adatbázis felhasználónév:";
 $locale['setup_1204'] = "Adatbázis jelszó:";
 $locale['setup_1205'] = "Adatbázis neve:";
-$locale['setup_1206'] = "Adattáblák előtagja::";
+$locale['setup_1206'] = "Adattáblák előtagja:";
 $locale['setup_1207'] = "Sütik (cookie) előtagja:";
 $locale['setup_1208'] = "Adatbázis meghajtó";
 // Step 4 - Database Setup
