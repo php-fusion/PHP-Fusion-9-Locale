@@ -25,6 +25,7 @@ $locale['ME_423'] = "IP Cím";
 $locale['ME_424'] = "IP Tipus";
 $locale['ME_425'] = "Felhasználói Csoport";
 $locale['ME_426'] = "Időzóna";
+$locale['ME_427'] = 'Felhasználó Státusza';
 
 // Action Form
 $locale['ME_430'] = "Hiba: A kiválasztott műveletet a Felhasználón nem lehetett végrehajtani";
