@@ -41,6 +41,7 @@ $locale['ME_423'] = 'IP adresa';
 $locale['ME_424'] = 'Typ IP';
 $locale['ME_425'] = 'Užívateľské skupiny';
 $locale['ME_426'] = 'Časové pásmo';
+$locale['ME_427'] = 'Stav';
 
 // Action Form
 $locale['ME_430'] = 'Chyba: Akcie proti vybraným užívateľom sa nedali dokončiť';
