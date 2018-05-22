@@ -49,6 +49,7 @@ $locale['u070'] = "Ban";
 $locale['u071'] = "Pozastavit";
 $locale['u072'] = "Vymazat";
 $locale['u073'] = "Smazat tohoto uživatele?";
+$locale['u074'] = "Odbanovat";
 // Profile and register
 $locale['u100'] = "Chcete-li změnit heslo nebo e-mailovou adresu, musíte zadat své aktuální heslo.";
 $locale['u101'] = "Registrace";
