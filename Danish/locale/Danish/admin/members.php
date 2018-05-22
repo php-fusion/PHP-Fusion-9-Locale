@@ -41,6 +41,7 @@ $locale['ME_423'] = "IP-adresse ";
 $locale['ME_424'] = "IP-type";
 $locale['ME_425'] = "Grupper";
 $locale['ME_426'] = "Tidszone";
+$locale['ME_427'] = 'Brugerstatus';
 
 // Action Form
 $locale['ME_430'] = "Fejl: Handlingerne i relation til de valgte brugere kunne ikke gennemføres";
