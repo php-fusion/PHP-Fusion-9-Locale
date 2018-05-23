@@ -45,10 +45,11 @@ $locale['u066'] = "Zaregistrovaný dňa";
 $locale['u067'] = "Posledná návšteva";
 $locale['u068'] = "Užívateľské meno";
 $locale['u069'] = "Úprava";
-$locale['u070'] = "BAN";
+$locale['u070'] = "Ban";
 $locale['u071'] = "Pozastavenie";
 $locale['u072'] = "Zmazať";
 $locale['u073'] = "Zmazať tohto užívateľa?";
+$locale['u074'] = "Odbanovať";
 // Profile and register
 $locale['u100'] = "Ak chcete zmeniť svoje heslo alebo e-mailovú adresu musíte zadať vaše aktuálne heslo.";
 $locale['u101'] = "Registrácia";
