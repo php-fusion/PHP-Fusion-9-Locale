@@ -49,6 +49,7 @@ $locale['u070'] = "Udeluk";
 $locale['u071'] = "Udeluk tidsbegrænset";
 $locale['u072'] = "Slet";
 $locale['u073'] = "Skal denne bruger slettes?";
+$locale['u074'] = "Hæv blokering";
 // Profile and register
 $locale['u100'] = "For at kunne ændre dit kodeord eller din mailadresse skal du angive dit aktuelle kodeord.";
 $locale['u101'] = "Tilmeld";
