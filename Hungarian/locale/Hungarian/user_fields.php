@@ -33,6 +33,7 @@ $locale['u070'] = "Kitilt";
 $locale['u071'] = "Felfüggeszt";
 $locale['u072'] = "Töröl";
 $locale['u073'] = "Valóban törölni szereznéd ezt a felhasználót?";
+$locale['u074'] = "Kitiltás visszavonva";
 // Profile and register
 $locale['u100'] = "Ha meg szeretnéd változtatni jelszavad vagy e-mail címed,<br /> kérjük add meg a jelenlegi jelszavadat is.";
 $locale['u101'] = "Regisztráció";
