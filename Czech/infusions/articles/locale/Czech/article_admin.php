@@ -69,6 +69,7 @@ $locale['article_0150'] = "Název";
 $locale['article_0152'] = "Stav";
 $locale['article_0161'] = "Smazat tuto kategorii?";
 $locale['article_0162'] = "Nejsou definovány žádné kategorie.";
+$locale['article_0163'] = "Předmět článku";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Přispěvatel";
 $locale['article_0203'] = "Datum";

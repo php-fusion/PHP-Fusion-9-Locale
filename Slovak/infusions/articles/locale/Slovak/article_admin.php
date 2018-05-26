@@ -69,6 +69,7 @@ $locale['article_0150'] = "Názov";
 $locale['article_0152'] = "Stav";
 $locale['article_0161'] = "Odstrániť túto kategóriu?";
 $locale['article_0162'] = "Nie sú pridané žiadne kategórie.";
+$locale['article_0163'] = "Predmet článku";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Prispievateľ";
 $locale['article_0203'] = "Dátum";
