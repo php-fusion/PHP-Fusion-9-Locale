@@ -69,6 +69,7 @@ $locale['article_0150'] = "Navn";
 $locale['article_0152'] = "Status";
 $locale['article_0161'] = "Skal denne kategori slettes?";
 $locale['article_0162'] = "Der er ikke oprettet kategorier.";
+$locale['article_0163'] = "Artikelemne";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Forslagsstiller";
 $locale['article_0203'] = "Dato";
