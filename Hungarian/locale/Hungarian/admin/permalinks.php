@@ -5,7 +5,7 @@ $locale['PL_401'] = "Permalink kikapcsolása";
 $locale['PL_401a'] = "Permalink Beállítások";
 
 // Common
-$locale['PL_402'] = "Név újraírása";
+$locale['PL_402'] = "Permalink Neve";
 $locale['PL_403'] = "Leírás";
 $locale['PL_404'] = "Beállítások";
 $locale['PL_404a'] = "Bekapcsol";
@@ -23,9 +23,9 @@ $locale['PL_410'] = "Permalink típus %u:";
 $locale['PL_411'] = "Hiba";
 $locale['PL_412'] = "Ellenőrizd a beállításokat a Permalink %s-nél!";
 $locale['PL_413'] = "Mentés";
-$locale['PL_414'] = "FIGYELEM: Permalink &amp; Átmeneti változók törölve lesznek!<br />\nBiztosan kikapcsolod a permalinket?";
-$locale['PL_415'] = "Permalink Szabályok, azokat az URL-eket megváltoztatja, melyek tartalmaznak kérdőjelet és egyenlőségjelet, így engedi testre szabni az URL telepítését az oldalon.<br />\n
-Bekapcsolhatod a Permalinkeket a Beállítások fülön a Permalinkek bekapcsolása opcióval. Aktiválás után még jobban testreszabhatod a szabályokat, melyek befolyásolják a Permalinkeket.";
+$locale['PL_414'] = "FIGYELEM: Permalink &amp; Átmeneti változók törölve lesznek!<br />Biztosan kikapcsolod a permalinket?";
+$locale['PL_415'] = "Permalink Szabályok, azokat az URL-eket megváltoztatja, melyek tartalmaznak kérdőjelet és egyenlőségjelet, így engedi testre szabni az URL telepítését az oldalon.<br />
+Bekapcsolhatod a Permalinkeket a Beállítások fülön a Permalinkek bekapcsolása opcióval.<br /><br />Aktiválás után még jobban testreszabhatod a szabályokat, melyek befolyásolják a Permalinkeket.";
 
 // Admin Messages
 $locale['PL_420'] = "Hiba történt.";
