@@ -241,6 +241,8 @@ $locale['1012'] = "Anonimizálás";
 $locale['1013'] = "Végleges törlés";
 $locale['1014'] = "A felhasználók bejelentkezhetnek egyszerre több gépről?";
 $locale['1014a'] = "A biztonság növeléséhez kapcsold ki.";
+$locale['1015'] = "Szélesség";
+$locale['1016'] = "Magasság";
 
 $locale['1020'] = [1 => 'Bájt (bájt)', 1024 => 'KB (Kilobájt)', 1048576 => 'MB (Megabájt)'];
 
