@@ -257,6 +257,8 @@ $locale['1012'] = "Utajit uživatelé";
 $locale['1013'] = "Odstranit uživatele";
 $locale['1014'] = "Povolit přihlášení z různých zařízení najednou?";
 $locale['1014a'] = "Zakázání zvýší zabezpečení";
+$locale['1015'] = "Šířka";
+$locale['1016'] = "Výška";
 
 $locale['1020'] = [1 => 'B (bajty)', 1024 => 'KB (Kilobyty)', 1048576 => 'MB (Megabajty)'];
 
