@@ -1,8 +1,4 @@
 <?php
-
-// Benutzerfeld: Geo
-$locale['uf_geo'] = "Benutzer Geo";
-$locale['uf_geo_desc'] = "Zeigt das Land, die Region, die Stadt, die Postleitzahl und die Adresse eines Benutzers anhand unserer Geo Datenbank an.";
-$locale['uf_geo_error'] = "Du musst die Geo-Felder ausf&uuml;llen.";
-
-?>
+$locale['uf_geo'] = "User Geo";
+$locale['uf_geo_desc'] = "Country, Region, City, Address, Zip from our Geo DB";
+$locale['uf_geo_error'] = "Geo fields can not be left empty.";

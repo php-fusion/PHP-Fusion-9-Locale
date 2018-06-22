@@ -68,6 +68,7 @@ $locale['fields_0433'] = "Kategorie Reihenfolge";
 $locale['fields_0434'] = "Prim&auml;re Tabelle (%s)";
 $locale['fields_0435'] = "Prim&auml;re Tabelle Benutzer Spalte";
 $locale['fields_0436'] = "Icon Klasse";
+$locale['fields_0437'] = "icon for tabs";
 
 // Feld hinzufügen/bearbeiten
 $locale['fields_0450'] = "Kategorie";
@@ -106,6 +107,7 @@ $locale['fields_0483'] = "Feld in Benutzerlog speichern";
 $locale['fields_0484'] = "Feld Reihenfolge";
 $locale['fields_0485'] = "Feld bei Registrierung hinzuf&uuml;gen";
 $locale['fields_0488'] = "Feld speichern";
+$locale['fields_0489'] = "Images Only";
 
 // Dateigrößen
 $locale['fields_0490'] = "Bytes (bytes)";
@@ -135,4 +137,25 @@ $locale['fields_0600'] = "Es ist/sind %s Unterkategorie(n) in dieser Kategorie."
 $locale['fields_0601'] = "Es ist/sind %s Benutzerfeld(er) in dieser Kategorie.";
 $locale['fields_0602'] = "Das Modul kann nicht installiert werden. Es fehlt die Tabellenfeldinformation.";
 
+$locale['fields_0650'] = "Bewege Feld ID ";
+$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
+$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0653'] = "Keine R&uuml;ckmeldung";
+$locale['fields_0654'] = "L&ouml;sche Felder";
+$locale['fields_0655'] = "Cat ID wurde nicht fegunden. Bitte erneut &uuml;berfr&uuml;fen.";
+$locale['fields_0656'] = "Kategorie ID wurde nicht fegunden. Bitte erneut &uuml;berfr&uuml;fen.";
+$locale['fields_0657'] = " gesetzt zum hochladen.";
+$locale['fields_0658'] = " Geladen.";
+$locale['fields_0659'] = " Sprache fehlt!";
+$locale['fields_0660'] = "Keine Module gefunden";
+$locale['fields_0661'] = "Update Mode";
+$locale['fields_0662'] = "Save Mode";
+$locale['fields_0663'] = "Tabellen Name";
+$locale['fields_0664'] = "Alte Tabellen information -";
+$locale['fields_0665'] = "Neue Tabellen information -";
+$locale['fields_0666'] = "Fork No.1 - Update Field on a different table";
+$locale['fields_0667'] = "Spalten Konflikt. Es sind Spalten in [OLD_TABLE] die existieren in ";
+$locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
+$locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
+$locale['fields_0670'] = "Alte Daten";
 ?>

@@ -1,7 +1,4 @@
 <?php
-
-// Benutzerfeld: Shoutbox Beiträge
-$locale['uf_shouts-stat'] = "Shoutboxbeitr&auml;ge";
-$locale['uf_shouts-stat_desc'] = "Zeigt die Anzahl an verfassten Shoutboxbeitr&auml;gen an.";
-
-?>
+$locale['uf_shouts-stat'] = "Shoutbox Posts";
+$locale['uf_shouts-stat_desc'] = "Displays number of shoutbox posts.";
+$locale['uf_shouts-stat_na'] = "Please install Shoutbox infusion.";

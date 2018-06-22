@@ -1,8 +1,4 @@
 <?php
-
-// Benutzerfeld: Seitendesign
-$locale['uf_theme'] = "Seitendesign";
-$locale['uf_theme_desc'] = "Erlaubt den Benutzer, das Seitendesign zu wechseln.";
-$locale['uf_theme_error'] = "Du musst ein Seitendesign ausw&auml;hlen.";
-
-?>
+$locale['uf_theme'] = "Theme";
+$locale['uf_theme_desc'] = "Allows users to choose their theme";
+$locale['uf_theme_error'] = "Theme can not be left empty.";

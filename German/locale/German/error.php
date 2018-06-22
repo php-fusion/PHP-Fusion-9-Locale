@@ -8,3 +8,4 @@ $locale['err500'] = "Es ist ein Serverfehler aufgetreten!";
 $locale['errunk'] = "Es ist ein unbekannter Fehler aufgetreten!";
 $locale['errmsg'] = "Dem Link, dem du gefolgt bist, ist entweder nicht mehr vorhanden oder du hast kein Recht diese Seite zu sehen.";
 $locale['errret'] = "Zur&uuml;ck zur Startseite";
+?>

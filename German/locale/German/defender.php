@@ -1,10 +1,8 @@
 <?php
-
 // Fehler
 $locale['validate'] = "Bitte &uuml;berpr&uuml;fe das Feld.";
 $locale['error_request'] = "Es ist ein Fehler w&auml;hrend der Verarbeitung deiner Anfrage aufgetreten.";
 $locale['regex_error'] = "Bitte &uuml;berpr&uuml;fe das Feld %s.";
-
 // Text Feld Fehler
 $locale['error_input_default'] = "Du musst das Feld ausf&uuml;llen.";
 $locale['error_input_password'] = "Du musst ein g&uuml;ltiges Passwort angeben.";
@@ -18,7 +16,7 @@ $locale['df_error_text'] = "%s hat Fehler und ben&ouml;tigt deine Aufmerksamkeit
 $locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&auml;hlen.";
 $locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen.";
 $locale['error_input_file'] = "Du musst eine g&uuml;ltige Datei ausw&auml;hlen.";
-
+$locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
 // Administrator Login
 $locale['cookie_title'] = "Deine Session ist abgelaufen.";
 $locale['cookie_description'] = "Es existiert keine g&uuml;ltige Authentifizierung, oder deine Session ist abgelaufen. Bitte melde dich erneut an.";
@@ -28,7 +26,6 @@ $locale['password_invalid_description'] = "Das angegebene Passwort ist fehlerhaf
 $locale['cookie_error'] = "Cookie Fehler";
 $locale['cookie_error_description'] = "Du musst in deinem Browser Cookies aktiviert haben, um dich in der Administration anzumelden.";
 $locale['validate_title'] = "Du musst etwas &uuml;berpr&uuml;fen!";
-
 // Adressen Fehler
 $locale['street_error'] = "Die Adresse ist fehlerhaft.";
 $locale['country_error'] = "Das Land ist fehlerhaftt.";
@@ -60,6 +57,8 @@ $locale['token_error_5'] = "Das Datum des Tokens ist nicht g&uuml;ltig.";
 $locale['token_error_6'] = "Der Beitrag wurde zu schnell erstellt.";
 $locale['token_error_7'] = "Der Hash des Tokens ist nicht g&uuml;ltig.";
 $locale['token_error_8'] = "Das Format des Tokens ist nicht g&uuml;ltig.";
+$locale['token_error_9'] = "Cannot find any token for this form.";
+$locale['token_error_10'] = "Cannot find any token for storage: ";
 
 // Defender Fehler
 $locale['df_400'] = "%s enth&auml;hlt ung&uuml;ltige Zeichen.";
@@ -85,7 +84,7 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Modul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY von Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY von Google";
 $locale['no_keys'] = "Es sieht so aus, als h&auml;ttest du derzeit noch keinen Schl&uuml;ssel. Registriere dich und erhalte deinen Public Key [RECAPTCHA_LINK]hier[/RECAPTCHA_LINK].";
-$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Sieh dir deine Schl&uuml;ssel bei Google reCAPTCHA an</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Sieh dir deine Schl&uuml;ssel bei Google reCAPTCHA an</button></a>";
 $locale['grecaptcha_0100'] = "Public Key";
 $locale['grecaptcha_0101'] = "Private Key";
 $locale['grecaptcha_0102'] = "Design";
@@ -101,5 +100,5 @@ $locale['df_300'] = "Klick um Dateien hinzuzuf&uuml;gen";
 $locale['df_301'] = "Klick um Fotos hinzuzuf&uuml;gen";
 $locale['df_302'] = "Klick um Videos hinzuzuf&uuml;gen";
 $locale['df_303'] = "Klick um Musik hinzuzuf&uuml;gen";
-
+$locale['df_304'] = "Ausgew&auml;te datei entfernt";
 ?>

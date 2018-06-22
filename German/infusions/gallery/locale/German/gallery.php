@@ -1,6 +1,4 @@
 <?php
-
-// Allgemeines
 $locale['400'] = "Fotoalben";
 $locale['401'] = "Album &Ouml;ffnen";
 $locale['402'] = "Kein Thumbnail";
@@ -16,8 +14,6 @@ $locale['424'] = " am ";
 $locale['425'] = "Es wurden noch keine Fotos in diesem Album angelegt.";
 $locale['430'] = "Album anzeigen";
 $locale['431'] = "Klicke um anzuzeigen";
-$locale['432'] = "Kein Thumbnail";
-$locale['433'] = "Datum: ";
 $locale['434'] = "Hinzugef&uuml;gt von: ";
 $locale['435'] = "Angesehen: ";
 $locale['436'] = "Kommentare: ";
@@ -35,10 +31,8 @@ $locale['457'] = "Angesehen: ";
 $locale['458'] = "Klicke um zu schlie&szlig;en";
 $locale['459'] = "Erstes Foto";
 $locale['460'] = "Letztes Foto";
-$locale['461'] = "Foto";
-$locale['462'] = "Fotos";
+$locale['461'] = "Foto|Fotos";
 $locale['463'] = "Ver&ouml;ffentlicher|Ver&ouml;ffentlicher";
 $locale['464'] = "Ver&ouml;ffentlichungsdatum:";
 $locale['465'] = "Galerie";
-
 ?>

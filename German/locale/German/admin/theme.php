@@ -1,5 +1,4 @@
 <?php
-
 // Theme Administration
 $locale['theme_1000'] = "Themeadministration";
 $locale['theme_1001'] = "Name:";
@@ -37,6 +36,9 @@ $locale['theme_1031'] = "Dieses Theme unterst&uuml;tzt keine Widgets.";
 $locale['theme_1032'] = "Es existieren f&uuml;r dieses Theme Widgets, wurden aber noch nicht installiert. M&ouml;chtest du welche installieren?";
 $locale['theme_1033'] = "Warnung: Alle Daten werden entfernt, wenn du es deinstallierst. M&ouml;chtest du fortfahren?";
 $locale['theme_1034'] = "Neues Aussehen hinzuf&uuml;gen";
+$locale['theme_1035'] = "No description available for this theme.";
+$locale['theme_1036'] = "Readme";
+$locale['theme_1037'] = "Select Theme Pack";
 
 // Schriftarten
 $locale['theme_2001'] = "Standard Schriftarten";
@@ -120,7 +122,6 @@ $locale['theme_4013'] = "Linkfarbe";
 $locale['theme_4014'] = "Schriftart Style";
 $locale['theme_4015'] = "Horizontales Schriftstyle";
 $locale['theme_4016'] = "Link Style";
-$locale['theme_4016'] = "Schriftstyle Normal";
 
 // Schriftstyles
 $locale['theme_5000'] = "Normal";
@@ -155,5 +156,5 @@ $locale['theme_error_005'] = "Die &Uuml;berpr&uuml;fung der Datei schlug fehl. B
 $locale['theme_error_006'] = "Dein Server unterst&uuml;tzt Zip-Archive nicht. Bitte entpacke das ZIP-Archiv manuell und lade es per FTP hoch.";
 $locale['theme_error_007'] = "Das Theme kann nicht erneuert werden! Gr&uuml;nde: Variablen nicht gesetzt oder das Formular ist fehlerhaft.";
 $locale['theme_error_008'] = "Compiler Fehler. Theme wurde nicht aktualisiert.";
-
+$locale['theme_error_009'] = "File theme.php was not found.";
 ?>

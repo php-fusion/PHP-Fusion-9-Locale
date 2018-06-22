@@ -12,7 +12,7 @@ $locale['410'] = "Der Forenrang wurde erfolgreich hinzugef&uuml;gt.";
 $locale['411'] = "Der Forenrang wurde erfolgreich aktualisiert.";
 $locale['412'] = "Der Forenrang wurde erfolgreich entfernt.";
 $locale['413'] = "Es kann nur ein Forenrang an die Administratoren und Moderatoren zugewiesen werden.";
-$locale['414'] = "Du musst einen Titel f&uuml;r den Forenrang angeben.";
+$locale['414'] = "Sie m&uuml;ssen einen Titel f&uuml;r den Forenrang angeben.";
 
 // Formular
 $locale['420'] = "Titel";

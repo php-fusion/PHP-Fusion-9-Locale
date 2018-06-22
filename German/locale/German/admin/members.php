@@ -1,135 +1,92 @@
 <?php
+$locale['ME_400'] = 'Benutzer Management';
+$locale['ME_401'] = 'Search Benutzer...';
+$locale['ME_402'] = 'Zeige Filter';
+$locale['ME_403'] = 'Einen neuen Benutzer hinzuf&uuml;gen';
+$locale['ME_404'] = 'Filter erlauben';
+$locale['ME_405'] = 'Es wurde kein Benutzer mit den such Kreterien gefunden';
+//
+$locale['ME_407'] = 'Zeige %s - %d von %d records found';
+$locale['ME_408'] = 'Basis Information';
+$locale['ME_409'] = 'Deteilierte Information';
+$locale['ME_410'] = 'Benutzer';
+$locale['ME_411'] = 'Benutzer Level';
+$locale['ME_412'] = 'Email Addresse';
+$locale['ME_413'] = ' Benutzer Account';
+$locale['ME_414'] = 'Alle asuw&auml;hlen';
+$locale['ME_415'] = 'Verstecken';
+$locale['ME_416'] = 'Zeigen';
 
-// Benutzer Verwaltung Optionen
-$locale['400'] = "Benutzerverwaltung";
-$locale['401'] = "Benutzer";
-$locale['402'] = "Neuen Benutzer hinzuf&uuml;gen";
-$locale['403'] = "Benutzertyp";
-$locale['404'] = "Optionen";
-$locale['405'] = "Ansehen";
-$locale['406'] = "Bearbeiten";
-$locale['407'] = "Aktivieren";
-$locale['408'] = "Entsperren";
-$locale['409'] = "Sperren";
-$locale['410'] = "L&ouml;schen";
-$locale['411'] = "Es gibt keine %s Mitglieder";
-$locale['412'] = ", beginnend mit ";
-$locale['413'] = ", zutreffend ";
-$locale['414'] = "Alle anzeigen";
-$locale['415'] = "Mitglied suchen:";
-$locale['416'] = "Los";
-$locale['417'] = "Aktion ausw&auml;hlen";
-$locale['418'] = "Abbrechen";
-$locale['419'] = "Zur&uuml;cksetzten";
+// Core Fields Filter
+$locale['ME_420'] = 'Email Verst&auml;ken?';
+$locale['ME_421'] = 'Beitritts Datum';
+$locale['ME_422'] = 'Letzter Login';
+$locale['ME_423'] = 'IP Addresse';
+$locale['ME_424'] = 'IP Type';
+$locale['ME_425'] = 'Benutzer Grouppe';
+$locale['ME_426'] = 'Zeitzone';
+$locale['ME_427'] = 'Benutzer Status';
 
-// Mitglied Bannen/Unbannen/Loeschen
-$locale['420'] = "Die Sperre wurde gespeichert.";
-$locale['421'] = "Die Sperre wurde aufgehoben.";
-$locale['422'] = "Der Benutzer wurde gel&ouml;scht.";
-$locale['423'] = "Willst du diesen Benutzer wirklich entfernen?";
-$locale['424'] = "Der Benutzer wurde aktiviert.";
-$locale['425'] = "<h2>Warnung!</h2><br />\n";
-$locale['425a'] = "Du bist dabei, den Benutzer <strong>%s</strong> zu l&ouml;schen.<br />\n";
-$locale['425a'] .= "Der folgende Inhalt des Benutzers wird ebenfalls entfernt:<br />\n";
-$locale['425a'] .= "- Artikel<br />\n";
-$locale['425a'] .= "- News<br />\n";
-$locale['425a'] .= "- Forenthemen, beachte bitte, auch die Forenbeitr&auml;ge anderer Benutzer in dem Forenthema, sowie die Umfragen und Anh&auml;nge werden ebenfalls entfernt.<br />\n";
-$locale['425a'] .= "- Forenbeitr&auml;ge<br />\n";
-$locale['425a'] .= "- Forenanh&auml;nge<br />\n";
-$locale['425a'] .= "- Kommentare<br />\n";
-$locale['425a'] .= "- Private Nachrichten, welche der Benutzer gesendet und/oder empfangen hat.<br />\n";
-$locale['425a'] .= "- Abstimmungen bei Umfragen<br />\n";
-$locale['425a'] .= "- Bewertungen<br />\n";
-$locale['425a'] .= "Sollte der Benutzer kein Spammer sein, empfehlen wir den Benutzer zu sperren, anonymisieren oder suspendieren.<br /><br />\n";
-$locale['425a'] .= "Bist du dir sicher, dass du den Benutzer l&ouml;schen m&ouml;chtest?<br />\n";
-$locale['426'] = "Ja";
-$locale['427'] = "Nein";
+// Action Form
+$locale['ME_430'] = 'Fehler: Aktion bei ausgew&auml;hlten Benutzern wurde nicht beendet';
+$locale['ME_431'] = 'Die folgenden Benutzer werden %s:';
+$locale['ME_432'] = '%s hat nun %s';
+$locale['ME_433'] = 'Bitte gebe einen Grund f&uuml;r diese Aktion an';
+$locale['ME_434'] = 'Grund';
+$locale['ME_435'] = 'Dauer';
+$locale['ME_436'] = 'Tage';
+$locale['ME_437'] = 'Update Benutzer';
 
-// Mitglied bearbeiten
-$locale['430'] = "Benutzer bearbeiten";
+$locale['ME_450'] = 'Neue Benutzer hinzuf&uuml;gen';
+$locale['ME_451'] = '%s\'s Profile';
+$locale['ME_452'] = 'Editiere %s\'s Profile';
+$locale['ME_453'] = 'L&ouml;sche Benutzer %s';
+$locale['ME_454'] = "Warnung!";
+$locale['ME_455'] = "Du bist dabei, den Benutzer <strong>%s</strong> zu l&ouml;schen.<br />\n";
+$locale['ME_455'] .= "Der folgende Inhalt des Benutzers wird ebenfalls entfernt:<br />\n";
+$locale['ME_455'] .= "- Artikel<br />\n";
+$locale['ME_455'] .= "- News<br />\n";
+$locale['ME_455'] .= "- Forenthemen, beachte bitte, auch die Forenbeitr&auml;ge anderer Benutzer in dem Forenthema, sowie die Umfragen und Anh&auml;nge werden ebenfalls entfernt.<br />\n";
+$locale['ME_455'] .= "- Forenbeitr&auml;ge<br />\n";
+$locale['ME_455'] .= "- Forenanh&auml;nge<br />\n";
+$locale['ME_455'] .= "- Kommentare<br />\n";
+$locale['ME_455'] .= "- Private Nachrichten, welche der Benutzer gesendet und/oder empfangen hat.<br />\n";
+$locale['ME_455'] .= "- Abstimmungen bei Umfragen<br />\n";
+$locale['ME_455'] .= "- Bewertungen<br />\n";
+$locale['ME_455'] .= "Sollte der Benutzer kein Spammer sein, empfehlen wir den Benutzer zu sperren, anonymisieren oder suspendieren.<br /><br />\n";
+$locale['ME_455'] .= "Bist du dir sicher, dass du den Benutzer l&ouml;schen m&ouml;chtest?<br />\n";
+$locale['ME_456'] = 'L&ouml;sche den Benutzer';
+$locale['ME_457'] = "Sie sind dabei neue NICHT aktivierte %s! zu l&ouml;schen,<br/> sind Sie sich sicher?<br/>";
 
-// Mitglied hinzufuegen
-$locale['480'] = "Benutzer hinzuf&uuml;gen";
-$locale['481'] = "Der Benutzer wurde hinzugef&uuml;gt.";
-$locale['482'] = "Der Benutzer konnte nicht hinzugef&uuml;gt werden.";
+$locale['ME_460'] = 'Es gibt keine Benutzer zum deaktivieren';
+$locale['ME_461'] = '%s wurde deaktiviert';
+$locale['ME_462'] = 'Deaktivierte INaktive Mitglieder';
+$locale['ME_463'] = 'Du hast mehr als 50 inaktive Benutzer und musst den Deaktivierungsprozess noch <strong>%d mal</strong> durchf&uuml;hren.';
+$locale['ME_464'] = '%d Benutzer haben sich f&uuml;r %d Tag(e) nicht angemeldet und wurden als inaktiv markiert. Durch Deaktivierung dieser Benutzer haben sie (%d) Tag(e) bevor sie %s sind';
+$locale['ME_465'] = 'Bitte beachte, dass einige Benutzer Inhalte eingereicht haben wie z.B. Forenbeitr&auml;ge, Kommentare, Fotos usw. Diese werden gel&ouml;scht, sobald die deaktivierten Benutzer gel&ouml;scht werden.';
+$locale['ME_466'] = 'Es wird dringend empfohlen, den Deaktivierungsprozess von L&ouml;schen auf Anonymisieren zu &auml;ndern, um Datenverlust zu verhindern!';
+$locale['ME_467'] = "Sette Deaktivierung-system auf anonymisieren.";
+$locale['ME_468'] = 'Automatische Deaktivierung von inaktiven Benutzern.';
 
-// Mitglied sperren
-$locale['510s'] = "Sperrprotokoll f&uuml;r ";
-$locale['511s'] = "Es liegen keine tempor&auml;ren Sperren f&uuml;r diesen Benutzer vor.";
-$locale['512s'] = "&Auml;ltere tempor&auml;re Sperren von ";
-$locale['513'] = "Nr."; // as in number
-$locale['514'] = "Datum";
-$locale['515'] = "Grund";
-$locale['516'] = "Verantwortlicher";
-$locale['517'] = "System Aktion";
-$locale['518'] = "Zur&uuml;ck zum Benutzer Profil";
-$locale['519'] = "Sperrprotokoll f&uuml;r diesen Benutzer ";
-$locale['520'] = "Aufgehoben: ";
-$locale['521'] = "IP-Adresse: ";
-$locale['522'] = "Noch nicht aufgehoben";
-$locale['540'] = "Fehler";
-$locale['541'] = "Fehler: Du musst einen Grund f&uuml;r die tempor&aum;re Sperrung angeben.";
-$locale['542'] = "Fehler: Du musst einen Grund f&uuml;r die Sicherheitssperre angeben.";
+// Actions
+$locale['ME_500'] = 'Bann';
+$locale['ME_501'] = 'Reaktivieren';
+$locale['ME_502'] = 'Deaktivieren';
+$locale['ME_503'] = 'Sperren';
+$locale['ME_504'] = 'Sicherheit Bann';
+$locale['ME_505'] = 'Abbruch';
+$locale['ME_506'] = 'Anonymisieren';
 
-// Benutzer Verwaltung Admin
-$locale['550'] = "Benutzer tempor&auml;r sperren: ";
-$locale['551'] = "Dauer (Tage):";
-$locale['552'] = "Grund:";
-$locale['553'] = "Sperren";
-$locale['554'] = "Es liegen keine tempor&auml;ren Sperren f&uuml;r diesen Benutzer vor.";
-$locale['555'] = "Wenn du m&ouml;chtest, dass der Benutzer gesperrt wird, so klicke auf 'Sperren'.";
-$locale['556'] = "Tempor&auml;re Sperre aufheben von: ";
-$locale['557'] = "Tempor&auml;re Sperre aufheben";
-$locale['558'] = "Sperre aufheben von: ";
-$locale['559'] = "Sperre aufheben";
-$locale['560'] = "Sicherheitssperre aufheben von: ";
-$locale['561'] = "Sicherheitssperre aufheben";
-$locale['562'] = "Benutzer sperren: ";
-$locale['563'] = "Benutzer aus Sicherheitsgr&uuml;nden sperren: ";
-$locale['585a'] = "Du musst einen Grund f&uuml;r die Sperrung beziehungsweise f&uuml;r die Aufhebung der Sperre angeben.";
+// a_message keys
+$locale['ME_550'] = 'gebanned';
+$locale['ME_551'] = 'Reaktiviert';
+$locale['ME_552'] = 'Deaktiviert';
+$locale['ME_553'] = 'gesperrt';
+$locale['ME_554'] = 'Sicherheit Bann';
+$locale['ME_555'] = 'abgebrochen';
+$locale['ME_556'] = 'anonymisiert';
+$locale['ME_557'] = 'dauerhaft gel&ouml;scht';
 
-$locale['566'] = "Sperre aufgehoben";
-$locale['568'] = "Sicherheitssperre verh&auml;ngt";
-$locale['569'] = "Sicherheitssperre aufgehoben";
-$locale['572'] = "Benutzer tempor&auml;r gesperrt";
-$locale['573'] = "Tempor&auml;re Sperre aufgehoben";
-$locale['574'] = "Benutzer deaktiviert";
-$locale['575'] = "Benutzer reaktiviert";
-$locale['576'] = "Account aufgel&ouml;st";
-$locale['577'] = "Accountaufl&ouml;sung r&uuml;ckg&auml;ngig gemacht";
-$locale['578'] = "Account aufgel&ouml;st und anonymisiert";
-$locale['579'] = "Account Anonymisierung r&uuml;ckg&auml;ngig gemacht";
-$locale['580'] = "Inaktive Benutzer reaktivieren";
-$locale['581'] = "Du hast mehr als 50 inaktive Benutzer und musst den Deaktivierungsprozess noch <strong>%d mal</strong> durchf&uuml;hren.";
-$locale['582'] = "Reaktivieren";
-$locale['583'] = "Wieder einsetzen";
-$locale['584'] = "W&auml;hle neuen Status";
-$locale['585'] = "Dieser Benutzer wurde urspr&uuml;nglich aus Sicherheitsgr&uuml;nden gesperrt! Bist du dir sicher, dass du diesen Benutzer entsperren m&ouml;chtest?";
-$locale['590'] = "Tempor&auml;re Sperre f&uuml;r";
-$locale['591'] = "Tempor&auml;re Sperre aufheben f&uuml;r";
-$locale['592'] = "tempor&auml;re Sperre";
-$locale['593'] = "Aufhebung der tempor&auml;ren Sperre";
-$locale['594'] = "Bitte gib einen Grund an f&uuml;r die ";
-$locale['595'] = " von ";
-$locale['596'] = "Dauer:";
-$locale['600'] = "Sicherheitssperre";
-$locale['601'] = "aus Sicherheitsgr&uuml;nden sperrst";
-$locale['602'] = "Sperre aufheben";
-$locale['603'] = "Sperre aufheben";
-$locale['604'] = "Grund:";
-
-// Deactivation System
-$locale['610'] = "<strong>%d Benutzer</strong> waren nicht eingeloggt seit <strong>%d Tag(en)</strong> und wurden als inaktiv gekennzeichnet. Durch die Deaktivierung haben diese Benutzer <strong>%d Tag(e)</strong> Zeit bevor Sie %s werden.";
-$locale['611'] = "Bitte beachte, dass einige Benutzer Inhalte eingereicht haben wie z.B. Forenbeitr&auml;ge, Kommentare, Fotos usw. Diese werden gel&ouml;scht, sobald die deaktivierten Benutzer gel&ouml;scht werden.";
-$locale['612'] = "Benutzer";
-$locale['613'] = "Benutzer";
-$locale['614'] = "Deaktivieren";
-$locale['615'] = "dauerhaft gel&ouml;scht";
-$locale['616'] = "anonymisieren";
-$locale['617'] = "Warnung:";
-$locale['618'] = "Es wird dringend empfohlen, den Deaktivierungsprozess von L&ouml;schen auf Anonymisieren zu &auml;ndern, um Datenverlust zu verhindern!";
-$locale['619'] = "Um das zu tun klicke hier.";
-$locale['620'] = "anonymisieren";
-$locale['621'] = "Automatische Deaktivierung von inaktiven Benutzern.";
-
-?>
+$locale['ME_560'] = "Zeige Resultultate";
+$locale['ME_561'] = "Zeige Benutzer mit Status";
+$locale['ME_562'] = "Neue Unaktivierte Benutzer";

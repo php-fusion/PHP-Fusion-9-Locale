@@ -1,122 +1,86 @@
 <?php
-
-// Weblink Kategorien Titel
-$locale['402'] = "Aktuell vorhanden Weblinkkategorien";
-
-// Weblink Titel
-$locale['wl_0001'] = "Weblink hinzuf&uuml;gen";
-$locale['wl_0002'] = "Weblink bearbeiten";
-$locale['wl_0003'] = "Weblinks";
-$locale['wl_0004'] = "Weblinkkategorien";
-$locale['wl_0005'] = "Weblinkkategorie bearbeiten";
-$locale['wl_0006'] = "Allgemeine Konfigrationseinstellungen f&uuml;r die Weblinks der Webseite.";
-$locale['wl_0007'] = "Es warten derzeit %s Weblinkeinsendungen auf eine &Uuml;berpr&uuml;fung.";
-$locale['wl_0008'] = "Es sind derzeit keine Weblinkeinsendungen verf&uuml;gbar, die auf eine &Uuml;perpr&uuml;fung warten.";
-
-// Weblink Formular
-$locale['wl_0100'] = "Name";
-$locale['wl_0101'] = "Seitenname";
-$locale['wl_0102'] = "Du musst einen Namen f&uuml;r den Weblink angeben.";
-$locale['wl_0103'] = "Beschreibung";
-$locale['wl_0104'] = "Adresse";
-$locale['wl_0105'] = "Kategorie";
-$locale['wl_0106'] = "Sichtbar f&uuml;r";
-$locale['wl_0107'] = "Ver&ouml;ffentlichungsdatum aktualisieren";
-$locale['wl_0108'] = "Weblink speichern";
-
-// Aktuelle Weblinks
-$locale['wl_0200'] = "Name des Weblinks";
-$locale['wl_0201'] = "Kategorie";
-$locale['wl_0203'] = "Adresse";
-$locale['wl_0204'] = "Weblink ID";
-$locale['wl_0205'] = "Bearbeiten";
-$locale['wl_0206'] = "L&ouml;schen";
-$locale['wl_0207'] = "Es wurden noch keine Weblinks angelegt.";
-$locale['wl_0208'] = "Optionen";
-
-// Weblink Nachrichten
-$locale['wl_0300'] = "Der Weblink wurde erfolgreich hinzugef&uuml;gt.";
-$locale['wl_0301'] = "Der Weblink wurde erfolgreich aktualisiert.";
-$locale['wl_0302'] = "Der Weblink wurde erfolgreich entfernt.";
-$locale['wl_0303'] = "Bist du dir sicher, dass du den Weblink entfernen m&ouml;chtest?";
-
-// Weblinkkategorien Nachrichten
-$locale['wl_0304'] = "Die Weblinkkategorie wurde erfolgreich hinzugef&uuml;gt.";
-$locale['wl_0305'] = "Die Weblinkkategorie wurde erfolgreich aktualisiert.";
-$locale['wl_0306'] = "Die Weblinkkategorie wurde erfolgreich entfernt.";
-$locale['wl_0307'] = "Die Weblinkkategorie konnte nicht entfernt werden.";
-$locale['wl_0308'] = "Es befinden sich noch Weblinks oder Unterkategorien in der Kategorie.";
-$locale['wl_0309'] = "Es existiert bereits eine Weblinkkategorie mit dem selben Namen.";
-$locale['wl_0310'] = "Bist du dir sicher, dass du die Weblinkkategorie entfernen m&ouml;chtest?";
-
-// Filters
-$locale['wl_0400'] = "Filtern nach";
-$locale['wl_0401'] = "Kategorie gefiltert nach";
-$locale['wl_0402'] = "Alle Weblinkeintr&auml;ge";
-
-// Hinzufügen / Bearbeiten Weblinkkategorie
-$locale['wl_0700'] = "Kategoriename";
-$locale['wl_0701'] = "Du musst einen Namen f&uuml;r die Kategorie angeben.";
-$locale['wl_0702'] = "Kategoriebeschreibung";
-$locale['wl_0703'] = "Hauptkategorie";
-$locale['wl_0704'] = "Kategoriesortierung";
-$locale['wl_0705'] = "Weblink-ID";
-$locale['wl_0706'] = "Weblinkname";
-$locale['wl_0707'] = "Weblink-Datum";
-$locale['wl_0708'] = "Aufw&auml;rts (A-Z)";
-$locale['wl_0709'] = "Abw&auml;rts (Z-A)";
-$locale['wl_0710'] = "Editor";
-$locale['wl_0711'] = "Kategorie speichern";
-
-// Weblinkkategorie Nachrichten
-$locale['536'] = "Es wurden noch keine Weblinkkategorien angelegt.";
-$locale['537'] = "Es wurden noch keine Weblinkkategorien angelegt.";
-$locale['538'] = "Du musst mindestens eine Weblinkkategorie anlegen, bevor du einen Weblink hinzuf&uuml;gen kannst.";
-$locale['539'] = "Klicke hier";
-$locale['540'] = " um zu den Weblinkkategorien zu gehen.";
-
-// Einsendungen
-$locale['wl_0500'] = "Einsendungen";
-$locale['wl_0501'] = "Derzeit werden %d von %d gesamten Weblinkeintr&auml;gen angezeigt.";
-$locale['wl_0503'] = "Einsendungs Betreff";
-$locale['wl_0504'] = "Einsendungsautor";
-$locale['wl_0505'] = "Einsendungsdatum";
-$locale['wl_0506'] = "Einsendungs ID";
-$locale['wl_0507'] = "Die Weblinkeinsendung wurde erfolgreich entfernt.";
-$locale['wl_0508'] = "Weblink ver&ouml;ffentlichen";
-$locale['wl_0509'] = "Die Weblinkeinsendung wurde erfolgreich ver&ouml;ffentlicht.";
-$locale['wl_0510'] = "Der nachfolgende Weblink wurde eingesendet von ";
-$locale['wl_0511'] = "Gesendet von ";
-$locale['wl_0512'] = "Einsendung l&ouml;schen";
-
-// Öffentlich
-$locale['wl_0800'] = "Weblink Einsenden";
-
-// Einsendung Erfolgreich
-$locale['wl_0801'] = "Vielen Dank f&uuml;r das Einsenden deines Weblinks!";
-$locale['wl_0802'] = "Weiteren Weblink einsenden";
-$locale['wl_0803'] = "Zur&uuml;ck zu [SITENAME]";
-
-// Einsendung Formular
-$locale['wl_0804'] = "Benutze das Formular unterhalb um einen Weblink einzusenden.\n";
-$locale['wl_0804'] .= "Deine Einsendung wird von einem Administrator &uuml;berpr&uuml;ft.\n";
-$locale['wl_0804'] .= "[SITENAME] beh&auml;t sich das Recht vor, alle eingesendeten Weblinks zu bearbeiten oder zu verbessern.\n";
-$locale['wl_0804'] .= "Der Weblink sollte zum restlichen Inhalt der Webseite passen.\n";
-$locale['wl_0804'] .= "Weblinks, welche unpassend erscheinen, werden gel&ouml;scht.\n";
-$locale['wl_0805'] = "Kategorie";
-$locale['wl_0806'] = "Name";
-$locale['wl_0807'] = "Adresse";
-$locale['wl_0808'] = "Beschreibung";
-$locale['wl_0809'] = "Entschuldigung! Leider akzeptieren wir keine Weblinkeinsendungen auf unserer Seite.";
-
-// Einstellungen
-$locale['wl_0600'] = "Einstellungen";
-$locale['wl_0601'] = "Weblinkeinsendungen erlauben?";
-$locale['wl_0602'] = "Weblinkbeschreibung verpflichtend?";
-$locale['601'] = "Die Einstellungen wurden erfolgreich aktualisiert.";
-$locale['602'] = "Weblinks";
-$locale['wl_603'] = "Eintr&auml;ge pro Seite";
-$locale['wl_604'] = "Einstellungen sppeichern";
-$locale['error_value'] = "Bitte f&uum;lle das Feld aus.";
-
+$locale['WLS_0001'] = "Web Links";
+$locale['WLS_0002'] = "Web Link hinzuf&uuml;gen";
+$locale['WLS_0003'] = "Web Link &auml;ndern";
+$locale['WLS_0004'] = "Kategorien";
+$locale['WLS_0005'] = "Kategorie hinzuf&uuml;gen";
+$locale['WLS_0006'] = "Kategorie &auml;ndern";
+$locale['WLS_0007'] = "Einsendung";
+$locale['WLS_0008'] = "Einstellung";
+$locale['WLS_0030'] = "Web Link erfolgreich erstellt";
+$locale['WLS_0031'] = "Web Link erfolgreich ge&auml;ndert";
+$locale['WLS_0032'] = "Web Link erfolgreich gel&ouml;scht";
+$locale['WLS_0034'] = "Sie m&uuml;ssen einen Web Link ausw&auml;hlen";
+$locale['WLS_0035'] = "Web Link ist nun ver&ouml;ffendlicht";
+$locale['WLS_0036'] = "Web Link ist nun unver&ouml;ffendlicht";
+$locale['WLS_0040'] = "Kategorie erfolgreich erstellt";
+$locale['WLS_0041'] = "Kategorie erfolgreich ge&auml;ndert";
+$locale['WLS_0042'] = "Kategorie erfolgreich gel&ouml;scht";
+$locale['WLS_0043'] = "Kategorie kann nicht gel&ouml;scht";
+$locale['WLS_0044'] = "Es sind Web Link oder Unterkategorien in der Kategorie";
+$locale['WLS_0046'] = "Kategorie kann nicht gel&ouml;scht";
+$locale['WLS_0048'] = "Sie m&uuml;ssen mindestens eine Kategorie ausw&auml;hlen";
+$locale['WLS_0049'] = "Kategorie erfolgreich ver&ouml;ffendlicht";
+$locale['WLS_0050'] = "Kategorie publishing gel&ouml;scht";
+$locale['WLS_0060'] = "Submission erfolgreich ver&ouml;ffendlicht";
+$locale['WLS_0061'] = "Submission erfolgreich gel&ouml;scht";
+$locale['WLS_0062'] = "Es giebt eine neue Einsendung.";
+$locale['WLS_0100'] = "Name";
+$locale['WLS_0101'] = "Kategorie";
+$locale['WLS_0102'] = "Status";
+$locale['WLS_0103'] = "Sichtbarkeit";
+$locale['WLS_0104'] = "Aktionen";
+$locale['WLS_0111'] = "Diesen Web Link l&ouml;schen?";
+$locale['WLS_0112'] = "Es sind keine Web links erstellt.";
+$locale['WLS_0113'] = "Es gibt keine Web links, die den Suchoptionen entsprechen.";
+$locale['WLS_0114'] = "Bevor Sie einen Web link erstellen k&ouml;nnen, m&uuml;ssen Sie eine Kategorie erstellen.";
+$locale['WLS_0115'] = "Web link ist aktiviert, defekte Links wurden gefunden %s.";
+$locale['WLS_0116'] = "Status Unver&ouml;ffendlicht update.";
+$locale['WLS_0120'] = "Betreff";
+$locale['WLS_0121'] = "Suche";
+$locale['WLS_0122'] = "Leer";
+$locale['WLS_0123'] = "Status auswahl";
+$locale['WLS_0124'] = "Jeder Status";
+$locale['WLS_0125'] = "Sichtbarkeit ausw&auml;hlen";
+$locale['WLS_0126'] = "Kategorie ausw&auml;hlen";
+$locale['WLS_0127'] = "Alle Kategorie";
+$locale['WLS_0128'] = "Sprache ausw&auml;hlen";
+$locale['WLS_0129'] = "Alle Sprachen";
+$locale['WLS_0132'] = "Teile pro Seite";
+$locale['WLS_0151'] = "Web Link";
+$locale['WLS_0161'] = "Diese Kategorie l&ouml;schen?";
+$locale['WLS_0162'] = "Es sind keine Kategorien definiert.";
+$locale['WLS_0200'] = "ID";
+$locale['WLS_0201'] = "Link Name";
+$locale['WLS_0202'] = "Einsender";
+$locale['WLS_0203'] = "Datum";
+$locale['WLS_0204'] = "Optionen";
+$locale['WLS_0205'] = "Einsendung anzeigen";
+$locale['WLS_0206'] = "Alles ausw&auml;hlen";
+$locale['WLS_0252'] = "Der Name des Web Links.";
+$locale['WLS_0253'] = "Web Link URL";
+$locale['WLS_0254'] = "Beschreibung";
+$locale['WLS_0255'] = "Bitte eine Beschreibung einf&uuml;gen";
+$locale['WLS_0259'] = "Das ver&ouml;ffendlichungs Datum &auml;ndern";
+$locale['WLS_0260'] = "Mehr Informationen";
+$locale['WLS_0261'] = "Web Links &uuml;berpr&uuml;fen";
+$locale['WLS_0270'] = "Sie m&uuml;ssen ein Betreff spezifizieren.";
+$locale['WLS_0303'] = "Herkunft";
+$locale['WLS_0320'] = "Sie m&uuml;ssen ein Name spezifizieren.";
+$locale['WLS_0321'] = "Es existiert bereits eine Kategorie mit diesem Namen.";
+$locale['WLS_0350'] = "Die Einsendung wurde von {%SUBMISSION_AUTHOR%} geschrieben.";
+$locale['WLS_0351'] = "Einsende Datum: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
+$locale['WLS_0400'] = "Einstellungen f&uuml;r das Web Link System im Frontend und Backend.";
+$locale['WLS_0401'] = "Web Link Teile pro Seite";
+$locale['WLS_0403'] = "Erweiterter Web link erforderlich";
+$locale['WLS_0900'] = "Web Link einsenden";
+$locale['WLS_0910'] = "Web Link wurde erfolgreich &uuml;bermittelt.";
+$locale['WLS_0911'] = "Danke f&uuml;r deine Einsendung.";
+$locale['WLS_0912'] = "Anderen Web Link einsenden";
+$locale['WLS_0913'] = "Zur&uuml;ck zum [SITENAME]";
+$locale['WLS_0920'] = "Nutzten das folgende Formular zum einsenden eines Artikels. Die Einsendung wird durch einen 
+Administrator gepr&uuml;ft. [SITENAME]. Bei unsachlichen oder unseri&ouml;sen inhalten im Web Link wird sich vorbehalten den Inhalt zu ver&auml;ndern oder zu l&ouml;schen.";
+$locale['WLS_0921'] = "Nur eingelogte User k&ouml;nnen Web Link einsenden.";
+$locale['WLS_0922'] = "Zurzeit k&ouml;nnen keine Web Link eingesendet werden.";
+$locale['WLS_0923'] = "Das Einsenden ist nicht m&ouml;glich, es wurde keine Kategorie definiert.";
 ?>

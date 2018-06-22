@@ -1,7 +1,7 @@
 <?php
 
 // Suche Allgemein
-$locale['400'] = "Suche auf ".fusion_get_settings('sitename');
+$locale['400'] = "Suche auf [SITENAME]";
 $locale['401'] = "Suchbegriff";
 $locale['402'] = "Suche starten";
 $locale['403'] = "Ergebnis muss mindestens ein Wort enthalten";

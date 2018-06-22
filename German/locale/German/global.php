@@ -1,39 +1,26 @@
 <?php
 
- /*
- +--------------------------------------------------+
- | Deutsche Übersetzung für PHP-Fusion 9.0 Edition  |
- +--------------------------------------------------+
- | Wir bedanken uns bei allen Helfern für die       |
- | deutsche Übersetzung. Sollten Fehler gefunden    |
- | werden, so bitte veröffentliche diese binnen     |
- | kürzester Zeit in einem der offiziellen Support- |
- | foren Seiten, damit wir das Paket aktualisieren  |
- | können. Vielen Dank!                             |
- +--------------------------------------------------+
- | Mitwirkende Personen                             |
- +--------------------------------------------------+
- | David Gütl                                       |
- | Jan Korschikowski                                |
- | Rolly8-HL                                        |
- | Dennis Vorpahl                                   |
- +--------------------------------------------------+
- | Offizielle deutschsprachige Supportseiten        |
- +--------------------------------------------------+
- | http://www.php-fusion.at/                        |
- | http://www.phpfusion-deutschland.de/             |
- +--------------------------------------------------+
- */
- 
+/*
++--------------------------------------------------+
+| Deutsche Übersetzung für PHP-Fusion 9.3 Edition  |
++--------------------------------------------------+
+by Dahliban              |
+*/
+
 setlocale(LC_TIME, "de_DE.utf8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "DE";
 $locale['xml_lang'] = "de";
+$locale['short_lang_name'] = "de";
 $locale['tinymce'] = "de";
 $locale['select2'] = "de";
 $locale['phpmailer'] = "de";
 $locale['datepicker'] = "de";
 $locale['password_strength'] = "en"; // muss nochmal geschaut werden
+$locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
+$locale['datepicker_php'] = "d-m-Y H:i:s";
+$locale['date_day'] = "%d %b";
+$locale['text-direction'] = "ltr";
 
 // Monate und Tage
 $locale['months'] = "&nbsp|Januar|Februar|M&auml;rz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember";
@@ -54,6 +41,7 @@ $locale['minute_a'] = "Minuten";
 $locale['second'] = "Sekunde";
 $locale['second_a'] = "Sekunden";
 $locale['just_now'] = "Gerade eben";
+$locale['now'] = 'jetzt';
 $locale['ago'] = "zuvor";
 
 // Geo
@@ -66,6 +54,7 @@ $locale['sel_state'] = "W&auml;hle Region";
 $locale['sel_user'] = "Bitte gebe einen Benutzernamen an.";
 $locale['add_language'] = "Weitere &Umml;bersetzung hinzuf&uuml;gen";
 $locale['add_lang'] = "Hinzuf&uuml;gen %s";
+$locale['other_states'] = "Anderer Staat";
 
 // Name
 $locale['name'] = "Vollst&auml;ndiger Name";
@@ -218,6 +207,7 @@ $locale['global_105'] = "Noch keinen Account? [LINK]Klicke hier[/LINK], um einen
 $locale['global_106'] = "[LINK]Passwort vergessen?[/LINK]";
 $locale['global_107'] = "Registrieren";
 $locale['global_108'] = "Passwort vergessen";
+$locale['global_109'] = "Unterzeichnen";
 
 // Mitglied Menu
 $locale['global_120'] = "Profil anpassen";
@@ -241,7 +231,7 @@ $locale['UM063'] = "Angemeldet bleiben";
 $locale['UM064'] = "Anmelden";
 $locale['UM065'] = "Noch keinen Account? [LINK]Klicke hier[/LINK], um einen zu erstellen.";
 $locale['UM066'] = "Passwort vergessen? [LINK]Klicke hier[/LINK], um ein neues anzufordern.";
-
+$locale['UM067'] = "(not recommended on public or shared computer)";
 $locale['UM080'] = "Profil bearbeiten";
 $locale['UM081'] = "Private Nachrichten";
 $locale['UM082'] = "Mitgliederliste";
@@ -327,7 +317,7 @@ $locale['global_301'] .= "Solltest du nur ein normales Mitglied sein, so kontakt
 $locale['global_302'] = "Das ausgew&auml;hlte Theme in den Haupteinstellungen existiert nicht, oder ist nicht vollst&auml;ndig.";
 
 // JavaScript deaktiviert
-$locale['global_303']  = "Oops! Dein Browser unterst&uuml;tzt kein JavaScript oder es wurde deaktiviert.\n";
+$locale['global_303'] = "Oops! Dein Browser unterst&uuml;tzt kein JavaScript oder es wurde deaktiviert.\n";
 $locale['global_303'] .= "Bitte aktiviere JavaScript oder nutze einen Browser, der dieses unterst&uuml;tzt, um die Seite zu nutzen.";
 
 // User Management
@@ -346,9 +336,9 @@ $locale['global_411'] = "Dieser Account wurde storniert.";
 $locale['global_412'] = "Dieser Account wurde anonymisiert, m&ouml;glicherweise aufgrund von Inaktivit&auml;t.";
 
 // Flood Control
-$locale['global_440']  = "Automatischer Ban durch die Floodkontrolle";
-$locale['global_441']  = "Account gebannt auf [SITENAME]";
-$locale['global_442']  = "Hallo [USER_NAME],\n\n";
+$locale['global_440'] = "Automatischer Ban durch die Floodkontrolle";
+$locale['global_441'] = "Account gebannt auf [SITENAME]";
+$locale['global_442'] = "Hallo [USER_NAME],\n\n";
 $locale['global_442'] .= "es wurde festgestellt, dass dein Account mit der IP-Adresse [USER_IP] innerhalb k&uuml;rzester Zeit zu viele Eintr&auml;ge gepostet hat.";
 $locale['global_442'] .= "Dadurch erkannte unser System deinen Account als Spambot.\n";
 $locale['global_442'] .= "Sollte dies nicht zutreffen, so kontaktiere bitte den Seiten Administrator unter [SITE_EMAIL] um deine Sicherheitssperre aufzuheben.";
@@ -357,26 +347,26 @@ $locale['global_442'] .= "Mit freundlichen Gr&uuml;&szlig;en [SITEUSERNAME]";
 // Authenticate Class - Suspentierung
 $locale['global_450'] = "Suspendierung von System aufgehoben";
 $locale['global_451'] = "Suspendierung bei [SITENAME] aufgehoben";
-$locale['global_452']  = "Hallo USER_NAME,\n\n";
+$locale['global_452'] = "Hallo USER_NAME,\n\n";
 $locale['global_452'] .= "die Suspendierung deines Accounts auf [SITEURL] wurde aufgehoben. Du kannst dich absofort mit deinen Logindaten anmelden.\n\n";
 $locale['global_452'] .= "Benutzername: USER_NAME\n";
 $locale['global_452'] .= "Passwort: Aus Datenschutzgr&uuml;nden ausgeblendet\n\n";
 $locale['global_452'] .= "Solltest du dein Passwort nicht mehr kennen, kannst du unter folgenden Link ein neues anfordern:\n";
 $locale['global_452'] .= "LOST_PASSWORD\n\n";
 $locale['global_452'] .= "Mit freundlichen Gr&uuml;&szlig;en [SITEUSERNAME]";
-$locale['global_453']  = "Hallo USER_NAME,\n\n";
+$locale['global_453'] = "Hallo USER_NAME,\n\n";
 $locale['global_453'] .= "die Suspendierung deines Accounts auf [SITEURL] wurde aufgehoben. Du kannst dich absofort mit deinen Logindaten anmelden.\n\n";
 $locale['global_453'] .= "Mit freundlichen Gr&uuml;&szlig;en [SITEUSERNAME]";
 
 // Authenticate Class - Reaktiviert
 $locale['global_454'] = "Account bei [SITENAME] reaktiviert";
-$locale['global_455']  = "Hallo USER_NAME,\n\n";
+$locale['global_455'] = "Hallo USER_NAME,\n\n";
 $locale['global_455'] .= "bei deiner letzten Anmeldung auf [SITEURL] wurde dein Account reaktiviert und ist nicht mehr l&auml;nger als Inaktiv markiert.\n\n";
 $locale['global_455'] .= "Mit freundlichen Gr&uuml;&szlig;en [SITEUSERNAME]";
 
 // Authenticate Class - Passwort
 $locale['global_456'] = "Neues Passwort bei [SITENAME]";
-$locale['global_457']  = "Hallo USER_NAME,\n\n";
+$locale['global_457'] = "Hallo USER_NAME,\n\n";
 $locale['global_457'] .= "es wurde ein neues Passwort f&uuml;r deinen Account bei [SITENAME] gesetzt. Deine neuen Login Daten sind:\n\n";
 $locale['global_457'] .= "Benutzername: USER_NAME\n";
 $locale['global_457'] .= "Passwort: [PASSWORD]\n\n";
@@ -398,6 +388,7 @@ $locale['global_500'] = "Du wirst weitergeleitet zu %s, bitte warte. Wenn du nic
 
 // Captcha
 $locale['global_600'] = "Sicherheitscode";
+$locale['global_601'] = "Da war der Capcha nicht richtig";
 $locale['recaptcha'] = "de";
 
 // Site links
@@ -410,6 +401,7 @@ $locale['global_901'] = "Media hinzufügen";
 $locale['global_ML100'] = "Sprache";
 $locale['global_ML101'] = "- Sprache w&auml;hlen -";
 $locale['global_ML102'] = "Seitensprache";
+$locale['global_ML103'] = "Sprache Wechseln";
 
 // Flood Control
 $locale['flood'] = "Du kannst derzeit nicht posten. Um wieder posten zu k&ouml;nnen, warte bitte auf %s.";
@@ -449,6 +441,8 @@ $locale['back'] = "Zur&uuml;ck";
 $locale['forward'] = "Vorw&auml;rts";
 $locale['go'] = "Los";
 $locale['cancel'] = "Abbrechen";
+$locale['clear'] = "Clear";
+$locale['move'] = "Move";
 $locale['move_up'] = "Aufw&auml;rts";
 $locale['move_down'] = "Abw&auml;rts";
 $locale['load_more'] = "Weitere Eintr&auml;ge laden";
@@ -474,6 +468,7 @@ $locale['promote'] = "F&ouml;rdern";
 $locale['show'] = "Anzeigen";
 $locale['actions'] = "Actionen";
 $locale['language'] = "Sprache";
+$locale['loading'] = "Lade...";
 
 // Persons & Identifiers
 $locale['you'] = "Du";
@@ -486,7 +481,6 @@ $locale['she'] = "Sie";
 $locale['it'] = "Es";
 
 // Tabellen
-$locale['status'] = "Status";
 $locale['order'] = "Reihenfolge";
 $locale['sort'] = "Sortierung";
 $locale['id'] = "ID";
@@ -502,7 +496,7 @@ $locale['root'] = "Hauptkategorie";
 $locale['choose-user'] = "Bitte w&auml;hle einen Benutzer";
 $locale['choose-location'] = "Bitte w&auml;hle einen Wohnort";
 $locale['parent'] = "Erstelle als neues Haupt";
-$locale['order'] = "Eintrag Sortierung";
+$locale['item_order'] = "Eintrag Sortierung";
 $locale['status'] = "Status";
 $locale['note'] = "Diesen Titel notieren";
 $locale['publish'] = "Ver&ouml;ffentlicht";
@@ -527,7 +521,8 @@ $locale['close'] = "Schlie&szlig;en";
 $locale['nopreview'] = "Es gibt nichts anzuzeigen";
 $locale['mark_as'] = "Markieren als";
 $locale['preview'] = "Vorschau";
-$locale['custom'] = "Eigen"; // Bitte mal im Zusammenhang schauen
+$locale['custom'] = "Eigen";
+$locale['submit'] = "Submit";
 
 // Align
 $locale['left'] = "Links";
@@ -577,5 +572,17 @@ $locale['fmt_weblink'] = "Weblink|Weblinks";
 $locale['fmt_week'] = "Woche(n)|Wochen";
 $locale['fmt_year'] = "Jahr(e)|Jahre";
 $locale['fmt_points'] = "Punkt|Punkte";
+$locale['fmt_admin'] = "admin|admins";
+$locale['fmt_group'] = "Gruppe|Gruppen";
+$locale['fmt_category'] = "Kategori|Kategorien";
+$locale['fmt_review'] = "review|reviews";
 // Defender
 include __DIR__."/defender.php";
+
+
+
+
+
+
+
+

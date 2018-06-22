@@ -1,5 +1,4 @@
 <?php
-
 // Umfrage Titel
 $locale['400'] = "Umfrage hinzuf&uuml;gen";
 $locale['401'] = "Umfrage bearbeiten";
@@ -29,8 +28,7 @@ $locale['436'] = "Antwort hinzuf&uuml;gen";
 $locale['437'] = "Umfrage Vorschau";
 $locale['438'] = "Umfrage speichern";
 $locale['439'] = "Undefiniert";
-$locale['439a'] = "Du musst einen Namen f&uuml;r die Umfrage angeben.";
-$locale['439b'] = "Du musst mindestens eine Antwort der Umfrage hinzuf&uuml;gen.";
+$locale['439a'] = "Sie m&uuml;ssen einen Namen f&uuml;r die Umfrage angeben.";
+$locale['439b'] = "Sie m&uuml;ssen mindestens eine Antwort der Umfrage hinzuf&uuml;gen.";
 $locale['439c'] = "Umfragen";
-
 ?>

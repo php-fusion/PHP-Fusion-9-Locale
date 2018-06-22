@@ -42,8 +42,9 @@ $locale['426'] = "Die Permalinks f&uuml;r %s wurden erfolgreich deaktiviert.";
 $locale['427'] = "Es sind derzeit keine Permalinks aktiviert.";
 $locale['428'] = "Permalinks";
 $locale['seo_htc_warning'] = "Bitte beachte, wenn du etwas an den Einstellungen &auml;nderst, wird die \".htaccess\"-Datei &uuml;berschrieben und alle bisherigen &Auml;nderungen an der Datei sind verloren!";
+/*
 $locale['rewrite_disabled'] = "Es sieht so aus, als w&auml;re \"mod_rewrite\" auf deinem Webhost nicht aktiviert.\n";
 $locale['rewrite_disabled'] .= "W&uuml;rdest du dennoch die Suchmaschinenfreundlichen Urls aktivieren, k&ouml;nnte dies deine Webseite lahmlegen.\n";
 $locale['rewrite_disabled'] .= "Bitte kontaktiere deinen Webhostinganbieter und frage nach, wegen der Aktivierung von \"mod_rewrite\".\n";
-
+*/
 ?>

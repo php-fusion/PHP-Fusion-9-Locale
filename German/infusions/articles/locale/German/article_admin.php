@@ -1,118 +1,99 @@
 <?php
-// Titel
-$locale['articles_0000'] = "Aktuell vorhandene Artikel";
-$locale['articles_0001'] = "Artikel";
-$locale['articles_0002'] = "Artikel hinzuf&uuml;gen";
-$locale['articles_0003'] = "Artikel bearbeiten";
-
-// Kategorie Titel
-$locale['articles_0020'] = "Artikelkategorien";
-$locale['articles_0021'] = "Artikelkategorie hinzuf&uuml;gen";
-$locale['articles_0022'] = "Artikelkategorie bearbeiten";
-$locale['articles_0023'] = "Alle Artikeleintr&auml;ge";
-$locale['articles_0024'] = "Derzeit werden %d von %d gesamten Artikeleintr&auml;gen angezeigt.";
-$locale['articles_0025'] = "Gefiltert nach";
-$locale['articles_0026'] = "Zeige Artikel gefiltert nach";
-$locale['articles_0027'] = "Editor";
-
-// Artikel Einstellungen
-$locale['articles_0030'] = "Artikeleinstellungen";
-$locale['articles_0031'] = "Die Konfigurationseinstellungen f&uuml;r das Artikelsystem.";
-$locale['articles_0032'] = "Artikel pro Seite";
-$locale['articles_0033'] = "Artikeleinsendungen aktivieren?";
-$locale['articles_0034'] = "Erweiterte Artikel verpflichtend?";
-
-// Artikel Einsendungen
-$locale['articles_0040'] = "Artikeleinsendungen";
-$locale['articles_0041'] = "Einsendungs Betreff";
-$locale['articles_0042'] = "Es sind derzeit keine Artikeleinsendungen vorhanden, welche auf eine Pr&uuml;fung warten.";
-$locale['articles_0043'] = "Entschuldigung! Leider akzeptieren wir keine Artikeleinsendungen auf unserer Seite.";
-$locale['articles_0044'] = "Es warten derzeit %s Artikeleinsendungen auf eine &Uuml;berpr&uuml;fung.";
-$locale['articles_0045'] = "Artikel ansehen";
-$locale['articles_0046'] = "Einsendungsautor";
-$locale['articles_0047'] = "Einsendungsdatum";
-$locale['articles_0048'] = "Einsendungs ID";
-$locale['articles_0049'] = "Die Artikeleinsendung wurde erfolgreich entfernt.";
-$locale['articles_0050'] = "Die Artikeleinsendung wurde erfolgreich ver&ouml;ffentlicht.";
-$locale['articles_0051'] = "Die Artikeleinsendung wurde erfolgreich als Entwurf gespeichert.";
-$locale['articles_0052'] = "Der nachfolgende Artikel wurde eingesendet von ";
-$locale['articles_0053'] = "Geschrieben von ";
-$locale['articles_0060'] = "Artikel einsenden";
-$locale['articles_0061'] = "Vielen Dank f&uuml;r das Einsenden deines Artikels!";
-$locale['articles_0062'] = "Weiteren Artikel einsenden";
-$locale['articles_0063'] = "Benutze das Formular unterhalb, um einen Artikel einzusenden.\n";
-$locale['articles_0063'] .= "Deine Einsendung wird von einem Administrator &uuml;berpr&uuml;ft.\n";
-$locale['articles_0063'] .= "[SITENAME] beh&auml;lt sich das Recht vor, alle eingesendeten Artikel zu bearbeiten oder zu verbessern.\n";
-$locale['articles_0063'] .= "Der Artikel sollte zum restlichen Inhalt der Webseite passen.\n";
-$locale['articles_0063'] .= "Unpassende Artikel werden gel&ouml;scht.\n";
-$locale['articles_0064'] = "Zur&uuml;ck zu [SITENAME]";
-
-// Artikel Nachrichten
-$locale['articles_0100'] = "Der Artikel wurde erfolgreich hinzugef&uuml;gt.";
-$locale['articles_0101'] = "Der Artikel wurde erfolgreich aktualisiert.";
-$locale['articles_0102'] = "Der Artikel wurde erfolgreich entfernt.";
-
-// Kategorie Nachrichten
-$locale['articles_0150'] = "Die Artikelkategorie wurde erfolgreich hinzugef&uuml;gt.";
-$locale['articles_0151'] = "Die Artikelkategorie wurde erfolgreich aktualisiert.";
-$locale['articles_0152'] = "Die Artikelkategorie konnte nicht entfernt werden.";
-$locale['articles_0153'] = "Es befinden sich noch Unterkategorien oder Artikel in dieser Kategorie.";
-$locale['articles_0154'] = "Die Artikelkategorie wurde erfolgreich entfernt.";
-
-// Artikel Formular
-$locale['articles_0200'] = "Betreff";
-$locale['articles_0201'] = "Kategorie";
-$locale['articles_0202'] = "Artikelauszug";
-$locale['articles_0203'] = "Artikel";
-$locale['articles_0204'] = "Keywords";
-$locale['articles_0204a'] = "Dr&uuml;cke nach jedem Keyword die Eingabetaste.";
-$locale['articles_0205'] = "Diesen Artikel als Entwurf speichern";
-$locale['articles_0206'] = "Automatische Zeilenumbr&uuml;che aktivieren";
-$locale['articles_0207'] = "Bei diesen Artikel die Kommentare aktivieren";
-$locale['articles_0208'] = "Bei diesen Artikel die Bewertungen aktivieren";
-$locale['articles_0209'] = "Seitenumbruch";
-$locale['articles_0210'] = "[ENTWURF]";
-$locale['articles_0211'] = "Sichtbar f&uuml;r";
-$locale['articles_0240'] = "Artikelvorschau";
-$locale['articles_0241'] = "Artikel speichern";
-$locale['articles_0242'] = "Artikel ver&ouml;ffentlichen";
-$locale['articles_0243'] = "Artikel entfernen";
-
-// Popup Fehler / Warnungen
-$locale['articles_0250'] = "Du musst einen Betreff angeben.";
-$locale['articles_0251'] = "Bist du dir sicher, dass du den Artikel entfernen m&ouml;chtest?";
-$locale['articles_0252'] = "Es wurden noch keine Artikelkategorien angelegt.";
-$locale['articles_0253'] = "Du musst mindestens eine Artikelkategorie anlegen, bevor du einen Artikel hinzuf&uuml;gen kannst.";
-$locale['articles_0254'] = "Klicke hier";
-$locale['articles_0255'] = " um zu den Artikelkategorien zu gehen.";
-$locale['articles_0256'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.\n\rDiese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
-$locale['articles_0257'] = "Du musst Keywords angeben.";
-
-// Kategorie Formular
-$locale['articles_0300'] = "Kategoriename";
-$locale['articles_0301'] = "Kategoriebeschreibung";
-$locale['articles_0302'] = "Kategoriesortierung";
-$locale['articles_0303'] = "Artikel ID";
-$locale['articles_0304'] = "Artikel Betreff";
-$locale['articles_0305'] = "Artikel Datum";
-$locale['articles_0306'] = "Aufw&auml;rts (A-Z)";
-$locale['articles_0307'] = "Abw&auml;rts (Z-A)";
-$locale['articles_0308'] = "Hauptkategorie";
-$locale['articles_0309'] = "Kategorie speichern";
-
-// Kategorie Optionen
-$locale['articles_0340'] = "Kategorie";
-$locale['articles_0341'] = "Optionen";
-$locale['edit'] = "Bearbeiten";
-$locale['delete'] = "L&ouml;schen";
-$locale['articles_0342'] = "Es wurden noch keine Artikelkategorien angelegt.";
-$locale['articles_0343'] = "Es wurden noch keine Artikel hinzugef&uuml;gt.";
-
-// Artikel löschen
-$locale['articles_0350'] = "Bist du dir sicher, dass du die Artikelkategorie entfernen m&ouml;chtest?";
-
-// Fehler Nachrichten
-$locale['articles_0351'] = "Du musst einen Namen f&uuml;r die Artikelkategorie angeben.";
-$locale['articles_0352'] = "Es existiert bereits eine Kategorie mit diesem Namen.";
-
-?>
+$locale['Artikel_0000'] = "Artikel";
+$locale['Artikel_0001'] = "Artikel";
+$locale['Artikel_0002'] = "Artikel hinzuf&uuml;gen";
+$locale['Artikel_0003'] = "Artikel &auml;ndern";
+$locale['Artikel_0004'] = "Kategorien";
+$locale['Artikel_0005'] = "Kategorie hinzuf&uuml;gen";
+$locale['Artikel_0006'] = "Kategorie &auml;ndern";
+$locale['Artikel_0007'] = "Einsendung";
+$locale['Artikel_0008'] = "Einstellung";
+$locale['Artikel_0030'] = "Artikel erfolgreich erstellt";
+$locale['Artikel_0031'] = "Artikel erfolgreich ver&auml;ndert";
+$locale['Artikel_0032'] = "Artikel erfolgreich gel&ouml;scht";
+$locale['Artikel_0033'] = "Artikel erfolgreich ver&auml;ndert";
+$locale['Artikel_0034'] = "Es muss mindestens ein Artikel ausgew&auml;hlt werden";
+$locale['Artikel_0040'] = "Kategorie erfolgreich erstellt";
+$locale['Artikel_0041'] = "Kategorie erfolgreich ver&auml;ndert";
+$locale['Artikel_0042'] = "Kategorie erfolgreich gel&ouml;scht";
+$locale['Artikel_0043'] = "Kategorie kann nicht gel&ouml;scht";
+$locale['Artikel_0044'] = "Es sind Artikel in den Kategorien / Unterkategorien";
+$locale['Artikel_0045'] = "Kategorien erfolgreich ver&auml;ndert";
+$locale['Artikel_0046'] = "Kategorien kann nicht gel&ouml;scht";
+$locale['Artikel_0048'] = "Es muss eine Kategorie ausgew&auml;hlt werden";
+$locale['Artikel_0060'] = "Einsendung erfolgreich ver&ouml;ffendlicht";
+$locale['Artikel_0061'] = "Einsendung erfolgreich als Entwurf gespeichert";
+$locale['Artikel_0062'] = "Einsendung erfolgreich gel&ouml;scht";
+$locale['Artikel_0063'] = "Es giebt neue Einsendung.";
+$locale['Artikel_0100'] = "Betreff";
+$locale['Artikel_0101'] = "Kategorie";
+$locale['Artikel_0102'] = "Entwurf";
+$locale['Artikel_0103'] = "Kommentare";
+$locale['Artikel_0104'] = "Bewertungen";
+$locale['Artikel_0105'] = "Author";
+$locale['Artikel_0106'] = "Sichtbarkeit";
+$locale['Artikel_0107'] = "Aktionen";
+$locale['Artikel_0111'] = "Den Artikel l&ouml;schen?";
+$locale['Artikel_0112'] = "Es wurden keine Artikel erstellt.";
+$locale['Artikel_0113'] = "Es gibt keine Artikel, die mit den Suchoptionen &uuml;bereinstimmen.";
+$locale['Artikel_0114'] = "Bevor Sie einen Artikel erstellen k&ouml;nnen, m&uuml;ssen Sie eine Kategorie erstellen.";
+$locale['Artikel_0121'] = "Suche";
+$locale['Artikel_0122'] = "Leer";
+$locale['Artikel_0123'] = "W&auml;hle Status";
+$locale['Artikel_0124'] = "Jeden Status";
+$locale['Artikel_0125'] = "W&auml;hle Sichtbarkeit";
+$locale['Artikel_0126'] = "W&auml;hle Kategorie";
+$locale['Artikel_0127'] = "Alle Kategorien";
+$locale['Artikel_0128'] = "W&auml;hle Sprache";
+$locale['Artikel_0129'] = "Alle Sprachen";
+$locale['Artikel_0130'] = "W&auml;hle Author";
+$locale['Artikel_0131'] = "All Authoren";
+$locale['Artikel_0132'] = "Teile pro Seite";
+$locale['Artikel_0150'] = "Name";
+$locale['Artikel_0152'] = "Status";
+$locale['Artikel_0161'] = "Diese Kategorie l&ouml;schen?";
+$locale['Artikel_0162'] = "Es sind keine Kategorien definiert.";
+$locale['Artikel_0163'] = "Artikel Betreff";
+$locale['Artikel_0200'] = "ID";
+$locale['Artikel_0202'] = "Einsender";
+$locale['Artikel_0203'] = "Datum";
+$locale['Artikel_0204'] = "Optionen";
+$locale['Artikel_0205'] = "Zeige Einsendung";
+$locale['Artikel_0251'] = "Auszug";
+$locale['Artikel_0252'] = "Artikel";
+$locale['Artikel_0253'] = "Der Artikel selber.";
+$locale['Artikel_0254'] = "Ein Auszug des Artikels.";
+$locale['Artikel_0256'] = "Speichern als Entwurf";
+$locale['Artikel_0257'] = "Automatischer Zeilenumbruch einschalten";
+$locale['Artikel_0258'] = "Kommentare einschalten";
+$locale['Artikel_0259'] = "Bewertungen einschalten";
+$locale['Artikel_0260'] = "Keywords";
+$locale['Artikel_0260a'] = "Nach jedem Keyword Enter dr&uuml;cken f&uuml;r erneute Eingabe.";
+$locale['Artikel_0261'] = "Mehr Informationen";
+$locale['Artikel_0262'] = "Mehr Einstellungen";
+$locale['Artikel_0270'] = "Sie m&uuml;ssen ein Betreff spezifizieren.";
+$locale['Artikel_0271'] = "Sie m&uuml;ssen ein Auszug spezifizieren.";
+$locale['Artikel_0272'] = "Sie m&uuml;ssen ein Artikel spezifizieren.";
+$locale['Artikel_0273'] = "Sie m&uuml;ssen eine Kategorie w&auml;hlen.";
+$locale['Artikel_0274'] = "%s sind f&uuml;r alle Elemente deaktiviert. <br/> Diese Einstellung wird erst wirksam, wenn sie erneut aktiviert werden.";
+$locale['Artikel_0303'] = "Zugeh&ouml;rigkeit";
+$locale['Artikel_0304'] = "Beschreibung";
+$locale['Artikel_0320'] = "Sie m&uuml;ssen ein Name spezifizieren.";
+$locale['Artikel_0321'] = "Es existiert bereits eine Kategorie mit diesem Namen.";
+$locale['Artikel_0322'] = "Sie m&uuml;ssen eine Beschreibung spezifizieren.";
+$locale['Artikel_0350'] = "Die Einsendung wurde von {%Einsendung_AUTHOR%} gesendet.";
+$locale['Artikel_0351'] = "Einsendung Datum: {%Einsendung_TIME%} - {%Einsendung_DATE%}.";
+$locale['Artikel_0352'] = "Einsendung Akzeptieren";
+$locale['Artikel_0400'] = "Einstellungen f&uuml;r das Artikel-System im Frontend und Backend.";
+$locale['Artikel_0401'] = "Artikel Teile pro Seite";
+$locale['Artikel_0403'] = "Externer Artikel ben&ouml;tigt";
+$locale['Artikel_0900'] = "Artikel einsenden";
+$locale['Artikel_0910'] = "Artikel wurde erfolgreich &uuml;bermittelt.";
+$locale['Artikel_0911'] = "Danke f&uuml;r deine Einsendung.";
+$locale['Artikel_0912'] = "Anderen Artikel einsenden";
+$locale['Artikel_0913'] = "Zur&uuml;ck zum [SITENAME]";
+$locale['Artikel_0920'] = "Nutzten das folgende Formular zum einsenden eines Artikels. Die Einsendung wird durch einen 
+Administrator gepr&uuml;ft. [SITENAME]. Bei unsachlichen oder unseri&ouml;sen inhalten im Artikel wird sich vorbehalten den Inhalt zu ver&auml;ndern oder zu l&ouml;schen.";
+$locale['Artikel_0921'] = "Nur eingelogte User k&ouml;nnen Artikel einsenden.";
+$locale['Artikel_0922'] = "Zurzeit k&ouml;nnen keine Artikel eingesendet werden.";
+$locale['Artikel_0923'] = "Das Einsenden ist nicht m&ouml;glich, es wurde keine Kategorie definiert.";

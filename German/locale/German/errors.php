@@ -1,5 +1,4 @@
 <?php
-
 // Error Level Beschreibung
 $locale['E_ERROR'] = "Schwerwiegender Fehler, welcher die Ausf&uuml;hrung des Scripts stoppt.";
 $locale['E_WARNING'] = "Kein fataler Laufzeitfehler.";
@@ -17,5 +16,5 @@ $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nicht definiert";
 $locale['err_101'] = "Warnung! Beim Parsen der Seite ist ein Fehler aufgetreten. Um mehr Details zu erfahren, sehe bitte im [ERROR_LOG_URL]PHP-Fusion Fehlerlog[/ERROR_LOG_URL] nach.";
 $locale['err_102'] = "Fehler anzeigen";
-
+$locale['err_103'] = "{%function%} {%folder%} existiert nicht.";
 ?>

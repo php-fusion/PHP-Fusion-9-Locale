@@ -1,8 +1,4 @@
 <?php
-
-// Benutzerfeld: Zweiter Vorname
-$locale['uf_name_middle'] = "Zweiter Vorname";
-$locale['uf_name_middle_desc'] = "Zeigt den zweiten Vornamen eines Benutzers an.";
-$locale['uf_name_middle_error'] = "Du musst deinen zweiten Vornamen angeben.";
-
-?>
+$locale['uf_name_middle'] = "Middle Name";
+$locale['uf_name_middle_desc'] = "Real user second name.";
+$locale['uf_name_middle_error'] = "Second (middle) name can not be left empty..";
