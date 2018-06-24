@@ -54,6 +54,7 @@ $locale['SL_0053'] = "Optionen";
 $locale['SL_0060'] = "Bearbeiten";
 $locale['SL_0061'] = "L&ouml;schen";
 $locale['SL_0062'] = "Derzeit wurden noch keine Navigationslinks hinzugef&uuml;gt.";
+$locale['SL_0063'] = "Use BBCode in Link Name?";
 
 // Navigationslinks Optionen
 $locale['SL_0070'] = "Icon";

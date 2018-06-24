@@ -1,5 +1,4 @@
 <?php
-
 // Panel Verwaltung
 $locale['400'] = "Panelverwaltung";
 $locale['401'] = "Name";
@@ -22,6 +21,10 @@ $locale['424'] = "PHP-Code";
 $locale['425'] = "Mitte Unten";
 $locale['426'] = "Nach Header";
 $locale['427'] = "Vor Footer";
+$locale['428a'] = "Benutzer 1";
+$locale['428b'] = "Benutzer 2";
+$locale['428c'] = "Benutzer 3";
+$locale['428d'] = "Benutzer 4";
 
 // Panel Optionen
 $locale['430'] = "Nach Links";
@@ -34,7 +37,7 @@ $locale['436'] = "Deaktivieren";
 $locale['437'] = "L&ouml;schen";
 $locale['438'] = "Neues Panel";
 $locale['439'] = "Sortierung der Panels erneuern";
-$locale['440'] = "Willst du dieses Panel wirklich entfernen?";
+$locale['440'] = "Wollen Sie dieses Panel wirklich entfernen?";
 $locale['441'] = "Links";
 $locale['442'] = "Rechts";
 $locale['443'] = "Aufw&auml;rts";
@@ -42,12 +45,12 @@ $locale['444'] = "Abw&auml;rts";
 $locale['445'] = "Nach Unten";
 $locale['446'] = "Nach Oben";
 
-// Panel hinzufÃ¼gen / bearbeiten Formular
+// Panel hinzufügen / bearbeiten Formular
 $locale['450'] = "Panel bearbeiten";
 $locale['451'] = "Panel hinzuf&uuml;gen";
 $locale['452'] = "Name:";
 $locale['453'] = "Dateiname:";
-$locale['454'] = "Falls du eine Datei ausw&auml;hlst, wird der Panelinhalt ignoriert.";
+$locale['454'] = "Falls Sie eine Datei ausw&auml;hlen, wird der Panelinhalt ignoriert.";
 $locale['455'] = "Inhalt:";
 $locale['456'] = "Adminpasswort:";
 $locale['457'] = "Seite:";
@@ -62,16 +65,18 @@ $locale['465'] = "Dieses Panel nur auf diesen Seiten anzeigen.";
 $locale['466'] = "Panelsprache:";
 $locale['467'] = "Panel nur auf der Startseite anzeigen.";
 $locale['468'] = "Paneltyp";
+$locale['469'] = "Kein";
+$locale['469a'] = "Inhalt";
 
-// Panel Ã¤ndern / hinzufÃ¼gen Fehlermeldungen
-$locale['470'] = "Du musst einen Namen f&uuml;r das Panel angeben.";
+// Panel ändern / hinzufügen Fehlermeldungen
+$locale['470'] = "Es muss ein Namen f&uuml;r das Panel angeben werden.";
 $locale['471'] = "Es existiert bereits ein Panel mit diesen Namen.";
-$locale['472'] = "Du musst einen Inhalt angeben.";
-$locale['473'] = "Du musst einen Dateinamen ausw&auml;hlen.";
+$locale['472'] = "Es muss ein Inhalt angeben werden.";
+$locale['473'] = "Es muss ein Dateinamen ausgew&auml;hl werden.";
 $locale['474'] = "Das Adminpasswort wurde nicht angegeben oder es ist nicht korrekt.";
-$locale['475'] = "Du musst mindestens einen Bereich in der Filterliste ausw&auml;hlen, um den Filter zu verwenden.";
+$locale['475'] = "Es muss mindestens ein Bereich in der Filterliste ausgew&auml;hlt werden, um den Filter zu verwenden.";
 
-// Panel Ã¤ndern / hinzufÃ¼gen Nachrichten
+// Panel ändern / hinzufügen Nachrichten
 $locale['480'] = "Panel bearbeiten";
 $locale['481'] = "Das Panel konnte nicht aktualisiert werden.";
 $locale['482'] = "Das Panel wurde aktualisiert.";
@@ -87,8 +92,8 @@ $locale['489'] = "Panel gel&ouml;scht.";
 $locale['600'] = "Panelmanagement Interface";
 $locale['602'] = "Nicht genutzte Panels";
 $locale['603'] = "Genutzte Panels";
-$locale['604'] = "Panels";
-$locale['605'] = "Panel";
+$locale['604'] = "Panel|Panels";
+$locale['605'] = "";
 $locale['606'] = "Inhalt der Website";
-
+$locale['607'] = "Datei"
 ?>

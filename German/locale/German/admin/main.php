@@ -1,7 +1,7 @@
 <?php
 
 // Administration Main Links
-$locale['200'] = "[SITENAME]  Adminbereich";
+$locale['200'] = "[SITENAME] Adminbereich";
 $locale['ac00'] = "&Uuml;bersicht";
 $locale['ac01'] = "Inhalt";
 $locale['ac02'] = "Benutzer";
@@ -111,6 +111,11 @@ $locale['283'] = "Infusionen";
 $locale['284'] = "Es wurden keine Infusionen installiert";
 $locale['285'] = "Infusionen verwalten";
 $locale['286'] = "Einsendung ansehen";
+
+$locale['290'] = "Es gibt eine automatische Speicherung dieses Posts, die aktueller ist als die unten stehende Version.";
+$locale['291'] = "Zeige den autosave";
+$locale['292'] = "&Uuml;berarbeitung gespeichert";
+$locale['293'] = "F&uuml;llen f&uuml;r den Autosave";
 
 // Administration -> Nicht Verwendet?
 $locale['BLC'] = "Blogkategorien";

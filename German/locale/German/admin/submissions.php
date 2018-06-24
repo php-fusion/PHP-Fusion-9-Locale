@@ -49,6 +49,11 @@ $locale['490'] = "Newseinsendung ver&ouml;ffentlichen";
 $locale['491'] = "Die eingesendete News wurde erfolgreich ver&ouml;ffentlicht.";
 $locale['492'] = "Newseinsendung l&ouml;schen";
 $locale['493'] = "Die eingesendete News wurde erfolgreich entfernt.";
+// Hinzufügen / Löschen Blog Einsendungen
+$locale['490b'] = "Blogeinsendung ver&ouml;ffentlichen";
+$locale['491b'] = "Der eingesendete Blog wurde erfolgreich ver&ouml;ffentlicht.";
+$locale['492b'] = "Blogeinsendung l&ouml;schen";
+$locale['493b'] = "Der eingesendete Blog wurde erfolgreich entfernt.";
 
 // News Einsendungs Formular
 $locale['500'] = "Newseinsendung ansehen";
@@ -62,13 +67,6 @@ $locale['507'] = "- Keine -";
 $locale['508'] = "News:";
 $locale['509'] = "News-Auszug:";
 $locale['510'] = "Newsvorschau";
-
-
-// Hinzufügen / Löschen Blog Einsendungen
-$locale['490b'] = "Blogeinsendung ver&ouml;ffentlichen";
-$locale['491b'] = "Der eingesendete Blog wurde erfolgreich ver&ouml;ffentlicht.";
-$locale['492b'] = "Blogeinsendung l&ouml;schen";
-$locale['493b'] = "Der eingesendete Blog wurde erfolgreich entfernt.";
 
 // Blog Einsendungs Formular
 $locale['500b'] = "Blogeinsendung ansehen";
@@ -120,7 +118,6 @@ $locale['596'] = "Titel:";
 $locale['597'] = "Beschreibung:";
 $locale['598'] = "Album:";
 
-
 // Hinzufügen / Löschen Download Einsendungen
 $locale['630'] = "Downloadeinsendung ver&ouml;ffentlichen";
 $locale['631'] = "Der eingesendete Download wurde erfolgreich ver&ouml;ffentlicht.";
@@ -154,5 +151,4 @@ $locale['660'] .= "Diese Einstellung wird erst wirksam, wenn diese wieder aktivi
 $locale['661'] = "Kommentare";
 $locale['662'] = "Bewertungen";
 $locale['663'] = $locale['661']." und ".$locale['662'];
-
 ?>

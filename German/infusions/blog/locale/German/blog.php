@@ -1,5 +1,4 @@
 <?php
-
 // Blog
 $locale['blog_1000'] = "Blog";
 $locale['blog_1001'] = "Blog Start";
@@ -18,7 +17,6 @@ $locale['testimonial_rank'] = "Ich bin der %s auf der Webseite";
 $locale['testimonial_location'] = "und lebe derzeit in %s.";
 $locale['testimonial_join'] = "Ich registrierte mich am %s auf der Webseite.";
 $locale['testimonial_web'] = "Desweiteren bin ich auf %s unterwegs.";
-$locale['testimonial_contact'] = "Wenn du mich kontaktieren m&ouml;chtest, kannst du mich unter %s erreichen.";
-$locale['testimonial_email'] = "Du kannst mich allerdings auch per E-Mail unter %s erreichen.";
-
+$locale['testimonial_contact'] = "Wenn Sie mich kontaktieren m&ouml;chten, k&ouml;nnen Sie mich unter %s erreichen.";
+$locale['testimonial_email'] = "Sie k&ouml;nnen mich allerdings auch per E-Mail unter %s erreichen.";
 ?>

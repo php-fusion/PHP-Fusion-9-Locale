@@ -76,12 +76,12 @@ $locale['news_0240'] = "Newsvorschau";
 $locale['news_0241'] = "News speichern";
 
 // Popups
-$locale['news_0250'] = "Du musst einen Betreff f&uuml;r die News angeben.";
-$locale['news_0251'] = "Bist du dir sicher, dass du die News entfernen m&ouml;chtest?";
-$locale['news_0252'] = "Bist du dir sicher, dass du die Newskategorie entfernen m&ouml;chtest?";
+$locale['news_0250'] = "Sie m&uuml;ssen einen Betreff f&uuml;r die News angeben.";
+$locale['news_0251'] = "Sind Sie sich sicher, dass Sie die News entfernen m&ouml;chten?";
+$locale['news_0252'] = "Sind Sie sich sicher, dass Sie die Newskategorie entfernen m&ouml;chten?";
 $locale['news_0253'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.\n\rDiese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
 $locale['news_0254'] = "Es wurden noch keine News in dieser Kategorie abgelegt.";
-$locale['news_0255'] = "Du musst Keywords angeben.";
+$locale['news_0255'] = "Sie m&uuml;ssen Keywords angeben.";
 
 // Newskategorie Formular
 $locale['news_0300'] = "Kategoriename";
@@ -95,7 +95,7 @@ $locale['news_0305'] = "Hauptkategorie";
 $locale['news_0350'] = "Bist du dir sicher, dass du die Newskategorie entfernen m&ouml;chtest?";
 
 // Fehler Nachrichten
-$locale['news_0351'] = "Du musst einen Namen f&uuml;r die Newskategorie angeben.";
+$locale['news_0351'] = "Sie m&uuml;ssen einen Namen f&uuml;r die Newskategorie angeben.";
 $locale['news_0352'] = "Es existiert bereits eine Newskategorie mit diesen Namen.";
 $locale['news_0400'] = "Newseinsendungen";
 $locale['news_0401'] = "Einsendungsbild?";
@@ -105,8 +105,8 @@ $locale['news_0402'] = "Erweiterte News verpflichtend?";
 $locale['news_0700'] = "Newseinsenden";
 $locale['news_0701'] = "Vielen Dank f&uuml;r das Einsenden deiner News!";
 $locale['news_0702'] = "Weitere News einsenden";
-$locale['news_0703'] = "Benutze das Formular unterhalb um eine News einzusenden.\n";
-$locale['news_0703'] .= "Deine Einsendung wird von einem Administrator &uuml;berpr&uuml;ft.\n";
+$locale['news_0703'] = "Benutzen Sie das Formular unterhalb um eine News einzusenden.\n";
+$locale['news_0703'] .= "Ihre Einsendung wird von einem Administrator &uuml;berpr&uuml;ft.\n";
 $locale['news_0703'] .= "[SITENAME] beh&auml;lt sich das Recht vor, alle eingesendeten News zu bearbeiten oder zu verbessern.\n";
 $locale['news_0703'] .= "Die News sollte zum restlichen Inhalt der Webseite passen.\n";
 $locale['news_0703'] .= "News, welche unpassend erscheinen, werden gel&ouml;scht.\n";

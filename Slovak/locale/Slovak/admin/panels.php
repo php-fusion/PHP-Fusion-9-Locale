@@ -97,7 +97,7 @@ $locale['485'] = "Nový panel bol pridaný";
 $locale['486'] = "Návrat do administrácie panelov";
 $locale['487'] = "Návrat do administrátorského indexu";
 $locale['488'] = "Zoradenie panelov uložené.";
-$locale['489'] = "Panely boli odstránené";
+$locale['489'] = "Panel bol odstránený";
 //Visual Panel
 $locale['600'] = "Rozhranie pre správu panelov";
 $locale['602'] = "Nepoužité panely";

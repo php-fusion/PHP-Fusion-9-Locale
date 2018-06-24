@@ -1,11 +1,20 @@
 <?php
 $locale['400'] = "Einstellungen";
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
 
 // Allgemeine Einstellungen
 $locale['401'] = "Allgemeines";
 $locale['402'] = "Seitenname";
 $locale['403'] = "Seitenadresse";
 $locale['404'] = "Seitenlogo";
+$locale['404left'] = "Left";
+$locale['404center'] = "Center";
+$locale['404right'] = "Right";
+$locale['404XS'] = "Logo Position XS (mobile)";
+$locale['404SM'] = "Logo Position SM (tablet)";
+$locale['404MD'] = "Logo Position MD (laptop)";
+$locale['404LG'] = "Logo Position LG (desktop)";
 $locale['405'] = "Seiten E-Mail Adresse";
 $locale['406'] = "Dein Name";
 $locale['407'] = "Willkommensnachricht";
@@ -22,6 +31,7 @@ $locale['417'] = "Seitensprache";
 $locale['418'] = "Seitendesign";
 $locale['418a'] = "Admindesign";
 $locale['419'] = "Standard Suchgebiet";
+$locale['419a'] = "Entire Site";
 $locale['420'] = "Linke Panels ausblenden";
 $locale['421'] = "Obere mittige Panels ausblenden";
 $locale['422'] = "Untere mittige Panels ausblenden";
@@ -33,6 +43,8 @@ $locale['427'] = "Seitenhost";
 $locale['428'] = "Beispiel:";
 $locale['429'] = "Seitenpfad";
 $locale['430'] = "Seitenport";
+$locale['430_error'] = "Incorrect Site Port Number";
+$locale['430_desc'] = "Leave blank for Port 80";
 $locale['431'] = "Vorschau:";
 $locale['432'] = "Sonstige Einstellungen";
 $locale['433'] = "meineseite.com";
@@ -45,6 +57,14 @@ $locale['439'] = "Normale Adressen";
 $locale['440'] = "SEO Debug Modus aktivieren";
 $locale['441'] = "Entypo aktivieren";
 $locale['442'] = "Font-Awesome aktivieren";
+$locale['443a'] = "Exclude User 1 Panels";
+$locale['443b'] = "Exclude User 2 Panels";
+$locale['443c'] = "Exclude User 3 Panels";
+$locale['443d'] = "Exclude User 4 Panels";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/>Separate and enter one domain each row.";
+$locale['444b'] = "Registered Domain Names";
+$locale['445'] = "Invalid (test purposes)";
 
 // Datum und Zeit Einstellungen
 $locale['450'] = "Zeit und Datum";
@@ -63,6 +83,7 @@ $locale['462'] = "Zeitzone Server";
 $locale['463'] = "W&auml;hle eine Zeitzone, damit die Serverzeit GMT 0 ist";
 $locale['464'] = "Standardzeitzone";
 $locale['465'] = "Erster Tag der Woche";
+$locale['466'] = "Default for New Users";
 
 // Registrierungseinstellungen
 $locale['550'] = "Registrierung";
@@ -82,6 +103,8 @@ $locale['605'] = "Maximale Dateigr&ouml;&szlig;e (Bytes)";
 $locale['606'] = "Thumb-Kompressionsverfahren";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Sonstiges";
 $locale['651'] = "Schmutzige W&ouml;rter";
 $locale['652'] = "Pro Zeile bitte nur ein Wort angeben.";
@@ -89,6 +112,9 @@ $locale['653'] = "Leer lassen, falls nicht ben&ouml;tigt.";
 $locale['654'] = "Schmutzige W&ouml;rter ersetzten durch";
 $locale['655'] = "G&auml;sten das Posten erlauben?";
 $locale['656'] = "Benutzeravatare in Kommentaren aktivieren?";
+$locale['656a'] = "Enable Jquery comments?";
+$locale['656b'] = "Please set to high number comments per page if turn on Jquery for best view";
+
 $locale['657'] = "Wartungsmodus";
 $locale['658'] = "Nachricht bei Wartungsmodus";
 $locale['659'] = "Schmutzige W&ouml;rter Filter aktivieren?";
@@ -213,6 +239,10 @@ $locale['1012'] = "Benutzer anonymisieren";
 $locale['1013'] = "Benutzer entfernen";
 $locale['1014'] = "Darf sich der Benutzer auf mehreren Ger&auml;ten gleichzeitig anmelden?";
 $locale['1014a'] = "F&uuml;r mehr Sicherheit deaktivieren";
+$locale['1015'] = "Breite";
+$locale['1016'] = "H&ouml;he";
+
+$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social Media
 $locale['1030'] = "Erstelle OpenGraph Meta-Tags f&uuml;r soziale Netzwerke?";
@@ -255,7 +285,6 @@ $locale['news_description'] = "Die Konfigurationseinstellungen f&uuml;r das News
 $locale['ipp_description'] = "Die Konfigurationseinstellungen f&uuml;r die Standard Anzahl an anzuzeigenden Eintr&auml;gen pro Seite.";
 $locale['forum_description'] = "Die Konfigurationseinstellungen f&uuml;r das Forensystem.";
 $locale['download_description'] = "Die Konfigurationseinstellungen f&uuml;r das Downloadsystem.";
-$locale['eshop_description'] = "Die Konfigurationseinstellungen f&uuml;r das E-Shop System.";
 $locale['language_description'] = "Die Konfigurationseinstellungen f&uuml;r das Mehrsprachen-System.";
 $locale['photo_description'] = "Die Konfigurationseinstellungen f&uuml;r die Fotogalerie.";
 $locale['main_description'] = "Die Konfigurationseinstellungen f&uuml;r das allgemeine System.";
@@ -270,7 +299,6 @@ $locale['theme_description'] = "Die Konfigurationseinstellungen f&uuml;r das The
 // Einstellungen Titel
 $locale['blog_settings'] = "Blogeinstellungen";
 $locale['download_settings'] = "Downloadeinstellungen";
-$locale['eshop_settings'] = "E-Shop Einstellungen";
 $locale['forum_settings'] = "Foreneinstellungen";
 $locale['ipp_settings'] = "Objekte pro Seite Einstellungen";
 $locale['photo_settings'] = "Fotogalerieeinstellungen";
@@ -287,5 +315,16 @@ $locale['theme_settings'] = "Themeeinstellungen";
 // Sicherheitscode
 $locale['securimage'] = "Sicherheitsbild";
 $locale['securimage2'] = "Sicherheitsbild v2";
+$locale['securimage3'] = "Secure Image v.3";
 
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
 ?>

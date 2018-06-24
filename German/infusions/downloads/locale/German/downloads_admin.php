@@ -60,13 +60,13 @@ $locale['download_0106'] = "Das Bild muss kleiner als %s sein.";
 $locale['download_0107'] = "Das Bild muss schm&auml;ler als %s sein.";
 $locale['download_0108'] = "Die Datei muss einer der folgenden Typen sein: %s.";
 $locale['download_0109'] = "Das Bild muss einer der folgenden Typen sein: %s.";
-$locale['download_0110'] = "Du musst einen Titel f&uuml;r den Download angeben.";
-$locale['download_0111'] = "Du musst eine Downloadadresse angeben oder eine Download Datei hochladen.";
-$locale['download_0112'] = "Du musst eine Kurzbeschreibung f&uuml;r den Download angeben.";
+$locale['download_0110'] = "Sie m&uuml;ssen einen Titel f&uuml;r den Download angeben.";
+$locale['download_0111'] = "Sie m&uuml;ssen eine Downloadadresse angeben oder eine Download Datei hochladen.";
+$locale['download_0112'] = "Sie m&uuml;ssen eine Kurzbeschreibung f&uuml;r den Download angeben.";
 $locale['download_0113'] = "Unbekannter Fehler";
-$locale['download_0114'] = "Du musst einen Download-Screenshot hochladen.";
-$locale['download_0115'] = "Du musst eine Downloaddatei hochladen.";
-$locale['download_0116'] = "Du musst eine Downloadadresse angeben.";
+$locale['download_0114'] = "Sie m&uuml;ssen einen Download-Screenshot hochladen.";
+$locale['download_0115'] = "Sie m&uuml;ssen eine Downloaddatei hochladen.";
+$locale['download_0116'] = "Sie m&uuml;ssen eine Downloadadresse angeben.";
 
 // Downloads Category messages
 $locale['download_0150'] = "Die Downloadkategorie wurde erfolgreich hinzugef&uuml;gt.";
@@ -81,7 +81,7 @@ $locale['download_0201'] = "Vollst&auml;ndige Beschreibung";
 $locale['download_0202'] = "Kurze Beschreibung";
 $locale['download_0202a'] = "Beschreibung";
 $locale['download_0203'] = "Keywords:";
-$locale['download_0203a'] = "Drücke nach jedem Keyword die Eingabetaste";
+$locale['download_0203a'] = "Dr&uuml;cken Sie nach jedem Keyword die Eingabetaste";
 $locale['download_0204'] = "Download Quelle: Entweder eine Datei hochladen oder einen Download Link angeben.";
 $locale['download_0205'] = "Sichtbar f&uuml;r";
 $locale['download_0206'] = "Adresse";
@@ -113,7 +113,7 @@ $locale['download_0227'] = "Optionen";
 $locale['download_0249'] = "Es wurden noch keine Downloadkategorien angelegt.";
 $locale['download_0250'] = "Es wurden bis jetzt noch keine Downloads in dieser Kategorie abgelegt.";
 $locale['download_0251'] = "Es wurden bis jetzt noch keine Downloadkategorien angelegt.";
-$locale['download_0252'] = "Du musst mindestens eine Downloadkategorie anlegen, bevor du einen Download hinzuf&uuml;gen kannst.";
+$locale['download_0252'] = "Sie m&uuml;ssen mindestens eine Downloadkategorie anlegen, bevor du einen Download hinzuf&uuml;gen kannst.";
 $locale['download_0253'] = "Klicke hier";
 $locale['download_0254'] = " um zu den Downloadkategorien zu gehen.";
 
@@ -143,7 +143,7 @@ $locale['download_0313'] = "Es wurden noch keine Downloadkategorien angelegt.";
 $locale['download_0350'] = "Bist du dir sicher, dass du die Downloadkategorie entfernen m&ouml;chtest?";
 
 // Error Nachrichten
-$locale['download_0351'] = "Du musst einen Namen f&uuml;r die Downloadkategorie angeben.";
+$locale['download_0351'] = "Sie m&uuml;ssen einen Namen f&uuml;r die Downloadkategorie angeben.";
 $locale['download_0352'] = "Es existiert bereits eine Downloadkategorie mit diesen Namen.";
 $locale['604'] = "Breite x H&ouml;he";
 

@@ -1,19 +1,14 @@
 <?php
-
-// Benutzerfeld: Blacklist
 $locale['uf_blacklist'] = "Blacklist";
-$locale['uf_blacklist_desc'] = "Private Blacklist eines Benutzers.";
-$locale['uf_blacklist_error'] = "Der Datentyp ist fehlerhaft.";
-$locale['uf_blacklist_message'] = "Wenn du einen Benutzer blockierst, kann dieser keine Beitr&auml;ge mehr von dir sehen oder Kontakt zu dir aufnehmen.";
+$locale['uf_blacklist_desc'] = "Privacy User Blacklisting";
+$locale['uf_blacklist_error'] = "Error in data type";
+$locale['uf_blacklist_message'] = "Once you block someone, that person can no longer see you including things you post and contact you.";
 
-// Blacklist Nachrichten
-$locale['uf_blacklist_000'] = "Blockierte und ignorierte Benutzer";
-$locale['uf_blacklist_001'] = "Blockierung aufheben";
-$locale['uf_blacklist_002'] = "Ignorieren";
-$locale['uf_blacklist_003'] = "Derzeit befinden sich keine Benutzer in der Blacklist.";
-$locale['uf_blacklist_004'] = "Es wurde(n) %s Benutzer von deiner Blacklist entfernt.";
-$locale['uf_blacklist_005'] = "Der ausgew&auml;hlte Benutzer befindet sich nicht in deiner Blacklist.";
-$locale['uf_blacklist_006'] = "Es wurden keine Benutzer gefunden.";
-$locale['uf_blacklist_007'] = "Nicht verf&uuml;gbar";
-
-?>
+$locale['uf_blacklist_000'] = "Blocked and Ignored Users";
+$locale['uf_blacklist_001'] = "Unblock";
+$locale['uf_blacklist_002'] = "Ignore";
+$locale['uf_blacklist_003'] = "There are no blacklisted user.";
+$locale['uf_blacklist_004'] = "User %s have been removed from your blacklist.";
+$locale['uf_blacklist_005'] = "The user was not blacklisted.";
+$locale['uf_blacklist_006'] = "No user found.";
+$locale['uf_blacklist_007'] = "Not available.";

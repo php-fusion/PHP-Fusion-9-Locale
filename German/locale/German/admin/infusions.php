@@ -24,5 +24,6 @@ $locale['419'] = "Optionen";
 $locale['420'] = "Version";
 $locale['421'] = "Autor";
 $locale['422'] = "Laden Sie weitere Addons";
-
+$locale['423'] = "%s Infusion wurde installiert";
+$locale['424'] = "%s Infusion wurde deinstalliert";
 ?>

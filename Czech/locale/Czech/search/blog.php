@@ -15,10 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['n400'] = "Blog";
-$locale['n401'] = "Položka blogu";
-$locale['n402'] = "Položky blogu";
-$locale['n403'] = "nalezeno v";
-$locale['n404'] = "Předmět blogu";
-$locale['n405'] = "Text blogu";
-$locale['n406'] = "rozšířený text blogu";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Položka blogu";
+$locale['b402'] = "Položky blogu";
+$locale['b403'] = "nalezeno v";
+$locale['b404'] = "Předmět blogu";
+$locale['b405'] = "Text blogu";
+$locale['b406'] = "rozšířený text blogu";
