@@ -1,12 +1,12 @@
 <?php
 
 // Suchfeld: Blog
-$locale['n400'] = "Blog";
-$locale['n401'] = "Blogeintrag";
-$locale['n402'] = "Blogeintr&auml;ge";
-$locale['n403'] = "gefunden in";
-$locale['n404'] = "Blog-Betreff";
-$locale['n405'] = "Blog-Auszug";
-$locale['n406'] = "Blogtext";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Blogeintrag";
+$locale['b402'] = "Blogeintr&auml;ge";
+$locale['b403'] = "gefunden in";
+$locale['b404'] = "Blog-Betreff";
+$locale['b405'] = "Blog-Auszug";
+$locale['b406'] = "Blogtext";
 
 ?>
