@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/search/blog.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,10 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['n400'] = "Blog";
-$locale['n401'] = "Blogindlæg";
-$locale['n402'] = "Blogindlæg";
-$locale['n403'] = "fundet i";
-$locale['n404'] = "Blogemne";
-$locale['n405'] = "Blogtekst";
-$locale['n406'] = "udvidet blogtekst";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Blogindlæg";
+$locale['b402'] = "Blogindlæg";
+$locale['b403'] = "fundet i";
+$locale['b404'] = "Blogemne";
+$locale['b405'] = "Blogtekst";
+$locale['b406'] = "udvidet blogtekst";
