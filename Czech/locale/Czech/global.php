@@ -476,7 +476,7 @@ $locale['close'] = "Zavřít";
 $locale['nopreview'] = "Náhled není k dispozici";
 $locale['mark_as'] = "Označit jako";
 $locale['preview'] = "Náhled";
-$locale['custom'] = "Zvyk";
+$locale['custom'] = "Vlastní";
 $locale['submit'] = "Odoslat";
 // Alignment
 $locale['left'] = "Vlevo";
