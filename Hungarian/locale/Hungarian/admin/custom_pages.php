@@ -34,6 +34,7 @@ $locale['page_0305'] = "Oldal Státusz";
 $locale['page_0306'] = "Hozzáférés";
 $locale['page_0307'] = "Közzétéve";
 $locale['page_0308'] = "Kategória";
+$locale['page_0308a'] = "Automatikus Sortörés";
 $locale['page_0309'] = "Honlap Linkek attribútumai";
 $locale['page_0310'] = "Nincs Honlap Link beállítva";
 $locale['page_0311'] = "Honlap Linkek Hozzáadása";
