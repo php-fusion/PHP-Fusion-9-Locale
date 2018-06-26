@@ -79,6 +79,51 @@ $locale['forum_072'] = "Entfernte Themen: ";
 $locale['forum_080'] = "Themen pro Seite";
 $locale['forum_081'] = "Beitr&auml;ge pro Seite";
 
+$locale['forum_090'] = "Form Moderatoren werden verwendet, um die Foreninteraktivit&auml;t zwischen Benutzern zu verwalten";
+$locale['forum_091'] = "Form Moderator hinzuf&uuml;gen";
+$locale['forum_092'] = "Form Moderator &auml;ndern";
+$locale['forum_093'] = "Derzeitige Moderatoren";
+$locale['forum_094'] = "Moderatoren Name Sprache";
+$locale['forum_095'] = "Moderatoren Beschreibungs Sprache";
+$locale['forum_096'] = "Like";
+$locale['forum_097'] = "Liked";
+$locale['forum_098'] = "Abk&uuml;rzung f&uuml;r ein einzelnes Wort zur Beschreibung der Stimmung (z. B. 'Gef&auml;llt mir')";
+$locale['forum_099'] = "Moderator Button Icon";
+$locale['forum_100'] = "Moderator Button Status";
+$locale['forum_101'] = "Verstecke und mach den Moderator nicht nutzbar";
+$locale['forum_102'] = "Dieser Moderator ist aktiv";
+$locale['forum_103'] = "Moderator Benachrichtigungsstufe";
+$locale['forum_104'] = "Moderator Button Sichtbarkeit";
+$locale['forum_105'] = "Speicher Moderator";
+$locale['forum_106'] = "&Auml;ndere Moderator";
+$locale['forum_107'] = "Moderator Name";
+$locale['forum_108'] = "Moderator Beschreibung";
+$locale['forum_109'] = "Moderator Icon";
+$locale['forum_110'] = "Moderator Benachrichtigung";
+$locale['forum_111'] = "Moderator Sichtbarkeit";
+$locale['forum_112'] = "Aktionen";
+$locale['forum_113'] = "%s %s diesen Beitrag";
+$locale['forum_114'] = "Es sind keine Forum Moderatoren verf&uuml;gbar";
+$locale['forum_115'] = "Moderator Anzahl";
+$locale['forum_130'] = "Punktgewinn f&uuml;r Up-Stimmen:";
+$locale['forum_131'] = "Punktverlust f&uuml;r Down-Stimmen:";
+$locale['forum_132'] = "Punktgewinn f&uuml;r akzeptierte Antwort:";
+$locale['forum_133'] = "Mindest. Punkte zum Stimmen abgeben:";
+$locale['forum_134'] = "Mindest. Punkte zum Down-Stimmen:";
+$locale['forum_135'] = "Punkt(e)";
+$locale['forum_136'] = "Forum Benutzerpunkte";
+$locale['forum_137'] = "Allgemeine Forumeinstellungen";
+$locale['forum_138'] = "Forum Beitragseinstellungen";
+$locale['forum_139'] = "Benutzereinstellungen f&uuml;r Forum-Benutzer";
+$locale['forum_140'] = "Allgemeine Anzeigeeinstellungen";
+$locale['forum_141'] = "Benachrichtigungen";
+$locale['forum_142'] = "Datei- und Bildanh&auml;nge hochladen";
+$locale['forum_143'] = "Post-Verhaltenskonfigurationen";
+
+$locale['forum_150'] = "<strong>Aktivieren Sie Benutzerfelder in detaillierten Forumsbeitr&auml;gen.</strong>  Benutzerfelder sind benutzerdefinierte Benutzerinformationen, die in der [LINK]Benutzerfeldverwaltung[/LINK] verwaltet werden k&ouml;nnen";
+$locale['forum_151'] = "In dieser Kategorie sind keine Benutzerfelder definiert.";
+$locale['forum_152'] = "Es gibt keine Benutzerfeldkategorie.";
+
 /* Permissions */
 $locale['forum_desc_000'] = "Schreibberechtigungen";
 $locale['forum_desc_001'] = "Umfrageberechtigungen";
@@ -120,12 +165,17 @@ $locale['forum_notice_9'] = "Die Forendetails wurden erfolgreich aktualisiert.";
 $locale['forum_notice_10'] = "Die Forenberechtigungen wurden erfolgreich aktualisiert.";
 $locale['forum_notice_11'] = "Das Forum wurde erfolgreich komplett geleert.";
 $locale['forum_notice_13'] = "Die Foren-ID %d wurde sortiert und hat nun die Reihenfolge %d.";
+$locale['forum_notice_14'] = "Foren Moderator gel&ouml;scht";
+$locale['forum_notice_15'] = "Foren Moderator Erstellt";
+$locale['forum_notice_16'] = "Foren Moderator ver&auml;ndert";
 $locale['forum_notice_na'] = "Die Forenaktion ist ung&uuml;ltig.";
 
 /* Tabs */
-$locale['forum_admin_000'] = "Foren";
-$locale['forum_admin_001'] = "Forenr&auml;nge";
-$locale['forum_admin_002'] = "Einstellungen";
+$locale['forum_admin_000'] = "Foren Management";
+$locale['forum_admin_001'] = "Foren Ranglisten";
+$locale['forum_admin_002'] = "Foren Stichworte";
+$locale['forum_admin_003'] = "Foren Einstellungen";
+$locale['forum_admin_004'] = "Foren Moderatoren";
 
 /* Etc */
 $locale['delete_notice'] = "Bist du dir sicher, dass du das Forum entfernen m&ouml;chtest? Dieser Schritt ist nicht r&uuml;ckg&auml;ngig machbar!";
