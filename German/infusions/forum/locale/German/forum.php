@@ -126,6 +126,11 @@ $locale['forum_0268'] = "Benutzer IP Adresse";
 $locale['forum_0269'] = "Es wurden keine Themen gefunden.";
 $locale['forum_0270'] = "Es wurden keine Beitr&auml;ge gefunden.";
 $locale['forum_0271'] = "Es befinden sich keine Beitr&auml;ge mehr in diesem Thema. Bitte gehen Sie zur&uuml;ck zur <a href='".FORUM."index.php'>Foren &Uuml;bersicht</a>.";
+$locale['forum_0272'] = "Sortiert nach Stichworten";
+$locale['forum_0273'] = "Beliebte Themen dieser Woche";
+$locale['forum_0274'] = "Es gibt keine Thread-Stichworte";
+$locale['forum_0275'] = "Es wurden keine Threads gefunden";
+$locale['forum_0276'] = "Es sind keine Stichworte definiert";
 
 // Move Posts
 $locale['forum_0300'] = "Beitr&auml;ge verschieben";
