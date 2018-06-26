@@ -1,47 +1,48 @@
 <?php
-
-// Forenränge Titel
-$locale['400'] = "Forenrang hinzuf&uuml;gen";
-$locale['401'] = "Forenrang bearbeiten";
-$locale['402'] = "Aktuell vorhandene Forenr&auml;nge";
-$locale['403'] = "Das Forenrangsystem wurde in den Forueneinstellungen deaktiviert.";
-$locale['404'] = "Forenr&auml;nge";
+// Forenr&auml;nge Titel
+$locale['forum_rank_400'] = "Forenrang hinzuf&uuml;gen";
+$locale['forum_rank_401'] = "Forenrang bearbeiten";
+$locale['forum_rank_402'] = "Aktuell vorhandene Forenr&auml;nge";
+$locale['forum_rank_403'] = "Das Forenrangsystem wurde in den Forueneinstellungen deaktiviert.";
+$locale['forum_rank_404'] = "Forenr&auml;nge";
 
 // Nachrichten
-$locale['410'] = "Der Forenrang wurde erfolgreich hinzugef&uuml;gt.";
-$locale['411'] = "Der Forenrang wurde erfolgreich aktualisiert.";
-$locale['412'] = "Der Forenrang wurde erfolgreich entfernt.";
-$locale['413'] = "Es kann nur ein Forenrang an die Administratoren und Moderatoren zugewiesen werden.";
-$locale['414'] = "Sie m&uuml;ssen einen Titel f&uuml;r den Forenrang angeben.";
+$locale['forum_rank_410'] = "Der Forenrang wurde erfolgreich hinzugef&uuml;gt.";
+$locale['forum_rank_411'] = "Der Forenrang wurde erfolgreich aktualisiert.";
+$locale['forum_rank_412'] = "Der Forenrang wurde erfolgreich entfernt.";
+$locale['forum_rank_413'] = "Es kann nur ein Forenrang an die Administratoren und Moderatoren zugewiesen werden.";
+$locale['forum_rank_414'] = "Sie m&uuml;ssen einen Titel f&uuml;r den Forenrang angeben.";
 
 // Formular
-$locale['420'] = "Titel";
-$locale['421'] = "Bild";
-$locale['422'] = "Beitragsanzahl";
-$locale['423'] = "Anwenden bei";
-$locale['424'] = "Mitglieder";
-$locale['425'] = "Moderatoren";
-$locale['426'] = "Administratoren";
-$locale['427'] = "Seiten Administratoren";
-$locale['428'] = "Forenrang speichern";
-$locale['429'] = "Typ";
-$locale['429a'] = "Spezial";
-$locale['429b'] = "Administrator";
-$locale['429c'] = "Beitragsanzahl";
+$locale['forum_rank_420'] = "Titel";
+$locale['forum_rank_421'] = "Bild";
+$locale['forum_rank_422'] = "Beitragsanzahl";
+$locale['forum_rank_423'] = "Anwenden bei";
+$locale['forum_rank_424'] = "Mitglieder";
+$locale['forum_rank_425'] = "Moderatoren";
+$locale['forum_rank_426'] = "Administratoren";
+$locale['forum_rank_427'] = "Seiten Administratoren";
+$locale['forum_rank_428'] = "Forenrang speichern";
+$locale['forum_rank_429'] = "Typ";
+$locale['forum_rank_429a'] = "Spezial";
+$locale['forum_rank_429b'] = "Administrator";
+$locale['forum_rank_429c'] = "Beitragsanzahl";
 
-// Aktuelle Forenränge
-$locale['430'] = "Titel";
-$locale['431'] = "Anwendung bei";
-$locale['432'] = "Bild";
-$locale['433'] = "Beitr&auml;ge";
-$locale['434'] = "Optionen";
-$locale['435'] = "Bearbeiten";
-$locale['436'] = "L&ouml;schen";
-$locale['437'] = "Es wurden noch keine Forenr&auml;nge angelegt.";
-$locale['438'] = "Typ / Beitragsanzahl";
+// Aktuelle Forenr&auml;nge
+$locale['forum_rank_430'] = "Titel";
+$locale['forum_rank_431'] = "Anwendung bei";
+$locale['forum_rank_432'] = "Bild";
+$locale['forum_rank_433'] = "Beitr&auml;ge";
+$locale['forum_rank_434'] = "Optionen";
+$locale['forum_rank_435'] = "Bearbeiten";
+$locale['forum_rank_436'] = "L&ouml;schen";
+$locale['forum_rank_437'] = "Es wurden noch keine Forenr&auml;nge angelegt.";
+$locale['forum_rank_438'] = "Typ / Beitragsanzahl";
 
-// Forenränge deaktiviert
-$locale['450'] = "Das Forenrang System wurde deaktiviert.<br />Bitte gehe in die %s und aktiviere das System.";
-$locale['451'] = "Foreneinstellungen";
+// Forenr&auml;nge deaktiviert
+$locale['forum_rank_450'] = "Das Forenrang System wurde deaktiviert.<br />Bitte gehe in die %s und aktiviere das System.";
+$locale['forum_rank_451'] = "Foreneinstellungen";
+
+$locale['forum_rank_0100'] = "Forum-R&auml;nge werden verwendet, um Forenbenutzer zu verwalten und ihre Leistung und Aktivit&auml;t zu zeigen";
 
 ?>
