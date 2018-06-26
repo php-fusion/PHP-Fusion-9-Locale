@@ -197,6 +197,7 @@ $locale['509'] = "Maximale Dateigr&ouml;&szlig;e";
 $locale['510'] = "Erlaubte Dateitypen";
 $locale['511'] = "Dr&uuml;cken Sie nach jedem Dateityp die Eingabetaste";
 $locale['512'] = "Themenbenachrichtigung?";
+$locale['513'] = "Zeige die Reputation";
 $locale['518'] = "Ja";
 $locale['519'] = "Nein";
 $locale['520'] = "Forenr&auml;nge aktivieren?";
