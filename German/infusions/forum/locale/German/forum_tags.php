@@ -17,8 +17,8 @@ $locale['forum_tag_0201'] = "Stichwort Beschreibung";
 $locale['forum_tag_0202'] = "Stichwort Farbe";
 $locale['forum_tag_0203'] = "Stichwort Sprache";
 $locale['forum_tag_0204'] = "Stichwort Status";
-$locale['forum_tag_0205'] = "Dieser Stichwort ist active";
-$locale['forum_tag_0206'] = "Dieser Stichwort ist inactive";
+$locale['forum_tag_0205'] = "Dieses Stichwort ist active";
+$locale['forum_tag_0206'] = "Dieses Stichwort ist inactive";
 $locale['forum_tag_0207'] = "Erstelle Stichwort";
 $locale['forum_tag_0208'] = "Ver&auml;ndere Stichwort";
 
