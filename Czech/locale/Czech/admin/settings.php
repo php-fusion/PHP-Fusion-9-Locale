@@ -20,7 +20,7 @@ $locale['401a'] = "Nastavení hostitelské stránky";
 $locale['401b'] = "Konfigurace pro vaše webové adresy, porty a protokoly stránky.";
 
 // Site Settings
-$locale['401'] = "Hlavní";
+$locale['401'] = "Hlavní nastavení";
 $locale['402'] = "Název stránky";
 $locale['403'] = "URL adresa webu";
 $locale['404'] = "Logo webu";
