@@ -35,6 +35,7 @@ $locale['PL_423'] = "Nem találom a Permalinket.";
 $locale['PL_424'] = "%s Permalink sikeresen aktiválva.";
 $locale['PL_425'] = "%s Permalink már engedélyezve van.";
 $locale['PL_426'] = "%s Permalink sikeresen kikapcsolva.";
+$locale['PL_429'] = "Permalink illesztőprogram %s";
 
 // Other
 $locale['PL_427'] = "Nincs permalink csomag engedélyezve.";
