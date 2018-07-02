@@ -52,6 +52,7 @@ $locale['PL_423'] = "Trvalý odkaz nebyl nalezen.";
 $locale['PL_424'] = "Úspěšně povolené trvalé odkazy pro %s.";
 $locale['PL_425'] = "Trvalé odkazy pro %s jsou již povoleny.";
 $locale['PL_426'] = "Úspěšně zakázané trvalé odkazy pro %s.";
+$locale['PL_429'] = "Ovladač pro %s";
 
 // Other
 $locale['PL_427'] = "Nebyly povoleny žádné trvalé odkazy.";
