@@ -52,6 +52,7 @@ $locale['PL_423'] = "Dette permalink kunne ikke findes.";
 $locale['PL_424'] = "Slog permalinks for %s til.";
 $locale['PL_425'] = "Permalinks for %s er allerede slået til.";
 $locale['PL_426'] = "Slog permalinks for %s fra.";
+$locale['PL_429'] = "Permalink driver til %s";
 // Other
 $locale['PL_427'] = "Ingen permalinks er slået til.";
 $locale['PL_428'] = "Permalinks";
