@@ -215,6 +215,9 @@ $locale['708'] = "Východzie hodnoty pre užívateľské nastavenie";
 $locale['709'] = "Notifikácia emailom?";
 $locale['710'] = "Uložiť odoslané SS?";
 $locale['711'] = "Poznámka: Užívateľské nastavenie má prednosť ak je zadané. Ak si užívateľ nenastavý žiadne nastavenie, budú použité globálne nastavenia.";
+$locale['712'] = "Správy boli odstránené.";
+$locale['713'] = "Naozaj chcete odstrániť všetky súkromné správy?";
+$locale['714'] = "Odstrániť správy";
 
 // Save Settings
 $locale['750'] = "Uložiť nastavenia";

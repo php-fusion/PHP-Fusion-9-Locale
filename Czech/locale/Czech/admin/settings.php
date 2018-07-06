@@ -215,6 +215,9 @@ $locale['708'] = "Výchozí hodnoty pro uživatelské volby";
 $locale['709'] = "Oznámení e-mailem?";
 $locale['710'] = "Uložit odeslané SZ?";
 $locale['711'] = "Poznámka: Jednotlivé uživatelské volby mají přednost, pokud jsou nastaveny. Není-li nastavena žádná možnost uživatele, použijí se globální možnosti.";
+$locale['712'] = "Zprávy byly odstraněny.";
+$locale['713'] = "Opravdu chcete odstranit všechny soukromé zprávy?";
+$locale['714'] = "Odstranit zprávy";
 
 // Save Settings
 $locale['750'] = "Uložit nastavení";
