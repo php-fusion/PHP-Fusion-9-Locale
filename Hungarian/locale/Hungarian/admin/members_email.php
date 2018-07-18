@@ -38,3 +38,13 @@ Hozzáférésed felfüggesztettük oldalunkon az alábbi okok miatt:<br />
 Hozzáférésed az alábbi időponttól lesz újra használható: [DATE]<br />
 Ha további információt szeretnél megtudni a felfüggesztésed okáról, kérjük keresd meg oldalunk adminisztrátorát: [ADMIN_USERNAME].<br />
 [SITEUSERNAME]<br />[SITENAME]";
+$locale['email_resend_subject'] = "Aktíváló E-mail újraküldés - [SITENAME]";
+$locale['email_resend_message'] = "Szia [USER_NAME],<br />
+Ezt a levelet azért kaptad, mert nem jelentkeztél be regisztrálás után oldalunkra - [SITENAME].<br />
+Amennyiben 24 órán belül nem jelentkezel be oldalunkra, a regisztrációs kérelmed törlésre kerül.<br />
+Az alábbi adatokkal regisztráltál:<br />
+Felhasználónév: [USER_NAME]<br />
+Az alábbi linken aktiválhatod hozzáférésed:<br />
+[ACTIVATION_LINK]<br />
+Üdvözlettel,<br />
+[SITENAME]";
