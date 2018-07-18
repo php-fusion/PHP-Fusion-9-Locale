@@ -141,6 +141,7 @@ $locale['u161'] = "Môžete sa prihlásiť.";
 $locale['u162'] = "Administrátor aktivuje váš účet v najbližšej dobe.";
 $locale['u163'] = "Profil bol úspešne obnovený.";
 $locale['u164'] = "Aktualizácia zlyhala";
+$locale['u165'] = "Email bol znova odoslaný.";
 
 $locale['u167'] = "pre nasledujúci dôvod(y):";
 $locale['u168'] = "Prosím skúste to neskôr.";
