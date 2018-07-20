@@ -119,7 +119,6 @@ $locale['u153'] = "Nem sikerült elküldeni az ellenőrző levelet.";
 $locale['u154'] = "Kérjük [LINK]jelezd[/LINK] a problémát az oldal adminisztrátorának.";
 $locale['u155'] = "Hozzáférés aktiválása";
 $locale['u156'] = "Az e-mail címed megváltoztatásához kérjük add meg a jelenlegi jelszavad.";
-$locale['u157'] = "Nem sikerült elküldeni az újra aktiváló levelet.";
 // Success / Fail
 $locale['u160'] = "Regisztráció befejezve";
 $locale['u161'] = "Most már be tudsz jelentkezni.";
