@@ -52,9 +52,10 @@ $locale['PL_423'] = "Trvalý odkaz nebyl nalezen.";
 $locale['PL_424'] = "Úspěšně povolené trvalé odkazy pro %s.";
 $locale['PL_425'] = "Trvalé odkazy pro %s jsou již povoleny.";
 $locale['PL_426'] = "Úspěšně zakázané trvalé odkazy pro %s.";
+$locale['PL_429'] = "Ovladač pro %s";
 
 // Other
 $locale['PL_427'] = "Nebyly povoleny žádné trvalé odkazy.";
 $locale['PL_428'] = "Trvalé odkazy";
 $locale['seo_htc_warning'] = "Vezměte prosím na vědomí, že pokud změníte některá z těchto nastavení, obsah `.htaccess` bude přepsán a veškeré změny provedené v tomto souboru budou ztraceny.";
-//$locale['rewrite_disabled'] = "Vypadá to, že mod_rewrite není ve vašem hostingu povolen. Povolení webových adres SEF může poškodit vaše webové stránky. Prosím, kontaktujte svého poskytovatele hostingu o povolení `mod_rewrite` na vašem hostingu.";
+$locale['rewrite_disabled'] = "Vypadá to, že mod_rewrite není ve vašem hostingu povolen. Povolení webových adres SEF může poškodit vaše webové stránky. Prosím, kontaktujte svého poskytovatele hostingu o povolení `mod_rewrite` na vašem hostingu.";

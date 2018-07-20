@@ -199,6 +199,9 @@ $locale['708'] = "Alapértelmezett beállítások";
 $locale['709'] = "E-mail értesítés új üzenetről?";
 $locale['710'] = "Elküldött üzenetek mentése?";
 $locale['711'] = "Megjegyzés: Amennyiben a felhasználó nem állít be mást, ez lesz az érvényes.";
+$locale['712'] = "Összes Üzenet Törölve.";
+$locale['713'] = "Biztos törlöd az összes üzenetet?";
+$locale['714'] = "Összes Üzenet Törlése";
 
 // Save Settings
 $locale['750'] = "Beállítások mentése";
