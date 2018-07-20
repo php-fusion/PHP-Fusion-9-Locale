@@ -141,6 +141,7 @@ $locale['u161'] = "Du kan nu logge ind på siden.";
 $locale['u162'] = "En administrator vil aktivere din konto meget snart.";
 $locale['u163'] = "Profilen blev opdateret.";
 $locale['u164'] = "Opdateringen lykkedes ikke";
+$locale['u165'] = "Mail er blevet eftersendt.";
 
 //$locale['u165'] = "Registration failed";
 $locale['u167'] = "af følgende årsag(er)";
