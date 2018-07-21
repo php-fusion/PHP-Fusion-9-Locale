@@ -1,4 +1,5 @@
 <?php
+$locale['weblinks.php'] = "Linkek";
 $locale['w400'] = "Linkek";
 $locale['w401'] = "Link";
 $locale['w402'] = "Linket";
