@@ -1,4 +1,5 @@
 <?php
+$locale['photos.php'] = "Galéria";
 $locale['p400'] = "Képek";
 $locale['p401'] = "Kép";
 $locale['p402'] = "Képet";

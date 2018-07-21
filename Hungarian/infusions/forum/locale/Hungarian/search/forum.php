@@ -1,4 +1,5 @@
 <?php
+$locale['forum.php'] = "Fórum";
 $locale['f400'] = "Fórum";
 $locale['f401'] = "teljes fórumban";
 $locale['f402'] = "hozzászólás";

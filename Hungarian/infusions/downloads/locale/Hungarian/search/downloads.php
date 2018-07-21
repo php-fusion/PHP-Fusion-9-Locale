@@ -1,4 +1,5 @@
 <?php
+$locale['downloads.php'] = "Letöltések";
 $locale['d400'] = "Letöltések";
 $locale['d401'] = "Letöltés";
 $locale['d402'] = "Letöltést";
