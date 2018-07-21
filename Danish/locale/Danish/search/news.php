@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/search/news.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,10 +15,11 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['news.php'] = "Nyheder";
 $locale['n400'] = "Nyheder";
 $locale['n401'] = "Nyhed";
 $locale['n402'] = "Nyheder";
 $locale['n403'] = "fundet i";
 $locale['n404'] = "nyhedsoverskrift";
 $locale['n405'] = "nyhedsintroduktion";
-$locale['n406'] = "nyhedstekst";
+$locale['n406'] = "udvidet nyhedstekst";

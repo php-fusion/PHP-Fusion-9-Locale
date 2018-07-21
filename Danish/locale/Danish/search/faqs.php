@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/search/faqs.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['faqs.php'] = "FAQ";
 $locale['fq400'] = "FAQs";
 $locale['fq401'] = "FAQ";
 $locale['fq402'] = "FAQs";

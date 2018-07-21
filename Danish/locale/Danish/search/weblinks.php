@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['weblinks.php'] = "Links";
 $locale['w400'] = "Links";
 $locale['w401'] = "Link";
 $locale['w402'] = "Links";

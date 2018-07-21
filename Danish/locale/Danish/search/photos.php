@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['photos.php'] = "Fotoalbums";
 $locale['p400'] = "Billeder";
 $locale['p401'] = "Billede";
 $locale['p402'] = "Billeder";

@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['forum.php'] = "Debatforums";
 $locale['f400'] = "Debatindlæg";
 $locale['f401'] = "alle debatter";
 $locale['f402'] = "Debatindlæg";
