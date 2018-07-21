@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_i_description'] = "Vytvoří vybraný text kurzívou";
-$locale['bb_i_usage'] = "Text kurzívou";
+$locale['bb_i_description'] = "Zobrazí písmo kurzívou";
+$locale['bb_i_usage'] = "Text napsaný kurzívou";

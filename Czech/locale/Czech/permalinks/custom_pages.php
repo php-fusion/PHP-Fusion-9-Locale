@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_cp_title'] = "Vlastní stránky";
-$locale['pl_cp_desc'] = "Povolit trvalé odkazy pro vlastní stránky na webu.";
+$locale['pl_cp_desc'] = "Povolit trvalé odkazy pro vlastní stránky.";

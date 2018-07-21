@@ -24,7 +24,7 @@ $locale['r105'] = "Hodnotili jste to jako (%s) dne (%s)";
 $locale['r106'] = "Vyberte prosím hodnocení";
 $locale['r107'] = "Vyberte hodnocení:";
 $locale['r108'] = "Žádné hlasy";
-$locale['r109'] = "Hlasování";
+$locale['r109'] = "Hlas";
 $locale['r110'] = "Hlasy";
 // Rating Options
 $locale['r120'] = "Skvělý!";

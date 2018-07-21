@@ -47,7 +47,7 @@ $locale['street_error'] = "Adresa ulice vyžaduje pozornost.";
 $locale['country_error'] = "Země vyžaduje pozornost.";
 $locale['state_error'] = "Stát vyžaduje pozornost.";
 $locale['city_error'] = "Město vyžaduje pozornost.";
-$locale['postcode_error'] = "Poštovní směrovací číslo vyžaduje pozornost.";
+$locale['postcode_error'] = "PSČ vyžaduje pozornost.";
 $locale['field_error_blank'] = "%s nemůže být prázdná.";
 // Name errors
 $locale['firstname_error'] = "Jméno";
@@ -62,28 +62,28 @@ $locale['date_issue_error'] = "Datum vydání dokumentu vyžaduje pozornost.";
 // Tokens
 $locale['token_error_title'] = "Chyba tokenu";
 $locale['token_error'] = "Je nám líto, došlo k chybě. Vraťte se zpět, obnovte stránku a zkuste to znovu.";
-$locale['token_error_1'] = "Zasedání se nespustí.";
-$locale['token_error_2'] = "Token nebyl zveřejněn.";
+$locale['token_error_1'] = "Relace nezačala.";
+$locale['token_error_2'] = "Token nebyl odeslán.";
 $locale['token_error_3'] = "Neplatný token. ";
 $locale['token_error_4'] = "Neplatné ID uživatele v rámci tokenu.";
 $locale['token_error_5'] = "Neplatná značka datového tokenu.";
 $locale['token_error_6'] = "Post byl proveden příliš rychle.";
-$locale['token_error_7'] = "Neplatné hash tokenu.";
+$locale['token_error_7'] = "Neplatný hash tokenu.";
 $locale['token_error_8'] = "Neplatný formát tokenu.";
-$locale['token_error_9'] = "Nelze najít žádný token pro tento formulář.";
-$locale['token_error_10'] = "Nelze najít žádný token pro uložení: ";
+$locale['token_error_9'] = "Nebyl nalezen žádný token pro tento formulář.";
+$locale['token_error_10'] = "Nebyl nalezen žádný token pro uložení: ";
 
 $locale['df_300'] = "Kliknutím přidáte soubory";
 $locale['df_301'] = "Kliknutím přidáte fotografii";
 $locale['df_302'] = "Kliknutím přidáte video";
 $locale['df_303'] = "Kliknutím přidáte audio";
-$locale['df_304'] = "Vybraný soubor odebrat";
+$locale['df_304'] = "Odstranit vybraný soubor";
 
 $locale['df_400'] = "%s obsahuje neplatný znak.";
 $locale['df_401'] = "%s není platná e-mailová adresa.";
 $locale['df_402'] = "%s není platné heslo.";
 $locale['df_403'] = "%s není platné číslo.";
-$locale['df_404'] = "%s není platným datem.";
+$locale['df_404'] = "%s není platný datum.";
 $locale['df_405'] = "%s není platná adresa URL.";
 $locale['df_415'] = "Neplatný název souboru.";
 $locale['df_416'] = "Nahrát soubor příliš velký. Soubor musí být menší než %s.";

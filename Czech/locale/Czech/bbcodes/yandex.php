@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_yandex_description'] = "Vyhledávač Yandex";
+$locale['bb_yandex_description'] = "Vyhledávání v Yandex";
 $locale['bb_yandex_usage'] = "Text pro vyhledávání prostřednictvím Yandexu";

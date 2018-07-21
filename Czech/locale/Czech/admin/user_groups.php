@@ -16,15 +16,15 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Edit/Save/Delete User Group Messages
-$locale['GRP_400'] = "Skupina uživatelů byla aktualizována";
+$locale['GRP_400'] = "Uživatelská skupina byla aktualizována";
 $locale['GRP_401'] = "Uživatelská skupina byla přidána";
 $locale['GRP_403'] = "Nevybraný uživatel";
 $locale['GRP_404'] = "Žádná skupina ";
-$locale['GRP_405'] = "Skupinu uživatelů nelze smazat";
+$locale['GRP_405'] = "Uživatelská skupina nelze smazat";
 $locale['GRP_406'] = "Do této skupiny jsou přiřazeni uživatelé";
 $locale['GRP_407'] = "Uživatelská skupina byla smazána";
 $locale['GRP_408'] = "Žádný vybraný uživatel nebo skupina.";
-$locale['GRP_409'] = " Přidat skupinu uživatelů.";
+$locale['GRP_409'] = " Přidat uživatelskou skupinu";
 
 $locale['GRP_410'] = "Uživatel \"%s\" přidán do skupiny \"%s\"";
 $locale['GRP_411'] = "Uživatel \"%s\" odstraněn ze skupiny \"%s\"";
@@ -36,11 +36,11 @@ $locale['GRP_421'] = "Upravit skupinu";
 $locale['GRP_422'] = "Odstranit skupinu";
 $locale['GRP_423'] = "Správa uživatelů";
 $locale['GRP_424'] = "Zobrazení %d skupin.";
-$locale['GRP_425'] = "Smazat tuto skupinu uživatelů?";
-$locale['GRP_426'] = "Výchozí skupina";
-$locale['GRP_427'] = "V současné době %d zobrazení %d členů.";
+$locale['GRP_425'] = "Vymazat tuto uživatelskou skupinu?";
+$locale['GRP_426'] = "Výchozí skupiny";
+$locale['GRP_427'] = "Momentálně zobrazuje %d z %d členů.";
 $locale['GRP_428'] = "Přidat skupinu";
-$locale['GRP_430'] = "Přidáno do skupiny %s";
+$locale['GRP_430'] = "přidán do skupiny %s";
 // Edit/Add User Group
 $locale['GRP_432'] = "Název skupiny";
 $locale['GRP_433'] = "Popis skupiny";
@@ -62,7 +62,7 @@ $locale['GRP_450'] = "Přidat vybraných uživatelů";
 $locale['GRP_451'] = "Hledat uživatele";
 $locale['GRP_452'] = "Aktuální skupina: ";
 // Current Group Users
-$locale['GRP_460'] = "Aktuální uživatelé skupiny";
+$locale['GRP_460'] = "Současní uživatelé ve skupině";
 $locale['GRP_461'] = "Odebrat vybrané uživatele";
 $locale['GRP_462'] = "Odstranit všechny uživatele";
 $locale['GRP_463'] = "V této skupině nejsou žádní uživatelé.";

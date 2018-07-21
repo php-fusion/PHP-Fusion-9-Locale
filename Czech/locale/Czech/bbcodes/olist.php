@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_olist_description'] = "Vytvoření seznamu pro zadaný typ";
-$locale['bb_olist_usage'] = "Text 1: zadat: Text 2: zadat: atd";
+$locale['bb_olist_description'] = "Vytvoří uspořádaný seznam pro zadaný typ";
+$locale['bb_olist_usage'] = "Text 1 :enter: Text 2 :enter: atd";

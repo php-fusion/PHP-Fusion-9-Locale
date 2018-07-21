@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['SB_add'] = "Nová zpráva";
-$locale['SB_admin1'] = "Shoutbox Admin";
+$locale['SB_admin1'] = "Shoutbox admin";
 $locale['SB_archive'] = "Archiv zpráv";
 $locale['SB_days'] = "dnů";
 $locale['SB_delete_old'] = "Smazat zprávy starší než";

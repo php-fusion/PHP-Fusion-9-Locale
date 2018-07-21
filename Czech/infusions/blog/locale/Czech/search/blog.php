@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Czech/search/weblinks.php
+| Filename: infusions/blog/locale/Czech/search/blog.php
 | Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,9 +15,11 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['w400'] = "Odkazy";
-$locale['w401'] = "Odkaz";
-$locale['w402'] = "Odkazy";
-$locale['w403'] = "[NOVÉ]";
-$locale['w404'] = "Přidáno:";
-$locale['w405'] = "Zobrazeni:";
+$locale['blog.php'] = "Blog";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Položka blogu";
+$locale['b402'] = "blogů";
+$locale['b403'] = "nalezeno v";
+$locale['b404'] = "předmět blogu";
+$locale['b405'] = "text blogu";
+$locale['b406'] = "rozšířený text blogu";

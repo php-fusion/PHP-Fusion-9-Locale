@@ -20,7 +20,7 @@ $locale['SMLY_400'] = "Aktuální smajlíky";
 $locale['SMLY_401'] = "Přidat smajlíky";
 $locale['SMLY_402'] = "Upravit smajlíky";
 $locale['SMLY_403'] = "Smajlíky";
-$locale['SMLY_404'] = "Aktivovat smajlíky";
+$locale['SMLY_404'] = "Aktivní smajlíky";
 $locale['SMLY_405'] = "Neaktivní smajlíky";
 // Smiley messages
 $locale['SMLY_410'] = "Smajlík byl přidán";

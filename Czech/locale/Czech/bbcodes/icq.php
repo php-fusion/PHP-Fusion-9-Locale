@@ -16,5 +16,5 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_icq'] = "ICQ";
-$locale['bb_icq_description'] = "Zobrazení stavu ICQ";
-$locale['bb_icq_usage'] = "ID uživatele komunikátoru ICQ";
+$locale['bb_icq_description'] = "Zobrazí ICQ status";
+$locale['bb_icq_usage'] = "Uživatelovo ICQ UIN";

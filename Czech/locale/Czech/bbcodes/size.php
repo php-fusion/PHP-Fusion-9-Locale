@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_size_description'] = "Určuje velikost vybraného textu";
-$locale['bb_size_usage'] = "Text na velikost";
+$locale['bb_size_usage'] = "Velikost textu";

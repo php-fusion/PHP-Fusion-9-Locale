@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_flash_description'] = "Zobrazuje animaci blesku z dané adresy URL";
-$locale['bb_flash_usage'] = "Adresa URL animace Flash";
+$locale['bb_flash_description'] = "Zobrazí flash animaci z dané URL";
+$locale['bb_flash_usage'] = "URL flash animace";
 $locale['bb_flash_width'] = "Šířka v px";
 $locale['bb_flash_height'] = "Výška v px";

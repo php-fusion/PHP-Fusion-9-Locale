@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Czech/search/downloads.php
+| Filename: infusions/news/locale/Czech/search/news.php
 | Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,12 +15,11 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['d400'] = "Stahování";
-$locale['d401'] = "Stáhnout";
-$locale['d402'] = "Stahování";
-$locale['d403'] = "[NOVÉ]";
-$locale['d404'] = "Licence:";
-$locale['d405'] = "OS:";
-$locale['d406'] = "Verze:";
-$locale['d407'] = "Datum přidání:";
-$locale['d408'] = "Stahování:";
+$locale['news.php'] = "Novinky";
+$locale['n400'] = "Novinky";
+$locale['n401'] = "Novinka";
+$locale['n402'] = "novinek";
+$locale['n403'] = "nalezeno v";
+$locale['n404'] = "předmět novinky";
+$locale['n405'] = "text novinky";
+$locale['n406'] = "rozšířeny text novinky";

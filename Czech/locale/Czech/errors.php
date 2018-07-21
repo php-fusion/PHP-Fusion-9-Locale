@@ -17,9 +17,9 @@
 +--------------------------------------------------------*/
 // Error Levels Desciption
 $locale['E_ERROR'] = "Fatální chyby zastavují provádění skriptu";
-$locale['E_WARNING'] = "Fatální chyby při běhu";
+$locale['E_WARNING'] = "Nekritické chyby";
 $locale['E_PARSE'] = "Chyba generovaná analyzátorem";
-$locale['E_NOTICE'] = "Poznámky k chodu";
+$locale['E_NOTICE'] = "Upozornění";
 $locale['E_CORE_ERROR'] = "Chyba během spuštění PHP";
 $locale['E_CORE_WARNING'] = "Upozornění při prvním spuštění PHP";
 $locale['E_COMPILE_ERROR'] = "Upozornění generováno zend";

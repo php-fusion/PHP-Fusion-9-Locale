@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_google_description'] = "Vyhledávač Google";
-$locale['bb_google_usage'] = "Text pro vyhledávání v síti Google";
+$locale['bb_google_description'] = "Google vyhledávání";
+$locale['bb_google_usage'] = "Text na vyhledávání přes Google";

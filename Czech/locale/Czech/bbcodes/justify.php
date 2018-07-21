@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_justify_description'] = "Odůvodňuje vybraný text";
-$locale['bb_justify_usage'] = "Text k odůvodnění";
+$locale['bb_justify_description'] = "Zarovná vybraný text";
+$locale['bb_justify_usage'] = "Text na zarovnání";

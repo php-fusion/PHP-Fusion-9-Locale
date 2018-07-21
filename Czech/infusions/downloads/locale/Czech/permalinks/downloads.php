@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['pl_downloads_title'] = "Stahování";
-$locale['pl_downloads_desc'] = "Povolit trvalé odkazy pro stahování na webu.";
+$locale['pl_downloads_title'] = "Ke stažení";
+$locale['pl_downloads_desc'] = "Povolit trvalé odkazy pro soubory ke stažení.";

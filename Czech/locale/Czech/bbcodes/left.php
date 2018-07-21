@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_left_description'] = "Zarovná vybraný text doleva";
+$locale['bb_left_description'] = "Zarovná text doleva";
 $locale['bb_left_usage'] = "Text pro zarovnání doleva";

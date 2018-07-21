@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Czech/search/faqs.php
+| Filename: infusions/weblinks/locale/Czech/search/weblinks.php
 | Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,9 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['fq400'] = "FAQ";
-$locale['fq401'] = "FAQ";
-$locale['fq402'] = "FAQ";
-$locale['fq403'] = "nalezeno v";
-$locale['fq404'] = "FAQ otázka";
-$locale['fq405'] = "FAQ odpověď";
+$locale['weblinks.php'] = "Webové odkazy";
+$locale['w400'] = "Odkazy";
+$locale['w401'] = "Odkaz";
+$locale['w402'] = "webových odkazů";
+$locale['w403'] = "[NOVÉ]";
+$locale['w404'] = "Přidáno:";
+$locale['w405'] = "Zobrazeni:";

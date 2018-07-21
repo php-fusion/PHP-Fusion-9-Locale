@@ -16,15 +16,15 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Items shown in profile
-$locale['u040'] = "Datum přihlášení";
+$locale['u040'] = "Datum registrace";
 $locale['u041'] = "Poslední návštěva";
-$locale['u042'] = "Nepřijaté";
+$locale['u042'] = "Žádné návštěvy";
 $locale['u043'] = "Odeslat soukromou zprávu";
 $locale['u044'] = "Kontaktní informace";
 $locale['u045'] = "Různé informace";
 $locale['u046'] = "Možnosti";
 $locale['u047'] = "Statistika";
-$locale['u048'] = "Informace administrátora";
+$locale['u048'] = "Admin informace";
 $locale['u049'] = "IP adresa";
 $locale['u050'] = "Nedefinováno";
 $locale['u051'] = "Skrýt e-mail?";
@@ -36,12 +36,12 @@ $locale['u056'] = "Důvod";
 $locale['u057'] = "Uživatelské skupiny";
 $locale['u058'] = "Možnosti administrátora";
 $locale['u059'] = "Přidat";
-$locale['u060'] = "Přidejte tohoto uživatele do vybrané skupiny?";
+$locale['u060'] = "Přidat tohoto uživatele do vybrané skupiny?";
 $locale['u061'] = "Přidat do skupiny";
-$locale['u062'] = "Uživatelský avatar";
-$locale['u063'] = "Uživatelská úroveň";
+$locale['u062'] = "Avatar";
+$locale['u063'] = "Úroveň uživatele";
 $locale['u064'] = "E-mail";
-$locale['u066'] = "Datum přihlášení";
+$locale['u066'] = "Datum registrace";
 $locale['u067'] = "Poslední návštěva";
 $locale['u068'] = "Uživatelské jméno";
 $locale['u069'] = "Upravit";
@@ -70,7 +70,7 @@ $locale['uf_107'] = "%s nemá k dispozici žádné informace o uživateli.";
 $locale['uf_108'] = "Nebyly definovány žádná uživatelská pole";
 
 // View User Groups
-$locale['u110'] = "Zobrazit skupinu uživatelů";
+$locale['u110'] = "Zobrazit uživatelské skupiny";
 $locale['u111'] = "%u uživatel";
 $locale['u112'] = "%u Uživatelů";
 $locale['u113'] = "Uživatelské jméno";
@@ -81,7 +81,7 @@ $locale['u117'] = "Žádné skupiny uživatelů.";
 // User name and email
 $locale['u119'] = "Uživatelské jméno obsahuje.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
-$locale['u121'] = "Zvolené uživatelské jméno již přijal jiný uživatel.";
+$locale['u121'] = "Zvolené uživatelské jméno již používá jiný uživatel.";
 $locale['u122'] = "Uživatelské jméno nesmí zůstat prázdné.";
 $locale['u123'] = "Vaše e-mailová adresa se nezdá být platná.";
 $locale['u124'] = "Vaše e-mailová adresa nebo e-mailová doména se zdají být na černé listině.";
@@ -94,7 +94,7 @@ $locale['u129'] = "Základní informace o uživateli";
 $locale['u130'] = "Admin heslo";
 $locale['u131'] = "Admin heslo";
 $locale['u132'] = "Přihlašovací hesla";
-$locale['u133'] = "Přihlašovací hesla";
+$locale['u133'] = "Přihlašovací heslo";
 $locale['u134'] = "Nové heslo";
 $locale['u134a'] = "Nastavit heslo";
 $locale['u134b'] = "Zopakujte heslo";
@@ -138,7 +138,7 @@ $locale['u156'] = "Pro změnu e-mailu zadejte prosím aktuální heslo.";
 // Success / Fail
 $locale['u160'] = "Registrace dokončena";
 $locale['u161'] = "Nyní se můžete přihlásit.";
-$locale['u162'] = "Administrátor Vaše Přihlášení co nejdříve aktivuje.";
+$locale['u162'] = "Administrátor aktivuje váš účet v nejbližší době.";
 $locale['u163'] = "Váš profil byl úspěšně aktualizován.";
 $locale['u164'] = "Aktualizace se nezdařila";
 $locale['u165'] = "Email byl znovu odeslán.";

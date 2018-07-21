@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_color_description'] = "Barevný vybraný text";
-$locale['bb_color_usage'] = "Barevný vybraný text";
-$locale['bb_color_hex'] = "HEX barevné hodnoty s hash";
+$locale['bb_color_description'] = "Zabarví vybraný text";
+$locale['bb_color_usage'] = "Zabarví vybraný text";
+$locale['bb_color_hex'] = "HEX hodnota barvy s hash (#)";

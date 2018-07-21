@@ -15,8 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['BLKW_0100'] = "Bloková schránka";
-$locale['BLKW_0101'] = "Plugin textového bloku";
+$locale['BLKW_0100'] = "Block Box";
+$locale['BLKW_0101'] = "Textový blok";
 $locale['BLKW_0200'] = "Název bloku";
 $locale['BLKW_0201'] = "Popis bloku";
 $locale['BLKW_0202'] = "Pozice bloku";

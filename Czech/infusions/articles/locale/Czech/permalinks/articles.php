@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_articles_title'] = "Články";
-$locale['pl_articles_desc'] = "Povolit trvalé odkazy pro články na webu.";
+$locale['pl_articles_desc'] = "Povolit trvalé odkazy pro články.";

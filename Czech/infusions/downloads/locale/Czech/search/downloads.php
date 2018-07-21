@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Czech/search/forums.php
+| Filename: infusions/downloads/locale/Czech/search/downloads.php
 | Author: https://www.phpfusion.cz/ - Team
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,12 +15,13 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['f400'] = "Příspěvky ve fóru";
-$locale['f401'] = "všechny fóra";
-$locale['f402'] = "Fórum příspěvek";
-$locale['f403'] = "Fórum příspěvky";
-$locale['f404'] = "Přilepené:";
-$locale['f405'] = "Oznámení:";
-$locale['f406'] = "nalezeno v";
-$locale['f407'] = "předmět příspěvku";
-$locale['f408'] = "zpráva příspěvku";
+$locale['downloads.php'] = "Ke stažení";
+$locale['d400'] = "Ke stažení";
+$locale['d401'] = "Stáhnout";
+$locale['d402'] = "souborů ke stažení";
+$locale['d403'] = "[NOVÉ]";
+$locale['d404'] = "Licence:";
+$locale['d405'] = "OS:";
+$locale['d406'] = "Verze:";
+$locale['d407'] = "Datum přidání:";
+$locale['d408'] = "Stažení:";

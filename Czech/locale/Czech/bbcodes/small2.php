@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_small2_description'] = "Zobrazuje vybraný text jako alt. malý";
-$locale['bb_small2_usage'] = "Text na alt. malý";
+$locale['bb_small2_description'] = "Zobrazí text alt. malým písmem";
+$locale['bb_small2_usage'] = "Alt. malé písmo";

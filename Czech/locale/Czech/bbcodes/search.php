@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_search_description'] = "Hledání daného textu na aktuálním webu";
+$locale['bb_search_description'] = "Vyhledání daného textu na aktuální stránce";
 $locale['bb_search_usage'] = "Text, který chcete vyhledávat";
 $locale['bb_search_prefix'] = "Hledat ";
 $locale['bb_search_suffix'] = " na ";

@@ -15,13 +15,13 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['FBW_0100'] = "Krabice s funkcemi";
-$locale['FBW_0101'] = "Funkce plugin";
-$locale['FBW_0200'] = "Název pole";
-$locale['FBW_0201'] = "Popis pole";
-$locale['FBW_0202'] = "Typ ikony pole";
-$locale['FBW_0203'] = "Ikona CSS";
-$locale['FBW_0204'] = "Ikona obrázku";
+$locale['FBW_0100'] = "Feature Box";
+$locale['FBW_0101'] = "Feature Box Plugin";
+$locale['FBW_0200'] = "Název boxu";
+$locale['FBW_0201'] = "Popis boxu";
+$locale['FBW_0202'] = "Typ ikony boxu";
+$locale['FBW_0203'] = "CSS ikona";
+$locale['FBW_0204'] = "Obrázek";
 $locale['FBW_0205'] = "Zvolte prosím nebo nahrajte obrázek ikony";
 $locale['FBW_0206'] = "Vyplňte prosím konfiguraci ikonky";
 $locale['FBW_0207'] = "Třída ikonky";

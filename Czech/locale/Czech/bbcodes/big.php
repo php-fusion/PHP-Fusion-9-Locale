@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_big_description'] = "Zobrazit text jako velký";
-$locale['bb_big_usage'] = "Text velký";
+$locale['bb_big_description'] = "Zobrazí text VELKÝM písmem";
+$locale['bb_big_usage'] = "Velké písmo";

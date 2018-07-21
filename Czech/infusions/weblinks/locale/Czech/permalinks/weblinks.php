@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_weblinks_title'] = "Webové odkazy";
-$locale['pl_weblinks_desc'] = "Povolit trvalé odkazy pro webové odkazy na webu.";
+$locale['pl_weblinks_desc'] = "Povolit trvalé odkazy pro webové odkazy.";

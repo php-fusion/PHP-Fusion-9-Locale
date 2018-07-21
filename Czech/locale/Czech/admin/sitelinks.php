@@ -33,8 +33,8 @@ $locale['SL_0022'] = "Viditelnost odkazu";
 $locale['SL_0023'] = "Pořadí";
 $locale['SL_0024'] = "Pozice";
 $locale['SL_0025'] = "Pouze navigační panel";
-$locale['SL_0026'] = "Navigační panel a sub-header";
-$locale['SL_0027'] = "Sub-header pouze";
+$locale['SL_0026'] = "Navigační panel a pod-hlavička";
+$locale['SL_0027'] = "Pod-hlavička pouze";
 $locale['SL_0028'] = "Otevřít odkaz v novém okně?";
 $locale['SL_0029'] = "Kategorie odkazu";
 $locale['SL_0030'] = "Ikona odkazu";
@@ -42,17 +42,17 @@ $locale['SL_0031'] = "Stav odkazu";
 $locale['SL_0032'] = "Žádný rodič";
 $locale['SL_0033'] = "Jazyk odkazu";
 $locale['SL_0034'] = "Chráněný";
-$locale['SL_0035'] = "Sublinky";
-$locale['SL_0036'] = "Přesunout odkazy na podstránky...";
-$locale['SL_0037'] = "Vyberte rodičovskou vazbu";
-$locale['SL_0038'] = "Neexistují žádné odkazy, které by mohly být nadřazené";
-$locale['SL_0039'] = "Potvrďte přesun";
+$locale['SL_0035'] = "Pod-odkazy";
+$locale['SL_0036'] = "Přesunout odkazy do...";
+$locale['SL_0037'] = "Vyberte prosím rodiče odkazu";
+$locale['SL_0038'] = "Neexistují žádné odkazy, které by mohly být rodič";
+$locale['SL_0039'] = "Potvrdit přesun";
 
 $locale['SL_0040'] = "Uložit odkaz";
 $locale['SL_0041'] = "Nastavení odkazu";
-$locale['SL_0042'] = "Nakonfigurujte nastavení navigace odkazů na stránky";
+$locale['SL_0042'] = "Nakonfigurujte nastavení navigace odkazů";
 $locale['SL_0043'] = "Odkazy na stránku";
-$locale['SL_0044'] = "Na navigační liště se zobrazují maximální odkazy na stránky";
+$locale['SL_0044'] = "Max. odkazů zobrazených v navigaci";
 $locale['SL_0045'] = "Počet odkazů";
 $locale['SL_0046'] = "Seskupování odkazů";
 $locale['SL_0047'] = "Seskupit odkazy, když množství odkazů přesahuje odkazy na stránky";
@@ -77,7 +77,7 @@ $locale['SL_0074'] = "Hýbat";
 $locale['SL_0075'] = "Zobrazit možnosti";
 
 // Delete Site Link category
-$locale['SL_0080'] = "Odstranit odkaz na tento web?";
+$locale['SL_0080'] = "Odstranit tento odkaz?";
 // Error
 $locale['SL_0085'] = "Zadejte prosím název odkazu";
 $locale['SL_0086'] = "Zadejte adresu URL odkazu";

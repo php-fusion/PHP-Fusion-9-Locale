@@ -15,5 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_b_description'] = "Zobrazuje vybraný text jako tučný";
+$locale['bb_b_description'] = "Zobrazí text tučným písmem";
 $locale['bb_b_usage'] = "Tučný text";
