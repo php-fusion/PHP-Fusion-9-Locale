@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Slovak/search/blog.php
+| Filename: infusions/weblinks/locale/Slovak/search/weblinks.php
 | Author: RobiNN
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,10 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['b400'] = "Blog";
-$locale['b401'] = "Blog položka";
-$locale['b402'] = "Blog položky";
-$locale['b403'] = "nájdené v";
-$locale['b404'] = "predmet blogu";
-$locale['b405'] = "text blogu";
-$locale['b406'] = "rozšírený text blogu";
+$locale['weblinks.php'] = "Odkazy";
+$locale['w400'] = "Odkazy";
+$locale['w401'] = "Odkaz";
+$locale['w402'] = "webových odkazov";
+$locale['w403'] = "[NOVÉ]";
+$locale['w404'] = "Pridané:";
+$locale['w405'] = "Prezreté:";

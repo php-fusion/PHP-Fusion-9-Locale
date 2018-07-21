@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_youtube'] = "YouTube Video";
-$locale['bb_youtube_description'] = "Zobrazí YouTube Video";
+$locale['bb_youtube'] = "YouTube video";
+$locale['bb_youtube_description'] = "Zobrazí YouTube video";
 $locale['bb_youtube_usage'] = "ID YouTube videa";

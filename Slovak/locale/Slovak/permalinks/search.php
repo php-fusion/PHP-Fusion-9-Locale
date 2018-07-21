@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_search_title'] = "Vyhľadávanie";
-$locale['pl_search_desc'] = "Povolenie trvalých odkazov pre vyhľadávanie.";
+$locale['pl_search_desc'] = "Povoliť trvalé odkazy pre vyhľadávanie.";

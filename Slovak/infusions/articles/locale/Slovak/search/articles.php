@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Slovak/search/converter.php
+| Filename: infusions/articles/locale/Slovak/search/articles.php
 | Author: RobiNN
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,13 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$filename_locale['articles.php'] = "Články";
-$filename_locale['blog.php'] = "Blog";
-$filename_locale['custompages.php'] = "Vlastné stránky";
-$filename_locale['downloads.php'] = "Na stiahnutie";
-$filename_locale['faqs.php'] = "FAQ";
-$filename_locale['forums.php'] = "Fóra";
-$filename_locale['members.php'] = "Členovia";
-$filename_locale['news.php'] = "Novinky";
-$filename_locale['photos.php'] = "Galéria";
-$filename_locale['weblinks.php'] = "Odkazy";
+$locale['articles.php'] = "Články";
+$locale['a400'] = "Články";
+$locale['a401'] = "Článok";
+$locale['a402'] = "článkov";
+$locale['a403'] = "nájdené v";
+$locale['a404'] = "predmet článku";
+$locale['a405'] = "text článku";

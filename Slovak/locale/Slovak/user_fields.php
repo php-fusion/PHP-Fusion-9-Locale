@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Items shown in profile
-$locale['u040'] = "Zaregistrovaný dňa";
+$locale['u040'] = "Dátum registrácie";
 $locale['u041'] = "Posledná návšteva";
 $locale['u042'] = "Žiadne návštevy";
 $locale['u043'] = "Poslať súkromnú správu";
@@ -41,21 +41,21 @@ $locale['u061'] = "Pridať do skupiny";
 $locale['u062'] = "Avatar";
 $locale['u063'] = "Úroveň užívateľa";
 $locale['u064'] = "Email";
-$locale['u066'] = "Zaregistrovaný dňa";
+$locale['u066'] = "Dátum registrácie";
 $locale['u067'] = "Posledná návšteva";
 $locale['u068'] = "Užívateľské meno";
-$locale['u069'] = "Úprava";
+$locale['u069'] = "Upraviť";
 $locale['u070'] = "Ban";
-$locale['u071'] = "Pozastavenie";
+$locale['u071'] = "Pozastaviť";
 $locale['u072'] = "Zmazať";
 $locale['u073'] = "Zmazať tohto užívateľa?";
 $locale['u074'] = "Odbanovať";
 // Profile and register
 $locale['u100'] = "Ak chcete zmeniť svoje heslo alebo e-mailovú adresu musíte zadať vaše aktuálne heslo.";
 $locale['u101'] = "Registrácia";
-$locale['u102'] = "Úprava profilu";
+$locale['u102'] = "Upraviť profil";
 $locale['u103'] = "Profil";
-$locale['u104'] = "Užívateľský profil pre";
+$locale['u104'] = "Užívateľský profil";
 $locale['u105'] = "Aktualizovať profil";
 
 // New UF 1.20

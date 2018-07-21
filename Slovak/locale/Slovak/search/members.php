@@ -17,5 +17,5 @@
 +--------------------------------------------------------*/
 $locale['m400'] = "Členovia";
 $locale['m401'] = "Člen";
-$locale['m402'] = "Členovia";
+$locale['m402'] = "členov";
 $locale['m403'] = "Profily sú viditeľné len pre členov!";

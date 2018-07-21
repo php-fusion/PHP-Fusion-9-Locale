@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_shoutbox_title'] = "Shoutbox";
-$locale['pl_shoutbox_desc'] = "Povolenie trvalých odkazov pre Shoutbox";
+$locale['pl_shoutbox_desc'] = "Povoliť trvalé odkazy pre Shoutbox";

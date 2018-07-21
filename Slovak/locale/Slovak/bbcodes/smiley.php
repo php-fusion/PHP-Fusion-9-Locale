@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_smiley_description'] = "Smajlíky";
-$locale['bb_smiley_usage'] = "Vložiť BB kód smajlíka";
+$locale['bb_smiley_usage'] = "Vložte kód smajlíka";

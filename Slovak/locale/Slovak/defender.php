@@ -70,7 +70,7 @@ $locale['token_error_5'] = "Neplatná časová pečiatka tokenu.";
 $locale['token_error_6'] = "Príspevok bol vykonaný príliš rýchlo.";
 $locale['token_error_7'] = "Neplatný hash tokenu.";
 $locale['token_error_8'] = "Neplatný formát tokenu.";
-$locale['token_error_9'] = "Nemôžem nájsť žiaden token pre tento formulár.";
+$locale['token_error_9'] = "Nenašiel sa žiadny token pre tento formulár.";
 $locale['token_error_10'] = "Nenašiel sa žiadny token pre uloženie: ";
 
 $locale['df_300'] = "Kliknutím pridáte súbory";

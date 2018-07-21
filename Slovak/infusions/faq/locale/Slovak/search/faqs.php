@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Slovak/search/photos.php
+| Filename: infusions/faq/locale/Slovak/search/faqs.php
 | Author: RobiNN
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,10 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['p400'] = "Fotky";
-$locale['p401'] = "Fotka";
-$locale['p402'] = "fotiek";
-$locale['p403'] = "[NOVÉ]";
-$locale['p404'] = "Album:";
-$locale['p405'] = "Pridané:";
-$locale['p406'] = "Zobrazené:";
+$locale['faqs.php'] = "FAQ";
+$locale['fq400'] = "FAQ";
+$locale['fq401'] = "FAQ";
+$locale['fq402'] = "otázok";
+$locale['fq403'] = "nájdené v";
+$locale['fq404'] = "FAQ otázka";
+$locale['fq405'] = "FAQ odpoveď";

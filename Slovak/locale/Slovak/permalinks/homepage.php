@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_homepage_title'] = "Domovská stránka";
-$locale['pl_homepage_desc'] = "Povolenie trvalých odkazov pre domovskú stránku.";
+$locale['pl_homepage_desc'] = "Povoliť trvalé odkazy pre domovskú stránku.";

@@ -15,8 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['SLDW_0100'] = "Carousel";
-$locale['SLDW_0101'] = "Slider Plugin";
+$locale['SLDW_0100'] = "Karusel";
+$locale['SLDW_0101'] = "Slider plugin";
 $locale['SLDW_0200'] = "Snímka odstránená";
 $locale['SLDW_0300'] = "Aktuálne snímky";
 $locale['SLDW_0301'] = "Upraviť snímku";
@@ -30,9 +30,9 @@ $locale['SLDW_0403'] = "Akcie";
 $locale['SLDW_0404'] = "Nie sú pridané žiadne snímky";
 $locale['SLDW_0405'] = "Nakonfigurujte vlastnosti posuvníka";
 $locale['SLDW_0406'] = "Vytvoriť nový karousel";
-$locale['SLDW_0500'] = "Slider HTML ID";
-$locale['SLDW_0501'] = "Slider výška";
-$locale['SLDW_0502'] = "Slider navigácia";
+$locale['SLDW_0500'] = "HTML ID";
+$locale['SLDW_0501'] = "Výška";
+$locale['SLDW_0502'] = "Navigácia";
 $locale['SLDW_0503'] = "Nezobrazovať ovládanie navigácie";
 $locale['SLDW_0504'] = "Zobraziť ovládanie navigácie";
 $locale['SLDW_0505'] = "Indikátor posúvača";
@@ -63,9 +63,9 @@ $locale['SLDW_0530'] = "Malá veľkosť";
 $locale['SLDW_0531'] = "Stredná veľkosť";
 $locale['SLDW_0532'] = "Veľká veľkosť";
 $locale['SLDW_0533'] = "Veľkosť tlačidla odkazu";
-$locale['SLDW_0534'] = "Cesta základnej snímky";
-$locale['SLDW_0535'] = "Zoznam základných obrázkov";
-$locale['SLDW_0600'] = "Uložiť Slider";
-$locale['SLDW_0601'] = "Uložiť a zatvoriť Slider";
+$locale['SLDW_0534'] = "Základna cesta snímky";
+$locale['SLDW_0535'] = "Priečinok základných obrázkov";
+$locale['SLDW_0600'] = "Uložiť slider";
+$locale['SLDW_0601'] = "Uložiť a zatvoriť slider";
 $locale['SLDW_0602'] = "Čítaj viac..";
 $locale['SLDW_0603'] = "Interval (ms)";

@@ -107,7 +107,7 @@ $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigácia";
 $locale['global_002'] = "Neboli pridané žiadne odkazy";
-$locale['global_003'] = "Nič na prezeranie";
+$locale['global_003'] = "Nič na zobrazenie";
 // Users Online
 $locale['global_010'] = "Kto je online";
 $locale['global_011'] = "Hostí online";
@@ -139,10 +139,10 @@ $locale['global_035'] = "Vitajte";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Najnovšie aktívne vlákna vo fóre";
 $locale['global_041'] = "Moje vlákna";
-$locale['global_042'] = "Moje príspevky";
-$locale['global_043'] = "Nové príspevky";
+$locale['global_042'] = "Moje najnovšie vlákna";
+$locale['global_043'] = "Moje posledné príspevky";
 $locale['global_044'] = "Téma";
-$locale['global_045'] = "Prezreté";
+$locale['global_045'] = "Zobrazení";
 $locale['global_046'] = "Odpovede";
 $locale['global_047'] = "Posledný príspevok";
 $locale['global_048'] = "Fórum";
@@ -166,8 +166,8 @@ $locale['global_071b'] = "Autor";
 $locale['global_072'] = "Pokračovať v čítaní";
 $locale['global_073'] = " Komentáre";
 $locale['global_073b'] = " Komentár";
-$locale['global_074'] = " číta";
-$locale['global_074b'] = " prečítať";
+$locale['global_074'] = " prečítaní";
+$locale['global_074b'] = " prečítanie";
 $locale['global_075'] = "Tlačiť";
 $locale['print'] = "Tlačiť";
 $locale['global_076'] = "Upraviť";
@@ -286,9 +286,9 @@ $locale['global_199'] = "UPOZORNENIE: heslo administrátora nie je nastavené, k
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Vyhľadávanie";
-$locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Fórum";
+$locale['global_202'] = " - Vyhľadávanie";
+$locale['global_203'] = " - FAQ";
+$locale['global_204'] = " - Fórum";
 //Themes
 $locale['global_210'] = "Prejsť na obsah";
 $locale['global_300'] = "nebola nájdená žiadna téma";

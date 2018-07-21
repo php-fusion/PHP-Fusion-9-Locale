@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Slovak/search/weblinks.php
+| Filename: infusions/downloads/locale/Slovak/search/downloads.php
 | Author: RobiNN
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,9 +15,13 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['w400'] = "Odkazy";
-$locale['w401'] = "Odkaz";
-$locale['w402'] = "Odkazy";
-$locale['w403'] = "[NOVÉ]";
-$locale['w404'] = "Pridané:";
-$locale['w405'] = "Prezreté:";
+$locale['downloads.php'] = "Na stiahnutie";
+$locale['d400'] = "Na stiahnutie";
+$locale['d401'] = "Na stiahnutie";
+$locale['d402'] = "súborov na stiahnutie";
+$locale['d403'] = "[NOVÉ]";
+$locale['d404'] = "Licencia:";
+$locale['d405'] = "OS:";
+$locale['d406'] = "Verzia:";
+$locale['d407'] = "Pridané:";
+$locale['d408'] = "Stiahnutí:";

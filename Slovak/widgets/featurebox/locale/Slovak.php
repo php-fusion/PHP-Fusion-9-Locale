@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['FBW_0100'] = "Feature Box";
-$locale['FBW_0101'] = "Feature Box";
+$locale['FBW_0101'] = "Feature Box Plugin";
 $locale['FBW_0200'] = "Názov boxu";
 $locale['FBW_0201'] = "Popis boxu";
 $locale['FBW_0202'] = "Typ ikonky boxu";

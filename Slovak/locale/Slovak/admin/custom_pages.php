@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['page_0100'] = "Stránka";
+$locale['page_0100'] = "Vlastná stránka";
 $locale['page_0101'] = "Názov stránky";
 $locale['page_0102'] = "Viditeľnosť";
 $locale['page_0103'] = "Jazyk";

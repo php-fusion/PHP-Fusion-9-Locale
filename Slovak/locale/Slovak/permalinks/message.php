@@ -16,4 +16,4 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['pl_message_title'] = "Správy";
-$locale['pl_message_desc'] = "Povolenie trvalých odkazov pre systém súkromných správ.";
+$locale['pl_message_desc'] = "Povoliť trvalé odkazy pre systém súkromných správ.";

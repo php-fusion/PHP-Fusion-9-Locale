@@ -84,7 +84,7 @@ $locale['469a'] = "Obsah";
 $locale['470'] = "Nebol zadaný názov panelu";
 $locale['471'] = "Tento názov už existuje";
 $locale['472'] = "Nebol pridaný obsah panelu";
-$locale['473'] = "Nebol pridaný súbor panelu";
+$locale['473'] = "Názov súboru panelu nie je definovaný";
 $locale['474'] = "Admin heslo je nesprávne";
 $locale['475'] = "Musí existovať aspoň jedna sekcia v zozname filtrov, aby sa použil filter";
 // Update/Add new Panel Success/Fail

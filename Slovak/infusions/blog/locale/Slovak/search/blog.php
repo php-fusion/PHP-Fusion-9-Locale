@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Slovak/search/news.php
+| Filename: infusions/blog/locale/Slovak/search/blog.php
 | Author: RobiNN
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,10 +15,11 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['n400'] = "Novinky";
-$locale['n401'] = "Správa";
-$locale['n402'] = "Správy";
-$locale['n403'] = "nájdené v";
-$locale['n404'] = "predmet novinky";
-$locale['n405'] = "text novinky";
-$locale['n406'] = "rozšírený text novinky";
+$locale['blog.php'] = "Blog";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Blog";
+$locale['b402'] = "blogov";
+$locale['b403'] = "nájdené v";
+$locale['b404'] = "predmet blogu";
+$locale['b405'] = "text blogu";
+$locale['b406'] = "rozšírený text blogu";
