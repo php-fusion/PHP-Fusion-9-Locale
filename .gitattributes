@@ -6,3 +6,9 @@
 
 # Force images/fonts to be handled as binaries
 *.png binary
+
+# Files and directories with the attribute export-ignore won’t be added to archive files.
+.gitattributes export-ignore
+.gitignore export-ignore
+LICENSE export-ignore
+README.md export-ignore
