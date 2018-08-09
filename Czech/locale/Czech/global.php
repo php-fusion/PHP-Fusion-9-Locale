@@ -244,7 +244,7 @@ $locale['UM090'] = "Přidat novinku";
 $locale['UM091'] = "Přidat odkaz";
 $locale['UM092'] = "Přidat článek";
 $locale['UM093'] = "Přidat fotku";
-$locale['UM094'] = "Přidat stahování";
+$locale['UM094'] = "Přidat soubor ke stažení";
 $locale['UM095'] = "Přidat blog";
 $locale['UM102'] = "Přidat FAQ";
 // User Panel
