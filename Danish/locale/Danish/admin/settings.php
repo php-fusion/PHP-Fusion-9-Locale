@@ -195,7 +195,6 @@ $locale['913'] = "Kommentarer pr. side";
 $locale['955'] = "Original";
 $locale['956'] = "Kvadrat";
 
-// Removed Recaptcha
 $locale['698'] = "SMTP godkendelse";
 $locale['699'] = "Log ind metode";
 $locale['699b'] = "Begge";
@@ -334,3 +333,4 @@ $locale['security_006'] = "Ryd system sessioner cache";
 $locale['security_007'] = "Alle system sessioner er nu blevet ryddet";
 $locale['security_008'] = "Formular tokens";
 $locale['security_009'] = "Antal af udstedte tokens til hver formular";
+$locale['security_010'] = "Fusion GateWay";
