@@ -197,7 +197,6 @@ $locale['913'] = "Celkem komentářů na stránku";
 $locale['955'] = "Originál";
 $locale['956'] = "Čtverec";
 
-// Removed Recaptcha
 $locale['698'] = "SMTP ověřování?";
 $locale['699'] = "Metoda přihlášení";
 $locale['699b'] = "Oba";
@@ -340,3 +339,4 @@ $locale['security_006'] = "Vymazat mezipaměť relace systému";
 $locale['security_007'] = "Všechny relace systému byly úspěšně odstraněny";
 $locale['security_008'] = "Tokeny formuláře";
 $locale['security_009'] = "Počet vydaných tokenů pro každý formulář";
+$locale['security_010'] = "Fusion GateWay";
