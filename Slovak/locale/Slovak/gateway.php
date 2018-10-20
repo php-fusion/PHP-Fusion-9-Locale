@@ -90,3 +90,4 @@ $locale['gateway_065'] = "Pokračovať";
 $locale['gateway_066'] = "Vaša odpoveď je nesprávna!";
 $locale['gateway_067'] = "Skúste to znova!";
 $locale['gateway_068'] = "Skúste neskôr prosím!";
+$locale['gateway_069'] = "Fusion GateWay";
