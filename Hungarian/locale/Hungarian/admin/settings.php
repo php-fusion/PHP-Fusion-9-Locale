@@ -318,4 +318,4 @@ $locale['security_006'] = "Rendszer Cache Törlése";
 $locale['security_007'] = "Az összes rendszeres munkamenet sikeresen törölve lett";
 $locale['security_008'] = "Űrlap Token";
 $locale['security_009'] = "Űrlap Tokenek Száma";
-$locale['security_010'] = "Fusion Biztonsági Kód";
+$locale['security_010'] = "Fusion Regisztráció Védelem";

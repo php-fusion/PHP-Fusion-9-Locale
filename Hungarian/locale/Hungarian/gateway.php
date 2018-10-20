@@ -74,3 +74,4 @@ $locale['gateway_065'] = "Folytatás";
 $locale['gateway_066'] = "A válasz helytelen!";
 $locale['gateway_067'] = "Próbáld újra!";
 $locale['gateway_068'] = "Kérlek, próbáld újra később!";
+$locale['gateway_069'] = "Fusion Regisztráció Védelem";
