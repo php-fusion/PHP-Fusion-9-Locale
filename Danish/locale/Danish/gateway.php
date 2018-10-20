@@ -90,3 +90,4 @@ $locale['gateway_065'] = "Fortsæt";
 $locale['gateway_066'] = "Dit svar er forkert!";
 $locale['gateway_067'] = "Prøv igen!";
 $locale['gateway_068'] = "Venligst prøv igen senere!";
+$locale['gateway_069'] = "Fusion GateWay";
