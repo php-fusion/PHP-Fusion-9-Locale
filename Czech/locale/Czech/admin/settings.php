@@ -119,6 +119,7 @@ $locale['605'] = "Maximální velikost souboru (bajty):";
 $locale['606'] = "Metoda komprese náhledů";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Vývojářský režim";
 
 $locale['649'] = "Zakázané uživatelská jména:";
 $locale['650'] = "Ostatní";
