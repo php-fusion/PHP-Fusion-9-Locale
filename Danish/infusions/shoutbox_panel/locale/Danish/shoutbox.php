@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: locale/Danish/infusions/shoutbox_panel/Danish.php
+| Filename: locale/Danish/infusions/shoutbox_panel/locale/Danish/shoutbox.php
 | Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
