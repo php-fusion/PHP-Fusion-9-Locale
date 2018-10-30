@@ -44,6 +44,6 @@ $locale['ERROR_454'] = "Vigtighed";
 $locale['ERROR_460'] = "Fejl";
 $locale['ERROR_461'] = "Fejlbehæftet fil";
 $locale['ERROR_462'] = "Valgmuligheder";
-$locale['ERROR_463'] = "Skabt af";
+$locale['ERROR_463'] = "Oprettet af";
 $locale['ERROR_464'] = "Fejlvisning";
 $locale['ERROR_465'] = "Kildefil";
