@@ -26,3 +26,5 @@ locale['normal'] = 'Normální';
 locale['medium'] = 'Střední';
 locale['strong'] = 'Silné';
 locale['very-strong'] = 'Velmi silné';
+locale['show'] = 'Zobrazit';
+locale['hide'] = 'Skrýt';
