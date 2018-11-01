@@ -10,3 +10,5 @@ locale['normal'] = 'Normál';
 locale['medium'] = 'Közepes';
 locale['strong'] = 'Erős';
 locale['very-strong'] = 'Nagyon erős';
+locale['show'] = 'Mutat';
+locale['hide'] = 'Elrejt';
