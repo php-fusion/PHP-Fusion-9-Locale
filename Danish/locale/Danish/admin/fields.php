@@ -17,8 +17,7 @@
 +--------------------------------------------------------*/
 // New locale for Quantum Fields
 $locale['fields_0100'] = 'Denne side tilføjer et felt direkte ind i tabellen: %s';
-$locale['fields_0101'] = "Denne side tilføjer felter direkte ind i tabellen: [STRONG]%s[/STRONG],
-	og knytter sig til tabellen DB_USERS via kolonnen [STRONG]%s[/STRONG]";
+$locale['fields_0101'] = "Denne side tilføjer felter direkte ind i tabellen: [STRONG]%s[/STRONG], og knytter sig til tabellen DB_USERS via kolonnen [STRONG]%s[/STRONG]";
 $locale['fields_0102'] = "Der er ikke tilføjet felter i ";
 $locale['fields_0103'] = "Ingen side er oprettet. Tilføj en side ved at lave en side som en kategori.";
 $locale['fields_0104'] = "Feltnavnet var der i forvejen i %s og det lykkedes ikke at ændre navnet på kolonnen. Vælg et andet navn.";

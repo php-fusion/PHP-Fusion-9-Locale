@@ -32,6 +32,7 @@ $locale['df_error_text'] = "%s er fejlbehæftet og har brug for opmærksomhed.";
 $locale['error_invalid_theme'] = "Du skal bruge et gyldigt tema.";// to be moved
 $locale['error_input_checkbox'] = "Denne boks skal klikkes af"; // to be moved
 $locale['error_input_file'] = "Du skal vælge en gyldig fil";
+$locale['error_secure_file'] = "Den uploadede fil er blevet afvist på grund af muligheden for ondsindet payload.";
 // Admin Login
 $locale['cookie_title'] = "Din session fik timeout";
 $locale['cookie_description'] = "Valideringen kunne ikke gennemføres eller også har din session fået timeout. Prøv at logge på igen.";
@@ -84,7 +85,6 @@ $locale['df_402'] = "%s er ikke et gyldigt kodeord.";
 $locale['df_403'] = "%s er ikke et gyldigt tal.";
 $locale['df_404'] = "%s er ikke en gyldig dato.";
 $locale['df_405'] = "%s er ikke en gyldig URL.";
-
 $locale['df_415'] = "Fejlagtigt filnavn.";
 $locale['df_416'] = "Din fil er for stor. Filer til upload skal være mindre end %s.";
 $locale['df_417'] = "Filtypen er ikke tilladt. Billedfiler skal være en af følgende typer: - %s";

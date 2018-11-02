@@ -143,7 +143,6 @@ $locale['u163'] = "Profilen blev opdateret.";
 $locale['u164'] = "Opdateringen lykkedes ikke";
 $locale['u165'] = "Mail er blevet eftersendt.";
 
-//$locale['u165'] = "Registration failed";
 $locale['u167'] = "af følgende årsag(er)";
 $locale['u168'] = "Forsøg igen.";
 $locale['u169'] = "Profilen er opdateret";
@@ -155,12 +154,10 @@ $locale['u174'] = "Tilføj endnu en bruger?";
 // Avatar upload
 $locale['u180'] = "Der opstod en fejl i forbindelse med upload af din avatar";
 
-
 $locale['u184'] = "Maks. filstørrelse: %s / Maks. størrelse: %ux%u pixels";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Klik på gennemse for at uploade et billede";
 $locale['u187'] = "Slet";
-
 // Captcha and terms
 $locale['u190'] = "Sikkerhedskode";
 $locale['u191'] = "Indskriv sikkerhedskode";
@@ -183,4 +180,4 @@ Venlig hilsen
 [SITEUSERNAME]<br/>
 [SITENAME]";
 
-$locale['u210'] = "Bruger omdømme";
+$locale['u210'] = "Brugeromdømme";

@@ -132,7 +132,6 @@ $locale['theme_4013'] = "Linkfarve";
 $locale['theme_4014'] = "Teksttype";
 $locale['theme_4015'] = "Stil for horisontal tekst";
 $locale['theme_4016'] = "Linkudseende";
-$locale['theme_4016'] = "Horisontal tekst - udseende";
 
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "Fed";

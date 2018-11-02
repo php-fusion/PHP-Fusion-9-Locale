@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/user_fields/user_googleplus.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -18,4 +18,4 @@
 $locale['uf_googleplus'] = "Google+";
 $locale['uf_googleplus_id'] = "Google+ profil, adresse og brugernavn";
 $locale['uf_googleplus_desc'] = "Google+ profilside";
-$locale['uf_googleplus_error'] = "Google+ - adresse på profilside eller brugernavn skal angives.";
+$locale['uf_googleplus_error'] = "Google+ adresse på profilside eller brugernavn skal angives.";

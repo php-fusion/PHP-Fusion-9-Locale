@@ -76,6 +76,7 @@ $locale['443a'] = "Udeluk elementer for bruger 1 ";
 $locale['443b'] = "Udeluk elementer for bruger 2 ";
 $locale['443c'] = "Udeluk elementer for bruger 3 ";
 $locale['443d'] = "Udeluk elementer for bruger 4 ";
+$locale['444'] = "Domæne servere";
 $locale['444a'] = "Konfiguration af flere domæner på et enkelt site.<br/><br/>Adskil og tilføj et domæne i hver sin række.";
 $locale['444b'] = "Registrerede domænenavne";
 $locale['445'] = "Ugyldig (test formål)";
@@ -213,6 +214,9 @@ $locale['708'] = "Standardværdier for brugervalg";
 $locale['709'] = "Mail ved ny besked";
 $locale['710'] = "Skal afsendte beskeder gemmes";
 $locale['711'] = "Bemærk: Hvis den enkelte bruger vælger noget andet, er det brugervalget som slår igennem. Hvis brugeren ikke vælger selv, er det disse værdier, som slår igennem.";
+$locale['712'] = "Beskeder er blevet slettet.";
+$locale['713'] = "Er du sikker på at du vil slette alle private beskeder?";
+$locale['714'] = "Slet beskeder";
 
 // Save Settings
 $locale['750'] = "Gem opsætning";
@@ -257,6 +261,7 @@ $locale['1014'] = "Skal brugere kunne logge på fra forskellige enheder samtidig
 $locale['1014a'] = "Slå fra for at forbedre sikkerheden.";
 $locale['1015'] = "Bredde";
 $locale['1016'] = "Højde";
+
 $locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration

@@ -62,6 +62,8 @@ $locale['ME_455'] = "Du er ved at slette brugeren %s!<br/><br/>Alt indhold skabt
 Med mindre der er tale om for eksempel en spammer, anbefaler vi dig at udelukke, suspendere, fortryde sletningen eller anonymisere denne bruger.<br/>
 Er du sikker på, at du stadigvæk ønsker at slette brugeren?<br/>"; 
 $locale['ME_456'] = "Slet bruger";
+$locale['ME_457'] = "Du skal til at slette en ny ikke-aktiveret bruger %s!<br/>
+Ønsker du at slette denne bruger?<br/>";
 
 $locale['ME_460'] = "Der er ingen brugere, som kan deaktiveres";
 $locale['ME_461'] = "%s er blevet deaktiveret";
@@ -94,113 +96,4 @@ $locale['ME_557'] = "slettet permanent";
 
 $locale['ME_560'] = "Vis resultater";
 $locale['ME_561'] = "Vis bruger sammen med status";
-
-/*--------------------------------------------------------------------------
-These are old locale. They are MOST LIKELY not being used by the new member center.
-Please remove them or reindex the keys if you find any.
-*--------------------------------------------------------------------------*/
-
-// Edit Member Details
-$locale['430'] = "Rediger bruger";
-// Add Member Errors
-$locale['480'] = "Tilføj bruger";
-$locale['481'] = "Brugeren er oprettet.";
-$locale['482'] = "Brugeren kunne ikke oprettes.";
-
-// Member Management Options
-$locale['400'] = "Brugeradministration";
-$locale['401'] = "Bruger";
-$locale['402'] = "Tilføj ny bruger";
-$locale['403'] = "Brugertype";
-$locale['404'] = "Valgmuligheder";
-$locale['405'] = "Se";
-$locale['406'] = "Rediger";
-$locale['407'] = "Aktiver";
-$locale['408'] = "Ophæv udelukkelse";
-$locale['409'] = "Udeluk";
-$locale['410'] = "Slet";
-$locale['411'] = "Der er ikke %s brugere";
-$locale['412'] = " hvis brugernavn begynder med ";
-$locale['413'] = " svarer til ";
-$locale['414'] = "Vis alle";
-$locale['415'] = "Søg efter bruger";
-$locale['416'] = "Søg";
-$locale['417'] = "Vælg handling";
-$locale['418'] = "Fortryd";
-$locale['419'] = "Genindsæt";
-// Ban/Unban/Delete Member
-$locale['420'] = "Udelukkelse gennemført";
-$locale['421'] = "Udelukkelse fjernet";
-$locale['422'] = "Brugeren er slettet";
-$locale['423'] = "Er du sikker på, at du ønsker at slette denne bruger?";
-$locale['424'] = "Brugeren er aktiveret";
-$locale['426'] = "Ja";
-$locale['427'] = "Nej";
-// Suspension Log 
-$locale['510s'] = "Udelukkelseshistorik for ";
-$locale['511s'] = "Der er ingen data for denne bruger i loggen.";
-$locale['512s'] = "Tidligere udelukkelser for ";
-$locale['513'] = "Nr."; // as in number
-$locale['514'] = "Dato";
-
-$locale['515'] = "Årsag";
-
-$locale['516'] = "Udelukker administrator";
-$locale['517'] = "Systemhandling";
-$locale['518'] = "Tilbage til brugerprofilen";
-$locale['519'] = "Udelukkelseslog for denne bruger ";
-$locale['520'] = "Ophævet ";
-$locale['521'] = "IP ";
-$locale['522'] = "Endnu ikke genoprettet";
-$locale['540'] = "Fejl";
-$locale['541'] = "Fejl: Du skal angive en årsag til udelukkelsen!";
-$locale['542'] = "Fejl: Du skal angive en årsag til sikkerhedsudelukkelsen!";
-// User Management Admin
-$locale['550'] = "Udeluk brugeren ";
-$locale['551'] = "Varighed i dage";
-$locale['552'] = "Årsag";
-$locale['553'] = "Udeluk";
-$locale['554'] = "Der er ingen data om udelukkelse for denne bruger i loggen.";
-$locale['555'] = "Hvis du ønsker, at denne bruger skal udelukkes. så klik på 'Udeluk'";
-$locale['556'] = "Ophæv udelukkelse af brugeren ";
-$locale['557'] = "Ophæv udelukkelsen";
-$locale['558'] = "Ophæv udelukkelsen af brugeren ";
-$locale['559'] = "Ophæv udelukkelsen ";
-$locale['560'] = "Ophæv sikkerhedsudelukkelse af brugeren ";
-$locale['561'] = "Ophæv sikkerhedsudelukkelse";
-$locale['562'] = "Udeluk brugeren ";
-$locale['563'] = "Sikkerhedsudeluk brugeren ";
-$locale['585a'] = "Angiv venligst en årsag til udelukkelse eller ophævelse af udelukkelse ";
-$locale['566'] = "Udelukkelse ophævet";
-$locale['568'] = "Sikkerhedsudelukkelse oprettet";
-$locale['569'] = "Sikkerhedsudelukkelse fjernet";
-$locale['572'] = "Brugeren er udelukket";
-$locale['573'] = "Udelukkelsen er ophævet";
-$locale['574'] = "Brugeren er deaktiveret";
-$locale['575'] = "Brugeren er genaktiveret";
-$locale['576'] = "Brugerkontoen er lukket";
-$locale['577'] = "Brugerkontoen er genåbnet";
-$locale['578'] = "Brugerkontoen er lukket og brugeren anonymiseret";
-$locale['579'] = "Brugerens anonymisering er ophævet";
-
-$locale['582'] = "Genaktiver";
-$locale['583'] = "Genindsæt";
-$locale['584'] = "Vælg ny status";
-$locale['585'] = "Denne bruger blev oprindeligt udelukket af sikkerhedsårsager! Er du sikker på, at du nu ønsker at ophæve udelukkelsen?";
-$locale['590'] = "Udeluk";
-$locale['591'] = "Ophæv udelukkelse";
-$locale['592'] = "udelukker";
-$locale['593'] = "ophæver udelukkelse";
-$locale['594'] = "Angiv venligst en årsag til at du ";
-$locale['595'] = " brugeren ";
-
-$locale['600'] = "Sikkerhedsudeluk";
-$locale['601'] = "sikkerhedsudelukker";
-$locale['602'] = "Ophæv udelukkelse";
-$locale['603'] = "ophæver udelukkelse";
-$locale['604'] = "Årsag:";
-
-// Deactivation System
-$locale['612'] = "bruger";
-$locale['613'] = "brugere";
-$locale['614'] = "Deaktiver";
+$locale['ME_562'] = "Ny ikke-aktiveret bruger";

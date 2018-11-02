@@ -48,7 +48,6 @@ $locale['MIG_138'] = "overflyt fra";
 $locale['MIG_139'] = "Vælg sektioner at flytte";
 $locale['MIG_140'] = "Marker data du ønsker at flytte";
 $locale['MIG_141'] = "Slet bruger når flytning er færdig";
-$locale['MIG_142'] = "Slet bruger når flytning er færdig";
 $locale['MIG_150'] = "Flyt brugerniveau og adgangsrettigheder";
 $locale['MIG_151'] = "Flyt private beskeder";
 $locale['MIG_152'] = "Flyt kommentarer";

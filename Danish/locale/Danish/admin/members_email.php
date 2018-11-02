@@ -40,3 +40,9 @@ $locale['email_suspend_subject'] = "Din konto på [SITENAME] er blevet suspender
 $locale['email_suspend_message'] = "Hej [USER_NAME],<br/>
 Din konto på [SITENAME] er blevet suspenderet af [ADMIN_USERNAME] indtil [DATE] (sidens tidszone) af følgende årsag:<br/>
 [REASON]<br/>Hvis du vil vide mere om denne suspendering, så kontakt en administrator på [SITENAME].<br/>Venlig hilsen,<br/>[SITEUSERNAME]";
+
+$locale['email_resend_subject'] = "Gensendt aktiveringslink - [SITENAME]";
+$locale['email_resend_message'] = "Hej [USER_NAME],<br/>
+Du har modtaget denne mail fordi du ikke har aktiveret din mailadresse på hjemmesiden - [SITENAME].<br/>Hvis du ikke aktiverer mailadressen indenfor et døgn, vil din registrering blive afvist<br/>
+Du er blevet registreret med følgende information:<br/>Brugernavn: [USER_NAME]<br/>
+Du kan aktivere kontoen på dette link:<br/>[ACTIVATION_LINK]<br/>Med venlig hilsen,<br/>[SITENAME]";

@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/user_fields/user_birthdate.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -16,5 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['uf_birthdate'] = "Fødselsdag";
+$locale['uf_birthdate_date'] = "%d %B %Y";
 $locale['uf_birthdate_desc'] = "Viser brugerens fødselsdag";
 $locale['uf_birthdate_error'] = "Fødselsdagen blev ikke indtastet korrekt.";

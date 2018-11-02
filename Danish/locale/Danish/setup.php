@@ -16,7 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['setup_0000'] = "PHP-Fusion installation";
-$locale['setup_0001'] = "PHP-Fusion Version 9 installation";
 $locale['setup_0002'] = 'Velkommen til installationsprogrammet for PHP-Fusion';
 $locale['setup_0003'] = "Guiden her vil føre dig gennem de nødvendige trin til installationen af CMS løsningen PHP-Fusion på din server. Har du brug for yderligere hjælp, så kig i vores online <a target='_blank' class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208'>installationshjælp</a>.";
 $locale['setup_0005'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a target='_blank' href='https://php-fusion.co.uk/license/'>betingelser</a>.";
@@ -28,7 +27,6 @@ $locale['setup_0011'] = "da";
 $locale['setup_0012'] = "iso-8859-1";
 $locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion Opgradering";
-$locale['setup_0021'] = "PHP-Fusion version 9 Opgraderingsfunktion";
 $locale['setup_0022'] = "Velkommen til PHP-Fusions opgraderingsfunktion";
 $locale['setup_0023'] = "Denne opgraderingsfunktion vil guide dig gennem de nødvendige trin for at du kan opgradere PHP-Fusion på din server. Følg de enkelte trin nøje og kontroller alle nødvendige informationer.";
 $locale['setup_0050'] = "Webserver";
@@ -38,12 +36,10 @@ $locale['setup_0053'] = "OPCache support";
 $locale['setup_0054'] = "PDO Database support";
 $locale['setup_0055'] = "PHP Memory grænse";
 $locale['setup_0056'] = "Kontrol af filtilladelser";
-// Index
 $locale['setup_0101'] = "Introduktion";
 $locale['setup_0102'] = "Diagnose på foldere og filer";
 $locale['setup_0103'] = "Databaseopsætning";
 $locale['setup_0104'] = "Konfiguration / Opsætning af database";
-$locale['setup_0104a'] = "Installerer PHP-Fusion";
 $locale['setup_0105'] = "Opsætning af selve systemet";
 $locale['setup_0106'] = "De vigtigste administrator informationer";
 $locale['setup_0107'] = "Afsluttende opsætning";
