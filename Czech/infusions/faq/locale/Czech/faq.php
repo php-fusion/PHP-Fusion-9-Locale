@@ -97,3 +97,4 @@ FAQ by se měly týkat obsahu této stránky. Nevhodné příspěvky budou smaz�
 $locale['faq_0921'] = "Chcete-li odeslat nejčastější dotazy, musíte se přihlásit.";
 $locale['faq_0922'] = "V současné době nepřijímáme nové příspěvky.";
 $locale['faq_0923'] = "FAQ nelze odeslat, protože neexistují žádné definované kategorie.";
+$locale['faq_submit'] = "%s FAQ";

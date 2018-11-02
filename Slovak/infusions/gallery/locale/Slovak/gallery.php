@@ -51,3 +51,4 @@ $locale['461'] = "fotka|fotky|fotiek";
 $locale['463'] = "vydavateľ|vydavatelia|vydavateľov";
 $locale['464'] = "Dátum pridania:";
 $locale['465'] = "Galéria";
+$locale['gallery_submit'] = "%s fotky";

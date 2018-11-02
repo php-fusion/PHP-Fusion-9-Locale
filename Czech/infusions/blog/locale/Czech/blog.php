@@ -35,3 +35,4 @@ $locale['testimonial_web'] = "Provozuji rovněž další webové stránky na adr
 $locale['testimonial_contact'] = "Pokud mě potřebujete kontaktovat, můžete napsat: %s";
 $locale['testimonial_email'] = "Můžete mi také odeslat zprávu na e-mailovou adresu %s";
 $locale['blog_archive'] = "%b %Y";
+$locale['blog_submit'] = "%s blogy";

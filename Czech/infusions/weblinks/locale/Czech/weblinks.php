@@ -30,3 +30,4 @@ $locale['web_0041'] = "Seznam";
 $locale['web_0060'] = "Nebyly definovány žádné kategorie webových odkazů.";
 $locale['web_0061'] = "Nejsou definovány žádné odkazy."; // 9.0
 $locale['web_0062'] = "V této kategorii neexistuje žádný webový odkaz.";
+$locale['weblink_submit'] = "%s odkazy";

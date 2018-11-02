@@ -97,3 +97,4 @@ FAQ by sa mal vzťahovať na obsah tejto stránky. Nevhodné príspevky budú od
 $locale['faq_0921'] = "Ak chcete odoslať FAQ, musíte sa prihlásiť.";
 $locale['faq_0922'] = "Momentálne neprijímame nové príspevky.";
 $locale['faq_0923'] = "Nemôžete odoslať FAQ, pretože nie sú pridané žiadne kategórie.";
+$locale['faq_submit'] = "%s najčastejšie otázky";
