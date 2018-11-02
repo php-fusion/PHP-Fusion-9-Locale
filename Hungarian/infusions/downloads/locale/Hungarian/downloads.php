@@ -27,3 +27,4 @@ $locale['download_3000'] = "Nincs elérhető letöltés";
 $locale['download_3001'] = "Nincs kategória";
 $locale['download_3002'] = "Nincs Szerző";
 $locale['download_3003'] = "Hozzászólás és szavazás a letöltéshez";
+$locale['download_submit'] = "Letöltés %s";

@@ -81,3 +81,4 @@ Csak az oldal tartalmához illeszkedő GyIK-ot küldj be, különben töröljük
 $locale['faq_0921'] = "Be kell jelentkezned a GyIK Beküldéshez.";
 $locale['faq_0922'] = "Sajnáljuk, De jelenleg az oldal nem fogad GyIK-ot.";
 $locale['faq_0923'] = "Sajnáljuk GyIK-ot nem lehet Beküldeni, mert nincs Kategória létrehozva.";
+$locale['faq_submit'] = "GyIK %s";

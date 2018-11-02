@@ -35,3 +35,4 @@ $locale['461'] = "Kép";
 $locale['463'] = 'Kiadó|Kiadók';
 $locale['464'] = "Hozzáadás dátuma:";
 $locale['465'] = "Galéria";
+$locale['gallery_submit'] = "Kép %s";

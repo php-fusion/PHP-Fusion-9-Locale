@@ -14,3 +14,4 @@ $locale['web_0041'] = "Lista Nézet";
 $locale['web_0060'] = "Nincs Web Link Kategória Létrehozva.";
 //$locale['web_0061'] = "Nincs Web Link Létrehozva.";
 $locale['web_0062'] = "Nincs Web Link ebben a Kategóriában.";
+$locale['weblink_submit'] = "Web Link %s";
