@@ -29,3 +29,4 @@ $locale['article_0041'] = "Zoznam";
 $locale['article_0060'] = "Nie sú pridané žiadne kategórie článkov.";
 $locale['article_0061'] = "Nie sú pridané žiadne články.";
 $locale['article_0062'] = "V tejto kategórii nie sú žiadne články.";
+$locale['article_submit'] = "%s články";

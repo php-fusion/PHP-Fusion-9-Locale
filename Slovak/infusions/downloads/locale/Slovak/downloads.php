@@ -43,3 +43,4 @@ $locale['download_3000'] = "Súbory na stiahnutie ešte neboli pridané";
 $locale['download_3001'] = "Žiadna kategória";
 $locale['download_3002'] = "Žiadny vydavateľ";
 $locale['download_3003'] = "Zobrazte a ohodnoťte tento download";
+$locale['download_submit'] = "%s súbory na prevzatie";

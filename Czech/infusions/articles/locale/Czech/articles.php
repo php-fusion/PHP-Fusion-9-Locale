@@ -29,3 +29,4 @@ $locale['article_0041'] = "Seznam";
 $locale['article_0060'] = "Nebyly definovány žádné kategorie článků.";
 $locale['article_0061'] = "Žádné články nejsou definovány.";
 $locale['article_0062'] = "V této kategorii nejsou žádné články.";
+$locale['article_submit']  = "%s články";

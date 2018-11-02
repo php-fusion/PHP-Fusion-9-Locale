@@ -33,3 +33,4 @@ $locale['news_0016'] = "Nie sú pridané žiadne kategórie.";
 $locale['news_0017'] = "Filtrovať podľa";
 $locale['news_0018'] = "Zobraziť všetky správy";
 $locale['news_0019'] = "Galéria";
+$locale['news_submit'] = "%s novinky";
