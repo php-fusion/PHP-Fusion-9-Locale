@@ -98,3 +98,4 @@ $locale['WLS_0920'] = "Použite tento formulár na odoslanie odkazu.<br/>Váš p
 Odkazy by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['WLS_0922'] = "Momentálne neprijímame nové príspevky.";
 $locale['WLS_0923'] = "Nemôžete odoslať odkaz, pretože nie sú pridané žiadne kategórie.";
+$locale['weblink_submit'] = "%s odkazy";

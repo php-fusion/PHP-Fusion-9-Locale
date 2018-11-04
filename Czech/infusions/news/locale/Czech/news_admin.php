@@ -151,3 +151,4 @@ $locale['956'] = "Čtverec";
 $locale['957'] = "Obrázek na titulní stránce";
 $locale['958'] = "Obrázek na číst více";
 $locale['959'] = "Odeslaná fotka";
+$locale['news_submit'] = "%s novinky";

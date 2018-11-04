@@ -114,3 +114,4 @@ $locale['article_0920'] = "Použite tento formulár na odoslanie článku.<br/>V
 $locale['article_0921'] = "Ak chcete odoslať článok, musíte sa prihlásiť.";
 $locale['article_0922'] = "Momentálne neprijímame nové príspevky.";
 $locale['article_0923'] = "Nemôžete odoslať článok, pretože nie sú pridané žiadne kategórie.";
+$locale['article_submit'] = "%s články";

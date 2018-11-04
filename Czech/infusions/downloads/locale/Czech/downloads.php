@@ -43,4 +43,3 @@ $locale['download_3000'] = "Soubory ke stažení zatím nebyly přidány";
 $locale['download_3001'] = "Žádná kategorie";
 $locale['download_3002'] = "Žádný autor";
 $locale['download_3003'] = "Zobrazit hodnocení tohoto souboru";
-$locale['download_submit'] = "%s soubery ke stažení";

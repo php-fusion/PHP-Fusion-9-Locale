@@ -135,3 +135,4 @@ $locale['download_0309'] = "Uložiť kategóriu";
 $locale['download_0350'] = "Odstrániť túto kategóriu?";
 $locale['download_0351'] = "Zadajte názov kategórie.";
 $locale['download_0352'] = "Táto kategória už existuje.";
+$locale['download_submit'] = "%s súbory na prevzatie";

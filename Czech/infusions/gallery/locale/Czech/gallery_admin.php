@@ -134,3 +134,4 @@ $locale['photo_0025'] = "Odstranit všechny fotografie";
 $locale['photo_0026'] = "[STRONG]VAROVÁNÍ:[/STRONG] Kliknutím na odstranit [STRONG]se natrvalo odstraní všechny fotografie[/STRONG] v tomto albu. Jste si tím jistí?";
 $locale['photo_0027'] = "Potvrďte smazání";
 $locale['photo_0028'] = "Zrušení";
+$locale['gallery_submit'] = "%s fotky";

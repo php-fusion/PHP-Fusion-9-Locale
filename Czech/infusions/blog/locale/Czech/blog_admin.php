@@ -147,3 +147,4 @@ $locale['956'] = "Čtverec";
 $locale['959'] = "Odeslaná fotka";
 $locale['960'] = "Obrázek kategorie";
 $locale['961'] = "Povolené typy souborů:";
+$locale['blog_submit'] = "%s blogy";

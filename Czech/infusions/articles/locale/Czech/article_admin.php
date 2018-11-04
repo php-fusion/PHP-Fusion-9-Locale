@@ -114,3 +114,4 @@ $locale['article_0920'] = "Použijte tento formulář k odeslání článku.<br/
 $locale['article_0921'] = "Chcete-li odeslat článek, musíte se přihlásit.";
 $locale['article_0922'] = "V současné době nepřijímáme nové příspěvky.";
 $locale['article_0923'] = "Nemůžete odeslat článek, protože nejsou definovány žádné kategorie.";
+$locale['article_submit']  = "%s články";
