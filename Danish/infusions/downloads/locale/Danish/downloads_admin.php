@@ -16,17 +16,17 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Downloads Settings
-$locale['604'] = "Bredde x Højde";
-$locale['930'] = "Maksimal størrelse for uploads";
-$locale['931'] = "Maksimal filstørrelse i bytes";
-$locale['932'] = "Tilladte filtyper";
-$locale['933'] = "Adskil de forskellige filtyper med komma";
-$locale['934'] = "Maksimal størrelse for skærmdump";
-$locale['936'] = "Maksimal filstørrelse for skærmdump (i bytes)";
-$locale['937'] = "Maksimal miniaturestørrelse for skærmdump";
-$locale['938'] = "Skal funktionen for skærmdumps slås til ";
-$locale['939'] = "Antal downloads pr. side ";
-$locale['940'] = "Skal status slås til ";
+$locale['download_604'] = "Bredde x Højde";
+$locale['download_930'] = "Maksimal størrelse for uploads";
+$locale['download_931'] = "Maksimal filstørrelse i bytes";
+$locale['download_932'] = "Tilladte filtyper";
+$locale['download_933'] = "Adskil de forskellige filtyper med komma";
+$locale['download_934'] = "Maksimal størrelse for skærmdump";
+$locale['download_936'] = "Maksimal filstørrelse for skærmdump (i bytes)";
+$locale['download_937'] = "Maksimal miniaturestørrelse for skærmdump";
+$locale['download_938'] = "Skal funktionen for skærmdumps slås til ";
+$locale['download_939'] = "Antal downloads pr. side ";
+$locale['download_940'] = "Skal status slås til ";
 $locale['download_0000'] = "Aktuelle downloads";
 $locale['download_0001'] = "Downloads";
 $locale['download_0002'] = "Tilføj downloads";
