@@ -94,3 +94,4 @@ $locale['faq_0920'] = "Brug nedenstående formular til at foreslå en FAQ. Dit f
 $locale['faq_0921'] = "Du skal logge ind. før du kan foreslå en FAQ.";
 $locale['faq_0922'] = "Vi modtager ikke nye forslag til FAQ'er for øjeblikket.";
 $locale['faq_0923'] = "Du kan ikke oprette et nyt forslag, fordi der endnu ikke er oprettet en FAQ-kategori.";
+$locale['faq_submit'] = "%s FAQs";

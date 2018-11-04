@@ -98,3 +98,4 @@ administrator. [SITENAME] reserverer sig retten til at afvise eller redigere all
 skal være i overensstemmelse med indholdet på denne side. Upassende forslag vil blive slettet uden videre.";
 $locale['WLS_0922'] = "Beklager, men vi modtager aktuelt ingen linkforslag på denne side.";
 $locale['WLS_0923'] = "Du kan ikke foreslå et link, da der endnu ikke er oprettet linkkategorier.";
+$locale['weblink_submit'] = "%s links";

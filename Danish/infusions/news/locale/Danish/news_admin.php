@@ -150,3 +150,4 @@ $locale['956'] = "Kvadratisk";
 $locale['957'] = "Billede på forside";
 $locale['958'] = "Billede under udvidet tekst";
 $locale['959'] = "Uploadet billede";
+$locale['news_submit'] = "%s nyheder";

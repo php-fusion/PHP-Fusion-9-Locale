@@ -134,3 +134,4 @@ $locale['photo_0025'] = "Slet alle billeder";
 $locale['photo_0026'] = "[STRONG]ADVARSEL:[/STRONG] Denne funktion vil [STRONG]for altid fjerne alle billeder[/STRONG] i dette album. Er du sikker?";
 $locale['photo_0027'] = "Bekræft sletning";
 $locale['photo_0028'] = "Fortryd";
+$locale['gallery_submit'] = "%s fotos";

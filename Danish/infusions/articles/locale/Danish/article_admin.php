@@ -114,3 +114,4 @@ skal være i overensstemmelse med resten af indholdet her på siden. Upassende f
 $locale['article_0921'] = "Du skal være logget på for at kunne foreslå en artikel.";
 $locale['article_0922'] = "Vi modtager ikke forslag til artikler i øjeblikket.";
 $locale['article_0923'] = "Du kan ikke lave artikelforslag, da der ikke er oprettet artikelkategorier.";
+$locale['article_submit'] = "%s artikler";

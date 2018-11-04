@@ -136,3 +136,4 @@ $locale['download_0309'] = "Gem kategorien";
 $locale['download_0350'] = "Skal denne downloadkategori slettes?";
 $locale['download_0351'] = "Angiv venligst et kategorinavn.";
 $locale['download_0352'] = "Denne kategori eksisterer i forvejen.";
+$locale['download_submit'] = "%s downloads";

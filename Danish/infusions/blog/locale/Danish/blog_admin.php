@@ -147,3 +147,4 @@ $locale['956'] = "Kvadratisk";
 $locale['959'] = "Uploadet billede";
 $locale['960'] = "Kategoribillede";
 $locale['961'] = "Tilladte filtyper";
+$locale['blog_submit'] = "%s blog";
