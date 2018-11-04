@@ -117,3 +117,4 @@ $locale['photo_0025'] = "Képek tisztogatása";
 $locale['photo_0026'] = "[STRONG]FIGYELMEZTETÉS:[/STRONG] A Tisztogatás opció [STRONG]az összes képet maradandóan törli[/STRONG] ebben az albumban. Folytatod?";
 $locale['photo_0027'] = "Rendben";
 $locale['photo_0028'] = "Mégse";
+$locale['gallery_submit'] = "Kép %s";

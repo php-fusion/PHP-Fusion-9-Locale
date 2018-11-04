@@ -101,3 +101,4 @@ Csak az oldal tartalmához illeszkedő cikket küldj be, különben töröljük.
 $locale['article_0921'] = "Be kell jelentkezned a Cikk Beküldéshez.";
 $locale['article_0922'] = "Sajnáljuk, De jelenleg az oldal nem fogad Cikket.";
 $locale['article_0923'] = "Sajnáljuk Cikket nem lehet Beküldeni, mert nincs Kategória létrehozva.";
+$locale['article_submit'] = "Cikk %s";

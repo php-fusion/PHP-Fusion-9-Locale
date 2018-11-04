@@ -119,3 +119,4 @@ $locale['download_0309'] = "Kategória mentése";
 $locale['download_0350'] = "Biztosan törölni szeretnéd ezt a Letöltési Kategóriát?";
 $locale['download_0351'] = "Add meg a Kategória nevét.";
 $locale['download_0352'] = "Ilyen nevű Kategória már létezik.";
+$locale['download_submit'] = "Letöltés %s";

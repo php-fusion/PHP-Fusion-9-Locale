@@ -16,4 +16,3 @@ $locale['news_0015'] = "Lista nézet";
 $locale['news_0016'] = "Nincs kategória beállítva.";
 $locale['news_0017'] = "Szürés";
 $locale['news_0018'] = "Összes Hír mutatása";
-$locale['news_submit'] = "Hír %s";

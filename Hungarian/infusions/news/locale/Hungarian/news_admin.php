@@ -135,3 +135,4 @@ $locale['956'] = "Négyzet";
 $locale['957'] = "Főoldalon megjelenített kép:";
 $locale['958'] = "A részleteknél megjelenített kép:";
 $locale['959'] = "Feltöltött kép";
+$locale['news_submit'] = "Hír %s";

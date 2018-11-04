@@ -13,4 +13,3 @@ $locale['article_0041'] = "Lista Nézet";
 $locale['article_0060'] = "Nincs Cikk Kategória.";
 $locale['article_0061'] = "Nincs Cikk.";
 $locale['article_0062'] = "Nincs cikk ebben a kategóriában.";
-$locale['article_submit'] = "Cikk %s";

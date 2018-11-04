@@ -132,3 +132,4 @@ $locale['956'] = "Négyzetes";
 $locale['959'] = "Kép feltöltve";
 $locale['960'] = "Kategória Kép";
 $locale['961'] = "Engedélyezett fájl tipusok:";
+$locale['blog_submit'] = "Blog %s";

@@ -82,3 +82,4 @@ A Link csak akkor kerül ki az oldalra, ha egy Adminisztrátor engedélyezi. [SI
 Csak az oldal tartalmához illeszkedő Linket küldj be, különben töröljük.";
 $locale['WLS_0922'] = "Sajnáljuk de jelenleg nem fogadunk el link ajánlatot.";
 $locale['WLS_0923'] = "Nem lehet Web Linket Beküldeni, mert nincs Kategória létrehozva.";
+$locale['weblink_submit'] = "Web Link %s";
