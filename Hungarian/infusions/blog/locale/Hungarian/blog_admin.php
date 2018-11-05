@@ -116,20 +116,20 @@ $locale['blog_0703'] = "Blog beküldésére használd az alábbi űrlapot. A blo
 ha egy Adminisztrátor engedélyezi. [SITENAME] fenntartja a jogot a szerkesztésre vagy a visszautasításra. Csak
 az oldal tartalmához igazodó bejegyzést küldj be, ami nem illik az oldalunkhoz, azt töröljük.";
 $locale['blog_0704'] = "Vissza a [SITENAME]";
-$locale['601'] = "Miniatűr mérete:";
-$locale['602'] = "kép méret:";
-$locale['603'] = "Maximum kép méret:";
-$locale['604'] = "Szélesség x Hosszúság";
-$locale['605'] = "Maximum fájl méret (byt):";
-// Blog & News Settings
-$locale['950'] = "Kép feltöltés";
-$locale['951'] = "Kép Link:";
-$locale['952'] = "Kategória";
-$locale['953'] = "Új Hír";
-$locale['954'] = "Miniatűr arány:";
-$locale['955'] = "Eredeti";
-$locale['956'] = "Négyzetes";
-$locale['959'] = "Kép feltöltve";
-$locale['960'] = "Kategória Kép";
-$locale['961'] = "Engedélyezett fájl tipusok:";
+$locale['blog_601'] = "Miniatűr mérete:";
+$locale['blog_602'] = "kép méret:";
+$locale['blog_603'] = "Maximum kép méret:";
+$locale['blog_604'] = "Szélesség x Hosszúság";
+$locale['blog_605'] = "Maximum fájl méret (byt):";
+// Blog Settings
+$locale['blog_950'] = "Kép feltöltés";
+$locale['blog_951'] = "Kép Link:";
+$locale['blog_952'] = "Kategória";
+$locale['blog_953'] = "Új Blog";
+$locale['blog_954'] = "Miniatűr arány:";
+$locale['blog_955'] = "Eredeti";
+$locale['blog_956'] = "Négyzetes";
+$locale['blog_959'] = "Kép feltöltve";
+$locale['blog_960'] = "Kategória Kép";
+$locale['blog_961'] = "Engedélyezett fájl tipusok:";
 $locale['blog_submit'] = "Blog %s";
