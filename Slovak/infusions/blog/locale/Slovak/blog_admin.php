@@ -131,20 +131,20 @@ $locale['blog_0703'] = "Použite nasledujúci formulár na odoslanie blogu.<br/>
 [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
 Blogy by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
 $locale['blog_0704'] = "Späť na [SITENAME]";
-$locale['601'] = "Veľkosť náhľadu:";
-$locale['602'] = "Veľkosť fotky:";
-$locale['603'] = "Max. veľkosť fotky:";
-$locale['604'] = "Šírka x výška";
-$locale['605'] = "Max. veľkosť súboru (bajtov):";
-// Blog & News Settings
-$locale['950'] = "Nahrať obrázok";
-$locale['951'] = "Link obrázku:";
-$locale['952'] = "Kategória";
-$locale['953'] = "Blog";
-$locale['954'] = "Pomer náhľadu:";
-$locale['955'] = "Originál";
-$locale['956'] = "Štvorec";
-$locale['959'] = "Nahraná fotka";
-$locale['960'] = "Obrázok kategórie";
-$locale['961'] = "Povolené typy súborov:";
+$locale['blog_601'] = "Veľkosť náhľadu:";
+$locale['blog_602'] = "Veľkosť fotky:";
+$locale['blog_603'] = "Max. veľkosť fotky:";
+$locale['blog_604'] = "Šírka x výška";
+$locale['blog_605'] = "Max. veľkosť súboru (bajtov):";
+// Blog Settings
+$locale['blog_950'] = "Nahrať obrázok";
+$locale['blog_951'] = "Link obrázku:";
+$locale['blog_952'] = "Kategória";
+$locale['blog_953'] = "Blog";
+$locale['blog_954'] = "Pomer náhľadu:";
+$locale['blog_955'] = "Originál";
+$locale['blog_956'] = "Štvorec";
+$locale['blog_959'] = "Nahraná fotka";
+$locale['blog_960'] = "Obrázok kategórie";
+$locale['blog_961'] = "Povolené typy súborov:";
 $locale['blog_submit'] = "%s blogy";

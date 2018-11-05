@@ -15,17 +15,17 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['604'] = "Šírka x výška";
-$locale['930'] = "Maximálna veľkosť nahratí:";
-$locale['931'] = "Maximálna veľkosť súboru v bajtoch";
-$locale['932'] = "Povolené typy súborov:";
-$locale['933'] = "Oddeľte každý typ čiarkou";
-$locale['934'] = "Maximálna veľkosť screenshotu:";
-$locale['936'] = "Maximálna veľkosť súboru screenshotu (bajty):";
-$locale['937'] = "Maximálna veľkosť náhľadu screenshotu:";
-$locale['938'] = "Povoliť screenshoty?";
-$locale['939'] = "Položiek na stránku";
-$locale['940'] = "Povoliť štatistiky?";
+$locale['download_604'] = "Šírka x výška";
+$locale['download_930'] = "Maximálna veľkosť nahratí:";
+$locale['download_931'] = "Maximálna veľkosť súboru v bajtoch";
+$locale['download_932'] = "Povolené typy súborov:";
+$locale['download_933'] = "Oddeľte každý typ čiarkou";
+$locale['download_934'] = "Maximálna veľkosť screenshotu:";
+$locale['download_936'] = "Maximálna veľkosť súboru screenshotu (bajty):";
+$locale['download_937'] = "Maximálna veľkosť náhľadu screenshotu:";
+$locale['download_938'] = "Povoliť screenshoty?";
+$locale['download_939'] = "Položiek na stránku";
+$locale['download_940'] = "Povoliť štatistiky?";
 $locale['download_0000'] = "Aktuálne súbory na stiahnutie";
 $locale['download_0001'] = "Súbory na stiahnutie";
 $locale['download_0002'] = "Pridať súbor";
