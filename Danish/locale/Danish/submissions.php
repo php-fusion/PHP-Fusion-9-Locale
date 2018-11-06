@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/submissions.php
-| Author: Jan Mølgaard (janmol)
+| Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,10 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['submit_0000'] = "%s Nyheder";
-$locale['submit_0001'] = "%s Artikler";
-$locale['submit_0002'] = "%s Downloads";
-$locale['submit_0003'] = "%s Billeder";
-$locale['submit_0004'] = "%s Links";
-$locale['submit_0005'] = "%s Blogs";
-$locale['submit_0006'] = "%s FAQs";
+$locale['article_submit'] = "%s Artikler";
+$locale['blog_submit'] = "%s Blogs";
+$locale['download_submit'] = "%s Downloads";
+$locale['gallery_submit'] = "%s Billeder";
+$locale['news_submit'] = "%s Nyheder";
