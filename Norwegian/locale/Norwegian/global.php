@@ -4,12 +4,12 @@
 *Produced by Preben Keim Email: preben.keim@paulen.no Web: http://www.paulen.no
 */
 // Locale Settings
-setlocale(LC_ALL, "no_NO.UTF-8"); 
+setlocale(LC_ALL, "no_NO.UTF-8");
 $locale['charset'] = "utf-8";
 $locale['region'] = "NO"; //Norway
 $locale['xml_lang'] = "no";
 $locale['tinymce'] = "no";
-$locale['phpmailer'] = "no";
+$locale['phpmailer'] = "nb";
 $locale['datepicker'] = "no";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januar|Februar|Mars|April|Mai|Juni|July|August|September|Oktober|November|Desember";
