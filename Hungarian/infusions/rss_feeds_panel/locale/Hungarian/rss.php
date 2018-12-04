@@ -1,5 +1,5 @@
 <?php
-$locale['rss_title'] = "RSS Feeds";
+$locale['rss_title'] = "RSS Csatorna";
 $locale['rss_articles'] = "Cikkek";
 $locale['rss_blog'] = "Blog";
 $locale['rss_downloads'] = "Letöltés";
