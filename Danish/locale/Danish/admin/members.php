@@ -77,16 +77,16 @@ $locale['ME_468'] = "Automatisk deaktivering af inaktive brugere.";
 
 // Actions
 $locale['ME_500'] = "Udelukke";
-$locale['ME_501'] = "Genindsætte";
-$locale['ME_502'] = "Deaktivere";
-$locale['ME_503'] = "Suspendere";
-$locale['ME_504'] = "Sikkerhedsudelukkelse";
+$locale['ME_501'] = "Aktiver";
+$locale['ME_502'] = "Deaktiver";
+$locale['ME_503'] = "Suspender";
+$locale['ME_504'] = "Sikkerhedsudeluk";
 $locale['ME_505'] = "Fortryd";
 $locale['ME_506'] = "Anonymiser";
 
 // a_message keys
 $locale['ME_550'] = "udelukket";
-$locale['ME_551'] = "genindsat";
+$locale['ME_551'] = "aktiveret";
 $locale['ME_552'] = "deaktiveret";
 $locale['ME_553'] = "suspenderet";
 $locale['ME_554'] = "sikkerhedsudelukket";
