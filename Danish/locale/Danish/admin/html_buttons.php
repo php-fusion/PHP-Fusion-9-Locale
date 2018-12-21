@@ -5,7 +5,7 @@
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
 | Filename: locale/Danish/admin/html_buttons.php
-| Author: Jan Mølgaard (janmol)
+| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -36,9 +36,10 @@ $locale['html_016'] = "Sideskift";
 $locale['html_017'] = "Tekstfarve";
 $locale['html_018'] = "Afsnit";
 $locale['html_019'] = "Overskrifter";
+$locale['html_020'] = "Linjeskift";
 
 $locale['texts'] = "Tekst";
 $locale['preview'] = "Se teksten";
-$locale['word_count'] = "Karaktertal";
+$locale['word_count'] = "Karakterantal";
 $locale['error_preview'] = "Se fejl";
 $locale['error_preview_text'] = "Visningen fungerer ikke lige nu. Genindlæs siden og prøv igen.";
