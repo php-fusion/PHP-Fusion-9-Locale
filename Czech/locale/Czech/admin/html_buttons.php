@@ -36,6 +36,7 @@ $locale['html_016'] = "Přerušení stránky";
 $locale['html_017'] = "Barva fontu";
 $locale['html_018'] = "Paragraf";
 $locale['html_019'] = "Nadpisy";
+$locale['html_020'] = "Zalomení řádku";
 
 $locale['texts'] = "Text";
 $locale['preview'] = "Náhled";
