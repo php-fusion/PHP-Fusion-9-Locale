@@ -133,4 +133,4 @@ $locale['286'] = "Preskúmať príspevok";
 $locale['290'] = "Existuje automatické ukladanie tohto príspevku, ktoré je aktuálnejšie ako nižšie uvedená verzia.";
 $locale['291'] = "Zobraziť automaticky uložené";
 $locale['292'] = "Uložené revízie";
-$locale['293'] = "Vyplňiť automaticky uložené";
+$locale['293'] = "Vyplniť automaticky uložené";
