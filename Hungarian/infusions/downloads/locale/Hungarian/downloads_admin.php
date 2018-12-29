@@ -1,15 +1,15 @@
 <?php
-$locale['604'] = "Szélesség x Magasság";
-$locale['930'] = "Maximális méret:";
-$locale['931'] = "Megengedett legnagyobb fájlméret (byte)";
-$locale['932'] = "Engedélyezett fájltípusok:";
-$locale['933'] = "Vesszővel elválasztva";
-$locale['934'] = "Max képméret:";
-$locale['936'] = "Max képfájl méret (bájt):";
-$locale['937'] = "Max miniatűr képméret:";
-$locale['938'] = "Kép engedélyezése?";
-$locale['939'] = "Letöltés oldalanként";
-$locale['940'] = "Statisztika Engedélyezése?";
+$locale['download_604'] = "Szélesség x Magasság";
+$locale['download_930'] = "Maximális méret:";
+$locale['download_931'] = "Megengedett legnagyobb fájlméret (byte)";
+$locale['download_932'] = "Engedélyezett fájltípusok:";
+$locale['download_933'] = "Vesszővel elválasztva";
+$locale['download_934'] = "Max képméret:";
+$locale['download_936'] = "Max képfájl méret (bájt):";
+$locale['download_937'] = "Max miniatűr képméret:";
+$locale['download_938'] = "Kép engedélyezése?";
+$locale['download_939'] = "Letöltés oldalanként";
+$locale['download_940'] = "Statisztika Engedélyezése?";
 $locale['download_0000'] = "Jelenlegi Letöltések";
 $locale['download_0001'] = "Letöltések";
 $locale['download_0002'] = "Letöltés hozzáadása";

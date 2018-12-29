@@ -20,6 +20,7 @@ $locale['html_016'] = "Oldaltörés";
 $locale['html_017'] = "Betűszín";
 $locale['html_018'] = "Bekezdés";
 $locale['html_019'] = "Címsorok";
+$locale['html_020'] = "Sortörés";
 
 $locale['texts'] = "Szöveg";
 $locale['preview'] = "Előnézet";

@@ -1,4 +1,4 @@
-PHP-Fusion-Locale
+PHP-Fusion-9-Locales
 =================
 
 Locales
