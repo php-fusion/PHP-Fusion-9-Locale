@@ -32,7 +32,7 @@ $locale['A'] = "Články";
 $locale['BLOG'] = "Blog";
 $locale['BLC'] = "Kategorie blogů";
 $locale['CP'] = "Vlastní stránky";
-$locale['DC'] = "Kategorie downloadů";
+$locale['DC'] = "Kategorie souborů ke stažení";
 $locale['D'] = "Ke stažení";
 $locale['FQ'] = "FAQ";
 $locale['F'] = "Fórum";
@@ -81,7 +81,7 @@ $locale['MAIL'] = "Šablony e-mailů";
 $locale['PL'] = "Trvalé odkazy";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Vzhledy";
-$locale['S13'] = "Nastavení Blog";
+$locale['S13'] = "Nastavení blogu";
 $locale['LANG'] = "Nastavení jazyka";
 
 // Site Information
