@@ -20,13 +20,13 @@ $locale['uf_gauth_desc'] = "2 Factor Authentication ved benyttelse af Google Aut
 
 $locale['uf_gauth_100'] = "To-trins verificering";
 $locale['uf_gauth_101'] = "Denne brugerkonto er sikret med to-trins verificering";
-$locale['uf_gauth_102'] = "Indtast venligst verificeringskoden genereret af din Google Authenticator applikation.";
+$locale['uf_gauth_102'] = "Indtast venligst verificeringskoden genereret af din Google Authenticator-applikation.";
 $locale['uf_gauth_103'] = "Authentication kode";
-$locale['uf_gauth_104'] = "Du skal indtaste en gyldig Authentication kode";
-$locale['uf_gauth_105'] = "Indtast Google Authentication kode";
+$locale['uf_gauth_104'] = "Du skal indtaste en gyldig Authentication-kode";
+$locale['uf_gauth_105'] = "Indtast Google Authentication-kode";
 $locale['uf_gauth_106'] = "Bekræft kode";
 $locale['uf_gauth_107'] = "Deaktiver kode";
-$locale['uf_gauth_108'] = "Aktiver to-trins Authentication kode";
+$locale['uf_gauth_108'] = "Aktiver to-trins Authentication-kode";
 $locale['uf_gauth_109'] = "Nej, jeg ønsker ikke at anvende to-trins Authentication";
 $locale['uf_gauth_110'] = "Ja, jeg ønsker at indføre to-trins Authentication";
 $locale['uf_gauth_111'] = "Din {SITE_NAME} konto er beskyttet med Google Authenticator. Google Authenticator er en sikker og nem at anvende, to-trins authentcation applikation til dine mobile apparater og som er immun overfor replay-angreb, man-in-the-middle angreb og vært for andre trussels vektorer.";
@@ -35,12 +35,12 @@ $locale['uf_gauth_113'] = "Undgå venligst at fjerne parring på din app før du
 $locale['uf_gauth_114'] = "Deaktiver to-trins Authentication ved at indsætte koden nedenfor:";
 
 $locale['uf_gauth_115'] = "Aktiverer to-trins Authentication";
-$locale['uf_gauth_116'] = "Når denne proces er gennemført, vil du aldrig få vist  setup information igen. Hvis du ønsker det, kan du udskrive denne information og gemme den et sikekrt sted.";
+$locale['uf_gauth_116'] = "Når denne proces er gennemført, vil du aldrig få vist  setup information igen. Hvis du ønsker det, kan du udskrive denne information og gemme den et sikkert sted.";
 
 $locale['uf_gauth_120'] = "Din konto er blevet suspenderet hos {SITE_NAME} på grund af sikkerhedsårsager.";
 $locale['uf_gauth_121'] = "Konto suspenderet grundet mistænkelig kontoaktivitet";
 $locale['uf_gauth_122'] = "Kære {USERNAME},<br/><br/>Vi har kunnet konstatere flere forsøg på log ind på din brugerkonto hos {SITENAME}. Og som en sikkerhedsforanstaltning, har vi midlertidigt [strong]suspenderet kontoen[/strong]. Hvis du mener det er en fejl, kan du genaktivere din konto via linket nedenfor.<br/><br/>{RESTORE_LINK}<br/><br/>Venlig hilsen,<br/>{SITE_ADMIN}\nSideadministrator,\n{SITENAME}";
-$locale['uf_gauth_123'] = "Vi kunne ikke bekræfte din authentication kode. Du har {D} forsøg tilbage";
+$locale['uf_gauth_123'] = "Vi kunne ikke bekræfte din authentication-kode. Du har {D} forsøg tilbage";
 
 $locale['uf_gauth_130'] = "Din konto er nu blevet genaktiveret.";
 $locale['uf_gauth_131'] = "Vi kunne ikke genaktivere din konto grundet en ugyldig genaktiveringskode. Venligst kontakt sideadministratoren.";

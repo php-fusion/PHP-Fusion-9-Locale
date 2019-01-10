@@ -43,8 +43,8 @@ $locale['BLS_039'] = "Vælg alle";
 
 $locale['BLS_MS'] = "Ved at indskrive en IP-adresse vil man forhindre en bruger, hvis IP-adresse svarer til den gemte fra at besøge denne side.
 Du kan indskrive en fuld IP-adresse - f. eks. <em>123.45.67.89.</em>, eller en del af en adresse f. eks. <em>123.45.67</em> eller <em>123.45</em>.
-Bemærk: IPv6 adresser omsættes til fuld længde her på siden, f. eks. vil <em>ABCD:1234:5:6:7:8:9:FF</em> blive vist som <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Blandede IP-adresser (dem der indeholder både IPv6 og IPv4 elementer) vil ikke blive kontrolleret for delvist sammenfald.
+Bemærk: IPv6-adresser omsættes til fuld længde her på siden, f. eks. vil <em>ABCD:1234:5:6:7:8:9:FF</em> blive vist som <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Blandede IP-adresser (dem der indeholder både IPv6- og IPv4-elementer) vil ikke blive kontrolleret for delvist sammenfald.
 <br /><br />
 Indskriver du en mailadresse vil det forhindre besøgende i at oprette sig med denne adresse.
 Du kan indskrive en fuld adresse f. eks. <em>foo@bar.com</em>, eller et domænenavn f. eks. <em>bar.com</em>.<br /><br />

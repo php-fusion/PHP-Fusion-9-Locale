@@ -18,17 +18,17 @@
 $locale['400'] = "PHP Information";
 //General
 $locale['401'] = "Generelt";
-$locale['402'] = "Server software";
-$locale['403'] = "Webserver software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
-$locale['407'] = "PHP-Fusion version";
-$locale['408'] = "Database fornavn";
-$locale['409'] = "Cookie fornavn";
+$locale['402'] = "Server-software";
+$locale['403'] = "Webserver-software";
+$locale['404'] = "PHP-version";
+$locale['405'] = "PHP-interface";
+$locale['406'] = "MySQL Server-version";
+$locale['407'] = "PHP-Fusion-version";
+$locale['408'] = "Databasefornavn";
+$locale['409'] = "Cookiefornavn";
 $locale['410'] = "Browser og Operativsystem";
 //PHP settings
-$locale['420'] = "PHP indstillinger";
+$locale['420'] = "PHP-indstillinger";
 $locale['421'] = "Ja";
 $locale['422'] = "Nej";
 $locale['423'] = "Safemode";
