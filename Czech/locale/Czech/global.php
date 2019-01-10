@@ -527,5 +527,6 @@ $locale['fmt_admin'] = "admin|admini|adminů";
 $locale['fmt_group'] = "skupina|skupiny|skupin";
 $locale['fmt_category'] = "kategorie|kategorie|kategorií";
 $locale['fmt_review'] = "recenze|recenze|recenzí";
+$locale['fmt_infusion'] = "infuze|infuze|infuzí";
 // include Defender locales
 include __DIR__."/defender.php";
