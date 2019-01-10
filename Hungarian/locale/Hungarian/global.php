@@ -515,5 +515,6 @@ $locale['fmt_admin'] = "admin|adminok";
 $locale['fmt_group'] = "csoport|csoportok";
 $locale['fmt_category'] = "kategória|kategóriák";
 $locale['fmt_review'] = "értékelés|értékelés";
+$locale['fmt_infusion'] = "infusion|infusions";
 // include Defender locales
 include __DIR__."/defender.php";
