@@ -4,7 +4,7 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: infusions/blog/locale/Danish/search/blog.php
+| Filename: infusions/blog/locale/Danish/permalinks/blog.php
 | Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
@@ -15,10 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['b400'] = "Blog";
-$locale['b401'] = "Blogindlæg";
-$locale['b402'] = "Blogindlæg";
-$locale['b403'] = "fundet i";
-$locale['b404'] = "Blogemne";
-$locale['b405'] = "Blogtekst";
-$locale['b406'] = "udvidet blogtekst";
+<?php
+$locale['pl_blog_title'] = "Blog";
+$locale['pl_blog_desc'] = "Aktiver permalinks til blogs på hjemmesiden.";
+$locale['pl_tags_001'] = "ID på blog.";
+$locale['pl_tags_002'] = "Titel eller emne på blog.";

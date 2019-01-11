@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['articles.php'] = "Artikler";
 $locale['a400'] = "Artikler";
 $locale['a401'] = "Artikel";
 $locale['a402'] = "Artikler";

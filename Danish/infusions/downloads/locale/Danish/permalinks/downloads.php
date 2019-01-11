@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: infusions/downloads/locale/Danish/search/downloads.php
-| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
+| Filename: infusions/downloads/locale/Danish/permalinks/downloads.php
+| Author: Helmuth Mikkelsen (helmuth)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
@@ -15,13 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['downloads.php'] = "Downloads";
-$locale['d400'] = "Downloads";
-$locale['d401'] = "Download";
-$locale['d402'] = "Downloads";
-$locale['d403'] = "[NY]";
-$locale['d404'] = "Licens";
-$locale['d405'] = "O/S";
-$locale['d406'] = "Version";
-$locale['d407'] = "Tilføjelsesdato";
-$locale['d408'] = "Downloads";
+<?php
+$locale['pl_downloads_title'] = "Downloads";
+$locale['pl_downloads_desc'] = "Aktiver permalinks til downloads på hjemmesiden.";
