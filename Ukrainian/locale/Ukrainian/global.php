@@ -577,4 +577,4 @@ $locale['fmt_group'] = "група|групи|груп";
 $locale['fmt_category'] = "розділ|розділи|розділів";
 
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

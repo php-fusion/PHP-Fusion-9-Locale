@@ -15,7 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-<?php
 $locale['pl_blog_title'] = "Blog";
 $locale['pl_blog_desc'] = "Aktiver permalinks til blogs på hjemmesiden.";
 $locale['pl_tags_001'] = "ID på blog.";

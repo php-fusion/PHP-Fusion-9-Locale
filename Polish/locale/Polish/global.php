@@ -111,9 +111,9 @@ $locale['global_021'] = "Najnowsze tematy";
 $locale['global_022'] = "Najciekawsze tematy";
 $locale['global_023'] = "Brak tematów na forum";
 <<<<<<< HEAD
-$locale['global_024'] = "Udział w dyskusji";                     
-$locale['global_027'] = "Tematy bez odpowiedzi";                    
-$locale['global_028'] = "Nierozwiązane pytania";                     
+$locale['global_024'] = "Udział w dyskusji";
+$locale['global_027'] = "Tematy bez odpowiedzi";
+$locale['global_028'] = "Nierozwiązane pytania";
 =======
 $locale['global_024'] = "Participated Discussions";                     // NIEPRZETŁUMACZONE //
 $locale['global_027'] = "Wątki bez odpowiedzi";
@@ -628,4 +628,4 @@ $locale['fmt_admin'] = "admin|admini";
 $locale['fmt_group'] = "grupa|grupy";
 $locale['fmt_category'] = "kategoria|kategorie";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

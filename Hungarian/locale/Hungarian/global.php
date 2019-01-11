@@ -517,4 +517,4 @@ $locale['fmt_category'] = "kategória|kategóriák";
 $locale['fmt_review'] = "értékelés|értékelés";
 $locale['fmt_infusion'] = "infusion|infusions";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

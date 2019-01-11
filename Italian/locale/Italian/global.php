@@ -461,4 +461,4 @@ $locale['fmt_weblink'] = "weblink|weblinks";
 $locale['fmt_week'] = "settimana|settimane";
 $locale['fmt_year'] = "anno|anni";
 // includono impostazioni locali Defender
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

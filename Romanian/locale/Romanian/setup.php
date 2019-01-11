@@ -75,7 +75,7 @@ $locale['setup_1003'] = "Am detectat c&#259; exist&#259; deja o versiune instala
 $locale['setup_1004'] = "Instalare nou&#259;";
 $locale['setup_1005'] = "&#206;&#355;i po&#355;i &#351;terge &#351;i cur&#259;&#355;a baza de date &#351;i po&#355;i &#238;ncepe o instalare nou&#259;.<br />";
 $locale['setup_1006'] = "F&#258; O COPIE DE SIGURAN&#354;&#258; A FI&#350;IERULUI CONFIG.PHP.<br /> VA FI &#350;TERS &#206N TIMPUL DEZINSTAL&#258;RII.";
-$locale['setup_1007'] = "Dezinstaleaz&#259; &#351;i porne&#351;te din nou"; 
+$locale['setup_1007'] = "Dezinstaleaz&#259; &#351;i porne&#351;te din nou";
 $locale['setup_1008'] = "Instalarea sistemului principal";
 $locale['setup_1009'] = "Schimb&#259; configura&#355;ia sistemului principal.";
 $locale['setup_1010'] = "Du-te la instalarea sistemului principal";
@@ -311,17 +311,17 @@ $locale['setup_3660'] = "Informa&#355;ii sait";
 $locale['setup_3661'] = "Discu&#355;ii legate de managementul acestui sait";
 
 // Stage 6 - User Fields
-require_once(dirname(__FILE__)."/user_fields/user_aim.php");
-require_once(dirname(__FILE__)."/user_fields/user_birthdate.php");
-require_once(dirname(__FILE__)."/user_fields/user_icq.php");
-require_once(dirname(__FILE__)."/user_fields/user_location.php");
-require_once(dirname(__FILE__)."/user_fields/user_sig.php");
-require_once(dirname(__FILE__)."/user_fields/user_skype.php");
-require_once(dirname(__FILE__)."/user_fields/user_theme.php");
-require_once(dirname(__FILE__)."/user_fields/user_web.php");
-require_once(dirname(__FILE__)."/user_fields/user_yahoo.php");
-require_once(dirname(__FILE__)."/user_fields/user_timezone.php");
-require_once(dirname(__FILE__)."/user_fields/user_blacklist.php");
+require_once __DIR__."/user_fields/user_aim.php";
+require_once __DIR__."/user_fields/user_birthdate.php";
+require_once __DIR__."/user_fields/user_icq.php";
+require_once __DIR__."/user_fields/user_location.php";
+require_once __DIR__."/user_fields/user_sig.php";
+require_once __DIR__."/user_fields/user_skype.php";
+require_once __DIR__."/user_fields/user_theme.php";
+require_once __DIR__."/user_fields/user_web.php";
+require_once __DIR__."/user_fields/user_yahoo.php";
+require_once __DIR__."/user_fields/user_timezone.php";
+require_once __DIR__."/user_fields/user_blacklist.php";
 
 // Welcome message
 $locale['setup_3650'] = "Bun venit pe saitul t&#259;u!";

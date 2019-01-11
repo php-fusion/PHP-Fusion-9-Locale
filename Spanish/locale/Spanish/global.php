@@ -508,4 +508,4 @@ $locale['fmt_admin'] = "admins|admin";
 $locale['fmt_group'] = "grupos|grupo";
 $locale['fmt_category'] = "categorías|categoría";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

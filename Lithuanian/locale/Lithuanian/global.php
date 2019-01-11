@@ -24,7 +24,7 @@ $locale['xml_lang'] = "lt";
 $locale['short_lang_name'] = "lt";
 $locale['tinymce'] = "lt";
 $locale['select2'] = "lt";
-$locale['phpmailer'] = "lt";				   
+$locale['phpmailer'] = "lt";
 $locale['datepicker'] = "lt";
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";
@@ -58,7 +58,7 @@ $locale['sel_state'] = "Pasirinkti valstiją";
 $locale['sel_user'] = "Prašome įvesti vartotojo vardą";
 $locale['add_language'] = "Pridėti kalbos vertimus";
 $locale['add_lang'] = "Pridėti %s";
-$locale['other_states'] = "Kitos apskritys"; 
+$locale['other_states'] = "Kitos apskritys";
 // Name
 $locale['name'] = 'Pilnas vardas';
 $locale['username_pretext'] = 'Jūsų vartotojo vardas bus toks pat, koks ir vartotojo profilio adresas: %s %s';
@@ -149,9 +149,9 @@ $locale['global_059'] = "Jūs nesekate jokių temų.";
 $locale['global_060'] = "Nustoti sekti šią temą?";
 // Blog, News & Articles
 $locale['global_070'] = "Parašė ";
-									
+
 $locale['global_070b'] = "Rodyti visus %s pranešimus";
-									  
+
 $locale['global_071'] = "&middot; ";
 $locale['global_071b'] = "Autorius";
 $locale['global_072'] = "Skaityti toliau";
@@ -348,10 +348,10 @@ $locale['global_465'] = "TB";
 $locale['global_500'] = "Jūs buvote nukreipas į %s, prašome palaukti. Jeigu nebuvote perkeltas, spauskite čia.";
 // Captcha Locales
 $locale['global_600'] = "Patvirtinimo kodas";
-$locale['global_601'] = "Turite įvesti teisingą patvirtinimo kodą";		   
+$locale['global_601'] = "Turite įvesti teisingą patvirtinimo kodą";
 $locale['recaptcha'] = "lt";
 // Site links
-$locale['global_700'] = "Rodyti daugiau";		
+$locale['global_700'] = "Rodyti daugiau";
 //Miscellaneous
 $locale['global_900'] = "Neįmanoma paversti HEX į DEC";
 $locale['global_901'] = "Įkelti mediją";
@@ -472,7 +472,7 @@ $locale['nopreview'] = 'Nėra ką rodyti';
 $locale['mark_as'] = "Žymėti kaip";
 $locale['preview'] = "Peržiūrėti";
 $locale['custom'] = "Nestandartinis";
-$locale['submit'] = "Pateikti";		 
+$locale['submit'] = "Pateikti";
 //Alignment
 $locale['left'] = "Kairė";
 $locale['center'] = "Centras";
@@ -520,6 +520,6 @@ $locale['fmt_year'] = "metai|metai";
 $locale['fmt_points'] = "taškas|taškai";
 $locale['fmt_admin'] = "administratorius|administratoriai";
 $locale['fmt_group'] = "grupė|grupės";
-$locale['fmt_category'] = "kategorija|kategorijos";				
+$locale['fmt_category'] = "kategorija|kategorijos";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

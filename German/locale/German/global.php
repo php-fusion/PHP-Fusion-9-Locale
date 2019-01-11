@@ -577,7 +577,7 @@ $locale['fmt_group'] = "Gruppe|Gruppen";
 $locale['fmt_category'] = "Kategori|Kategorien";
 $locale['fmt_review'] = "review|reviews";
 // Defender
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";
 
 
 

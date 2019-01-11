@@ -529,4 +529,4 @@ $locale['fmt_category'] = "kategória|kategórie|kategórií";
 $locale['fmt_review'] = "recenzia|recenzie|recenzií";
 $locale['fmt_infusion'] = "infúzia|infúzie|infúzií";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

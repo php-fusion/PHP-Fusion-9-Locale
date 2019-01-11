@@ -55,9 +55,9 @@ $locale['440'] = "Lagre endringer";
 $locale['450'] = "Den primære administrator kan ikke redigeres.";
 $locale['451'] = "Du må angi et brukernavn og en epost adresse.";
 $locale['452'] = "Brukernavnet inneholder forbudte tegn.";
-$locale['453'] = "Brukernavnet ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." er allerede i bruk.";
+$locale['453'] = "Brukernavnet [username] er allerede i bruk.";
 $locale['454'] = "Feil i epost adresse.";
-$locale['455'] = "Epost adressen ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." er allerede i bruk.";
+$locale['455'] = "Epost adressen [useremail] er allerede i bruk.";
 $locale['456'] = "De to passordene er ikke identiske.";
 $locale['457'] = "Det er feil i passordet, bruk kun alfanumeriske karakterer.<br />
 Passordet må være på minst 8 tegn.";
@@ -70,7 +70,7 @@ $locale['473'] = "Brukergrupper";
 $locale['480'] = "Legg til bruker";
 $locale['481'] = "Brukerkontoen ble lagt til.";
 $locale['482'] = "Brukerkontoen kunne ikke legges til.";
-// Suspension Log 
+// Suspension Log
 $locale['510s'] = "Suspensjonslogg for ";
 $locale['511s'] = "Det er ingen registrerte suspenderinger for denne brukeren.";
 $locale['512s'] = "Tidligere suspenderinger av ";

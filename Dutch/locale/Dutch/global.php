@@ -9,11 +9,11 @@
  * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
 * @package locale/Dutch
- 
+
  * Vertaald door Douwe Yntema
- * Nederlandstalige support site: http://www.phpfusion-nederlands.info 
+ * Nederlandstalige support site: http://www.phpfusion-nederlands.info
  */
- 
+
 // setlocale(LC_TIME, "nl","NL"); // Voor Windows Server
 setlocale(LC_TIME, "nl_NL"); // Voor Linux Server
 $locale['charset'] = "ISO-8859-1";
@@ -282,12 +282,12 @@ $locale['global_210'] = "Ga naar inhoud";
 $locale['global_300'] = "geen thema gevonden";
 
 
-$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond. 
-Door bepaalde omstandigheden kan geen site-thema worden gevonden. 
-Indien u een beheerder van de site bent, gebruik dan a.u.b. uw FTP-programma om een voor 
-<em>PHP-Fusion 9</em> ontworpen thema naar de <em>themes</em> map te uploaden. 
-Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload. 
-Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers) 
+$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond.
+Door bepaalde omstandigheden kan geen site-thema worden gevonden.
+Indien u een beheerder van de site bent, gebruik dan a.u.b. uw FTP-programma om een voor
+<em>PHP-Fusion 9</em> ontworpen thema naar de <em>themes</em> map te uploaden.
+Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload.
+Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers)
 als gekozen in <em>Thema Instellingen</em>.<br /><br />Indien u een gewoon lid van de site bent, neemt u dan a.u.b. contact op met de beheerder van de site via [SITE_EMAIL] e-mail en meldt dit probleem.";
 $locale['global_302'] = "Het thema gekozen in Algemene Instellingen bestaat niet of is incompleet.!";
 // JavaScript Not Enabled
@@ -312,7 +312,7 @@ $locale['global_412'] = "Dit account is geanonimiseerd, waarschijnlijk door inac
 $locale['global_440'] = "Automatische verbanning door Flood Control";
 $locale['global_441'] = "Uw account op [SITENAME] is verbannen";
 $locale['global_442'] = "Beste [USER_NAME],\n
-Uw account op [SITENAME] heeft in korte tijd te veel berichten in het systeem geplaatst met IP [USER_IP], en is daarom verbannen. 
+Uw account op [SITENAME] heeft in korte tijd te veel berichten in het systeem geplaatst met IP [USER_IP], en is daarom verbannen.
 Dit is gedaan om snelle verspreiding van spam door robots te voorkomen.\n
 Neem contact op met de site beheerder via [SITE_EMAIL] om uw account vrij te geven of om te melden dat u het niet was die dit veroorzaakt heeft.\n
 [SITEUSERNAME]";
@@ -519,4 +519,4 @@ $locale['fmt_year'] = "jaar|jaren";
 $locale['fmt_points'] = "punt|punten";
 $locale['fmt_admin'] = "beheerder|beheerders";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

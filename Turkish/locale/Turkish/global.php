@@ -513,4 +513,4 @@ $locale['fmt_admin'] = "yönetim|yöneticiler";
 $locale['fmt_group'] = "grup|gruplar";
 $locale['fmt_category'] = "kategori|kategoriler";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

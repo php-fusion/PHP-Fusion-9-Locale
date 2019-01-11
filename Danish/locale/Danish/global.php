@@ -384,7 +384,7 @@ $locale['or'] = "eller";
 $locale['by'] = "af";
 $locale['in'] = "i";
 $locale['of'] = "af";
-$locale['and'] = "og"; 
+$locale['and'] = "og";
 $locale['na'] = "Ingen information tilgængelig.";
 $locale['joined'] = "Tilmeldt siden ";
 // Navigation
@@ -522,4 +522,4 @@ $locale['fmt_group'] = "gruppe|grupper";
 $locale['fmt_category'] = "kategori|kategorier";
 $locale['fmt_review'] = "anmeldelse|anmeldelser";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

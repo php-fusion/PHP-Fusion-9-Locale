@@ -292,17 +292,17 @@ $locale['setup_3645'] = "Privacy";
 $locale['setup_3660'] = "Site Informatie";
 $locale['setup_3661'] = "Discussies over het beheer van deze website";
 // Stage 6 - User Fields
-require_once(dirname(__FILE__)."/user_fields/user_aim.php");
-require_once(dirname(__FILE__)."/user_fields/user_birthdate.php");
-require_once(dirname(__FILE__)."/user_fields/user_icq.php");
-require_once(dirname(__FILE__)."/user_fields/user_location.php");
-require_once(dirname(__FILE__)."/user_fields/user_sig.php");
-require_once(dirname(__FILE__)."/user_fields/user_skype.php");
-require_once(dirname(__FILE__)."/user_fields/user_theme.php");
-require_once(dirname(__FILE__)."/user_fields/user_web.php");
-require_once(dirname(__FILE__)."/user_fields/user_yahoo.php");
-require_once(dirname(__FILE__)."/user_fields/user_timezone.php");
-require_once(dirname(__FILE__)."/user_fields/user_blacklist.php");
+require_once __DIR__."/user_fields/user_aim.php";
+require_once __DIR__."/user_fields/user_birthdate.php";
+require_once __DIR__."/user_fields/user_icq.php";
+require_once __DIR__."/user_fields/user_location.php";
+require_once __DIR__."/user_fields/user_sig.php";
+require_once __DIR__."/user_fields/user_skype.php";
+require_once __DIR__."/user_fields/user_theme.php";
+require_once __DIR__."/user_fields/user_web.php";
+require_once __DIR__."/user_fields/user_yahoo.php";
+require_once __DIR__."/user_fields/user_timezone.php";
+require_once __DIR__."/user_fields/user_blacklist.php";
 
 // Welcome message
 $locale['setup_3650'] = "Welkom op uw site!";

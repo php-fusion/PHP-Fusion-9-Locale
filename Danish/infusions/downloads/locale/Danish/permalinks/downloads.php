@@ -15,6 +15,5 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-<?php
 $locale['pl_downloads_title'] = "Downloads";
 $locale['pl_downloads_desc'] = "Aktiver permalinks til downloads på hjemmesiden.";

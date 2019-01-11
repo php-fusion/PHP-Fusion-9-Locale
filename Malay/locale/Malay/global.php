@@ -468,4 +468,4 @@ $locale['fmt_weblink'] = "pautan-laman|pautan-laman";
 $locale['fmt_week'] = "minggu|minggu";
 $locale['fmt_year'] = "tahun|tahun";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";

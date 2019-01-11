@@ -322,7 +322,7 @@ $locale['global_457'] = "Salut USER_NAME,
 \n\nO nou&#259; parol&#259; a fost setat&#259; pentru contul t&#259;u pe [SITENAME]. Te rog folose&#351;te noile detalii de conectare:<br /><br />\n\n
 Utilizator: USER_NAME\n<br />Parol&#259;: [PASSWORD]<br /><br />\n\Cu repect,<br />\n[SITEUSERNAME]";
 $locale['global_458'] = "Noua parol&#259; a fost setat&#259; pt USER_NAME";
-$locale['global_459'] = "Noua parol&#259; a fost setat&#259; pentru USER_NAME, &#351;i nu a fost trimis niciun email. Te rog asigur&#259;-te c&#259; va primi noile detalii de conectare.";	
+$locale['global_459'] = "Noua parol&#259; a fost setat&#259; pentru USER_NAME, &#351;i nu a fost trimis niciun email. Te rog asigur&#259;-te c&#259; va primi noile detalii de conectare.";
 // Function parsebytesize()
 $locale['global_460'] = "Gol";
 $locale['global_461'] = "Octe&#355;i";
@@ -504,5 +504,5 @@ $locale['fmt_admin'] = "admini|admin";
 $locale['fmt_group'] = "grupuri|grup";
 $locale['fmt_category'] = "categorii|categorie";
 // include Defender locales
-include __DIR__."/defender.php";
+include_once __DIR__."/defender.php";
 ?>
