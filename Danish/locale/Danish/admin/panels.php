@@ -80,7 +80,7 @@ $locale['467'] = "Vis kun på forsiden";
 $locale['468'] = "Elementets visning ";
 $locale['469'] = "Ingen";
 $locale['469a'] = "Indhold";
-
+// Update/Add new Panel Errors
 $locale['470'] = "Der mangler et elementnavn";
 $locale['471'] = "Dette navn bruges allerede";
 $locale['472'] = "Indholdet er ikke angivet";

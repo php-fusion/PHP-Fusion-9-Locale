@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['BBCA_400'] = "BB koder";
+$locale['BBCA_400'] = "BB-koder";
 $locale['BBCA_400a'] = "BB-koder administration";
 $locale['BBCA_401'] = "BB-kode testside";
 // Enabled BB Codes

@@ -16,10 +16,11 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['400'] = "Indstillinger";
-// Site Settings
-$locale['401'] = "Hovedindstillinger";
 $locale['401a'] = "Hjemmeside vært indstillinger";
 $locale['401b'] = "Konfiguration til din hjemmeside url, hjemmeside port og hjemmeside protokoller.";
+
+// Site Settings
+$locale['401'] = "Hovedindstillinger";
 $locale['402'] = "Sidens navn";
 $locale['403'] = "Sidens adresse";
 $locale['404'] = "Sidens banner";
