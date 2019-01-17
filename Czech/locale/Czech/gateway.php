@@ -87,7 +87,7 @@ $locale['gateway_063'] = "číslech";
 $locale['gateway_064'] = "Na otázku musíte odpovědět";
 $locale['gateway_065'] = "Pokračovat";
 
-$locale['gateway_066'] = "Vaše odpověď je nesprávná!";
+$locale['gateway_066'] = "Vaše odpověď je nesprávná!<br/>Napište všechny odpovědi v jednom řádku a bez mezer. Např.: šestadvacet nebo devatenáct";
 $locale['gateway_067'] = "Zkuste to znovu!";
 $locale['gateway_068'] = "Zkuste později prosím!";
 $locale['gateway_069'] = "Fusion GateWay";
