@@ -21,7 +21,7 @@ $locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k 
 $locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>podmínkami používání</a>";
 $locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 5.6.39. alší informace naleznete na stránce <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systémových požadavků</a>.";
 $locale['setup_0007'] = "Systémy s nainstalovanou OPCache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
-$locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion</a>.";
+$locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion.";
 $locale['setup_0010'] = "Aktuální verze sestavy: ";
 $locale['setup_0011'] = "cz";
 $locale['setup_0012'] = "utf-8";
