@@ -5,7 +5,7 @@ $locale['setup_0003'] = "A telepítő végigvezeti a szükséges lépéseken, ho
 $locale['setup_0005'] = " Elolvastam és elfogadom a PHP-Fusion <a href='www.php-fusion.co.uk/licensing/licensing.php'>használati feltételeit</a>.";
 $locale['setup_0006'] = "PHP-Fusion 9 működéséhez MINIMUM PHP 5.6.39. Szükséges, Lásd a <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'> rendszer követelményei </a> oldalt további információkért.";
 $locale['setup_0007'] = "Rendszerek OPCache-t telepíteni kell <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\"> opcache.save_comments </a> engedélyezése.";
-$locale['setup_5000'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.</a>.";
+$locale['setup_5000'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.";
 $locale['setup_0010'] = "Aktuális verzió - ";
 $locale['setup_0011'] = "hu";
 $locale['setup_0012'] = "utf-8";
