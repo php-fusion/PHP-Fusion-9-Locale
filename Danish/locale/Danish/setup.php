@@ -21,7 +21,7 @@ $locale['setup_0003'] = "Guiden her vil føre dig gennem de nødvendige trin til
 $locale['setup_0005'] = "Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://php-fusion.co.uk/licensing/licensing.php' target='_blank'>betingelser</a>.";
 $locale['setup_0006'] = "PHP-Fusion 9 skal bruge PHP i mindst version 5.6.39. Se <a href=\"https://www.php-fusion.co.uk/requirements\">systemkravene</a> for at få mere information.";
 $locale['setup_0007'] = "Systemer hvor OPcache er installeret skal have <a target='_blank' href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> slået til.";
-$locale['setup_5000'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne</a>.";
+$locale['setup_5000'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
 $locale['setup_0010'] = "Nuværende Build Version - ";
 $locale['setup_0011'] = "da";
 $locale['setup_0012'] = "utf-8";
