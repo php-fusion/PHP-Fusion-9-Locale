@@ -18,3 +18,4 @@ $locale['forum_tag_0205'] = "Ten tag jest aktywny";
 $locale['forum_tag_0206'] = "Ten tag jest nieaktywny";
 $locale['forum_tag_0207'] = "Utwórz tag";
 $locale['forum_tag_0208'] = "Zaktualizuj tag";
+$locale['forum_tag_0209'] = "No Forum Tag defined.";

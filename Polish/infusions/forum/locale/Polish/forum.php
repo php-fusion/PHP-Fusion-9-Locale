@@ -3,6 +3,8 @@ $locale['error-DP001'] = "Brak postów do usunięcia.";
 $locale['error-MP000'] = "Przenieś posty - błąd";
 $locale['error-MP001'] = "Nowy wątek nie istnieje.";
 $locale['error-MP002'] = "Posty, które zostały oznaczone do przeniesienia nie istnieją lub ktoś inny już je przeniósł.";
+
+
 $locale['forum_0000'] = "Forum dyskusyjne";
 $locale['forum_0001'] = "Forum";
 $locale['forum_0002'] = "Wątki";
@@ -18,6 +20,19 @@ $locale['forum_0011'] = "Moje posty";
 $locale['forum_0012'] = "Najnowsze wątki";
 $locale['forum_0013'] = "Kategorie forum";
 $locale['forum_0014'] = "Reputacja";
+$locale['forum_0015'] = "Forum Overview";
+$locale['forum_0016'] = "Activity";
+$locale['forum_0017'] = "People";
+$locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "There are no sub-forums available";
+
+$locale['forum_0020'] = "Last Activity";
+$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0022'] = "Responded in";
+$locale['forum_0023'] = "Re:";
+$locale['forum_0024'] = "See the full discussion posts";
+
+
 $locale['forum_0050'] = "Zobacz forum";
 $locale['forum_0051'] = "Temat";
 $locale['forum_0052'] = "Autor";
@@ -26,6 +41,8 @@ $locale['forum_0054'] = "Odpowiedzi";
 $locale['forum_0055'] = "Strona:";
 $locale['forum_0056'] = "Żadne wątki nie zostały rozpoczęte";
 $locale['forum_0057'] = "Rozpocznij nowy wątek";
+$locale['forum_0058'] = "Ask a Question";
+
 $locale['forum_0080'] = "Zaznacz wszystko";
 $locale['forum_0081'] = "Odznacz wszystko";
 $locale['forum_0082'] = "Usuń wątki";
@@ -106,7 +123,7 @@ $locale['forum_0260'] = "Nowe posty";
 $locale['forum_0261'] = "No New Posts";
 $locale['forum_0262'] = "Przypięty wątek";
 $locale['forum_0263'] = "Zamknięty wątek";
-$locale['forum_0264'] = "Rozpocznij nowy wątek";
+
 $locale['forum_0265'] = "Edytuj";
 $locale['forum_0266'] = "Cytuj";
 $locale['forum_0267'] = "napisał";
@@ -114,6 +131,13 @@ $locale['forum_0268'] = "Adres IP użytkownika";
 $locale['forum_0269'] = "No threads found.";
 $locale['forum_0270'] = "No post found.";
 $locale['forum_0271'] = "There are no post in this thread anymore. Please return to the &lt;a href=&#039;../../infusions/forum/index.php&#039;&gt;Forum Index&lt;/a&gt;";
+$locale['forum_0272'] = "Filter by Tags";
+$locale['forum_0273'] = "Popular Threads This Week";
+$locale['forum_0274'] = "There are no thread tags";
+$locale['forum_0275'] = "There are no threads found";
+$locale['forum_0276'] = "There are no tags defined";
+
+$locale['forum_0300'] = "Move to a new thread";
 $locale['forum_0301'] = "Select new forum";
 $locale['forum_0302'] = "Dalej";
 $locale['forum_0303'] = "Select new thread";
@@ -157,7 +181,9 @@ $locale['forum_0396'] = "Confirm Forum Selection";
 $locale['forum_0397'] = "There are no forum defined.";
 $locale['forum_0398'] = "Unable to download file";
 $locale['forum_0399'] = "Add Bounty";
+
 $locale['forum_0400'] = "Thread bounty has been updated. Please be sure to select the answer to be awarded with the bounty";
+
 $locale['forum_0500'] = "Preview Thread";
 $locale['forum_0501'] = "Post Thread";
 $locale['forum_0505'] = "Preview Changes";
@@ -224,6 +250,9 @@ $locale['forum_0591'] = "Flush Post";
 $locale['forum_0592'] = "Flush Threads";
 $locale['forum_0593'] = "Flush Attachments";
 $locale['forum_0595'] = "Flush Poll";
+$locale['forum_0596'] = "Question";
+$locale['forum_0597'] = "Question|Questions";
+
 $locale['forum_0601'] = "Message";
 $locale['forum_0602'] = "Opcje";
 $locale['forum_0603'] = "Edit Poll";
@@ -258,6 +287,12 @@ $locale['forum_0661'] = "Hello {USERNAME},A reply has been posted in the forum t
 If you no longer wish to watch this thread you can click the \"Stop tracking this thread\" link located at the top of the thread.
 Regards,
 {SITEUSERNAME}";
+
+$locale['forum_0662'] = "User Options";
+$locale['forum_0663'] = "Edit User";
+$locale['forum_0664'] = "Ban User";
+$locale['forum_0665'] = "Delete User";
+
 $locale['forum_0701'] = "The Thread has been deleted.";
 $locale['forum_0704'] = "Are you sure you want to delete this Thread?";
 $locale['forum_0705'] = "Unable to remove thread because thread does not exist";
@@ -310,6 +345,8 @@ $locale['forum_4108'] = "The bounty has been awarded as requested.";
 $locale['forum_4109'] = "Thread bounty not awarded";
 $locale['forum_4110'] = "Thread bounty cannot be given to yourself.";
 $locale['forum_4120'] = "There are no forum ID or thread id defined. Please define either one.";
+$locale['forum_4121'] = "There are no activity in this forum.";
+
 $locale['forum_p001'] = "1 dzień";
 $locale['forum_p002'] = "2 dni";
 $locale['forum_p007'] = "1 tydzień";
@@ -329,5 +366,6 @@ $locale['forum_perm_rate'] = "You %s up or downvote on the post in this discussi
 $locale['forum_perm_reply'] = "You %s reply in this discussion thread.";
 $locale['forum_perm_upload'] = "You %s upload attachments in this forum.";
 $locale['forum_perm_vote_poll'] = "You %s vote on the poll in this discussion thread.";
+
 $locale['success-DP001'] = "Post removed successfully";
 $locale['success-DP002'] = "All Post deleted. Forum threads have been removed because it no longer contains any post.";

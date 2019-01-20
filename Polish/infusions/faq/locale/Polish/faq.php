@@ -26,6 +26,7 @@ $locale['faq_0060'] = "Submission successfully published";
 $locale['faq_0061'] = "Submission successfully saved as Draft";
 $locale['faq_0062'] = "Submission successfully deleted";
 $locale['faq_0063'] = "There are no new Submissions.";
+$locale['faq_0064'] = "There are currently %s pending for your review.";
 $locale['faq_0100'] = "Question";
 $locale['faq_0102'] = "Szkic";
 $locale['faq_0105'] = "Autor";
@@ -80,3 +81,4 @@ should be applicable to the content of this site. Unsuitable submissions will be
 $locale['faq_0921'] = "You must login to submit a FAQ.";
 $locale['faq_0922'] = "We do not accept new FAQs Submissions at the Moment.";
 $locale['faq_0923'] = "You cannot submit a FAQ, because there are no FAQ category defined.";
+$locale['faq_submit'] = "%s FAQs";
