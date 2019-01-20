@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['MG_description'] = 'Oficiální téma pro PHP-Fusion Andromeda 9.0.3';
+$locale['MG_description'] = 'Oficiální téma pro PHP-Fusion Andromeda 9.03';
 $locale['created_by']  = 'Vytvořil';
 $locale['MG_001'] = 'Ahoj, ';
 // Templates
