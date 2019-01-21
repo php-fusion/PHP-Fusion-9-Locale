@@ -15,14 +15,14 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['MG_description'] = 'Officielt tema til PHP-Fusion Andromeda 9.0.3';
+$locale['MG_description'] = 'Officielt tema til PHP-Fusion Andromeda 9.03';
 $locale['created_by']  = 'Oprettet af';
 $locale['MG_001'] = 'Hej, ';
 // Templates
 $locale['MG_101'] = 'Læs mere';
 $locale['MG_102'] = 'Populære nyheder';
 // Widget
-$locale['MG_201'] = 'Tema inbdstillinger er blevet opdateret.';
+$locale['MG_201'] = 'Temaindstillinger er opdateret.';
 $locale['MG_202'] = 'GitHub URL';
 $locale['MG_203'] = 'Facebook URL';
 $locale['MG_204'] = 'Twitter URL';
