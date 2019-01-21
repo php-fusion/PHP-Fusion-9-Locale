@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['MG_description'] = "PHP-Fusion Andromeda 9.0.3 Hivatalos felülete";
+$locale['MG_description'] = "PHP-Fusion Andromeda 9.03 Hivatalos felülete";
 $locale['created_by']  = "Készítette";
 $locale['MG_001'] = "Helló, ";
 // Templates
