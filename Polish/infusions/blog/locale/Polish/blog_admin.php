@@ -130,3 +130,4 @@ $locale['956'] = "Przekształć do kwadratu";
 $locale['959'] = "Wgrane obrazy";
 $locale['960'] = "Obraz kategorii";
 $locale['961'] = "Allowed file types:";
+$locale['blog_submit'] = "%s Blog";

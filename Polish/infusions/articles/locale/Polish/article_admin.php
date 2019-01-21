@@ -54,6 +54,7 @@ $locale['article_0152'] = "Status";
 $locale['article_0161'] = "Delete this Category?";
 $locale['article_0162'] = "There are no Categories defined.";
 $locale['article_0200'] = "ID";
+$locale['article_0163'] = "Article Subject";
 $locale['article_0202'] = "Podesłał";
 $locale['article_0203'] = "Data";
 $locale['article_0204'] = "Opcje";
@@ -97,3 +98,4 @@ should be applicable to the content of this site. Unsuitable submissions will be
 $locale['article_0921'] = "You must login to submit a Article.";
 $locale['article_0922'] = "We do not accept new Article Submissions at the Moment.";
 $locale['article_0923'] = "You cannot submit a Article, because there are no Categories defined.";
+$locale['article_submit'] = "%s Articles";
