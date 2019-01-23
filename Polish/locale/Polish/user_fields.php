@@ -33,6 +33,7 @@ $locale['u070'] = "Zbanuj";
 $locale['u071'] = "Zawieś";
 $locale['u072'] = "Usuń";
 $locale['u073'] = "Usunąć tego użytkownika?";
+$locale['u074'] = "Odbanuj";
 // Profile and register
 $locale['u100'] = "W celu zmiany adresu e-mail lub hasła, należy wprowadzić aktualne hasło.";
 $locale['u101'] = "Zarejestruj się";
@@ -60,7 +61,9 @@ $locale['u113'] = "Nazwa użytkownika";
 $locale['u114'] = "Typ użytkownika";
 $locale['u115'] = "Język";
 $locale['u116'] = "Brak użytkowników w tej grupie.";
+$locale['u117'] = "Brak grup użytkowników.";
 // User name and email
+$locale['u119'] = "Nazwa użytkownika zawiera.";
 $locale['u120'] = "Nazwa użytkownika zawiera nieprawidłowe znaki.";
 $locale['u121'] = "Nazwę wybranego użytkownika jest już zajęta przez innego użytkownika.";
 $locale['u122'] = "Nazwa użytkownika nie może pozostać pusta.";
@@ -122,8 +125,8 @@ $locale['u161'] = "Teraz możesz się zalogować.";
 $locale['u162'] = "Administrator wkrótce aktywuje Twoje konto.";
 $locale['u163'] = "Profil został pomyślnie zaktualizowany.";
 $locale['u164'] = "Aktualizacja nie powiodła się";
+$locale['u165'] = "Email został ponownie wysłany.";
 
-//$locale['u165'] = "Rejestracja nie powiodła się";
 $locale['u167'] = "z następujących powodów:";
 $locale['u168'] = "Proszę spróbuj ponownie.";
 $locale['u169'] = "Profil zaktualizowany";

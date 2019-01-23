@@ -14,3 +14,5 @@ $locale['431'] = "Usuń";
 $locale['432'] = "Adres IP użytkownika:";
 $locale['433'] = "Czy usunąć ten komentarz?";
 $locale['434'] = "Nie ma żadnych komentarzy dla tego obiektu.";
+$locale['435'] = "Do you really want to add this user to a blacklist?";
+$locale['436'] = "Your comment are blacklisted.";

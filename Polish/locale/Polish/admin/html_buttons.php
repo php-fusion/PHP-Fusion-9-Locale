@@ -20,6 +20,7 @@ $locale['html_016'] = 'Podział strony';
 $locale['html_017'] = 'Kolor czcionki';
 $locale['html_018'] = 'Akapit';
 $locale['html_019'] = 'Nagłówki';
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Tekst";
 $locale['preview'] = "Zobacz";

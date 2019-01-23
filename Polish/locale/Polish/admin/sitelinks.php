@@ -48,9 +48,13 @@ $locale['SL_0050'] = "Link Name";
 $locale['SL_0051'] = "Widoczność";
 $locale['SL_0052'] = "Order";
 $locale['SL_0053'] = "Opcje";
+
 $locale['SL_0060'] = "Edytuj";
 $locale['SL_0061'] = "Usuń";
 $locale['SL_0062'] = "No Site Links have been defined.";
+$locale['SL_0063'] = "Use BBCode in Link Name?";
+
+
 $locale['SL_0070'] = "Ikona";
 $locale['SL_0071'] = "New Window?";
 $locale['SL_0072'] = "Menu";
