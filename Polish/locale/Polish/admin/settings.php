@@ -1,5 +1,8 @@
 <?php
 $locale['400'] = "Ustawienia";
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
+
 // Site Settings
 $locale['401'] = "Main";
 $locale['402'] = "Site name";
@@ -58,6 +61,10 @@ $locale['443a'] = "Exclude User 1 Panels";
 $locale['443b'] = "Exclude User 2 Panels";
 $locale['443c'] = "Exclude User 3 Panels";
 $locale['443d'] = "Exclude User 4 Panels";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/>Separate and enter one domain each row.";
+$locale['444b'] = "Registered Domain Names";
+$locale['445'] = "Invalid (test purposes)";
 
 // Time & Date Settings
 $locale['450'] = "Data i czas";
@@ -96,7 +103,9 @@ $locale['605'] = "Maximum file size (Bajty):";
 $locale['606'] = "Thumb compression method";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Development Mode";
 
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Miscellaneous";
 $locale['651'] = "Bad words list:";
 $locale['652'] = "Enter one word per line.";
@@ -173,7 +182,6 @@ $locale['913'] = "Base Comments per Page";
 $locale['955'] = "Original";
 $locale['956'] = "Square";
 
-// Removed Recaptcha
 $locale['698'] = "Uwierzytelnianie SMTP?";
 $locale['699'] = "Metoda logowania";
 $locale['699b'] = "Both";
@@ -191,6 +199,9 @@ $locale['708'] = "Wartości domyślne dla opcji użytkownika";
 $locale['709'] = "Powiadomienie e-mail?";
 $locale['710'] = "Zapisuj wysłane wiadomości?";
 $locale['711'] = "Note: Individual user options take precedence if they're set. If no user option is set, then the global options are applied.";
+$locale['712'] = "Messages has been deleted.";
+$locale['713'] = "Are you sure to delete all private messages?";
+$locale['714'] = "Delete Messages";
 
 // Zapisz ustawienia
 $locale['750'] = "Zapisz ustawienia";
@@ -233,6 +244,8 @@ $locale['1012'] = "Anonymize Users";
 $locale['1013'] = "Delete Users";
 $locale['1014'] = "Users can log in on different devices simultaneously?";
 $locale['1014a'] = "Disable for better security";
+$locale['1015'] = "Width";
+$locale['1016'] = "Height";
 
 $locale['1020'] = array(1 => 'Bajty (bajty)', 1000 => 'KB (Kilobajty)', 1000000 => 'MB (Megabajty)');
 
@@ -300,3 +313,15 @@ $locale['user_settings'] = "User Management Settings";
 $locale['theme_settings'] = "Theme Settings";
 
 $locale['securimage3'] = "Obrazek bezpieczeństwa v.3";
+
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
+$locale['security_010'] = "Fusion GateWay";

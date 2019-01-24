@@ -113,3 +113,8 @@ $locale['283'] = "Wtyczki";
 $locale['284'] = "Nie ma żadnych zainstalowanych wtyczek";
 $locale['285'] = "Zarządzaj wtyczkami";
 $locale['286'] = "Przejżyj zgłoszenie";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";

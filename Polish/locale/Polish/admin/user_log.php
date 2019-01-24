@@ -18,3 +18,4 @@ $locale['UL_016'] = "Delete entries older than:";
 $locale['UL_017'] = "Dni";
 $locale['UL_018'] = "Rosnąco";
 $locale['UL_019'] = "Malejąco";
+$locale['UL_020'] = "Select All";

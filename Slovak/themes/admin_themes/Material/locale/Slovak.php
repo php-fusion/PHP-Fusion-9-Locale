@@ -28,9 +28,3 @@ $locale['material_010'] = 'Prečítať';
 $locale['material_011'] = 'Nová správa';
 $locale['material_012'] = 'Nie sú k dispozícii žiadne správy';
 $locale['material_013'] = 'Vytvoril';
-// Result Messages
-$locale['material_100'] = 'Zlyhal systém validácie';
-$locale['material_101'] = 'Zlyhal bezpečnostný systém opatrení';
-$locale['material_102'] = 'Stránky sa nepodarilo načítať';
-$locale['material_103'] = 'Hľadaný výraz je príliš krátky';
-$locale['material_104'] = 'Neboli nájdené žiadne výsledky';
