@@ -134,3 +134,9 @@ $locale['290'] = "Existuje automatické ukladanie tohto príspevku, ktoré je ak
 $locale['291'] = "Zobraziť automaticky uložené";
 $locale['292'] = "Uložené revízie";
 $locale['293'] = "Vyplniť automaticky uložené";
+
+$locale['search_msg_100'] = 'Zlyhal systém validácie';
+$locale['search_msg_101'] = 'Zlyhal bezpečnostný systém opatrení';
+$locale['search_msg_102'] = 'Stránky sa nepodarilo načítať';
+$locale['search_msg_103'] = 'Hľadaný výraz je príliš krátky';
+$locale['search_msg_104'] = 'Neboli nájdené žiadne výsledky';

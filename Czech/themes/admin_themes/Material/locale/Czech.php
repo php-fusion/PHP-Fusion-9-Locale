@@ -28,9 +28,3 @@ $locale['material_010'] = 'Číst';
 $locale['material_011'] = 'Nová zpráva';
 $locale['material_012'] = 'Neexistují žádné zprávy';
 $locale['material_013'] = 'Vytvořil';
-// Result Messages
-$locale['material_100'] = 'Selhal systém validace';
-$locale['material_101'] = 'Selhal bezpečnostní systém opatření';
-$locale['material_102'] = 'Stránky se nepodařilo načíst';
-$locale['material_103'] = 'Hledaný výraz je příliš krátký';
-$locale['material_104'] = 'Nebyly nalezeny žádné výsledky';
