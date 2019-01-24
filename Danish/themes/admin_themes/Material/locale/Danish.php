@@ -27,9 +27,3 @@ $locale['material_009'] = "Beskeder";
 $locale['material_010'] = "Læs";
 $locale['material_011'] = "Ny besked";
 $locale['material_012'] = "Der er ingen beskeder";
-// Result Messages
-$locale['material_100'] = "Fejl i forbindelse med systemvurdering";
-$locale['material_101'] = "Sikkerhedsfejl";
-$locale['material_102'] = "Siderne kunne ikke indlæses";
-$locale['material_103'] = "Søgeudtryk er for kort";
-$locale['material_104'] = "Der er ikke fundet nogen resultater";
