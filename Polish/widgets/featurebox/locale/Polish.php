@@ -15,7 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-
 $locale['FBW_0100'] = "Feature Box";
 $locale['FBW_0101'] = "Feature Box Plugin";
 $locale['FBW_0200'] = "Box Title";
