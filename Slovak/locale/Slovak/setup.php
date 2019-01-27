@@ -79,7 +79,7 @@ $locale['setup_0144'] = "Diagnostika databázy bola dokončená";
 // Step 1
 $locale['setup_1000'] = "Vyberte svoj jazyk";
 $locale['setup_1001'] = "Stiahnuť viac lokalizácií z <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>Oficiálnej PHP-Fusion podpori</strong></a>";
-$locale['setup_1002'] = "Vitajte v režime obnovy PHP-Fusion 9.0.";
+$locale['setup_1002'] = "Vitajte v režime obnovy PHP-Fusion 9.";
 $locale['setup_1003'] = "Zistili sme, že existujúci systém je nainštalovaný. Ak chcete pokračovať, vyberte jednu z nasledujúcich možností.";
 $locale['setup_1004'] = "Čistá inštalácia";
 $locale['setup_1005'] = "Databázu môžete odinštalovať a vyčistiť a znova spustiť čistú inštaláciu.";
