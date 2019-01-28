@@ -79,7 +79,7 @@ $locale['setup_0144'] = "Diagnosen af databasen er gennemført";
 // Step 1
 $locale['setup_1000'] = "Du skal vælge sprogversion (sprog)";
 $locale['setup_1001'] = "Hent flere lokale sprogversioner fra <a target='_blank' href='https://www.php-fusion.co.uk/downloads.php#langpacks'><strong>PHP-Fusions officielle støtteside</strong></a>.";
-$locale['setup_1002'] = 'Velkommen til PHP-Fusion version 9.00 Genskabelse.';
+$locale['setup_1002'] = 'Velkommen til PHP-Fusion version 9 Genskabelse.';
 $locale['setup_1003'] = 'Vi kan se, at der allerede er en version af systemet installeret.<br/><br/>Vælg en blandt nedenstående alternativer for at fortsætte.';
 $locale['setup_1004'] = 'Geninstaller';
 $locale['setup_1005'] = 'Du kan afinstallere og rense databasen og så påbegynde en frisk installation.';
