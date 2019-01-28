@@ -12,9 +12,3 @@ $locale['material_010'] = "Olvasva";
 $locale['material_011'] = "Új Üzenet";
 $locale['material_012'] = "Nincs Üzenet";
 $locale['material_013'] = 'Készítette';
-// Result Messages
-$locale['material_100'] = "Sikertelen rendszerérvényesítés";
-$locale['material_101'] = "Sikertelen rendszer biztonsági intézkedések";
-$locale['material_102'] = "Oldalt nem sikerült betölteni";
-$locale['material_103'] = "Keresendő szöveg túl rövid";
-$locale['material_104'] = "Nincs találat";
