@@ -92,3 +92,4 @@ $locale['page_0412'] = "Hibás Oszlop";
 $locale['page_0413'] = "Biztosan törölni szeretnéd ezt az oldalt?";
 $locale['page_0440'] = "Nincs Egyedi Oldal Létrehozva.";
 $locale['page_0441'] = "Tartalom";
+$locale['page_0442'] = "Legalább egy oldalt kell választani";
