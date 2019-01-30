@@ -108,3 +108,4 @@ $locale['page_0412'] = "Ugyldig kolonne";
 $locale['page_0413'] = "Skal denne brugeroprettede side slettes?"; // 450
 $locale['page_0440'] = "Der er ikke oprettet brugeroprettede sider endnu.";
 $locale['page_0441'] = "Indhold";
+$locale['page_0442'] = "Du skal vælge mindst en brugeroprettet side";
