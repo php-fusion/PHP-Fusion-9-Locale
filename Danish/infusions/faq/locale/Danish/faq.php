@@ -49,6 +49,7 @@ $locale['faq_0106'] = "Synlighed";
 $locale['faq_0107'] = "Handlinger";
 $locale['faq_0111'] = "Skal denne FAQ slettes?";
 $locale['faq_0112'] = "Der er ikke oprettet FAQ'er.";
+$locale['faq_0112a'] = "Ingen FAQ kategorier oprettet.";
 $locale['faq_0113'] = "Der er ingen FAQ, som svarer til søgekriteriet.";
 $locale['faq_0114'] = "Før du opretter en FAQ, skal du oprette en FAQ-kategori.";
 $locale['faq_0115'] = "Kategoriens navn ";
