@@ -108,3 +108,4 @@ $locale['page_0412'] = "Neplatný sloupec";
 $locale['page_0413'] = "Odstranit tuto vlastní stránku?";
 $locale['page_0440'] = "Žádné vlastní stránky nebyli definovany";
 $locale['page_0441'] = "Obsah";
+$locale['page_0442'] = "Musíte vybrat alespoň jednu stránku";

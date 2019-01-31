@@ -50,6 +50,7 @@ $locale['faq_0106'] = "Viditeľnosť";
 $locale['faq_0107'] = "Akcie";
 $locale['faq_0111'] = "Odstrániť tento FAQ?";
 $locale['faq_0112'] = "Nie sú pridané žiadne FAQ.";
+$locale['faq_0112a'] = "Nie sú pridané žiadne FAQ kategórie.";
 $locale['faq_0113'] = "Neexistujú žiadne časté otázky, ktoré by zodpovedali možnosti vyhľadávania.";
 $locale['faq_0114'] = "Aby ste mohli vytvoriť FAQ, musíte vytvoriť kategóriu.";
 $locale['faq_0115'] = "Názov kategórie";
