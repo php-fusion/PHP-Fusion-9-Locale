@@ -23,6 +23,7 @@ $locale['403'] = "Software webového serveru";
 $locale['404'] = "PHP verze";
 $locale['405'] = "Rozhraní PHP";
 $locale['406'] = "MySQL verze serveru";
+$locale['406a'] = "Ovladač databáze";
 $locale['407'] = "PHP-Fusion verze";
 $locale['408'] = "Předpona databáze";
 $locale['409'] = "Předpona cookie";

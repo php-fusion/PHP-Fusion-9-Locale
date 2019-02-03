@@ -34,6 +34,7 @@ $locale['faq_0106'] = "Hozzáférés";
 $locale['faq_0107'] = "Művelet";
 $locale['faq_0111'] = "Biztosan törölni szeretnéd ezt a cikket?";
 $locale['faq_0112'] = "Nincs GyIK Létrehozva.";
+$locale['faq_0112a'] = "Nincs GyIK Kategória Létrehozva.";
 $locale['faq_0113'] = "Nincs Cikk, amely egyezik a keresési feltétellel.";
 $locale['faq_0114'] = "Cikk írása előtt legalább egy kategóriát létre kell hozni.";
 $locale['faq_0115'] = "Kategória Neve";

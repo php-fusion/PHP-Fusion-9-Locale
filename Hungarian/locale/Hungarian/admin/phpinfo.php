@@ -7,6 +7,7 @@ $locale['403'] = "Webszerver szoftver";
 $locale['404'] = "PHP verzió";
 $locale['405'] = "PHP interfész";
 $locale['406'] = "MySQL verzió";
+$locale['406a'] = "Adatbázis Meghajtó";
 $locale['407'] = "PHP-Fusion verzió";
 $locale['408'] = "Adatbázis előtag";
 $locale['409'] = "Cookie előtag";
