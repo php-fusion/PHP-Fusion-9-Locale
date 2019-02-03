@@ -23,6 +23,7 @@ $locale['403'] = "Webserver-software";
 $locale['404'] = "PHP-version";
 $locale['405'] = "PHP-interface";
 $locale['406'] = "MySQL Server-version";
+$locale['406a'] = "Database driver";
 $locale['407'] = "PHP-Fusion-version";
 $locale['408'] = "Databasefornavn";
 $locale['409'] = "Cookiefornavn";
